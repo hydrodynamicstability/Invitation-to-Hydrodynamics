@@ -70,7 +70,7 @@ Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, fluid
 - Hannes Alfven and Carl-Gunne Falthammar, 1963: *Cosmical Electrodynamics*, 2d edition. International Series of Monographs on Physics.  Oxford University Press.  (Original edition, 1950.)
     - Alfven is the founder of modern magnetohydrodynamics; this was his book on the topic.
 - Subrahmanyan Chandrasekhar, 1981:  *Hydrodynamic and Hydromagnetic Stability*.  Dover.  (Original edition published in the International Series of Monographs on Physics, by Oxford University Press, 1961.)
-    - A landmark contribution by a legendary astrophysicist.  Anyone interested in hydrodynamic instabilities must own this book.
+    - A landmark contribution by a legendary astrophysicist.  Anyone interested in hydrodynamic instabilities must own this book.  (In 2011 Edward A. Spiegel  edited and published Chandrasekhar's 1954 lectures on *The Theory of Turbulence*.)
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
