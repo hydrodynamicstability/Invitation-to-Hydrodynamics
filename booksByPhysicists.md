@@ -7,6 +7,8 @@ Some elements of elasticity theory typically appear in texts on solid state phys
 
 This list is surely not complete, but I would like to make it so.  If you believe you know of an omission, please contact me at (remove spaces) c t o n g "at" m a i l a p s . o r g.
 
+Commentary on these books is forthcoming.
+
 ### Books covering continuum mechanics
 
 - A. B. Bhatia and R. N. Singh, 1986:  *Mechanics of Deformable Media*.  Graduate Student Series in Physics.  Adam Hilger/IOP.
@@ -27,6 +29,8 @@ This list is surely not complete, but I would like to make it so.  If you believ
 - Lev D. Landau and Evgenii M. Lifshitz, 1997:  *Fluid Mechanics*, 2d edition, corrected reprint. Translated by J. B. Skyes and W. H. Reid.  Course of Theoretical Physics, vol. 6.  Butterworth-Heinemann.
 - P. D. McCormack and Lawrence Crane, 1973:  *Physical Fluid Dynamics*.  Academic Press.  \[Out of print\]
 - Geoffrey J. Pert, 2013:  *Introductory Fluid Mechanics for Physicists and Mathematicians*. Wiley.
+- Sarada G. Rajeev, 2018: *Fluid Mechanics: A Geometrical Point of View*. Oxford University Press.
+    - Unusual for its emphasis on dynamical systems, Lie algebra, Riemannian geometry, and the use of the Hamiltonian formulation; also covers numerical computation, chaotic advection, and even renormalization.  This is what happens when a particle theorist writes about hydrodynamics.
 - Oded Regev, Orkan M. Umurhan, and Philip A. Yecko, 2016:  *Modern Fluid Dynaics for Physics and Astrophysics*.  Graduate Texts in Physics.  Springer.
 - Michel Rieutord, 2015:  *Fluid Dynamics: An Introduction*. Graduate Texts in Physics.  Springer.
 - David J. Tritton, 1988: *Physical Fluid Dynamics*, 2d edition. Oxford University Press.
@@ -60,6 +64,13 @@ As a point of privilege, this section is more subjective.
     - Focuses on wave phenomena in various classical media:  strings, membranes, rods, plates, elastic media, incompressible fluids, sound in fluids, and applictions in acoustics and geophysics, oceanography, and meteorology.  The final chapter delves into a range of special topics such as statistical physics, electron "hydrodynamics" in superconductivity, and liquid helium.
 - Hans J. Lugt, 1983:  *Vortex Flow in Nature and Technology*.  Wiley-Interscience.  (Original German edition, 1979.  English edition reprinted by Krieger, 1995.) \[Out of print\]
     - A surprisingly nontechnical exposition of vortex flow, a central concept in hydrodynamics.  Packed with illustrations, it would make an excellent introduction to hydrodynamics for a student who hasn't yet mastered vector calculus, yet could also grip the attention of a seasoned physicist.  This book deserves to be better known in the fluid mechanics community.
+
+Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, fluid mechanics books by two more Nobel laureates in physics are worthy of note:
+
+- Hannes Alfven and Carl-Gunne Falthammar, 1963: *Cosmical Electrodynamics*, 2d edition. International Series of Monographs on Physics.  Oxford University Press.  (Original edition, 1950.)
+    - Alfven is the founder of modern magnetohydrodynamics; this was his book on the topic.
+- Subrahmanyan Chandrasekhar, 1981:  *Hydrodynamic and Hydromagnetic Stability*.  Dover.  (Original edition published in the International Series of Monographs on Physics, by Oxford University Press, 1961.)
+    - A landmark contribution by a legendary astrophysicist.  Anyone interested in hydrodynamic instabilities must own this book.
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
