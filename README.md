@@ -54,7 +54,7 @@ In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.c
 
 ### Convinced, and ready to take the plunge?
 
-Some of you will be ready to crack open Landau \& Lifshitz's *Fluid Mechanics*, part of which which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; some friendlier introductions might be in order.  I will discuss books on fluid and continuum mechanics written by physicists on a companion page (forthcoming).  Here I will enumerate some books by non-physicists that physicists often recommend.  A personal favorite is by the late oceanographer, Pijush K. Kundu (*Fluid Mechanics*, first edition, Academic Press, 1990).  I will divide the other books into two categories:  those by applied mathematicians and those by engineers.
+Some of you will be ready to crack open Landau \& Lifshitz's *Fluid Mechanics*, part of which which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; some friendlier introductions might be in order.  I will discuss books on fluid and continuum mechanics written by physicists on a companion page (forthcoming).  Here I will enumerate some books by non-physicists that physicists often recommend.  A personal favorite is by the late oceanographer, Pijush K. Kundu (*Fluid Mechanics*, first edition, Academic Press, 1990).  It was my primary text when I began learning the subject in the summer of 1996.  I will divide the other books into two categories:  those by applied mathematicians and those by engineers.
 
   - Books by applied mathematicians:
     - David J. Acheson, 1990:  *Elementary Fluid Dynamics* (Oxford University Press).
@@ -63,13 +63,12 @@ Some of you will be ready to crack open Landau \& Lifshitz's *Fluid Mechanics*, 
     - A. R. Paterson, 1983:  *A First Course in Fluid Dynamics* (Cambridge University Press).
   - Books by engineers:
     - Rutherford Aris, 1989:  *Vectors, Tensors, and the Basic Equations of Fluid Mechanics*, corrected reprint (Dover).
-    - Iain G. Currie, 2012: *Fundamental Mechanics of Fluids*, 4th edition (CRC Press).
     - Rolf H. Sabersky, Allan. J. Acosta, Edward G. Hauptmann, and E. M. Gates, 1999:  *Fluid Flow: A First Course in Fluid Mechanics*, 4th edition (Prentice Hall).
-    - Alexander J. Smits, 2022:  *A Physical Introduction to Fluid Mechanics*, 2d edition (available [online](http://www.efluids.com/efluids/books/efluids_books.htm)).
+    - Alexander J. Smits, 2022:  *A Physical Introduction to Fluid Mechanics*, 2d edition (available [online](http://www.efluids.com/efluids/books/efluids_books.htm)).  The first edition was published by Wiley in 1999.
 
 I will also mention a few more advanced books that any serious student of the subject should consider:
 
-  - George K. Batchelor, 1967:  *An Introduction to Fluid Dynamics* (Cambridge University Press).
+  - George K. Batchelor, 1967:  *An Introduction to Fluid Dynamics* (Cambridge University Press).  If hydrodynamics has a bible, this is it!
   - Ronald L. Panton, 2013:  *Incompressible Flow*, 4th edition (Wiley).
   - Constantine Pozrikidis, 2011:  *Introduction to Theoretical and Computational Fluid Dynamics*, 2d edition (Oxford University Press).
 
