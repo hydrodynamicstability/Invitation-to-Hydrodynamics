@@ -10,7 +10,7 @@
 
 &emsp; &emsp; &emsp; \*\* *The Feynman Lectures in Physics*, vol. 2, ch. 41.  (Addison-Wesley, 1964.)
 
-**Welcome.**  This page aims to outline why a physicist should learn a little bit of fluid mechanics, and how to get started doing so.   -- Christopher Tong, Ph.D. (physics).
+**Welcome.**  This page aims to outline why a physicist should learn a little bit of fluid mechanics, and how to get started doing so.   The page is currently under construction; thank you for your patience.  -- Christopher Tong, Ph.D. (physics).
 
 ### Why should a physicist learn some fluid mechanics?
 
@@ -40,7 +40,7 @@ Some additional reasons physics *students* should consider learning some fluid m
 
 ### Intrigued, but not yet ready to commit?
 
-Here's a few sampler dishes to see if you like it.  Effort increases as you work your way down the list.
+Here are a few sampler dishes to see if you like it.  Effort increases as you work your way down the list.
 
 - Watch this 46-minute video lecture, [Why Hydrodynamics?](https://podcasts.ox.ac.uk/why-hydrodynamics) by Prof. Steve Simon, a condensed matter theorist at Oxford University.  It's a nontechnical talk aimed at fellow physicists.  
  
@@ -49,6 +49,31 @@ Here's a few sampler dishes to see if you like it.  Effort increases as you work
 - Read the first chapter of T. E. Faber's *Fluid Dynamics for Physicists* (Cambridge University Press, 1995).  Several writers have praised the first chapter, "A bird's eye view", as an overview of hydrodynamic problem solving, using the example of ejecting liquid from a syringe.  This is 36 pages of material.
 
 - Read geophysicist Grae Worster's little book, *Understanding Fluid Flow* (AIMS Library Series, Cambridge University Press, 2009).  In 100 pages you will gain a quick overview of some of the prominent ideas of the subject.
+
+In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.com/) blog, which is a completely nontechnical, often whimsical take on fluid flow.
+
+### Convinced, and ready to take the plunge?
+
+Some of you will be ready to crack open Landau \& Lifshitz's *Fluid Mechanics*, part of which which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; some friendlier introductions might be in order.  I will discuss books on fluid and continuum mechanics written by physicists on a companion page (forthcoming).  Here I will enumerate some books by non-physicists that physicists often recommend.  A personal favorite is by the late oceanographer, Pijush K. Kundu (*Fluid Mechanics*, first edition, Academic Press, 1990).  I will divide the other books into two categories:  those by applied mathematicians and those by engineers.
+
+  - Books by applied mathematicians:
+    - David J. Acheson, 1990:  *Elementary Fluid Dynamics* (Oxford University Press).
+    - Alexandre J. Chorin and Jerrold E. Marsden, 2000:  *A Mathematical Introduction to Fluid Mechanics*, 3d edition (Springer).
+    - M. James Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics* (Oxford University Press).
+    - A. R. Paterson, 1983:  *A First Course in Fluid Dynamics* (Cambridge University Press).
+  - Books by engineers:
+    - Rutherford Aris, 1989:  *Vectors, Tensors, and the Basic Equations of Fluid Mechanics*, corrected reprint (Dover).
+    - Iain G. Currie, 2012: *Fundamental Mechanics of Fluids*, 4th edition (CRC Press).
+    - Rolf H. Sabersky, Allan. J. Acosta, Edward G. Hauptmann, and E. M. Gates, 1999:  *Fluid Flow: A First Course in Fluid Mechanics*, 4th edition (Prentice Hall).
+    - Alexander J. Smits, 2022:  *A Physical Introduction to Fluid Mechanics*, 2d edition (available [online](http://www.efluids.com/efluids/books/efluids_books.htm)).
+
+I will also mention a few more advanced books that any serious student of the subject should consider:
+
+  - George K. Batchelor, 1967:  *An Introduction to Fluid Dynamics* (Cambridge University Press).
+  - Ronald L. Panton, 2013:  *Incompressible Flow*, 4th edition (Wiley).
+  - Constantine Pozrikidis, 2011:  *Introduction to Theoretical and Computational Fluid Dynamics*, 2d edition (Oxford University Press).
+
+Some perceptive thoughts on books for physicists to use when teaching fluid mechanics are offered by Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) of the second edition of *Physical Hydrodynamics* by Guyon et al. in the *American Journal of Physics*, 83 (12):  1061-1062.  Shaw's short review should be required reading for everyone visiting this page :-).
 
 ### Some introductory thoughts
 
