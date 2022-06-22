@@ -54,7 +54,7 @@ Kinsler/Frey/Coppens/Sanders and the textbook by Berg and Stork.
 
 ### Other books by physicists that you should be aware of
 
-As a point of privilege, this section is more subjective.
+As a point of personal privilege, I want to include a few other titles on a more subjective basis.
 
 - Sybren R. DeGroot and Peter Mazur, 1984:  *Non-Equilibrium Thermodynamics*.  Dover.  (Original edition published by North-Holland, 1962.)
     - A foundational monograph on the linear thermodynamics of irreversible processes, a slightly misleading name since the theory is inherently nonlinear.  Hydrodynamics and closely related phemonena are at the heart of this theory.
