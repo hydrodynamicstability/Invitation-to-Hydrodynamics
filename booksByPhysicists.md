@@ -1,29 +1,37 @@
 ## Books on fluid and continuum mechanics written by physicists
 
-I have listed all the books on continuum, fluid, and solid mechanics and thermodynamics written by physicists (or astronomers) of an introductory or general nature that I know of.
+I have listed all the books on continuum, fluid, and solid mechanics written by physicists (or astronomers) of an introductory or general nature that I know of.
 I've confined the scope of this list to include works published after the Second World War and available in the English language.  I have not included
 more specialized works on continuum mechanics for geophysics, atmospheric dynamics, magnetohydrodynamics, plasma physics, astrophysical hydrodynamics, microhydrodynamics, and so on. 
-Some elements of elasticity theory typically appear in texts on solid state physics, while elements of hydrodynamics less commonly appear in condensed matter physics texts -- these too will be omitted here.
+Some elements of elasticity theory typically appear in texts on solid state physics, while elements of hydrodynamics less commonly appear in condensed matter physics texts -- these too will be omitted here.  Finally, hydrodynamics is often a canonical example of nonequilibrium thermodynamics and statistical mechanics, and I have not listed books in these fields that provide extensive coverage of this connection, with the exception of the classic by DeGroot & Mazur.
 
 This list is surely not complete, but I would like to make it so.  If you believe you know of an omission, please contact me at (remove spaces) c t o n g "at" m a i l a p s . o r g.
 
 Commentary on these books is forthcoming.
 
+&emsp; -- Christopher Tong, Ph.D. (physics).
+
 ### Books covering continuum mechanics
 
 - A. B. Bhatia and R. N. Singh, 1986:  *Mechanics of Deformable Media*.  Graduate Student Series in Physics.  Adam Hilger/IOP.
-- Leonid M. Brekhovskikh and Valery Goncharov, 1994:  *Mechanics of Continua and Wave Dynamics*, 2d edition.  Springer Series on Wave Phenomena, vol. 1.  Springer.
+- Leonid M. Brekhovskikh and Valery Goncharov, 1994:  *Mechanics of Continua and Wave Dynamics*, 2d edition.  Translated by V. Vaviolova.  Springer Series on Wave Phenomena, vol. 1.  Springer.
+    - The first author was a Soviet physicist and distinguished acoustician.  The book emphasizes wave phenomena, but not to the exclusion of other topics.  Solutions are provided for selected problems.
 - Peter Hertel, 2012:  *Continuum Physics*.  Graduate Texts in Physics.  Springer.
+    - This book includes continuum mechanics and thermodynamics, but ranges well beyond these to discuss other topics in continuum physics, including electromagnetic, thermoelecric and optical phenomena, including photonics.  Unfortunately the book lacks both problems and an index.
 - Benny Lautrup, 2011:  *Physics of Continuous Matter: Exotic and Everyday Phenomena in the Macroscopic World*, 2d edition. CRC Press.
+    - This massive text is the most comprehensive contemporary introductory book on continuum mechanics by a physicist.  It is aimed at third-year undergraduates or higher.  "Answers" to odd-numbered problems are found in the back, but some are actually just hints while others outline the solution.
 - Arnold Sommerfeld, 1950:  *Mechanics of Deformable Bodies*, 2d edition.  Translated by G. Kuerti.  Lectures on Theoretical Physics, vol. 2.  Academic Press.  \[Out of print\]
 - Kip S. Thorne & Roger D. Blandford, 2021:  *Elasticity & Fluid Dynamics*.  Modern Classical Physics, vol. 3.  Princeton University Press.
+    - The material is also available in the authors' massive parent text, *Modern Classical Physics* (2014).  Thorne, of course, is a 2017 Nobel Laureate in Physics; co-author of the famous general relativity text,  *Gravitation* by Misner, Thorne, and Wheeler; and an executive producer for the 2014 film *Interstellar*.
 - James S. Trefil, 1975:  *Introduction to the Physics of Fluids and Solids*.  Pergamon.  Reprinted with corrections by Dover, 2010.
-
+    - While this author is better known as a popular science writer, this book was motivated by his work as a consulting physicist, and realizing that physicists are at a disadvantage for such work if they lack much exposure to continuum mechanics.
+     
 ### Books covering fluid mechanics
 
 - Thomas E. Faber, 1995:  *Fluid Dynamics for Physicists*. Cambridge University Press.
 - Gregory Falkovich, 2018:  *Fluid Mechanics: A Short Course for Physicists*, second edition. Cambridge University Press.
 - Richard Fitzpatrick, 2017:  *Theoretical Fluid Mechanics*.  Institute of Physics.
+    - Lamenting the absence of fluid dynamics courses in the physics curriculum, the book was written for self-study, and consequently includes solutions to all its problems.  Emphasizes astrophysical and geophysical applications.  
 - Etienne Guyon, Jean-Pierre Hulin, Luc Petit, and Catalin D. Mitescu, 2015:  *Physical Hydrodynamics*, 2d edition.  Oxford University Press.
 - Tsutomu Kambe, 2007:  *Elementary Fluid Mechanics*. World Scientific.
 - Lev D. Landau and Evgenii M. Lifshitz, 1997:  *Fluid Mechanics*, 2d edition, corrected reprint. Translated by J. B. Skyes and W. H. Reid.  Course of Theoretical Physics, vol. 6.  Butterworth-Heinemann.
@@ -33,6 +41,7 @@ Commentary on these books is forthcoming.
     - Unusual for its emphasis on dynamical systems, Lie algebra, Riemannian geometry, and the use of the Hamiltonian formulation; also covers numerical computation, chaotic advection, and even renormalization.  This is what happens when a particle theorist writes about hydrodynamics.
 - Oded Regev, Orkan M. Umurhan, and Philip A. Yecko, 2016:  *Modern Fluid Dynaics for Physics and Astrophysics*.  Graduate Texts in Physics.  Springer.
 - Michel Rieutord, 2015:  *Fluid Dynamics: An Introduction*. Graduate Texts in Physics.  Springer.
+    - A French astrophysicist's presentation of fluid dynamics; includes chapters on magnetohydrodynamics and kinetic theory.  Provides solutions to exercises.
 - David J. Tritton, 1988: *Physical Fluid Dynamics*, 2d edition. Oxford University Press.
 
 ### Books covering solid mechanics
