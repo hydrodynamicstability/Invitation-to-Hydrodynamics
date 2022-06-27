@@ -55,7 +55,7 @@ In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.c
 
 ### Convinced, and ready to take the plunge?
 
-Some of you will be ready to crack open Landau & Lifshitz's *Fluid Mechanics*, part of which which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; a friendlier introduction might be in order.  I discuss books on fluid and continuum mechanics written by physicists on a [companion page](booksByPhysicists.md).  Below I will enumerate some books by non-physicists that physicists often recommend.  (In today's world, hydrodynamics research is dominated by applied mathematicians and engineers, rather than physicists, and much of its literature reflects this.)  A personal favorite is by the late oceanographer, Pijush K. Kundu (*Fluid Mechanics*, first edition, Academic Press, 1990).  It was my primary text when I began learning the subject in the summer of 1996.  I will divide the other books into two categories:  those by applied mathematicians and those by engineers.
+Some of you will be ready to crack open Landau & Lifshitz's *Fluid Mechanics*, part of which which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; a friendlier introduction might be in order.  I discuss books on fluid and continuum mechanics written by physicists on a [companion page](booksByPhysicists.md).  Please consult that list, as it is of great value to read how fellow physicists view the subject.  Having said that, hydrodynamics is an interdisciplinary field, and some of the finest literature in it has been written by others, deserving of your attention.  Below I will enumerate some books by non-physicists that physicists often recommend.  (In today's world, hydrodynamics research is dominated by applied mathematicians and engineers, rather than physicists, and much of its literature reflects this.)  A personal favorite is by the late oceanographer, Pijush K. Kundu (*Fluid Mechanics*, first edition, Academic Press, 1990).  It was my primary text when I began learning the subject in the summer of 1996.  I will divide the other books into two categories:  those by applied mathematicians and those by engineers.
 
   - Books by applied mathematicians:
     - David J. Acheson, 1990:  *Elementary Fluid Dynamics* (Oxford University Press).
@@ -89,7 +89,7 @@ Fluid dynamics is of increasing interest in condensed and soft matter physics, b
 ### Forthcoming essays
 
 - Fluid mechanics in the physics curriculum.
-- Continnum mechanics in the great physics courses.
+- Continuum mechanics in the great physics courses.
 - Fluid mechanics and the history of physics.
 - Additional resources
 
