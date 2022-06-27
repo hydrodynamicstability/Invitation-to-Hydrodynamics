@@ -3,7 +3,7 @@
 I have listed all the books on continuum, fluid, and solid mechanics written by physicists (or astronomers) of an introductory or general nature that I know of.
 I've confined the scope of this list to include works published after the Second World War and available in the English language.  I have not included
 more specialized works on continuum mechanics for geophysics, atmospheric dynamics, magnetohydrodynamics, plasma physics, astrophysical hydrodynamics, microhydrodynamics, and so on. 
-Some elements of elasticity theory typically appear in texts on solid state physics, while elements of hydrodynamics less commonly appear in condensed matter physics texts -- these too will be omitted here.  Finally, hydrodynamics is often a canonical example of nonequilibrium thermodynamics and statistical mechanics, and I have not listed books in these fields that provide extensive coverage of this connection, with the exception of the classic by DeGroot & Mazur.
+Some elements of elasticity theory typically appear in texts on solid state physics, while elements of hydrodynamics less commonly appear in condensed matter physics texts -- these too will be omitted here.  Finally, hydrodynamics is often a canonical example of nonequilibrium thermodynamics and statistical mechanics, and I have not listed books in these fields that provide extensive coverage of this connection, with the exception of the classic by DeGroot & Mazur. The reason for these omissions is that such works often fail to provide a general view of hydrodynamics, to include for instance the topic of aerodynamic lift.  (Any physicist who finds Bernoulli's equation for cambered airfoils to be a satisfactory explanation of aerodynamic lift is a fool who needs to explain how aerobatic aircraft can fly upside down.)
 
 This list is surely not complete, but I would like to make it so.  If you believe you know of an omission, please contact me at (remove spaces) c t o n g "at" m a i l a p s . o r g.
 
@@ -17,16 +17,19 @@ Commentary on these books is forthcoming.
 - Leonid M. Brekhovskikh and Valery Goncharov, 1994:  *Mechanics of Continua and Wave Dynamics*, 2d edition.  Translated by V. Vaviolova.  Springer Series on Wave Phenomena, vol. 1.  Springer.
     - The first author was a Soviet physicist and distinguished acoustician.  The book emphasizes wave phenomena, but not to the exclusion of other topics.  Solutions are provided for selected problems.
 - Peter Hertel, 2012:  *Continuum Physics*.  Graduate Texts in Physics.  Springer.
-    - This book includes continuum mechanics and thermodynamics, but ranges well beyond these to discuss other topics in continuum physics, including electromagnetic, thermoelecric and optical phenomena, including photonics.  Unfortunately the book lacks both problems and an index.
+    - This compact book includes continuum mechanics and thermodynamics, but ranges well beyond these to discuss other topics in continuum physics, including electromagnetic, thermoelecric and optical phenomena, including photonics.  Unfortunately the book lacks both problems and an index.
 - Benny Lautrup, 2011:  *Physics of Continuous Matter: Exotic and Everyday Phenomena in the Macroscopic World*, 2d edition. CRC Press.
     - This massive text is the most comprehensive contemporary introductory book on continuum mechanics by a physicist.  It is aimed at third-year undergraduates or higher.  "Answers" to odd-numbered problems are found in the back, but some are actually just hints while others outline the solution.
 - Arnold Sommerfeld, 1950:  *Mechanics of Deformable Bodies*, 2d edition.  Translated by G. Kuerti.  Lectures on Theoretical Physics, vol. 2.  Academic Press.  \[Out of print\]
+    - The author was a distinguished physicist who made pivotal contributions to both classical and modern physics; four of his doctoral students and three of his post-docs later won Nobel Prizes.
 - Kip S. Thorne & Roger D. Blandford, 2021:  *Elasticity & Fluid Dynamics*.  Modern Classical Physics, vol. 3.  Princeton University Press.
     - The material is also available in the authors' massive parent text, *Modern Classical Physics* (2014).  Thorne, of course, is a 2017 Nobel Laureate in Physics; co-author of the famous general relativity text,  *Gravitation* by Misner, Thorne, and Wheeler; and an executive producer for the 2014 film *Interstellar*.
 - James S. Trefil, 1975:  *Introduction to the Physics of Fluids and Solids*.  Pergamon.  Reprinted with corrections by Dover, 2010.
     - While this author is better known as a popular science writer, this book was motivated by his work as a consulting physicist, and realizing that physicists are at a disadvantage for such work if they lack much exposure to continuum mechanics.
      
 ### Books covering fluid mechanics
+
+The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), both classics but with different personalities.  Landau/Lifshitz is very theoretical, while Tritton is packed with photographs and plots of experimental data.  Neither is likely suitable for a first undergraduate course in the field, but serious students of hydrodynamics will inevitably consult both.
 
 - Thomas E. Faber, 1995:  *Fluid Dynamics for Physicists*. Cambridge University Press.
 - Gregory Falkovich, 2018:  *Fluid Mechanics: A Short Course for Physicists*, second edition. Cambridge University Press.
@@ -66,13 +69,13 @@ Kinsler/Frey/Coppens/Sanders and the textbook by Berg and Stork.
 As a point of personal privilege, I want to include a few other titles on a more subjective basis.
 
 - Sybren R. DeGroot and Peter Mazur, 1984:  *Non-Equilibrium Thermodynamics*.  Dover.  (Original edition published by North-Holland, 1962.)
-    - A foundational monograph on the linear thermodynamics of irreversible processes, a slightly misleading name since the theory is inherently nonlinear.  Hydrodynamics and closely related phemonena are at the heart of this theory.
+    - A foundational monograph on the thermodynamics of irreversible processes.  Many books in the nonequilbrium statistical physics literature cite DeGroot & Mazur as a source for hydrodynamics.
 - Roman Jackiw, 2002:  *Lectures on Fluid Dynamics: A Particle Theorist's View of Supersymmetric, Non-Abelian, Noncommutative Fluid Mechanics and d-Branes*. Springer.
     - Presents a new formulation of hydrodynamics, "an ancient field theory, but which can be enhanced by the ideas that we gleaned from particle physics."  
 - Robert Bruce Lindsay, 1960:  *Mechanical Radiation*.  The International Series in Pure and Applied Physics.  McGraw-Hill.  \[Out of print\]
     - Focuses on wave phenomena in various classical media:  strings, membranes, rods, plates, elastic media, incompressible fluids, sound in fluids, and applictions in acoustics and geophysics, oceanography, and meteorology.  The final chapter delves into a range of special topics such as statistical physics, electron "hydrodynamics" in superconductivity, and liquid helium.
 - Hans J. Lugt, 1983:  *Vortex Flow in Nature and Technology*.  Wiley-Interscience.  (Original German edition, 1979.  English edition reprinted by Krieger, 1995.) \[Out of print\]
-    - A surprisingly nontechnical exposition of vortex flow, a central concept in hydrodynamics.  Packed with illustrations, it would make an excellent introduction to hydrodynamics for a student who hasn't yet mastered vector calculus, yet could also grip the attention of a seasoned physicist.  This book deserves to be better known in the fluid mechanics community.
+    - A surprisingly nontechnical exposition of vortex flow, a central concept in hydrodynamics.  Packed with illustrations, it would make an excellent introduction to hydrodynamics for a student who hasn't yet mastered vector calculus, yet the book can also grip the attention of a seasoned physicist.  This book deserves to be better known in the fluid mechanics community.
 
 Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, fluid mechanics books by two more Nobel laureates in physics are worthy of note:
 
