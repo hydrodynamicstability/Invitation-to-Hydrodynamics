@@ -51,7 +51,7 @@ Here are a few sampler dishes to see if you like it.  Effort increases as you wo
 
 - Read geophysicist Grae Worster's little book, *Understanding Fluid Flow* (AIMS Library Series, Cambridge University Press, 2009).  In 100 pages you will gain a quick tour of some of the prominent ideas of the subject, and a flavor of what it's like to study it.
 
-In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.com/) blog, which is a completely nontechnical, often whimsical take on fluid flow.
+In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.com/) blog, which is a completely nontechnical, often whimsical take on fluid flow, run by aerospace engineer Dr. Nicole Sharp.
 
 ### Convinced, and ready to take the plunge?
 
@@ -74,6 +74,13 @@ I will also mention a few more advanced books that any serious student of the su
   - Constantine Pozrikidis, 2011:  *Introduction to Theoretical and Computational Fluid Dynamics*, 2d edition (Oxford University Press).
 
 Some perceptive thoughts on books for physicists to use when teaching fluid mechanics are offered by Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) of the second edition of *Physical Hydrodynamics* by Guyon et al. in the *American Journal of Physics*, 83 (12):  1061-1062 (2015).  Shaw's short review should be required reading for everyone visiting this page :-).
+
+Fluid mechanics is an inherently visual discipline.  Some multimedia resources include:
+- The American Physical Society's Division of Fluid Dynamics (DFD) hosts an annual event called the *Gallery of Fluid Motion*, which can now be accessed [online](https://gfm.aps.org/).
+- Cambridge University Press offers *Multimedia Fluid Mechanics*, also [online](https://www.cambridge.org/core/homsy/) but behind a paywall.  This is a didactic resource and popular in fluid mechanics teaching.
+- Prof. Jean Hertzberg (U. Colorado-Boulder)'s course on [Flow Visualization](https://www.flowvis.org/).
+- Two classic series of fluid mechanics instructional films are those of Prof. Ascher Shapiro (MIT), the [National Committee for Fluid Mechanics Films](https://web.mit.edu/hml/ncfmf.html); and those of Prof. Hunter Rouse (U. Iowa), at the [Iowa Institute for Hydraulic Research](https://www.iihr.uiowa.edu/rouse-educational-films/).
+- An online portal for all things fluid mechanical is [eFluids](http://www.efluids.com/).  While it probably falls short in its goal to be a "one stop source for fluid dynamics and flow engineering", it is still a useful resource, and I know of nothing else even close to it on the web.
 
 ### Some introductory thoughts
 
