@@ -80,7 +80,7 @@ As a point of personal privilege, I want to include a few other titles on a more
 Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, fluid mechanics books by two more Nobel laureates in physics are worthy of note:
 
 - Hannes Alfven and Carl-Gunne Falthammar, 1963: *Cosmical Electrodynamics*, 2d edition. International Series of Monographs on Physics.  Oxford University Press.  (Original edition, 1950.)
-    - Alfven is the founder of modern magnetohydrodynamics; this was his book on the topic.
+    - Alfven is the founder of modern magnetohydrodynamics, a topic he covers in this book.
 - Subrahmanyan Chandrasekhar, 1981:  *Hydrodynamic and Hydromagnetic Stability*.  Dover.  (Original edition published in the International Series of Monographs on Physics, by Oxford University Press, 1961.)
     - A landmark contribution by a legendary astrophysicist.  Anyone interested in hydrodynamic instabilities must own this book.  (In 2011 Edward A. Spiegel  edited and published Chandrasekhar's 1954 lectures on *The Theory of Turbulence*.)
 
