@@ -70,6 +70,8 @@ As a point of personal privilege, I want to include a few other titles on a more
 
 - Sybren R. DeGroot and Peter Mazur, 1984:  *Non-Equilibrium Thermodynamics*.  Dover.  (Original edition published by North-Holland, 1962.)
     - A foundational monograph on the thermodynamics of irreversible processes.  Many books in the nonequilbrium statistical physics literature cite DeGroot & Mazur as a source for hydrodynamics.
+- Uriel Frisch, 1995:  *Turbulence:  The Legacy of A. N. Kolmogorov*. Cambridge University Press.
+    - Several physicists have written books on turbulence, and if your interests turn in this direction, you will get to know them.  However if not, you should still consider acquiring some literacy in the field by reading this exposition, which gives particular attention to Kolmogorov's 1941 scaling theory, "one of the very few exact and nontrivial results in the field".  
 - Roman Jackiw, 2002:  *Lectures on Fluid Dynamics: A Particle Theorist's View of Supersymmetric, Non-Abelian, Noncommutative Fluid Mechanics and d-Branes*. Springer.
     - Presents a new formulation of hydrodynamics, "an ancient field theory, but which can be enhanced by the ideas that we gleaned from particle physics."  
 - Robert Bruce Lindsay, 1960:  *Mechanical Radiation*.  The International Series in Pure and Applied Physics.  McGraw-Hill.  \[Out of print\]
