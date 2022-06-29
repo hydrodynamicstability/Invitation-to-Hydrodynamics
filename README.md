@@ -55,12 +55,11 @@ In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.c
 
 ### Convinced, and ready to take the plunge?
 
-Some of you will be ready to crack open Landau & Lifshitz's *Fluid Mechanics*, part of which which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; a friendlier introduction might be in order.  I discuss books on fluid and continuum mechanics written by physicists on a [companion page](booksByPhysicists.md).  Please consult that list, as it is of great value to read how fellow physicists view the subject.  Having said that, hydrodynamics is an interdisciplinary field, and some of the finest literature in it has been written by others, deserving of your attention.  Below I will enumerate some books by non-physicists that physicists often recommend.  (In today's world, hydrodynamics research is dominated by applied mathematicians and engineers, rather than physicists, and much of its literature reflects this.)  A personal favorite is by the late oceanographer, Pijush K. Kundu (*Fluid Mechanics*, first edition, Academic Press, 1990).  It was my primary text when I began learning the subject in the summer of 1996.  I will divide the other books into two categories:  those by applied mathematicians and those by engineers.
+Some of you will be ready to crack open Landau & Lifshitz's *Fluid Mechanics*, part of which which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; a friendlier introduction might be in order.  I discuss books on fluid and continuum mechanics written by physicists on a [companion page](booksByPhysicists.md).  Please consult that list, as it is of great value to read how fellow physicists view the subject.  Having said that, hydrodynamics is an interdisciplinary field, and some of the finest literature in it has been written by others, deserving of your attention.  Below I will enumerate some books by non-physicists that physicists often recommend.  A personal favorite is by the late oceanographer, Pijush K. Kundu (*Fluid Mechanics*, first edition, Academic Press, 1990).  It was my primary text when I began learning the subject in the summer of 1996.  I will divide the other books into two categories:  those by applied mathematicians and those by engineers.
 
   - Books by applied mathematicians:
     - David J. Acheson, 1990:  *Elementary Fluid Dynamics* (Oxford University Press).
     - Alexandre J. Chorin and Jerrold E. Marsden, 2000:  *A Mathematical Introduction to Fluid Mechanics*, 3d edition (Springer).
-    - M. James Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics* (Oxford University Press).  This author once held Sir Isaac Newton's post at Cambridge University (the Lucasian Professorship of Mathematics).
     - A. R. Paterson, 1983:  *A First Course in Fluid Dynamics* (Cambridge University Press).
   - Books by engineers:
     - Rutherford Aris, 1989:  *Vectors, Tensors, and the Basic Equations of Fluid Mechanics*, corrected reprint (Dover).
@@ -70,8 +69,8 @@ Some of you will be ready to crack open Landau & Lifshitz's *Fluid Mechanics*, p
 I will also mention a few more advanced books that any serious student of the subject should consider:
 
   - George K. Batchelor, 1967:  *An Introduction to Fluid Dynamics* (Cambridge University Press).  If hydrodynamics has a bible, this is it!
+  - M. James Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics* (Oxford University Press).  This author once held Sir Isaac Newton's post at Cambridge University (the Lucasian Professorship of Mathematics).
   - Ronald L. Panton, 2013:  *Incompressible Flow*, 4th edition (Wiley).
-  - Constantine Pozrikidis, 2011:  *Introduction to Theoretical and Computational Fluid Dynamics*, 2d edition (Oxford University Press).
 
 Some perceptive thoughts on books for physicists to use when teaching fluid mechanics are offered by Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) of the second edition of *Physical Hydrodynamics* by Guyon et al. in the *American Journal of Physics*, 83 (12):  1061-1062 (2015).  Shaw's short review should be required reading for everyone visiting this page :-).
 
@@ -82,7 +81,7 @@ Fluid mechanics is an inherently visual discipline.  Some multimedia resources i
 - Two classic series of fluid mechanics instructional films are those of Prof. Ascher Shapiro (MIT), the [National Committee for Fluid Mechanics Films](https://web.mit.edu/hml/ncfmf.html); and those of Prof. Hunter Rouse (U. Iowa), at the [Iowa Institute for Hydraulic Research](https://www.iihr.uiowa.edu/rouse-educational-films/).
 - An online portal for all things fluid mechanical is [eFluids](http://www.efluids.com/).  While it probably falls short in its goal to be a "one stop source for fluid dynamics and flow engineering", it is still a useful resource, and I know of nothing else even close to it on the web.
 
-### Some introductory thoughts
+### Some background thoughts
 
 Fluid mechanics consists of the statics and dynamics of fluids (hydrostatics and hydrodynamics, respectively), classically including liquids, gases, and plasmas, under conditions when these materials deform continuously in response to tangential force.  The same macroscopic laws of fluid mechanics are operative despite fundamentally different microscopic physics governing these states of matter, perhaps a clue that fluid mechanics is an emergent phenomenon.  These macroscopic laws were developed primarily in the 18th and 19th centuries, well before the general acceptance of the atomic hypothesis was achieved, and have scarcely needed revision since then.  Nonetheless, a number of *fundamental* problems involving fluid dynamics remains unsolved, and there is a wide range of applications throughout science, engineering, and medicine.
 
@@ -93,12 +92,13 @@ Fluid dynamics is often divided into incompressible and compressible flows (the 
 Fluid dynamics is of increasing interest in condensed and soft matter physics, biological and medical physics, and environmental physics.  The subject has historically even deeper connections to applied mathematics, physical chemistry, all the geophysical, atmospheric, oceanic, and planetary sciences, and to civil, mechanical, aerospace, chemical, and biomedical engineering, among others.  In fact it could be argued that civil engineers were the first hydrodynamicists, since all ancient civilizations were founded on river banks, and they collectively needed to solve the problems of irrigation, drainage, and flood control.  By that argument, the study of fluid flow is as old as human civilization itself.
 
 
-### Forthcoming essays
+### Companion pages
 
-- Fluid mechanics in the physics curriculum.
-- Continuum mechanics in the great physics courses.
-- Fluid mechanics and the history of physics.
-- Additional resources
+- [Books on fluid and continuum mechanics written by physicists](booksByPhysicists.md).
+- Fluid mechanics in the physics curriculum.  (Forthcoming)
+- Continuum mechanics in the great physics courses.  (Forthcoming)
+- Fluid mechanics and the history of physics.  (Forthcoming)
+- Thoughts on journals and conferences.  (Forthcoming)
 
 
 #### Disclaimers
