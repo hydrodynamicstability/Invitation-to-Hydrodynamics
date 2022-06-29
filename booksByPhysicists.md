@@ -60,7 +60,7 @@ I am admittedly very unfamiliar with the literature in this field, so this secti
 Despite the relatively few physicists who work in acoustics in recent decades, a surprisingly large number of the key books in the field have been written
 by physicists.  Lord Rayleigh's classic *Theory of Sound* ranks first among these.  As this topic deserves a separate page of its own, which is beyond the scope
 of my present efforts, I will not attempt to list such books here.  Let it suffice to mention the names of illustrious authors such as Leo Beranek, Eugene Skudrzyk, 
-Philip M. Morse and K. Uno Ingard, Allen D. Pierce, David T. Blackstock, and Thomas D. Rossing.  Also worthy of mention is the workhorse text by 
+Philip M. Morse and K. Uno Ingard, Allan D. Pierce, David T. Blackstock, and Thomas D. Rossing.  Also worthy of mention is the workhorse text by 
 Kinsler/Frey/Coppens/Sanders and the textbook by Berg and Stork.
 
 
@@ -71,7 +71,7 @@ As a point of personal privilege, I want to include a few other titles on a more
 - Sybren R. DeGroot and Peter Mazur, 1984:  *Non-Equilibrium Thermodynamics*.  Dover.  (Original edition published by North-Holland, 1962.)
     - A foundational monograph on the thermodynamics of irreversible processes.  Many books in the nonequilbrium statistical physics literature cite DeGroot & Mazur as a source for hydrodynamics.
 - Uriel Frisch, 1995:  *Turbulence:  The Legacy of A. N. Kolmogorov*. Cambridge University Press.
-    - Several physicists have written books on turbulence, and if your interests turn in this direction, you will get to know them.  However if not, you should still consider acquiring some literacy in the field by reading this exposition, which gives particular attention to Kolmogorov's 1941 scaling theory, "one of the very few exact and nontrivial results in the field".  
+    - Several physicists have written books on turbulence, and if your interests turn in this direction, you will get to know them.  However if not, you should still consider acquiring some literacy in the field by reading this exposition, which gives particular attention to Kolmogorov's 1941 scaling theory, "one of the very few exact and nontrivial results in the field".  Indeed I would argue that Kolmogorov's reasoning in his work on turbulence is that of a physicist, rather than of a mathematician.
 - Roman Jackiw, 2002:  *Lectures on Fluid Dynamics: A Particle Theorist's View of Supersymmetric, Non-Abelian, Noncommutative Fluid Mechanics and d-Branes*. Springer.
     - Presents a new formulation of hydrodynamics, "an ancient field theory, but which can be enhanced by the ideas that we gleaned from particle physics."  
 - Robert Bruce Lindsay, 1960:  *Mechanical Radiation*.  The International Series in Pure and Applied Physics.  McGraw-Hill.  \[Out of print\]
@@ -79,7 +79,7 @@ As a point of personal privilege, I want to include a few other titles on a more
 - Hans J. Lugt, 1983:  *Vortex Flow in Nature and Technology*.  Wiley-Interscience.  (Original German edition, 1979.  English edition reprinted by Krieger, 1995.) \[Out of print\]
     - A surprisingly nontechnical exposition of vortex flow, a central concept in hydrodynamics.  Packed with illustrations, it would make an excellent introduction to hydrodynamics for a student who hasn't yet mastered vector calculus, yet the book can also grip the attention of a seasoned physicist.  This book deserves to be better known in the fluid mechanics community.
 
-Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, fluid mechanics books by two more Nobel laureates in physics are worthy of note:
+Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can't fail to mention two other Nobel laureates in physics:
 
 - Hannes Alfven and Carl-Gunne Falthammar, 1963: *Cosmical Electrodynamics*, 2d edition. International Series of Monographs on Physics.  Oxford University Press.  (Original edition, 1950.)
     - Alfven is the founder of modern magnetohydrodynamics, a topic he covers in this book.
