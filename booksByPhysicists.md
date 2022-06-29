@@ -3,7 +3,7 @@
 I have listed all the books on continuum, fluid, and solid mechanics written by physicists (or astronomers) of an introductory or general nature that I know of.
 I've confined the scope of this list to include works published after the Second World War and available in the English language.  I have not included
 more specialized works on continuum mechanics for geophysics, atmospheric dynamics, magnetohydrodynamics, plasma physics, astrophysical hydrodynamics, microhydrodynamics, and so on. 
-Some elements of elasticity theory typically appear in texts on solid state physics, while elements of hydrodynamics less commonly appear in condensed matter physics texts -- these too will be omitted here.  Finally, hydrodynamics is often a canonical example of nonequilibrium thermodynamics and statistical mechanics, and I have not listed books in these fields that provide extensive coverage of this connection, with the exception of the classic by DeGroot & Mazur. The reason for these omissions is that such works often fail to provide a general view of hydrodynamics, to include for instance the topic of aerodynamic lift.  (Any physicist who finds Bernoulli's equation for cambered airfoils to be a satisfactory explanation of aerodynamic lift is a fool who needs to explain how aerobatic aircraft can fly upside down.)
+Some elements of elasticity theory typically appear in texts on solid state physics, while elements of hydrodynamics less commonly appear in condensed matter physics texts -- these too will be omitted here.  Finally, hydrodynamics is often a canonical example of nonequilibrium thermodynamics and statistical mechanics, and I have not listed books in these fields that provide extensive coverage of this connection, with the exception of the classic by DeGroot & Mazur. The reason for these omissions is that such works often fail to provide a general view of hydrodynamics, to include for instance the topic of aerodynamic lift.  (Any physicist who finds Bernoulli's equation applied to cambered airfoils a satisfactory explanation of aerodynamic lift needs to explain how aerobatic aircraft can fly upside down!)
 
 This list is surely not complete, but I would like to make it so.  If you believe you know of an omission, please contact me at (remove spaces) c t o n g "at" m a i l a p s . o r g.
 
@@ -14,7 +14,7 @@ Commentary on these books is forthcoming.
 ### Books covering continuum mechanics
 
 - A. B. Bhatia and R. N. Singh, 1986:  *Mechanics of Deformable Media*.  Graduate Student Series in Physics.  Adam Hilger/IOP.
-- Leonid M. Brekhovskikh and Valery Goncharov, 1994:  *Mechanics of Continua and Wave Dynamics*, 2d edition.  Translated by V. Vaviolova.  Springer Series on Wave Phenomena, vol. 1.  Springer.
+- Leonid M. Brekhovskikh and Valery Goncharov, 1994:  *Mechanics of Continua and Wave Dynamics*, 2d edition.  Translated by V. Vavilova.  Springer Series on Wave Phenomena, vol. 1.  Springer.
     - The first author was a Soviet physicist and distinguished acoustician.  The book emphasizes wave phenomena, but not to the exclusion of other topics.  Solutions are provided for selected problems.
 - Peter Hertel, 2012:  *Continuum Physics*.  Graduate Texts in Physics.  Springer.
     - This compact book includes continuum mechanics and thermodynamics, but ranges well beyond these to discuss other topics in continuum physics, including electromagnetic, thermoelecric and optical phenomena, including photonics.  Unfortunately the book lacks both problems and an index.
