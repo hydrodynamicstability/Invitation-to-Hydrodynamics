@@ -36,6 +36,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
 - Richard Fitzpatrick, 2017:  *Theoretical Fluid Mechanics*.  Institute of Physics.
     - Lamenting the absence of fluid dynamics courses in the physics curriculum, the book was written for self-study, and consequently includes solutions to all its problems.  Emphasizes astrophysical and geophysical applications.  
 - Etienne Guyon, Jean-Pierre Hulin, Luc Petit, and Catalin D. Mitescu, 2015:  *Physical Hydrodynamics*, 2d edition.  Oxford University Press.
+    - See Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) in the *American Journal of Physics*, 83 (12):  1061-1062 (2015).
 - Tsutomu Kambe, 2007:  *Elementary Fluid Mechanics*. World Scientific.
 - Lev D. Landau and Evgenii M. Lifshitz, 1997:  *Fluid Mechanics*, 2d edition, corrected reprint. Translated by J. B. Skyes and W. H. Reid.  Course of Theoretical Physics, vol. 6.  Butterworth-Heinemann.
 - P. D. McCormack and Lawrence Crane, 1973:  *Physical Fluid Dynamics*.  Academic Press.  \[Out of print\]
