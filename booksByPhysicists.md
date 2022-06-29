@@ -25,7 +25,7 @@ Commentary on these books is forthcoming.
 - Kip S. Thorne & Roger D. Blandford, 2021:  *Elasticity & Fluid Dynamics*.  Modern Classical Physics, vol. 3.  Princeton University Press.
     - The material is also available in the authors' massive parent text, *Modern Classical Physics* (2014).  Thorne, of course, is a 2017 Nobel Laureate in Physics; co-author of the famous general relativity text,  *Gravitation* by Misner, Thorne, and Wheeler; and an executive producer for the 2014 film *Interstellar*.
 - James S. Trefil, 1975:  *Introduction to the Physics of Fluids and Solids*.  Pergamon.  Reprinted with corrections by Dover, 2010.
-    - While this author is better known as a popular science writer, this book was motivated by his work as a consulting physicist, and realizing that physicists are at a disadvantage for such work if they lack much exposure to continuum mechanics.
+    - While this author is better known as a popular science writer, this book was motivated by his work as a consulting physicist, and realizing that physicists are at a disadvantage for such work if they lack much exposure to continuum mechanics.  Unfortunately this book received a very negative review by Ascher Shapiro in the *Journal of Fluid Mechanics*.
      
 ### Books covering fluid mechanics
 
@@ -38,6 +38,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
 - Etienne Guyon, Jean-Pierre Hulin, Luc Petit, and Catalin D. Mitescu, 2015:  *Physical Hydrodynamics*, 2d edition.  Oxford University Press.
     - See Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) in the *American Journal of Physics*, 83 (12):  1061-1062 (2015).
 - Tsutomu Kambe, 2007:  *Elementary Fluid Mechanics*. World Scientific.
+    - The last two chapters, on superfluid and quantized circulation, and gauge theory of ideal fluid flows, set this book apart from those written by non-physicists.  Solutions are provided for all problems.
 - Lev D. Landau and Evgenii M. Lifshitz, 1997:  *Fluid Mechanics*, 2d edition, corrected reprint. Translated by J. B. Skyes and W. H. Reid.  Course of Theoretical Physics, vol. 6.  Butterworth-Heinemann.
 - P. D. McCormack and Lawrence Crane, 1973:  *Physical Fluid Dynamics*.  Academic Press.  \[Out of print\]
 - Geoffrey J. Pert, 2013:  *Introductory Fluid Mechanics for Physicists and Mathematicians*. Wiley.
@@ -46,7 +47,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
 - Oded Regev, Orkan M. Umurhan, and Philip A. Yecko, 2016:  *Modern Fluid Dynaics for Physics and Astrophysics*.  Graduate Texts in Physics.  Springer.
 - Michel Rieutord, 2015:  *Fluid Dynamics: An Introduction*. Graduate Texts in Physics.  Springer.
     - A French astrophysicist's presentation of fluid dynamics; includes chapters on magnetohydrodynamics and kinetic theory.  Provides solutions to exercises.
-- David J. Tritton, 1988: *Physical Fluid Dynamics*, 2d edition. Oxford University Press.
+- David J. Tritton, 1988: *Physical Fluid Dynamics*, 2d edition. Oxford University Press.  (Original edition, 1977.)
 
 ### Books covering solid mechanics
 
