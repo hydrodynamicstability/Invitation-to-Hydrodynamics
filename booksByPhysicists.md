@@ -73,7 +73,7 @@ Kinsler/Frey/Coppens/Sanders and the textbook by Berg and Stork.
 As a point of personal privilege, I want to include a few other titles on a more subjective basis.
 
 - Sybren R. DeGroot and Peter Mazur, 1984:  *Non-Equilibrium Thermodynamics*.  Dover.  (Original edition published by North-Holland, 1962.)
-    - A foundational monograph on the thermodynamics of irreversible processes.  Many books in the nonequilbrium statistical physics literature cite DeGroot & Mazur as a source for hydrodynamics.
+    - A foundational monograph on the thermodynamics of irreversible processes.  Many authors in the nonequilbrium statistical physics literature cite DeGroot & Mazur as a source for hydrodynamics.
 - Uriel Frisch, 1995:  *Turbulence:  The Legacy of A. N. Kolmogorov*. Cambridge University Press.
     - Several physicists have written books on turbulence, and if your interests turn in this direction, you will get to know them.  However if not, you should still consider acquiring some literacy in the field by reading this exposition, which gives particular attention to Kolmogorov's 1941 scaling theory, "one of the very few exact and nontrivial results in the field".  Indeed I would argue that Kolmogorov's reasoning in his work on turbulence is that of a physicist, rather than of a mathematician.
 - Peter Hertel, 2012:  *Continuum Physics*.  Graduate Texts in Physics.  Springer.
