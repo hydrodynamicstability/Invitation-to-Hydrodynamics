@@ -34,7 +34,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
 - Gregory Falkovich, 2018:  *Fluid Mechanics*, second edition. Cambridge University Press.  Original edition, 2011, subtitled *A Short Course for Physicists*.
     - Written by an Israeli theoretical physicist, this very short book attempts to teach "the minimum of what every physicist, engineer and mathematician neds to know about hydrodynamics."  Solutions to exercises are provided in the back, and a [supporting website](https://www.weizmann.ac.il/complex/falkovich/fluid-mechanics) is maintained by the author.  The conciseness of the book makes it demanding on the reader.
 - Richard Fitzpatrick, 2017:  *Theoretical Fluid Mechanics*.  Institute of Physics.
-    - Lamenting the absence of fluid dynamics courses in the physics curriculum, the book was written for self-study, and consequently includes solutions to all its problems.  Emphasizes astrophysical and geophysical applications.  
+    - Lamenting the absence of fluid dynamics courses in the physics curriculum, the book was written for self-study by graduate students, and consequently includes solutions to all its problems.  Emphasizes astrophysical and geophysical applications.  The author seems to be an astrophysicist-turned-plasma physicist.
 - Etienne Guyon, Jean-Pierre Hulin, Luc Petit, and Catalin D. Mitescu, 2015:  *Physical Hydrodynamics*, 2d edition.  Oxford University Press.
     - See Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) in the *American Journal of Physics*, 83 (12):  1061-1062 (2015).
 - Tsutomu Kambe, 2007:  *Elementary Fluid Mechanics*. World Scientific.
