@@ -31,7 +31,8 @@ Commentary on these books is forthcoming.
 The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), both classics but with different personalities.  Landau/Lifshitz is very theoretical, while Tritton is packed with photographs and plots of experimental data.  Neither is likely suitable for a first undergraduate course in the field, but serious students of hydrodynamics will inevitably consult both.
 
 - Thomas E. Faber, 1995:  *Fluid Dynamics for Physicists*. Cambridge University Press.
-- Gregory Falkovich, 2018:  *Fluid Mechanics: A Short Course for Physicists*, second edition. Cambridge University Press.
+- Gregory Falkovich, 2018:  *Fluid Mechanics*, second edition. Cambridge University Press.  Original edition, 2011, subtitled *A Short Course for Physicists*.
+    - Written by an Israeli theoretical physicist, this very short book attempts to teach "the minimum of what every physicist, engineer and mathematician neds to know about hydrodynamics."  Solutions to exercises are provided in the back, and a [supporting website](https://www.weizmann.ac.il/complex/falkovich/fluid-mechanics) is maintained by the author.  The conciseness of the book makes it demanding on the reader.
 - Richard Fitzpatrick, 2017:  *Theoretical Fluid Mechanics*.  Institute of Physics.
     - Lamenting the absence of fluid dynamics courses in the physics curriculum, the book was written for self-study, and consequently includes solutions to all its problems.  Emphasizes astrophysical and geophysical applications.  
 - Etienne Guyon, Jean-Pierre Hulin, Luc Petit, and Catalin D. Mitescu, 2015:  *Physical Hydrodynamics*, 2d edition.  Oxford University Press.
