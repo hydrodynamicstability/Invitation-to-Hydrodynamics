@@ -20,8 +20,8 @@ Commentary on these books is forthcoming.
     - This compact book includes continuum mechanics and thermodynamics, but ranges well beyond these to discuss other topics in continuum physics, including electromagnetic, thermoelecric and optical phenomena, including photonics.  Unfortunately the book lacks both problems and an index.
 - Benny Lautrup, 2011:  *Physics of Continuous Matter: Exotic and Everyday Phenomena in the Macroscopic World*, 2d edition. CRC Press.
     - This massive text is the most comprehensive contemporary introductory book on continuum mechanics by a physicist.  It is aimed at third-year undergraduates or higher.  "Answers" to odd-numbered problems are found in the back, but some are actually just hints while others outline the solution.
-- Arnold Sommerfeld, 1950:  *Mechanics of Deformable Bodies*, 2d edition.  Translated by G. Kuerti.  Lectures on Theoretical Physics, vol. 2.  Academic Press.  \[Out of print\]
-    - The author was a distinguished physicist who made pivotal contributions to both classical and modern physics; four of his doctoral students and three of his post-docs later won Nobel Prizes.
+- Arnold Sommerfeld, 1950:  *Mechanics of Deformable Bodies*, 2d edition.  Translated by G. Kuerti.  Lectures on Theoretical Physics, vol. 2.  Academic Press.  Original German edition, 1943.
+    - The author was a distinguished physicist who made pivotal contributions to both classical and modern physics; four of his doctoral students and three of his post-docs later won Nobel Prizes.  Answers and comments to problems are provided.
 - Kip S. Thorne & Roger D. Blandford, 2021:  *Elasticity & Fluid Dynamics*.  Modern Classical Physics, vol. 3.  Princeton University Press.
     - The material is also available in the authors' massive parent text, *Modern Classical Physics* (2014).  Thorne, of course, is a 2017 Nobel Laureate in Physics; co-author of the famous general relativity text,  *Gravitation* by Misner, Thorne, and Wheeler; and an executive producer for the 2014 film *Interstellar*.
 - James S. Trefil, 1975:  *Introduction to the Physics of Fluids and Solids*.  Pergamon.  Reprinted with corrections by Dover, 2010.
@@ -39,7 +39,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
     - See Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) in the *American Journal of Physics*, 83 (12):  1061-1062 (2015).
 - Tsutomu Kambe, 2007:  *Elementary Fluid Mechanics*. World Scientific.
     - The last two chapters, on superfluid and quantized circulation, and gauge theory of ideal fluid flows, set this book apart from those written by non-physicists.  Solutions are provided for all problems.
-- Lev D. Landau and Evgenii M. Lifshitz, 1997:  *Fluid Mechanics*, 2d edition, corrected reprint. Translated by J. B. Skyes and W. H. Reid.  Course of Theoretical Physics, vol. 6.  Butterworth-Heinemann.
+- Lev D. Landau and Evgenii M. Lifshitz, 1997:  *Fluid Mechanics*, 2d edition, corrected reprint. Translated by J. B. Skyes and W. H. Reid.  Course of Theoretical Physics, vol. 6.  Butterworth-Heinemann.  Original Russian edition, 1944.
 - P. D. McCormack and Lawrence Crane, 1973:  *Physical Fluid Dynamics*.  Academic Press.  \[Out of print\]
 - Geoffrey J. Pert, 2013:  *Introductory Fluid Mechanics for Physicists and Mathematicians*. Wiley.
 - Sarada G. Rajeev, 2018: *Fluid Mechanics: A Geometrical Point of View*. Oxford University Press.
@@ -51,16 +51,18 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
 
 ### Books covering solid mechanics
 
-I am admittedly very unfamiliar with the literature in this field, so this section is especially prone to incompleteness.
+I am admittedly very unfamiliar with the literature in this field, so this section is especially prone to incompleteness.  (I am grateful to Prof. James Hanna for pointing me to the Green/Zerna and Audoly/Pomeau books.)
 
-- Lev D. Landau and Evgenii M Lifshitz, 1986:  *Theory of Elasticity*, 3d ed., revised and enlarged by E. M. Lifshitz, A. M. Kosevich, and L. P. Pitaevskii.  Translated by J. B. Sykes and W. H. Reid.  Course of Theoretical Physics, Vol. 7.  Butterworth-Heinemann.
+- Basile Audoly and Yves Pomeau, 2010:  *Elasticity and Geometry:  From Hair Curls to the Non-Linear Response of Shells*.  Oxford University Press.
+- Albert E. Green and Wolfgang Zerna, 2012:  *Theoretical Elasticity*, 2d edition (reprint).  Dover.  Original edition published in 1954 by Oxford University Press.
+- Lev D. Landau and Evgenii M Lifshitz, 1986:  *Theory of Elasticity*, 3d ed., revised and enlarged by E. M. Lifshitz, A. M. Kosevich, and L. P. Pitaevskii.  Translated by J. B. Sykes and W. H. Reid.  Course of Theoretical Physics, Vol. 7.  Butterworth-Heinemann.  Original Russian edition, 1944.
 - Alister G. McLellan, 1980:  *The Classical Thermodynamics of Deformable Materials*.  Cambridge Monographs on Physics.  Cambridge University Press.
 - Adrian P. Sutton, 2020:  *Physics of Elasticity and Crystal Defects*.  Oxford Series on Materials Modelling.  Oxford University Press.
 
 ### Books covering acoustics
 
 Despite the relatively few physicists who work in acoustics in recent decades, a surprisingly large number of the key books in the field have been written
-by physicists.  Lord Rayleigh's classic *Theory of Sound* ranks first among these.  As this topic deserves a separate page of its own, which is beyond the scope
+by physicists.  Lord Rayleigh's 19th century classic *Theory of Sound* ranks first among these.  As this topic deserves a separate page of its own, which is beyond the scope
 of my present efforts, I will not attempt to list such books here.  Let it suffice to mention the names of illustrious authors such as Leo Beranek, Eugene Skudrzyk, 
 Philip M. Morse and K. Uno Ingard, Allan D. Pierce, David T. Blackstock, and Thomas D. Rossing.  Also worthy of mention is the workhorse text by 
 Kinsler/Frey/Coppens/Sanders and the textbook by Berg and Stork.
