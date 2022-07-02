@@ -53,6 +53,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
 - Michel Rieutord, 2015:  *Fluid Dynamics: An Introduction*. Graduate Texts in Physics.  Springer.
     - A French astrophysicist's presentation of fluid dynamics; includes chapters on magnetohydrodynamics and kinetic theory.  Provides solutions to exercises.
 - David J. Tritton, 1988: *Physical Fluid Dynamics*, 2d edition. Oxford University Press.  (Original edition, 1977.)
+    - D. J. Tritton (1935-1998) was trained as an experimental hydrodynamicist, and had broad interests, with particular involvement in geophysics and planetary physics.
 
 ### Books covering solid mechanics
 
@@ -78,17 +79,17 @@ Kinsler/Frey/Coppens/Sanders and the textbook by Berg and Stork.
 As a point of personal privilege, I want to include a few other titles on a more subjective basis.
 
 - Sybren R. DeGroot and Peter Mazur, 1984:  *Non-Equilibrium Thermodynamics*.  Dover.  (Original edition published by North-Holland, 1962.)
-    - A foundational monograph on the thermodynamics of irreversible processes.  Many authors in the nonequilbrium statistical physics literature cite DeGroot & Mazur as a source for hydrodynamics.
+    - A foundational monograph on the thermodynamics of irreversible processes.  Many authors in the nonequilbrium statistical physics literature cite DeGroot & Mazur as a source for hydrodynamics.  DeGroot (1916-1994) was a Danish theorist, and Mazur (1922-2001) was of Austrian extraction; both worked in the Netherlands.
 - Uriel Frisch, 1995:  *Turbulence:  The Legacy of A. N. Kolmogorov*. Cambridge University Press.
     - Several physicists have written books on turbulence, and if your interests turn in this direction, you will get to know them.  However if not, you should still consider acquiring some literacy in the field by reading this exposition, which gives particular attention to Kolmogorov's 1941 scaling theory, "one of the very few exact and nontrivial results in the field".  Indeed I would argue that Kolmogorov's reasoning in his work on turbulence is that of a physicist, rather than of a mathematician.
 - Peter Hertel, 2012:  *Continuum Physics*.  Graduate Texts in Physics.  Springer.
-    - This compact book includes continuum mechanics and thermodynamics, but ranges well beyond these to discuss other topics in continuum physics, including electromagnetic, thermoelectric and optical phenomena, including photonics.  Unfortunately the book lacks both problems and an index.
+    - This compact book includes continuum mechanics and thermodynamics, but ranges well beyond these to discuss other topics in continuum physics, including electromagnetic, thermoelectric and optical phenomena, including photonics.  Unfortunately the book lacks both problems and an index.  Hertel (1938-2017) was a German theoretical physicist.
 - Roman Jackiw, 2002:  *Lectures on Fluid Dynamics: A Particle Theorist's View of Supersymmetric, Non-Abelian, Noncommutative Fluid Mechanics and d-Branes*. Springer.
     - Presents a new formulation of hydrodynamics, "an ancient field theory, but which can be enhanced by the ideas that we gleaned from particle physics."  
 - Robert Bruce Lindsay, 1960:  *Mechanical Radiation*.  The International Series in Pure and Applied Physics.  McGraw-Hill.  \[Out of print\]
-    - Focuses on wave phenomena in various classical media:  strings, membranes, rods, plates, elastic media, incompressible fluids, sound in fluids, and applictions in acoustics and geophysics, oceanography, and meteorology.  The final chapter delves into a range of special topics such as statistical physics, electron "hydrodynamics" in superconductivity, and liquid helium.
+    - Focuses on wave phenomena in various classical media:  strings, membranes, rods, plates, elastic media, incompressible fluids, sound in fluids, and applictions in acoustics and geophysics, oceanography, and meteorology.  The final chapter delves into a range of special topics such as statistical physics, electron "hydrodynamics" in superconductivity, and liquid helium.  Lindsay (1900-1985) was an American theorist particularly active in acoustics.
 - Hans J. Lugt, 1983:  *Vortex Flow in Nature and Technology*.  Wiley-Interscience.  (Original German edition, 1979.  English edition reprinted by Krieger, 1995.) \[Out of print\]
-    - A surprisingly nontechnical exposition of vortex flow, a central concept in hydrodynamics.  Packed with illustrations, it would make an excellent introduction to hydrodynamics for a student who hasn't yet mastered vector calculus, yet the book can also grip the attention of a seasoned physicist.  This book deserves to be better known in the fluid mechanics community.
+    - A surprisingly nontechnical exposition of vortex flow, a central concept in hydrodynamics.  Packed with illustrations, it would make an excellent introduction to hydrodynamics for a student who hasn't yet mastered vector calculus, yet the book can also grip the attention of a seasoned physicist.  This book deserves to be better known in the fluid mechanics community.  Lugt is a German physicist who worked at the U.S. Navy's David Taylor Model Basin.
 
 Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can't fail to mention two other Nobel laureates in physics:
 
@@ -96,6 +97,14 @@ Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can
     - Alfven is the founder of modern magnetohydrodynamics, a topic he covers in this book.
 - Subrahmanyan Chandrasekhar, 1981:  *Hydrodynamic and Hydromagnetic Stability*.  Dover.  (Original edition published in the International Series of Monographs on Physics, by Oxford University Press, 1961.)
     - A landmark contribution by a legendary astrophysicist.  Anyone interested in hydrodynamic instabilities must own this book.  (In 2011 Edward A. Spiegel  edited and published Chandrasekhar's 1954 lectures on *The Theory of Turbulence*.)
+
+### Some reflections on the books discussed
+
+In this section I focus on the books listed in the first two sections, on continuum and fluid mechanics.  
+
+*A chronological perspective*.  In the early years of the nuclear age, Sommerfeld's lectures appeared in English in 1950, and the first English edition of Landau & Lifshitz appeared in 1959.  Both remained staples for years; though most of the books in fluid mechanics in this era were written by nonphysicists, such as Batchelor's masterpiece (1967).  It was not until the 1970s that a few more physicists realized that their perspective could be useful - McCormack & Crane (1973), Trefil (1975), and Tritton (1977).  It seems that only the third of these was an undisputed success.  The 1980s saw the appearance of Bhatia & Singh (1984), the first English edition of Brekhovskikh & Goncharov (1985), and  second editions of the classics, Landau & Lifshitz (1987) and Tritton (1988).  The 1990s greeted the second edition of Brekhovskikh & Goncharov (1994) and the landmark contribution of Faber (1995).
+
+The first decade of the 21st century witnessed the first English edition of Guyon et al. (2001), the first edition of Lautrup (2005), and Kambe's contribution (2007).  However the second decade welcomed an outburst of physicists on our subject:  Falkovich (2011, 2018), Pert (2013), Rieutord (2015), Regev et al. (2016), Fitzpatrick (2017), Thorne & Blandford (2017), Rajeev (2018), as well as second editions of Lautrup (2011) and Guyon et al (2015), both possible candidates for "classic" status.  Thus, the most recent decade has single-handedly eliminated the death of general and introductory books on fluid mechanics written by physicists!
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
