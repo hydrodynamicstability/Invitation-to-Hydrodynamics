@@ -70,7 +70,7 @@ I am admittedly very unfamiliar with the literature in this field, so this secti
 ### Books covering acoustics
 
 Despite the relatively few physicists who work in acoustics in recent decades, a surprisingly large number of the key books in the field have been written
-by physicists.  Lord Rayleigh's 19th century classic *Theory of Sound* ranks first among these.  As this topic deserves a separate page of its own, which is beyond the scope
+by physicists.  Lord Rayleigh's 19th century classic *Theory of Sound* ranks first among these.  (Rayleigh also won the 1904 Nobel Prize in Physics.)  As acoustics deserves a separate page of its own, which is beyond the scope
 of my present efforts, I will not attempt to list such books here.  Let it suffice to mention the names of illustrious authors such as Leo Beranek, Eugene Skudrzyk, 
 Philip M. Morse and K. Uno Ingard, Allan D. Pierce, David T. Blackstock, and Thomas D. Rossing.  Also worthy of mention is the workhorse text by 
 Kinsler/Frey/Coppens/Sanders and the textbook by Berg and Stork.
@@ -96,9 +96,9 @@ As a point of personal privilege, I want to include a few other titles on a more
 Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can't fail to mention two other Nobel laureates in physics:
 
 - Hannes Alfven and Carl-Gunne Falthammar, 1963: *Cosmical Electrodynamics*, 2d edition. International Series of Monographs on Physics.  Oxford University Press.  (Original edition, 1950.)
-    - Alfven is the founder of modern magnetohydrodynamics, a topic he covers in this book.
+    - Alfven (1908-1995) is the founder of modern magnetohydrodynamics, a topic he covers in this book.  Alven won the 1970 Nobel Prize in Physics.
 - Subrahmanyan Chandrasekhar, 1981:  *Hydrodynamic and Hydromagnetic Stability*.  Dover.  (Original edition published in the International Series of Monographs on Physics, by Oxford University Press, 1961.)
-    - A landmark contribution by a legendary astrophysicist.  Anyone interested in hydrodynamic instabilities must own this book.  (In 2011 Edward A. Spiegel  edited and published Chandrasekhar's 1954 lectures on *The Theory of Turbulence*.)
+    - A landmark contribution by a legendary astrophysicist.  Anyone interested in hydrodynamic instabilities must own this book.  Chandrasekhar (1910-1995) won the 1983 Nobel Prize in Physics.  (In 2011 Edward A. Spiegel  edited and published Chandrasekhar's 1954 lectures on *The Theory of Turbulence*.)
 
 ### Some reflections on the books discussed
 
