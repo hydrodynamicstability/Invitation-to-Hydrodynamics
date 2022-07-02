@@ -13,6 +13,13 @@
 **Welcome.**  This page aims to outline why a physicist should learn a little bit of fluid mechanics, and how to get started doing so.   The page is currently under construction; thank you for your patience.  
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
+**Outline:**
+- Why should a physicist learn some fluid mechanics?
+- Intrigued, but not yet ready to commit?
+- Convinced, and ready to take the plunge?
+- Some background thoughts
+- Companion pages
+
 ### Why should a physicist learn some fluid mechanics?
 
 - To use it in their work:
@@ -55,7 +62,12 @@ In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.c
 
 ### Convinced, and ready to take the plunge?
 
-Some of you will be ready to crack open Landau & Lifshitz's *Fluid Mechanics*, part of which which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; a friendlier introduction might be in order.  I discuss books on fluid and continuum mechanics written by physicists on a [companion page](booksByPhysicists.md).  Please consult that list, as it is of great value to read how fellow physicists view the subject.  Having said that, hydrodynamics is an interdisciplinary field, and some of the finest literature in it has been written by others, deserving of your attention.  Below I will enumerate some books by non-physicists that physicists often recommend.  A personal favorite is by the late oceanographer, Pijush K. Kundu (*Fluid Mechanics*, first edition, Academic Press, 1990).  It was my primary text when I began learning the subject in the summer of 1996.  I will divide the other books into two categories:  those by applied mathematicians and those by engineers.
+Some of you will be ready to crack open Landau & Lifshitz's *Fluid Mechanics*, part of which which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; a friendlier introduction might be in order.  I discuss books on fluid and continuum mechanics written by physicists on a [companion page](booksByPhysicists.md).  Please consult that list, as it is of great value to read how fellow physicists view the subject.  Having said that, hydrodynamics is an interdisciplinary field, and some of the finest literature in it has been written by others, deserving of your attention.  Below I will enumerate some books by non-physicists that physicists often recommend.  A personal favorite is by the late oceanographer, Pijush K. Kundu (1941-1994):
+- P. K. Kundu, 1990:  *Fluid Mechanics*, 1st edition (Academic Press).
+
+This was my primary text when I began learning the subject in the summer of 1996, and subsequent experience has convined me that it remains one of the finest first books on the subject one can read.  (I am unable to vouch for later editions of the book, which were prepared by other authors; please see the comments of R. A. Shaw alluded to below.)
+
+I will divide the other books into two categories:  those by applied mathematicians and those by engineers.
 
   - Books by applied mathematicians:
     - David J. Acheson, 1990:  *Elementary Fluid Dynamics* (Oxford University Press).
@@ -65,6 +77,7 @@ Some of you will be ready to crack open Landau & Lifshitz's *Fluid Mechanics*, p
     - Rutherford Aris, 1989:  *Vectors, Tensors, and the Basic Equations of Fluid Mechanics*, corrected reprint (Dover).
     - Rolf H. Sabersky, Allan J. Acosta, Edward G. Hauptmann, and E. M. Gates, 1999:  *Fluid Flow: A First Course in Fluid Mechanics*, 4th edition (Prentice Hall).  \[Out of Print\]
     - Alexander J. Smits, 2022:  *A Physical Introduction to Fluid Mechanics*, 2d edition (available [online](http://www.efluids.com/efluids/books/efluids_books.htm)).  The first edition was published by Wiley in 1999.  This author is the 2020 Batchelor Prize laureate (one of the highest honors in fluid dynamics research).
+    - Frank M. White and Henry Xue, 2021:  *Fluid Mechanics*, 9th edition (McGraw-Hill).  
 
 I will also mention a few more advanced books that any serious student of the subject should consider:
 
