@@ -24,11 +24,15 @@
 
 - To use it in their work:
 
-  - Wide applications *within* physics, including plasma physics, astrophysics & cosmology, condensed and soft matter physics, and hybrid fields such as physical chemistry, biological physics, and environmental science and engineering.  Experimentalists in any field of physics may need to deal with hydrodynamic or pneumatic issues when designing or maintaining apparatus.
+  - Wide applications *within* physics, including plasma physics, astrophysics & cosmology, condensed and soft matter physics, and hybrid fields such as physical chemistry, biological physics, and environmental science and engineering.  
   
   - Crucial subject for the study of geophysics, atmosphere and ocean dynamics, hydrology, and all their counterparts in planetary physics.
 
   - Applications across engineering and technology, including civil, chemical, biomedical, mechanical, and aerospace engineering, but even occasionally in electrical and nuclear engineering, and materials science and engineering.  Closely allied fields include acoustics and rheology.
+
+  - Experimentalists in any field of physics may need to deal with hydrodynamic, hydraulic, or pneumatic issues when designing or maintaining apparatus, or even for the experiments themselves.  Example:  Robert Millikan's famous oil drop experiment required the use of Stokes' formula for the drag force on a slowly falling sphere.
+  
+  - Theorists might be inspired to use a fluid model for some other physical phenomenon.  Example:  George Gamow's influential liquid drop model of the nucleus, developed further by Bohr, Heisenberg, and others, and used by Meitner & Frisch to explain nuclear fission.
 
 - For its own sake:
 
