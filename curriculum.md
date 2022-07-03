@@ -39,7 +39,7 @@ These problems are meant to be solved using Bernoulli's equation for streamlines
 
 When I was an undergraduate in the early 1990s, most intermediate mechanics texts omitted fluids entirely.  Symon (1971, Ch. 8) and Arya (1997, Ch. 15) were two exceptions, both including a chapter on the mechanics of continuous media, consisting of vibrations on strings as well as fluid dynamics and sound waves.  Corben and Stehle (1994, Sec. 81) devote less space to fluid dynamics, but at least they include the Navier-Stokes equations as a "special application".  At the graduate level, the texts of Fetter &  Walecka (1980) and Jose & Saletan (1998, Sec. 9.5) are notable examples that include fluid dynamics.  Fetter & Walecka are particularly notable for celebrating the whole of continuum mechanics in the entire second half of their book (Ch. 7-13).  Finally, Appendix 2 of the classic Arnol'd (1989) discusses the formal correspondence between the Euler equations of rigid body dynamics and the Euler equations of ideal fluid flow.
 
-In the years since my studenthood, more undergraduate mechanics texts are including chapters on fluid dynamics, though many of the most popular texts continue to competely ignore the topic.  Examples of the more enlightened texts include Taylor (2005, Ch. 16), Chaichian et al. (2012, Ch. 6), Deshmukh (2020, Ch. 11), and Hamill (2022, Ch. 19).  Jerry Gollub himself used the undergrad intermediate mechanics course to introduce fluid dynamics to his physics students, so it is heartening to see further progress in this direction.
+In the years since my studenthood, more undergraduate mechanics texts are including chapters on fluid dynamics, though many of the most popular texts continue to competely ignore the topic.  Examples of the more enlightened texts include Taylor (2005, Ch. 16), Chaichian et al. (2012, Ch. 6), Deshmukh (2020, Ch. 11), and Hamill (2022, Ch. 19).  Jerry Gollub himself used the undergrad intermediate mechanics course to introduce fluid dynamics to his physics students, so it is heartening to see further progress in this direction, especially as Taylor (2005) has gained wide popularity.
 
 ### Electricity and magnetism
 
@@ -47,7 +47,7 @@ Magnetohydrodynamics (MHD) is understandably ignored in the canon of undergradua
 
 ### Statistical physics
 
-A minority of texts in introductory statistical physics cover fluid flow and transport phenomena; these include Huang (1987, Ch. 5), McQuarrie (2000, Ch. 7), and Reichl (2016, Ch. 8-9) for example.  Huang (1987), Reichl (2016), and Feynman (1998) also cover superfluids.  It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  
+A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32) is one example, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19), and Reichl (2016, Ch. 8-9) for example.  (McQuarrie is a chemist, but his book was strongly recommended to me by an experimental physicist.)  What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases.  Again, most exapmles I know of are at the graduate level, such as Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Feynman (1998, Ch. 11).  It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  
 
 ### Nonlinear dynamics
 
@@ -59,7 +59,7 @@ Hydrodynamics can be a source of examples of mathematical methods in physics, as
 
 ### Computational physics
 
-Computational physics is another not yet standard one in the physics curriculum.  Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  One exception is Landau et al. (2015); a hydrodynamics problem is given as a project for the chapter on elliptic PDEs in Koonin & Meredith (1990).
+Computational physics is another not yet standard one in the physics curriculum.  Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  One exception is Landau et al. (2015).  A hydrodynamics problem is given as a project for the chapter on elliptic PDEs in Koonin & Meredith (1990).
 
 ### Other courses
 
@@ -121,6 +121,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - J. V. Jose and E. J. Saletan, 1998:  *Classical Dynamics: A Contemporary Approach*. Cambridge University Press.
 
+- C. Kittel and H. Kroemer, 1980:  *Thermal Physics*.  W. H. Freeman.
+
 - S. E. Koonin and D. C. Meredith, 1990:  *Computational Physics:  FORTRAN Version*.  Advanced Book Program.  Westview Press.
 
 - A. Kovetz, 2000: *Electromagnetic Theory*. Oxford University Press.
@@ -128,6 +130,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - R. H. Landau, M. J. Paez, and C. C. Boreianu, 2015:  *Computational Physics:  Problem Solving with Python*, 3d edition.  Wiley-VCH.
 
 - M. Longair, 2020:  *Theoretical Concepts in Physics:  An Alternative View of Theoretical Reasoning in Physics*, 3d edition.  Cambridge University Press.
+
+- S. K. Ma, 1985:   *Statistical Mechanics*.  World Scientific.
 
 - M. P. Marder, 2010:  *Condensed Matter Physics*, 2d edition.  Wiley.
 
