@@ -31,13 +31,15 @@ Commentary on these books is being added gradually over time, so please consider
 The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), both classics but with different personalities.  Landau/Lifshitz is very theoretical, while Tritton is packed with photographs and plots of experimental data.  Neither is likely suitable for a first undergraduate course in the field, but serious students of hydrodynamics will inevitably consult both.
 
 - Thomas E. Faber, 1995:  *Fluid Dynamics for Physicists*. Cambridge University Press.
-    - Faber (1927-2004) was both a theoretical and experimental physicist at Cambridge University and also an executive at the publishing company founded by his father.  Like Tritton's, Faber's book is packed with photos, but unlike Tritton, it fails to include much experimental data.
+    - Faber (1927-2004) was both a theoretical and experimental physicist at Cambridge University and also an executive at the publishing company founded by his father.  Like Tritton's, Faber's book is packed with photos, but unlike Tritton, it fails to include much experimental data.  Faber concedes that he is but an "enthusiastic amateur" compared to other physicists who've written fluid dynamics books.  He wrote this one so that it "may be read for pleasure as well as for instruction by physicists of any age and at almost any level of sophisticiation who want to learn fluid dynamics for themselves."  It lacks exercises, but derivations are only sketched, so that readers could certainly work through the material with pencil and paper if they chose to.  
+
 - Gregory Falkovich, 2018:  *Fluid Mechanics*, second edition. Cambridge University Press.  Original edition, 2011, subtitled *A Short Course for Physicists*.
     - Written by an Israeli theoretical physicist, this very short book attempts to teach "the minimum of what every physicist, engineer and mathematician needs to know about hydrodynamics."  Solutions to exercises are provided in the back, and a [supporting website](https://www.weizmann.ac.il/complex/falkovich/fluid-mechanics) is maintained by the author.  This short text is more demanding on the reader than some others on this list.
+   
 - Richard Fitzpatrick, 2017:  *Theoretical Fluid Mechanics*.  Institute of Physics.
     - Lamenting the absence of fluid dynamics courses in the physics curriculum, the book was written for self-study by graduate students, and consequently includes solutions to all its problems.  Emphasizes astrophysical and geophysical applications.  The author seems to be an astrophysicist-turned-plasma physicist.
 - Etienne Guyon, Jean-Pierre Hulin, Luc Petit, and Catalin D. Mitescu, 2015:  *Physical Hydrodynamics*, 2d edition.  Oxford University Press.  Original French edition, 1991.
-    - See Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) in the *American Journal of Physics*, 83 (12):  1061-1062 (2015).
+    - This French text is another with a strong experimentalists' flavor.  The original edition had no exercises, but the second edition has a small number of end-of-chapter problems, with solutions in the back.  See Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) in the *American Journal of Physics*, 83 (12):  1061-1062 (2015).
 - Tsutomu Kambe, 2007:  *Elementary Fluid Mechanics*. World Scientific.
     - The author is a Japanese theorist.  The last two chapters, on superfluid and quantized circulation, and gauge theory of ideal fluid flows, respectively, set this book apart from those written by non-physicists.  Solutions are provided for all problems.
 - Lev D. Landau and Evgenii M. Lifshitz, 1997:  *Fluid Mechanics*, 2d edition, corrected reprint. Translated by J. B. Skyes and W. H. Reid.  Course of Theoretical Physics, vol. 6.  Butterworth-Heinemann.  Original Russian edition, 1944.
@@ -53,7 +55,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
 - Michel Rieutord, 2015:  *Fluid Dynamics: An Introduction*. Graduate Texts in Physics.  Springer.
     - A French astrophysicist's presentation of fluid dynamics; includes chapters on magnetohydrodynamics and kinetic theory.  Provides solutions to exercises.
 - David J. Tritton, 1988: *Physical Fluid Dynamics*, 2d edition. Oxford University Press.  (Original edition, 1977.)
-    - D. J. Tritton (1935-1998) was trained as an experimental hydrodynamicist, and had broad interests, with particular involvement in geophysics and planetary physics.
+    - D. J. Tritton (1935-1998) was trained as an experimental hydrodynamicist, and had broad interests, with particular involvement in geophysics and planetary physics.  This book emphasizes experimental and observational results, along with geophysical applications (not surprisingly), and has a set of problems, hints, and answers in the back.
 
 ### Books covering solid mechanics
 
