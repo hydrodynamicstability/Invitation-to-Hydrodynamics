@@ -33,7 +33,7 @@ When I was a graduate teaching assistant in the late 1990s, I encountered a more
 </center>
 
 
-These problems are meant to be solved using Bernoulli's equation, but this requires you to tacitly assume that there is a streamline connecting the air outside the building with air inside the building.  However, typically the outside air's streamlines will be flowing *around* the building, not through it.  I am tempted to call this bad physics, an example of what [R. A. Shaw](https://doi.org/10.1119/1.4929153) called the "often over-simplified and even misleading treatments of mass continuity and the Bernoulli equation in introductory physics courses."
+These problems are meant to be solved using Bernoulli's equation for streamlines, but this requires you to tacitly assume that there is a streamline connecting the air outside the building with air inside the building.  However, typically the outside air's streamlines will be flowing *around* the building, not through it.  I am tempted to call this bad physics, an example of what [R. A. Shaw](https://doi.org/10.1119/1.4929153) called the "often over-simplified and even misleading treatments of mass continuity and the Bernoulli equation in introductory physics courses."
 
 ### Classical mechanics
 
@@ -41,6 +41,29 @@ When I was an undergraduate in the early 1990s, most intermediate mechanics text
 
 In the years since my studenthood, more undergraduate mechanics texts are including chapters on fluid dynamics, though many of the most popular texts continue to competely ignore the topic.  Examples of the more enlightened texts include Taylor (2005, Ch. 16), Chaichian et al. (2012, Ch. 6), Deshmukh (2020, Ch. 11), and Hamill (2022, Ch. 19).  Jerry Gollub himself used the undergrad intermediate mechanics course to introduce fluid dynamics to his physics students, so it is heartening to see further progress in this direction.
 
+### Electricity and magnetism
+
+Magnetohydrodynamics (MHD) is understandably ignored in the canon of undergraduate E&M textbooks, with the remarkable but little-known exception of one by astrophysicist Attay Kovetz (2000), who devotes three entire chapters to it (Ch. 14-16).  In contrast, many graduate level texts do include a few token pages on the subject.  The ubiquitous Jackson (1999) has a single section (7.7) of about 3 pages on MHD, less than the 7-page chapter on the topic in Panofsky and Phillips (2005, Ch. 12).  Remarkably, the brief grad-level text by Melia (2001, Secs. 8.4-8.5) beats them both with just over 8 pages; the author's background as an astrophysicist may explain this.  Sadly, for many physicists the few pages on MHD in their graduate E&M text are the only ones on any fluid mechanics topic (beyond introductory physics) on their bookshelves.
+
+### Statistical physics
+
+A minority of texts in introductory statistical physics cover fluid flow and transport phenomena; these include Huang (1987, Ch. 5), McQuarrie (2000, Ch. 7), and Reichl (2016, Ch. 8-9) for example.  It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  
+
+### Nonlinear dynamics
+
+This subject is not yet a standard one in the physics curriculum, and much of it can be taught without reference to the equations of fluid dynamics.  However, the derivation of the famous Lorenz model requires hydroynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  Historically there have many connections between fluid dynamics and nonlinear dynamics, and my own physics research focused on this connection.
+
+### Mathematical methods 
+
+Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus, as in Boas (2006).  Morse & Feshbach (1953) include a 20-page section (2.3) on the motion of fluids, but more commonly, hydrodynamics is never explicitly mentioned in the standard textbooks of today.
+
+### Computational physics
+
+Computational physics is another not yet standard one in the physics curriculum.  Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  One exception is Landau et al. (2015); a hydrodynamics problem is given as a project for the chapter on elliptic PDEs in Koonin & Meredith (1990).
+
+### Other courses
+
+Forthcoming.
 
 ### References
 
@@ -50,7 +73,11 @@ In the years since my studenthood, more undergraduate mechanics texts are includ
 
 - A. P. Arya, 1997:  *Introduction to Classical Mechanics*, 2d edition.  Pearson.
 
+- A. Bettini, 2016:  *A Course in Classical Physics 2--Fluids and Thermodynamics*.  Undergraduate Lecture Notes in Physics.  Springer.
+
 - D. Bloor, 2011:  *The Enigma of the Aerofoil:  Rival Theories in Aerodynamics, 1909-1930*.  University of Chicago Press.
+
+- M. L. Boas, 2006:  *Mathematical Methods in the Physical Sciences*, 3d edition.  Wiley.
 
 - A. Calaprice, D. Kennefick, and R. Schulmann, 2015:  *An Einstein Encyclopedia*.  Princeton University Press.
 
@@ -68,14 +95,39 @@ In the years since my studenthood, more undergraduate mechanics texts are includ
 
 - P. Hamill, 2022:  *Intermediate Dynamics*, 2d edition.  Cambridge University Press.
 
+- R. C. Hilborn, 2000:  *Chaos and Nonlinear Dynamics:  An Introduction for Scientists and Engineers*, 2d edition.  Oxford University Press.
+
+- K. Huang, 1987:  *Statistical Mechanics*, 2d edition.  Wiley.
+
+- J. D. Jackson, 1999: *Classical Electrodynamics*, 3d edition. Wiley.
+
 - J. V. Jose and E. J. Saletan, 1998:  *Classical Dynamics: A Contemporary Approach*. Cambridge University Press.
 
+- S. E. Koonin and D. C. Meredith, 1990:  *Computational Physics:  FORTRAN Version*.  Advanced Book Program.  Westview Press.
+
+- A. Kovetz, 2000: *Electromagnetic Theory*. Oxford University Press.
+
+- R. H. Landau, M. J. Paez, and C. C. Boreianu, 2015:  *Computational Physics:  Problem Solving with Python*, 3d edition.  Wiley-VCH.
+
+- D. A. McQuarrie, 2000:  *Statisical Mechanics*.  University Science Books.
+
+- F. Melia, 2001:  *Electrodynamics*.  Chicago Lectures in Physics.  University of Chicago Press.
+
+- P. M. Morse and H. Feshbach, 1953:  *Methods of Theoretical Physics*, Part 1.  McGraw-Hill.
+
 - M. Nelkon and P. Parker, 1995:  *Advanced Level Physics*, 7th edition.  Heinemann.
+
+- W. K. H. Panofsky and M. Phillips, 2005:  *Classical Electricity and Magnetism*, 2d edition.  Dover.
+
+- L. E. Reichl, 2016:  *A Modern Course in Statistical Physics*, 4th edition.  Wiley-VCH.
+
+- H. G. Schuster and W. Just, 2005:  *Deterministic Chaos:  An Introduction*, 4th edition.  Wiley-VCH.
 
 - K. R. Symon, 1971:  *Mechanics*, 3d edition.  Addison-Wesley.
 
 - J. R. Taylor, 2005:  *Classical Mechanics*. University Science Books.
 
+- H. W. Wyld, 1976:  *Mathematical Methods for Physics*.  Lecture Notes and Supplements in Physics, vol. 15.  W. A. Benjamin.
 
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
