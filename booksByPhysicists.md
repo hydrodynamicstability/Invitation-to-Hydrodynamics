@@ -112,10 +112,13 @@ The first decade of the 21st century witnessed the first English edition of Guyo
 
 Now let's visit a few topics that may be of special interest to physicists.
 
+*Magnetohydrodynamics*.  This topic is well covered in plasma physics texts, and there is an entire genre of books on astrophysical hydrodynamics that deal with MHD too.  Landau/Lifshitz cover it in their *Electrodynamics of Continuious Media* rather than in *Fluid Mechanics*.  However, it's often good to give physics students studying fluids an introduction to the topic.  Astrophysicists Rieutord and Thorne/Blandford devote entire chapters to MHD, as do Brekhovskikh & Goncharov, and Regev et al.  Meanwhile Faber and Guyon et al. devote only a section of a chapter to the topic, but at least it's included.
+
 *Superfluid hydrodynamics*.  This is an arena where frictionless flow can actually be realized; phenomena such as the "fountain effect", "second sound", and circulation quantization (line vortices) can be studied.  A number of Nobel laureates in physics have contributed to these studies.  However, even among fluid dynamics books by physicists, this topic is rarely covered.  Only Landau/Lifshitz, McCormack/Crane, and Kambe have entire chapters on this subject; Guyon et al. include a very brief appendix (7A).  Trefil and Thorne/Blandford deal with superfluid helium only in the exercises, using the two-fluid model. 
 
 Landau, of course, is a primary contributor to the theory of superfluidity, and developed the 2-fluid model (L. Tisza independently proposed such a model).  Landau/Lifshitz's *Fluid Mechanics* covers the macroscopic theory (Ch. 16), while their *Statistical Physics*, Part 2 (Ch. 3), covers the microscopic theory.  Kambe discusses the Gross-Pitaevskii equation and differences between BEC superfluids and liquid helium.  However, in my opinion all these books only serve to provide some cultural literacy to the reader on this topic, which may be covered in greater depth in an advanced statistical physics or condensed matter course.
 
+*Relativistic fluids*.  This topic is even less popular among the books on this list; it seems only people who need to know relativistic hydrodynamics will study it (astrophysicists and cosmologists).  Landau/Lifshitz have a whole chapter (15) for it.  Not surprisingingly, Thorne/Blandford give their readers a taste of the subject in their *Modern Classical Physics*, which includes a later section on cosmology itself.
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
