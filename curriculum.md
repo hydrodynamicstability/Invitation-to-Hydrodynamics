@@ -47,7 +47,7 @@ Magnetohydrodynamics (MHD) is understandably ignored in the canon of undergradua
 
 ### Statistical physics
 
-A minority of texts in introductory statistical physics cover fluid flow and transport phenomena; these include Huang (1987, Ch. 5), McQuarrie (2000, Ch. 7), and Reichl (2016, Ch. 8-9) for example.  It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  
+A minority of texts in introductory statistical physics cover fluid flow and transport phenomena; these include Huang (1987, Ch. 5), McQuarrie (2000, Ch. 7), and Reichl (2016, Ch. 8-9) for example.  Huang (1987), Reichl (2016), and Feynman (1998) also cover superfluids.  It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  
 
 ### Nonlinear dynamics
 
@@ -63,7 +63,17 @@ Computational physics is another not yet standard one in the physics curriculum.
 
 ### Other courses
 
-Forthcoming.
+Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  Coverage in condensed matter physics texts is more hit-or-miss, as many of the standards completely ignore the subject.  Exceptions that I know of include Chaikin & Lubensky (2000) and Marder (2010).  
+
+Most books titled *Classical Field Theory* focus exclusively on electromagnetic and gravitational fields -- indeed, these are the classical force fields.  That's not enough for Nastase (2019), who also covers hydrodynamics in chapters 7 and 19.  The latter chapter includes relativistic fluid dynamics.
+
+### Other notable books
+
+The third edition of Malcolm Longair's *Theoretical Concepts in Physics* (originally published in 1984) now includes a "gentle introduction" to fluid dynamics (Ch. 9 and parts of Ch. 10).  Rudolf Peierls' *More Surprises in Theoreteical Physics* includes a chapter (7) on hydrodynamics.
+
+### A final thought
+
+Physics students serious about fluids should explore the relevant courses in engineering, applied mathematics, and the geosciences, to acquire breadth in both subject matter and perspective.  The latter is arguably most important of all, in an interdisciplinary field like this.
 
 ### References
 
@@ -83,6 +93,10 @@ Forthcoming.
 
 - M. Chaichian, I. Merches, and A. Tureanu, 2012: *Mechanics: An Intensive Course*. Springer.
 
+- P. M. Chaikin and T. C. Lubensky, 2000.  *Principles of Condensed Matter Physics*, corrected reprint.  Cambridge University Press.
+
+- A. R. Choudhuri, 1998:  *The Physics of Fluids and Plasmas:  An Introduction for Astrophysicists*.  Cambridge University Press.
+
 - H. C. Corben and P. Stehle, 1994:  *Classical Mechanics*, 2d edition.  Dover.
 
 - P. C. Deshmukh, 2020:  *Foundations of Classical Mechanics*.  Cambridge University Press.
@@ -90,6 +104,10 @@ Forthcoming.
 - A. L. Fetter and J. D. Walecka, 1980:  *Theoretical Mechanics of Particles and Continua*. McGraw-Hill.  Reprinted by Dover, 2003.
 
 - A. L. Fetter and J. D. Walecka, 2006:  *Nonlinear Mechanics:  A Supplement to Theoretical Mechanics of Particles and Continua*.  Dover.
+
+- R. P. Feynman, 1998:  *Statistical Mechanics:  A Set of Lectures*.  Advanced Book Classics.  CRC Press.  Originally published 1972.
+
+- J. Gollub, 2003:  Continuum mechanics in physics education.  *Physics Today*, 56 (12):  10-11.
 
 - D. Halliday, R. Resnick, and J. Walker, 1997:  *Fundamentals of Physics*, 5th edition.  Wiley.
 
@@ -109,15 +127,23 @@ Forthcoming.
 
 - R. H. Landau, M. J. Paez, and C. C. Boreianu, 2015:  *Computational Physics:  Problem Solving with Python*, 3d edition.  Wiley-VCH.
 
+- M. Longair, 2020:  *Theoretical Concepts in Physics:  An Alternative View of Theoretical Reasoning in Physics*, 3d edition.  Cambridge University Press.
+
+- M. P. Marder, 2010:  *Condensed Matter Physics*, 2d edition.  Wiley.
+
 - D. A. McQuarrie, 2000:  *Statisical Mechanics*.  University Science Books.
 
 - F. Melia, 2001:  *Electrodynamics*.  Chicago Lectures in Physics.  University of Chicago Press.
 
 - P. M. Morse and H. Feshbach, 1953:  *Methods of Theoretical Physics*, Part 1.  McGraw-Hill.
 
+- H. Nastase, 2019:  *Classical Field Theory*.  Cambridge University Press.
+
 - M. Nelkon and P. Parker, 1995:  *Advanced Level Physics*, 7th edition.  Heinemann.
 
 - W. K. H. Panofsky and M. Phillips, 2005:  *Classical Electricity and Magnetism*, 2d edition.  Dover.
+
+- R. Peierls, 1991:  *More Surprises in Theoretical Physics*.  Princeton University Press.
 
 - L. E. Reichl, 2016:  *A Modern Course in Statistical Physics*, 4th edition.  Wiley-VCH.
 
