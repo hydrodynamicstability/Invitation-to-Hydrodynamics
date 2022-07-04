@@ -116,7 +116,7 @@ Fluid dynamics is of increasing interest in condensed and soft matter physics, b
 - [Books on fluid and continuum mechanics written by physicists](booksByPhysicists.md).
 - [Fluid mechanics in the physics curriculum](curriculum.md).
 - [Continuum mechanics in the great physics courses](physicscourses.md).
-- Fluid mechanics and the history of physics.  (Forthcoming)
+- [Fluid mechanics and the history of physics](histphysics.md).
 - Thoughts on journals and conferences.  (Forthcoming)
 
 
