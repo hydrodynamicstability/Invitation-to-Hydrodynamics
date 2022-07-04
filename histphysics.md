@@ -43,23 +43,33 @@ According to Peter A. Davidson, Michael Faraday "tried to measure the voltage in
 
 ### Maxwell (and Boltzmann)
 
-Keith Moffatt writes of James Clerk Maxwell's research in hydrodynamics:  "his publications were few but nevertheless ground-breaking in their originality".  Of course, as mentioned, the conceptual and mathematical appartus of hydrodynamic theory was employed by Maxwell in the early stages of developing his electromagnetic field theory.  Meanwhile, after Maxwell's first paper on the kinetic theory of gases, he and his wife Katherine carried out a series of experiments to measure the viscosity of air at various conditions, confirming that it is independent of pressure.  Elizabeth Garber says that these experiments "became one of the most significant pieces of evidence in favour of his kinetic theory".  Maxwell's second paper on kinetic theory shows how the Navier-Stokes equations may be obtained within the theory.  Ludwig Boltzmann, of course, completed Maxwell's kinetic theory; but also a cryptic passage in Serrin (1958) claims that Boltzmann was the first to propose that the symmetry of the Cauchy stress tensor be an axiom, rather than a theorem (as Cauchy had presented it).
+Keith Moffatt writes of James Clerk Maxwell's research in hydrodynamics:  "his publications were few but nevertheless ground-breaking in their originality".  Of course, as mentioned, the conceptual and mathematical appartus of hydrodynamic theory was employed by Maxwell in the early stages of developing his electromagnetic field theory.  Meanwhile, after Maxwell's first paper on the kinetic theory of gases, he and his wife Katherine carried out a series of experiments to measure the viscosity of air at various conditions, confirming that it is independent of pressure.  Elizabeth Garber says that these experiments, published in 1866, "became one of the most significant pieces of evidence in favour of his kinetic theory".  Maxwell's second paper on kinetic theory (1867) shows how the Navier-Stokes equations may be obtained within the theory.  Ludwig Boltzmann, of course, completed Maxwell's kinetic theory; but also a cryptic passage in Serrin (1958) claims that Boltzmann was the first to propose that the symmetry of the Cauchy stress tensor be an axiom, rather than a theorem (as Cauchy had presented it).
 
 - J. Clerk Maxwell, 1866:  The Bakerian Lecture--On the viscosity or internal friction of air and other gases.  *Philosophical Transactions of the Royal Society of London*, 156:  249-268.
 
 - J. Clerk Maxwell, 1867:  On the dynamical theory of gases.  *Philosophical Transactions of the Royal Society of London*, 157:  49-88.
 
-### Kelvin and Helmholtz
+### Helmholtz and Kelvin
 
-Of course, two of the 19th century's greatest thermodynamicists were also among its greatest hydrodynamicists:  William Thomson (Lord Kelvin) and Hermann von Helmholtz.  To mention just a few examples:  Kelvin's circulation theorem and Helmholtz's vortex theorems are fundamental for inviscid flows; the Kelvin-Helmholtz instability is named after them both.
+Of course, two of the 19th century's greatest thermodynamicists were also among its greatest hydrodynamicists:  Hermann von Helmholtz and William Thomson (Lord Kelvin).  They contributed fundamental work to both fields (and Kelvin, in addition, to electromagnetism).  To mention just a few examples in hydrodynamics:  Helmholtz's vortex theorems and Kelvin's circulation theorem are fundamental for inviscid flows; the Kelvin-Helmholtz instability is named after them both.  Helmholtz was the first to define vorticity.
+
+- H. von Helmholtz, 1858:  Uber integrale der hydrodynamischen gleichungen, welche den wirbelbewegungen entsprechen.  *Journal fur die Reine und Angewandte Mathematik*, 55:  25-55.
+
+- H. von Helmholtz, 1868:  Uber discontinuirlicht flussigkeitsbewegungen.  *Monatsberichte der Koniglichen Preussische Akademie der Wissenschaften zu Berlin*, 23: 215–228.
+
+- W. Thomson, 1869:  On vortex motion.  *Transactions of the Royal Society of Edinburgh*, 25:  217-260.
+
+- W. Thomson, 1871:  Hydokinetic solutions and observations.  *Philosophical Magazine*, 42: 362–377.
 
 ### Einstein's folly
 
 Using a fallacious argument based on the Venturi effect, Albert Einstein to propose a "cat's back" airfoil design in 1916 that failed miserably when tested by a Berlin aircraft company.  The test pilot, Paul Ehrhardt, survived, but years later, a few months before Einstein died, he told Ehrhardt "I have often been ashamed of my folly of those days."  (A second test pilot, Otto Reichert, crashed but survived.)  "Einstein's folly" is discussed by Bloor (2011, pp. 296-302) and Calaprice et al. (2015, p. 297).  Bloor writes that "Einstein had little knowledge of current developments in the field of aerodynamics.  This episode is a salutory reminder of the difference between fundamental physics and technical mechanics.  Eminence in the former does not guarantee competence in the latter."
 
+- A. Einstein, 1916:  Elementare theorie der wasserwellen und des fluges.  *Die Naturwissenschaften*, 4:  509-510.
+
 ### Nobel Laureates and fluid mechanics
 
-
+Forthcoming.
 
 
 
