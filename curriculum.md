@@ -4,7 +4,15 @@
 
 &emsp; -- [Jerry P. Gollub](https://www.haverford.edu/college-communications/news/jerry-gollub-1944-2019) (1944-2019)\*
 
-&emsp; &emsp; &emsp; \* Quoted from "Continuum mechanics in physics education,"  *Physics Today*, 56 (12):  10-11 (2003).
+&emsp; &emsp; &emsp; \* *Physics Today*, 56 (12):  10-11 (2003).
+
+"The hydrodynamic equations are often closely analogous to the electrodynamic equations; that’s why we studied electrodynamics first. Some people argue the other way; they think that one should study hydrodynamics first so that it will be easier to understand electricity afterwards. But electrodynamics is really much easier than hydrodynamics."  
+
+&emsp; -- [Richard P. Feynman](http://www.richardfeynman.com/about/bio.html) (1918-1988)\*\*
+
+&emsp; &emsp; &emsp; \*\* *The Feynman Lectures in Physics*, vol. 2, ch. 40.  (Addison-Wesley, 1964.)
+
+
 
 **Welcome.**  In the following, I discuss encounters with fluid mechanics, as it appears in textbooks intended for major subjects in the core undergraduate and graduate physics curriculum.
 
