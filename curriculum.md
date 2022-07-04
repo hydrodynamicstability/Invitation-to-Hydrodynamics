@@ -32,8 +32,6 @@ The streamlines under the airfoil appear to be almost completely horizontal; wit
 
 "Airplane designers are intensely interested in how much lift a wing produces under different conditions, one of which is called the angle of attack--the angle between the wing and the direction it moves through the air....Camber can increase the amount of lift that a wing produces at any given angle of attack without much increase in drag....In fact, more than a few airplanes fly with zero-camber airfoils, usually called symmetrical airfoils.  Many supersonic airplanes have symmetrical airfoils, as did at least one Second World War fighter (the Bell P-39 Airacobra) and one small jet airliner (the Fokker F-28 Fellowship).  A wing with a symmetrical airfoil can still produce lift; it just does so entirely with angle of attack....Aerobatic airplanes that need to be able to fly equally well when they are upside down and right side up (such as the Pitts Special) also use zero-camber wings.  These airplanes often compensate for slightly less efficient wings with significantly more powerful engines."
 
-A related fallacy, based on a Venturi effect argument, led Albert Einstein to propose a "cat's back" airfoil design in 1916 that failed miserably when tested by a Berlin aircraft company.  The test pilot, Paul Ehrhardt, survived, but years later, a few months before Einstein died, he told Ehrhardt "I have often been ashamed of my folly of those days."  (A second test pilot, Otto Reichert, crashed but survived.)  "Einstein's folly" is discussed by Bloor (2011, pp. 296-302) and Calaprice et al. (2015, p. 297).  Bloor writes that "Einstein had little knowledge of current developments in the field of aerodynamics.  This episode is a salutory reminder of the difference between fundamental physics and technical mechanics.  Eminence in the former does not guarantee competence in the latter."
-
 When I was a graduate teaching assistant in the late 1990s, I encountered a more elementary error.  Halliday, Resnick, & Walker (1997, vol. 2, chapter 15) include the following homework problems.
 
 <center>
@@ -93,11 +91,7 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - A. Bettini, 2016:  *A Course in Classical Physics 2--Fluids and Thermodynamics*.  Undergraduate Lecture Notes in Physics.  Springer.
 
-- D. Bloor, 2011:  *The Enigma of the Aerofoil:  Rival Theories in Aerodynamics, 1909-1930*.  University of Chicago Press.
-
 - M. L. Boas, 2006:  *Mathematical Methods in the Physical Sciences*, 3d edition.  Wiley.
-
-- A. Calaprice, D. Kennefick, and R. Schulmann, 2015:  *An Einstein Encyclopedia*.  Princeton University Press.
 
 - M. Chaichian, I. Merches, and A. Tureanu, 2012: *Mechanics: An Intensive Course*. Springer.
 
