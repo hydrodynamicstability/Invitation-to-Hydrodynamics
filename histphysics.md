@@ -113,7 +113,7 @@ Here I list some selected Nobel Laureates in Physics (and Chemistry), the year o
   <tr>
     <th>1921</th>
     <th>Albert Einstein</th>
-    <th>Doctoral dissertation in part on viscosity of solutions with added sugar; "Cat's back" aerofoil (Einstein's folly - see above)
+    <th>Doctoral dissertation in part on viscosity of solutions with added sugar; "Cat's back" aerofoil (Einstein's folly - see above)</th>
   </tr>
   <tr>
     <th>1922</th>
@@ -128,7 +128,7 @@ Here I list some selected Nobel Laureates in Physics (and Chemistry), the year o
   <tr>
     <th>1932</th>
     <th>Werner Heisenberg</th>
-    <th>Doctoral dissertation under Sommerfeld on transition to turbulence in Poiseuille flow.  Worked with with C. F. von Weizsacker on liquid drop model of the nucelus and turbulence scaling law (similar to Kolmogorov-Obukhov's)
+    <th>Doctoral dissertation under Sommerfeld on transition to turbulence in Poiseuille flow.  Worked with with C. F. von Weizsacker on liquid drop model of the nucelus, and turbulence scaling law (similar to Kolmogorov-Obukhov's)
   </tr>
   <tr>
     <th>1938</th>
