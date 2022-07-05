@@ -12,7 +12,7 @@
 
 &emsp; -- William Thomson (Lord Kelvin), letter to Sir George Gabriel Stokes, 20 Dec 1857.
 
-**Welcome.**  In the following, I present some thoughts about fluid mechanics and the history of physics, pointing in particular to some names that physicists may recognize, and others that they should.  This is a work in progress.
+**Welcome.**  In the following, I present some thoughts about fluid mechanics and the history of physics, pointing in particular to some names that physicists may recognize, and others that they should.  This is a work in progress.  If you know of any errors or omissions, please contact me at (remove spaces) c t o n g "at" m a i l a p s . o r g.
 
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
