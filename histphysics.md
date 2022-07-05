@@ -12,7 +12,7 @@
 
 &emsp; -- William Thomson (Lord Kelvin), letter to Sir George Gabriel Stokes, 20 Dec 1857.
 
-**Welcome.**  In the following, I present some thoughts about fluid mechanics and the history of physics.  This is a work in progress.
+**Welcome.**  In the following, I present some thoughts about fluid mechanics and the history of physics, pointing in particular to some names that physicists may recognize, and others that they should.  This is a work in progress.
 
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
@@ -21,11 +21,11 @@
 
 Most physicists attribute the beginning of *field theory* to Michael Faraday and James Clerk Maxwell in the 19th century.  It is true that theirs was the first *force field theory*; however it borrows a great deal of its mathematics from *mechanical* field theories that originated in the 18th century with Leonhard Euler and other Enlightenment savants.  Consequently much of the vector calculus of electromagnetism retains a distinctly hydrodynamic character, as illustrated in this [video lecture](https://www.youtube.com/watch?v=sB4C3YfSZyU&list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ&index=36) from *The Mechanical Universe and Beyond*, by Prof. David Goodstein.
 
-The greatest classical physicists of all time, Galileo, Newton, Faraday, and Maxwell, all investigated fluid mechanics, though their primary influence on the subject is indirect, through their laying of the foundations of classical mechanics, electromagnetism, and kinetic theory.  At least two of the principal founders of classical thermodynamics, Helmholtz and Kelvin, made more direct and profound contributions to hydrodynamics.  Albert Einstein's foray into aerodynamics is more questionable.  Finally, while only one Nobel Prize in Physics has been awarded for classical hydrodynamics (Hannes Alfven, 1970), many have been awarded to work in superfluids, and many Nobel Laureates honored for other fields have been involved in a greater or lesser extent in hydrodynamics.
+The greatest classical physicists of all time, Galileo, Newton, Faraday, and Maxwell, all investigated fluid mechanics, though their primary influence on the subject is indirect, through their laying of the foundations of classical mechanics, electromagnetism, and kinetic theory.  At least two of the principal founders of classical thermodynamics, Helmholtz and Kelvin, made more direct and profound contributions to hydrodynamics.  Albert Einstein's foray into aerodynamics is more questionable.  Finally, while only one Nobel Prize in Physics has been awarded for classical hydrodynamics (Hannes Alfven, 1970), many have been awarded to work in superfluids, and many Nobel Laureates honored for other fields have been involved in a greater or lesser extent in the physics of fluids.
 
 ### Galileo
 
-Galileo Galilei (1564-1642) wrote a *Discourse on Floating Bodies* (1612), controversial at the time for its quarrelsome, pro-Archimedian, anti-Aristotelian arguments, but is mostly forgotten today.  Stillman Drake believes this obscurity is undeserved, for "The *Discourse* is distinguished among other works of its time by its repeated recourse to observational and experimental data in opposition to philosophical doctrines.  Moreover, the experiments proposed require no elaborate equipment and no technique beyond reasonable patience and care."  However Galileo's account of air resistance encountered by a pendulum, in his *Dialogues Concerning Two New Sciences* (1638), was challenged almost immediately by Marin Mersenne's experimental results, and is considered incorrect today.  In this connection, later writers speculate that Galileo reported on experiments that he never actually did.
+Galileo Galilei (1564-1642) wrote a *Discourse on Floating Bodies* (1612), controversial at the time for its quarrelsome, pro-Archimedian, anti-Aristotelian arguments, but is mostly forgotten today.  Stillman Drake believes this obscurity is undeserved, for "The *Discourse* is distinguished among other works of its time by its repeated recourse to observational and experimental data in opposition to philosophical doctrines.  Moreover, the experiments proposed require no elaborate equipment and no technique beyond reasonable patience and care."  However Galileo's account of air resistance encountered by a pendulum, in his *Dialogues Concerning Two New Sciences* (1638), was challenged almost immediately by Marin Mersenne's experimental results, and is considered incorrect today.  In this connection, later writers speculate that Galileo reported on air resistance experiments that he never actually did.
 
 - Galileo Galilei, *A Discouse Presented to the Most Serene Don Cosimo II,  Great Duke of Tuscany, Concerning the Natation of Bodies Upon, and Submersion in, the Water*.  Translated from the second Italian edition by Thomas Salusbury.  Introduction and notes by Stillman Drake.  University of Illinois Press, 1960.  Dover Phoenix edition, 2005.
 
@@ -43,7 +43,7 @@ Sir Isaac Newton's (1642-1727) *Principia Mathematica* (1687) is divided into th
 
 Modern hydrodynamic theory was founded in this era by the Swiss savants, Daniel Bernoulli and Leonhard Euler (see *Notes on the History of Fluid Mechanics* at the end of this page).
 
-It is notable that the Italian physicist, Laura Bassi (1711-1778), who was modern Europe's second female recipient of a doctoral degree, first female science faculty member, and first female science department chair, all at the University of Bologna, was a hydrodynamicist.  While she is better known for promoting Newtonian mechanics and Franklinian electricity in Italy, one of her few surviving works is on fluid mechanics.  Is she, then, the first woman hydrodynamicist as well?
+It is notable that the Italian physicist, Laura Bassi (1711-1778), who was modern Europe's second female recipient of a doctoral degree, first female science faculty member, and first female science department chair, all at the University of Bologna, was a hydrodynamicist.  While she is better known for promoting Newtonian mechanics and Franklinian electricity in Italy, and for her experimental work on electricity, one of her few surviving publications is on fluid mechanics.  Is she, then, the first woman hydrodynamicist?
 
 - Laura Bassi, 1757:  De problemate quodam hydrometrico.  *De Bononiensi Scientiarum et Artium Instituto atque Academia Commentarii*, IV:  61-73.
 
@@ -79,7 +79,7 @@ Of course, two of the 19th century's greatest thermodynamicists were also among 
 
 ### Einstein's folly
 
-Using a fallacious argument based on the Venturi effect, Albert Einstein (1879-1955) to propose a "cat's back" airfoil design in 1916 that failed miserably when tested by a Berlin aircraft company.  The test pilot, Paul Ehrhardt, survived, but years later, a few months before Einstein died, he told Ehrhardt "I have often been ashamed of my folly of those days."  (A second test pilot, Otto Reichert, crashed but survived.)  "Einstein's folly" is discussed by Bloor (2011, pp. 296-302) and Calaprice et al. (2015, p. 297).  Bloor writes that "Einstein had little knowledge of current developments in the field of aerodynamics.  This episode is a salutory reminder of the difference between fundamental physics and technical mechanics.  Eminence in the former does not guarantee competence in the latter."
+Using a fallacious argument based on the Venturi effect, Albert Einstein (1879-1955) proposes a "cat's back" airfoil design in 1916 that failed miserably when tested by a Berlin aircraft company.  The test pilot, Paul Ehrhardt, survived, but years later, a few months before Einstein died, he told Ehrhardt "I have often been ashamed of my folly of those days."  (A second test pilot, Otto Reichert, crashed but survived.)  "Einstein's folly" is discussed by Bloor (2011, pp. 296-302) and Calaprice et al. (2015, p. 297).  Bloor writes that "Einstein had little knowledge of current developments in the field of aerodynamics.  This episode is a salutory reminder of the difference between fundamental physics and technical mechanics.  Eminence in the former does not guarantee competence in the latter."
 
 - A. Einstein, 1916:  Elementare theorie der wasserwellen und des fluges.  *Die Naturwissenschaften*, 4:  509-510.
 
@@ -88,6 +88,7 @@ Using a fallacious argument based on the Venturi effect, Albert Einstein (1879-1
 Here I list some selected Nobel Laureates in Physics (and Chemistry), the year of their award, and a mention of a few of their involvements in fluid mechanics.
 
 **Physics**
+
 <table>
   <tr>
     <th>Year</th>
@@ -237,6 +238,7 @@ Here I list some selected Nobel Laureates in Physics (and Chemistry), the year o
 </table>
 
 **Chemistry**
+
 <table>
   <tr>
     <th>Year</th>
