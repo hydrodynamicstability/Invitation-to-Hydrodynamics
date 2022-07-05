@@ -3,7 +3,7 @@
 Several of the key architects of contemporary theoretical physics have published entire physics courses, ranging from the *Feynman Lectures on Physics*, 
 intended for  first and second year undergraduates, to the graduate-level *Course of Theoretical Physics* by Landau & Lifshitz.  In this essay I share some 
 thoughts on the  coverage of continuum mechanics in these courses, including also those of Arnold Sommerfeld, Wolfgang Pauli, and Kip Thorne & Roger Blandford.
-I will end with a discussion of the textbooks of Steven Weinberg.
+I end with a discussion of the textbooks of Steven Weinberg.
 
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
@@ -18,7 +18,7 @@ and "The Flow of Wet Water", respectively, to indicate their coverage of first i
 it only in Ch. 39.  Finally in volume 1, *Mainly Mechanics, Radiation, and Heat*, ch. 47 covers sound and the wave equation.  
 
 The entire series of lectures can be accessed [online](https://www.feynmanlectures.caltech.edu/) at no cost; it includes the audio recordings from which the
-written version was prepared.
+written version was prepared.  The recordings are particularly entertaining; for example, you can hear applause when Feynman manages to blow out some candles using a smoke ring generator; the end of the recordings capture some of Feynman's conversations with students.
 
 ### Feynman on fluids
 
@@ -67,6 +67,8 @@ theoretical physics, new to him at the time, caught his fancy, and in a very typ
 its basic results.   This led to a number of original papers which appeared in various journals, but several of his contributions or ideas were not 
 published elsewhere than in the book, and in some instances even his priority was not established till later."
 
+Further comments on Landau/Lifshitz' *Fluid Mechanics* are forthcoming.
+
 ### Arnold Sommerfeld
 
 Arnold Sommerfeld's 6-volume *Lectures on Theoretical Physics* (English translations published 1949-1956) are long out of print, though now available 
@@ -87,6 +89,8 @@ Roger D. Blandford.  This course is intended for first-year graduate students, r
 thermodynamics, and electromagnetism.  Originally published in 2017 as a single massive volume, in 2021 a version was issued where topics are split 
 up into 5 volumes.  Volume 3 covers *Elasticity & Fluid Dynamics*.  However, the chapters make reference to earlier ones (relativity and statistical 
 physics) and future ones (plasma physics) so I advise consuming the content from the original single-volume version.
+
+Further comments on *Modern Classical Physics* are forthcoming.
 
 ### Steven Weinberg
 
