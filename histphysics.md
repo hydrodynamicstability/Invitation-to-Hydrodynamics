@@ -12,7 +12,7 @@
 
 &emsp; -- William Thomson (Lord Kelvin), letter to Sir George Gabriel Stokes, 20 Dec 1857.
 
-**Welcome.**  In the following, I present some thoughts about fluid mechanics and the history of physics.
+**Welcome.**  In the following, I present some thoughts about fluid mechanics and the history of physics.  This is a work in progress.
 
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
@@ -46,6 +46,10 @@ Modern hydrodynamic theory was founded in this era by the Swiss savants, Daniel 
 It is notable that the Italian physicist, Laura Bassi (1711-1778), who was modern Europe's second female recipient of a doctoral degree, first female science faculty member, and first female science department chair, all at the University of Bologna, was a hydrodynamicist.  While she is better known for promoting Newtonian mechanics and Franklinian electricity in Italy, one of her few surviving works is on fluid mechanics.  Is she, then, the first woman hydrodynamicist as well?
 
 - Laura Bassi, 1757:  De problemate quodam hydrometrico.  *De Bononiensi Scientiarum et Artium Instituto atque Academia Commentarii*, IV:  61-73.
+
+At the end of the century (1800), Charles-Augustin de Coloumb (1736-1806), better known for his electrostatic force law, published a series of measurements of viscosity using a torsion wire device.
+
+- C.-A. Coulomb, 1800:  Experiences destinees a determiner la coherence des fluides et les loins de leur resistance dans les mouvements tres lents.  *Memoires des Sciences Mathematiques et Physiques, de l'Institut National des Sciences et Arts*, 3:  246-305.
 
 ### Faraday
 
@@ -265,9 +269,13 @@ Here I list some selected Nobel Laureates in Physics (and Chemistry), the year o
 
 Archimdedes (287-212 BC) formulated the principles of buoyancy and hydrostatics, an enduring contribution from the classical world.  During the Renaissance, Leonardo Da Vinci (1452-1519) formulated a version of the hydraulic continuity equation and made extensive studies of fluid flow (e.g., *Del Moto e Misura Dell'Acqua*, posthumously compiled from DaVinci's writings).  (The continuity equation was rediscovered by Galileo's student, Benedetto Castelli.)  Blaise Pascal (1623-1662) is known for his studies of pressure and formulating Pascal's principle.
 
-The modern theory of hydrodynamics, and the kinetic theory of gases, were both founded by Daniel Bernoulli (1700-1783) with his publication of *Hydrodynamics* (1738).  This event provoked his jealous father Johann to publish *Hydraulica* (1743), backdating it to appear to have preceded his son's work.  In 1752, Jean le Rond D'Alembert (1717-1783) formulated the modern mass balance law for incompressible flow, and in 1768, his famous paradox on fluid resistance. Bernoulli's Swiss compatriot Leonhard Euler (1707-1783) introduced the momentum balance equation that bears his name in 1755.  These efforts (especially Euler's) represent the formulation of hydrodynamics as a local field theory, governed by partial differential equations, and analyzed using vector (and tensor) calculus.  This formulation serves as a model for later field theories in physics (beginning explicitly with Maxwell's electromagnetic theory).  Joseph-Louis Lagrange (1736-1813) extended this work, introducting both the velocity potential and the streamfunction, and used D'Alembert's 1749 complex variable formulation of two-dimensional flow to introduce conformal mapping methods, later exploited by Helmholtz and others.
+The modern theory of hydrodynamics, and the kinetic theory of gases, were both founded by Daniel Bernoulli (1700-1783) with his publication of *Hydrodynamica* (1738).  This event provoked his jealous father Johann to publish *Hydraulica* (1743), backdating it to appear to have preceded his son's work.  In 1752, Jean le Rond D'Alembert (1717-1783) formulated the modern mass balance law for incompressible flow, as well as his famous paradox on fluid resistance. Bernoulli's Swiss compatriot Leonhard Euler (1707-1783) introduced the momentum balance equation that bears his name in 1755.  These efforts (especially Euler's) represent the formulation of hydrodynamics as a local field theory, governed by partial differential equations, and analyzed using vector (and tensor) calculus.  This formulation serves as a model for later field theories in physics (beginning explicitly with Maxwell's electromagnetic theory).  Joseph-Louis Lagrange (1736-1813) extended this work, introducting both the velocity potential and the streamfunction, and used D'Alembert's 1749 complex variable formulation of two-dimensional flow to introduce conformal mapping methods, later exploited by Helmholtz and others.
 
-The 19th century saw the introduction of the Navier-Stokes equations by multiple individuals (see Darrigol, 2002).  The first was in 1822 by Claude Louis Marie Henri Navier (1785-1836), and the last and most definitive was in 1845 by Sir George Gabriel Stokes (1819-1903).  John Scott Russell (1808-1882) discovered solitary waves during studies for a canal company in the 1830s and 40s.  Osborne Reynolds (1832-1912) began the modern investigation of turbulent flow in 1883.  Ludwig Prandtl (1875-1953) introduced the boundary layer concept in 1904.  The two-dimensional theory of aerodynamic lift was fomrulated by Wilhelm Kutta (1867-1944) and Nikolai Egorovich Zhukovskii (1847-1921), while the three-dimensional theory is due to Prandtl and Frederck W. Lanchester (1868-1946).
+The 19th century saw the introduction of the Navier-Stokes equations by multiple individuals (see Darrigol, 2002).  The first was in 1822 by Claude Louis Marie Henri Navier (1785-1836), and the last and most definitive was in 1845 by Sir George Gabriel Stokes (1819-1903).  Giorgio Bidone (1781-1839) initiated the study of hydraulic jumps in papers of 1820 and 1826, a problem that engaged several later theorists including Gaspared Gustave de Coriolis (1792-1843) in 1836. John Scott Russell (1808-1882) discovered solitary waves during studies for a canal company in the 1830s and 40s.  Osborne Reynolds (1832-1912) began the modern investigation of turbulent flow in 1883.  Andrei N. Kolmogorov (1903-1987) and Alexander M. Obukhov (1918-1989) indepdently proposed turbulence scaling laws in 1941 that have had an enduring influence on the subject; as noted above, Heisenberg and von Weiszacker, and Lars Onsager, developed similar theories after the war.
+
+Ludwig Prandtl (1875-1953) introduced the boundary layer concept in 1904.  The two-dimensional theory of aerodynamic lift was fomrulated by Wilhelm Kutta (1867-1944) and Nikolai Egorovich Zhukovskii (1847-1921), while the three-dimensional theory is due to Prandtl and Frederck W. Lanchester (1868-1946).
+
+For more on the history of fluid mechanics, Rouse and Ince (1957), Darrigol (2005), Eckert (2006), and Calero (2008) are particularly useful.  The last three are complementary:  Calero covers the period from Huyghens, Marriotte, and Newton, to Euler and Lagrange; Darrigol takes the story from the Bernoullis to Prandtl; and Eckert begins with Prandtl and ends on the eve of WWII.
 
 
 ### References
@@ -276,9 +284,15 @@ The 19th century saw the introduction of the Navier-Stokes equations by multiple
 
 - A. Calaprice, D. Kennefick, and R. Schulmann, 2015:  *An Einstein Encyclopedia*.  Princeton University Press.
 
+- J. S. Calero, 2008:  *The Genesis of Fluid Mechanics 1640-1780*.  Studies in History and Philosophy of Science, vol. 22.  Springer.
+
 - O. Darrigol, 2002:  Between hydrodynamics and elasticity theory:  the first five births of the Navier-Stokes equations.  *Archive for History of Exact Sciences*, 56:  95-250.
 
+- O. Darrigol., 2005:  *Worlds of Flow:  A History of Hydrodynamics from the Bernoullis to Prandtl*.  Oxford University Press.
+
 - P. A. Davidson, 2001:  *An Introduction to Magnetohydrodynamics*.  Cambridge Texts in Applied Mathematics.  Cambridge University Press.
+
+- M. Eckert, 2006:  *The Dawn of Fluid Dynamics:  A Discipline between Science and Technology*.  Wiley-VCH.
 
 - E. Garber, 2014:  Maxwell's kinetic theory, 1859-70.  In *James Clerk Maxwell:  Perspectives on His Life and Work*, ed. by R. Flood, M. McCartney, and A. Whitaker.  Oxford University Press, pp. 139-153.
 
@@ -291,6 +305,8 @@ The 19th century saw the introduction of the Navier-Stokes equations by multiple
 - O. Penrose and L. Onsager, 1956:  Bose-Einstein condensation and liquid helium.  *Physical Review*, 104:  576-583.
 
 - E. M. Purcell, 1977:  Life at low Reynold number.  *American Journal of Physics*, 45:  3-11.
+
+- H. Rouse and S. Ince, 1957:  *History of Hydraulics*.  State University of Iowa.
 
 - A. Shapere and F. Wilczek, 1989a:  Geometry of self-propulsion at low Reynolds number.  *Journal of Fluid Mechanics*, 198:  557-585.
 
