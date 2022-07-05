@@ -98,12 +98,12 @@ Here I list some selected Nobel Laureates in Physics (and Chemistry), the year o
   <tr>
     <th>1901</th>
     <th>Wiliam C. Rontgen</th>
-    <th>Research on problems such as the effect of pressure on refractive index in various fluids, variations in the relationship between temperature and compressibility in water and other fluids; the spreading of oil drops on water.
+    <th>Research on problems such as the effect of pressure on refractive index in various fluids, variations in the relationship between temperature and compressibility in water and other fluids; the spreading of oil drops on water.</th>
   </tr>
   <tr>
-  <th>1904</th>
-  <th>John William Strutt, Lord Rayleigh</th>
-  <th>Hydrodynamic instabilities (e.g., Rayleigh-Benard, Rayleigh-Taylor, Plateau-Rayleigh); acoustics.</th>
+    <th>1904</th>
+    <th>John William Strutt, Lord Rayleigh</th>
+    <th>Hydrodynamic instabilities (e.g., Rayleigh-Benard, Rayleigh-Taylor, Plateau-Rayleigh); acoustics.</th>
   </tr>
   <tr>
     <th>1913</th>
@@ -128,7 +128,7 @@ Here I list some selected Nobel Laureates in Physics (and Chemistry), the year o
   <tr>
     <th>1932</th>
     <th>Werner Heisenberg</th>
-    <th>Doctoral dissertation under Sommerfeld on transition to turbulence in Poiseuille flow.  Worked with with C. F. von Weizsacker on liquid drop model of the nucelus, and turbulence scaling law (similar to Kolmogorov-Obukhov's)
+    <th>Doctoral dissertation under Sommerfeld on transition to turbulence in Poiseuille flow.  Worked with with C. F. von Weizsacker on liquid drop model of the nucelus, and turbulence scaling law (similar to Kolmogorov-Obukhov's)</th>
   </tr>
   <tr>
     <th>1938</th>
@@ -193,32 +193,32 @@ Here I list some selected Nobel Laureates in Physics (and Chemistry), the year o
   <tr>
     <th>1996</th>
     <th>David Lee, Douglas Osheroff, and Robert Richardson</th>
-    <th>Superfluid liquid helium-3</th3>
+    <th>Superfluid liquid helium-3</th>
   </tr>
   <tr>
     <th>1998</th>
-  <th>Robert B. Laughlin, Horst L. Stormer, and Daniel C. Tsui</th>
-  <th>Fractional quantum hall effect in a quantum fluid</th>
+    <th>Robert B. Laughlin, Horst L. Stormer, and Daniel C. Tsui</th>
+    <th>Fractional quantum hall effect in a quantum fluid</th>
   </tr>
   <tr>
     <th>2001</th>
-  <th>Eric A. Cornell, Wolfgang Ketterle, and Carl Wiemann</th>
-  <th>Bose-Einstein condensation in dilute alkali atom gases</th>
+    <th>Eric A. Cornell, Wolfgang Ketterle, and Carl Wiemann</th>
+    <th>Bose-Einstein condensation in dilute alkali atom gases</th>
   </tr>
   <tr>
-  <th>2003</th>
-  <th>Anthony J. Leggett</th>
-  <th>Contributions to theory of superfluids</th>
+    <th>2003</th>
+    <th>Anthony J. Leggett</th>
+    <th>Contributions to theory of superfluids</th>
   </tr>
   <tr>
-  <th>2004</th>
-  <th>Frank Wilczek</th>
-  <th>Physics of swimminig (Schapire and Wilczek, 1989a,b)</th>
+    <th>2004</th>
+    <th>Frank Wilczek</th>
+    <th>Physics of swimminig (Schapire and Wilczek, 1989a,b)</th>
   </tr>
     <tr>
-    <th>2017</th>
-    <th>Kip S. Thorne</th>
-  <th>Astrophysical hydrodynamics; fluid mechanics chapters in <i>Modern Classical Physics</i> (with R. Blandford)</th>
+      <th>2017</th>
+      <th>Kip S. Thorne</th>
+    <th>Astrophysical hydrodynamics; fluid mechanics chapters in <i>Modern Classical Physics</i> (with R. Blandford)</th>
   </tr>
   <tr>
     <th>2019</th>
