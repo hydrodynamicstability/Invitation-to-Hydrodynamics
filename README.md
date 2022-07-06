@@ -30,7 +30,7 @@
 
   - Wide applications *within* physics, including plasma physics, astrophysics & cosmology, condensed and soft matter physics, and hybrid fields such as physical chemistry, biological physics, and environmental science and engineering.  
   
-  - Crucial subject for the study of geophysics, atmosphere and ocean dynamics, hydrology, and all their counterparts in planetary physics.
+  - Crucial subject for the study of geophysics, atmosphere and ocean dynamics, hydrology, and all their counterparts in planetary physics.  [Ben Korgen](https://physicstoday.scitation.org/doi/full/10.1063/1.1839379) argues that most of these are socially relevant subjects, and that physics majors are a preferred source of students for graduate programs in these fields, but that their physics education condemns them to require remedial coursework on fluid mechanics.
 
   - Applications across engineering and technology, including civil, chemical, biomedical, mechanical, and aerospace engineering, but even occasionally in electrical and nuclear engineering, and materials science and engineering.  Closely allied fields include acoustics and rheology.
 
@@ -106,11 +106,24 @@ In classical mechanics, we typically study point particles, systems thereof, and
 
 Fluid dynamics is often divided into incompressible and compressible flows (the latter is sometimes termed "gas dynamics").  The transmission of sound waves in fluids is a link between compressible hydrodynamics and acoustics, another neglected topic of classical physics in the contemporary curriculum.   Less neglected is *magnetohydrodynamics*, the extension of hydroynamics to electrically conducting fluids in the presence of magnetic fields, an often useful approximation in plasma physics, astrophysics, and cosmology (where relativistic fluid dynamics may also be considered).  Meanwhile the inherently quantum mechanical phenomenon of superfluidity (liquid helium-3's and -4's superfulid states, and Bose-Einstein condensates formed from dilute alkali atomic gases) have been the source of multiple Nobel Prizes in Physics.  
 
-Much of classical hydrodynamics focuses on *Newtonian* fluids, for which a linear relationship exists between the stress tensor and velocity gradients; *Non-Newtonian* fluids have a more complex relationship between stress and response.  *Rheology* is the study of such fluids.  For Newtonian fluids, the classical equations of hydrodynamics include the *continuity equation* (mass balance) and the *Navier-Stokes equations* (momentum balance).   (The special case of inviscid flow is described by the *Euler equations*, the Navier-Stokes equations without the viscosity terms.)  As Oxford theoretical physicist Julia Yeomans [reminds](https://www.nature.com/articles/s41567-021-01258-4) us, we celebrate the 200th anniversary of the Navier-Stokes equations in 2022 (the year this page went live).  While some analytical solutions can be derived, in most realistic problems the equations must be solved numerically.  Computational fluid dynamics (CFD) is one of the oldest domains of computational physics, and the arena of much applied research, and engagement with yet another discipline, computer science and engineering.  For mathematicians, the Navier-Stokes equations are the focus of [one](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) of the seven Clay Mathematics Institute's Millenium Prizes.
+Much of classical hydrodynamics focuses on *Newtonian* fluids, for which a linear relationship exists between the stress tensor and velocity gradients; *Non-Newtonian* fluids have a more complex relationship between stress and response.  *Rheology* is the study of such fluids.  For Newtonian fluids, the classical equations of hydrodynamics include the *continuity equation* (mass balance) and the *Navier-Stokes equations* (momentum balance).   (The special case of inviscid flow is described by the *Euler equations*, the Navier-Stokes equations without the viscosity terms.)  As Oxford theoretical physicist Julia Yeomans [reminds](https://www.nature.com/articles/s41567-021-01258-4) us, we celebrate the 200th anniversary of the Navier-Stokes equations in 2022 (the year this page went live).  While some analytical solutions can be derived, in most realistic problems the equations must be solved numerically.  Computational fluid dynamics (CFD) is one of the oldest domains of computational physics, and the arena of much applied research, and engagement with yet another discipline, computer science and engineering.  For mathematicians, the Navier-Stokes equations are the focus of [one](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) of the seven Clay Mathematics Institute's Millenium Prizes.  (The simplest constitutive laws for the diffusion of heat and solute concentration in fluids are those of Fourier and Fick, respectively, and can be incorporated in convection equations that supplement the Navier-Stokes.)
 
 Fluid dynamics is of increasing interest in condensed and soft matter physics, biological and medical physics, and environmental physics.  The subject has historically even deeper connections to applied mathematics, physical chemistry, all the geophysical, atmospheric, oceanic, and planetary sciences, and to civil, mechanical, aerospace, chemical, and biomedical engineering, among others.  In fact it could be argued that civil engineers were the first hydrodynamicists, since all ancient civilizations were founded on river banks, and they collectively needed to solve the problems of irrigation, drainage, and flood control.  By that argument, the study of fluid flow is as old as human civilization itself.
 
+### Some favorite fluid mechanics pieces in *Physics Today*
 
+- Jerry Gollub:  Continuum mechanics in physics education.  Dec. 2003, pp. 8-9.
+  - The seedcorn for this website!
+- Ben J. Korgen:  Let's revive the study of fluids!  Nov. 2004, pp. 60-61.
+  - Adds to Gollub's arguments above.
+- John D. Anderson, Jr.:  Ludwig Prandtl's boundary layer.  Dec. 2005, pp. 42-48.
+  - Superb retrospective by an eminent historian of aerodynamics.
+- Jerry Gollub:  Discrete and continuum descriptions of matter.  Jan. 2003, pp. 10-11.
+  - Discusses granular flows and particle-laden flows, problems that require a combination of discrete and continuous modeling.
+- M. James Lighthill:  Fluid dynamics as a branch of physics.  Feb. 1962, pp. 17-20.
+  - Irreverent after-dinner speech on the history of hydrodynamics at the APS-DFD 1960 annual meeting in Baltimore.
+- Special issue:  Fluids out of Equilibrium.  Jan. 1984.  
+  
 ### Companion pages
 
 - [Books on fluid and continuum mechanics written by physicists](booksByPhysicists.md).
