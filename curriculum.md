@@ -4,6 +4,7 @@
 
 &emsp; -- [Jerry P. Gollub](https://www.haverford.edu/college-communications/news/jerry-gollub-1944-2019) (1944-2019)\*
 
+
 &emsp; &emsp; &emsp; \* *Physics Today*, 56 (12):  10-11 (2003).
 
 "The hydrodynamic equations are often closely analogous to the electrodynamic equations; that’s why we studied electrodynamics first. Some people argue the other way; they think that one should study hydrodynamics first so that it will be easier to understand electricity afterwards. But electrodynamics is really much easier than hydrodynamics."  
@@ -39,7 +40,7 @@ When I was a graduate teaching assistant in the late 1990s, I encountered a more
 </center>
 
 
-These problems are meant to be solved using Bernoulli's equation for streamlines, but this requires you to tacitly assume that there is a streamline connecting the air outside the building with air inside the building.  However, typically the outside air's streamlines will be flowing *around* the building, not through it.  I am tempted to call this bad physics, an example of what [R. A. Shaw](https://doi.org/10.1119/1.4929153) called the "often over-simplified and even misleading treatments of mass continuity and the Bernoulli equation in introductory physics courses."
+These problems are meant to be solved using Bernoulli's equation for streamlines, but this requires you to tacitly assume that there is a streamline connecting the air outside the building with air inside the building.  However, typically the outside air's streamlines will be flowing *around* the building, not through it.  I am tempted to call this bad physics, an example of what [R. A. Shaw](https://doi.org/10.1119/1.4929153) called the "often over-simplified and even misleading treatments of mass continuity and the Bernoulli equation in introductory physics courses."  Jerry Gollub (2008)'s condemnation is decisive:  "The single largest difficulty I have encountered in incorporating fluid mechanics into introductory physics courses is that standard textbooks do a poor job in covering fluids."
 
 ### Classical mechanics
 
@@ -57,7 +58,7 @@ A minority of texts in statistical physics cover fluid flow and transport phenom
 
 ### Nonlinear dynamics
 
-This subject is not yet a standard one in the physics curriculum, and much of it can be taught without reference to the equations of fluid dynamics.  However, the derivation of the famous Lorenz model requires hydroynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  Historically there have many connections between fluid dynamics and nonlinear dynamics, and my own physics research focused on this connection.
+This subject is not yet a standard one in the physics curriculum, and much of it can be taught without reference to the equations of fluid dynamics.  However, the derivation of the famous Lorenz model requires hydroynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  Historically there have many connections between fluid dynamics and nonlinear dynamics, and Gollub (2003) encouraged using this link to teach both.
 
 ### Mathematical methods 
 
@@ -110,6 +111,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - R. P. Feynman, 1998:  *Statistical Mechanics:  A Set of Lectures*.  Advanced Book Classics.  CRC Press.  Originally published 1972.
 
 - J. Gollub, 2003:  Continuum mechanics in physics education.  *Physics Today*, 56 (12):  10-11.
+
+- J. Gollub, 2008:  Teaching about fluids. *Physics Today*, 61 (10):  8-9.
 
 - D. Halliday, R. Resnick, and J. Walker, 1997:  *Fundamentals of Physics*, 5th edition.  Wiley.
 
