@@ -146,7 +146,7 @@ The content on this site was developed solely on my personal time. The views exp
 
 ### APPENDIX:  Nobel Laureates and fluid mechanics
 
-Here I list some selected Nobel Laureates in Physics (and Chemistry, noted as such), the year of their award, and a mention of a few of their involvements in fluid mechanics.  
+Here I list some selected Nobel Laureates in Physics (and Chemistry, noted as such), the year of their award, and a mention of a few of their involvements in fluid mechanics or the physics of fluids.
 
 <table>
   <tr>
