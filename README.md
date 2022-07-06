@@ -122,7 +122,10 @@ Fluid dynamics is of increasing interest in condensed and soft matter physics, b
   - Discusses granular flows and particle-laden flows, problems that require a combination of discrete and continuous modeling.
 - M. James Lighthill:  Fluid dynamics as a branch of physics.  Feb. 1962, pp. 17-20.
   - Irreverent after-dinner speech on the history of hydrodynamics at the APS-DFD 1960 annual meeting in Baltimore.
-- Special issue:  Fluids out of Equilibrium.  Jan. 1984.  
+- Marcus Reiner:  The Deborah number.  Jan. 1964, p. 62.
+  - Amusing story of the founding of rheology and using the Deborah number to distinguish between solid and fluid.
+- Hershel Markovitz:  The emergence of rheology.   April, 1968:  pp. 23-30.
+  - History of constitutive laws in continuum mechanics and rheology.
   
 ### Companion pages
 
