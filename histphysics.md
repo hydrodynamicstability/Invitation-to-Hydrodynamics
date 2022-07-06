@@ -146,7 +146,7 @@ The content on this site was developed solely on my personal time. The views exp
 
 ### APPENDIX:  Nobel Laureates and fluid mechanics
 
-Here I list some selected Nobel Laureates in Physics (and Chemistry, noted as such), the year of their award, and a mention of a few of their involvements in fluid mechanics or the physics of fluids.
+Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Physics (and Chemistry, noted as such), the year of their award, and a mention of a few of their involvements in fluid mechanics or the physics of fluids.
 
 <table>
   <tr>
@@ -293,6 +293,11 @@ Here I list some selected Nobel Laureates in Physics (and Chemistry, noted as su
     <th>2004</th>
     <th>Frank Wilczek</th>
     <th>Physics of swimminig (Schapire and Wilczek, 1989a,b)</th>
+  </tr>
+   <tr>
+    <th>2016</th>
+    <th>David J. Thouless and J. Michael Kosterlitz</th>
+    <th>Proposed new type of phase transition observable in superfluids</th>
   </tr>
     <tr>
       <th>2017</th>
