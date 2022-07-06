@@ -65,6 +65,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
     - Unusual for its emphasis on dynamical systems, Lie algebra, Riemannian geometry, and the use of the Hamiltonian formulation; also covers numerical computation, chaotic advection, and even renormalization.  This is what happens when a particle theorist writes about hydrodynamics.
 
 - Oded Regev, Orkan M. Umurhan, and Philip A. Yecko, 2016:  *Modern Fluid Dynamics for Physics and Astrophysics*.  Graduate Texts in Physics.  Springer.
+    - See the review by astrophysicist Giuseppe Lodato in the May 2017 issue of [Physics Today](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.3559).
 
 - Michel Rieutord, 2015:  *Fluid Dynamics: An Introduction*. Graduate Texts in Physics.  Springer.
     - A French astrophysicist's presentation of fluid dynamics; includes chapters on magnetohydrodynamics and kinetic theory.  Provides solutions to exercises.
