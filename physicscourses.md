@@ -77,6 +77,8 @@ covering both solid and fluid mechanics.  Sommerfeld passed away during the prep
 thus the final chapter (ch. 5), which includes a development of the hydrodynamic balance equations from kinetic theory (Sec. 43), was prepared by 
 the editors, F. Bopp and J. Meixner.
 
+Further comments on Sommerfeld's *Mechanics of Deformable Bodies* are forthcoming.
+
 ### Wolfgang Pauli
 
 Wolfgang Pauli's 6-volume *Lectures on Physics* (1971) includes only two topics on fluids, both in volume 3, *Thermodynamics and Statistical Physics*. 
@@ -94,7 +96,7 @@ Further comments on *Modern Classical Physics* are forthcoming.
 
 ### Steven Weinberg
 
-Of the architects of contemporary physics since Landau, perhaps Steven Weinberg is the closest to having attempted to write a series of textbooks spanning multiple subdisciplines.  While these books (the 3-volume *Quantum Theory of Fields*, *Cosmology*, *Lectures on Quantum Mechanics*, *Lectures on Astrophysics*, and *Foundations of Modern Physics*) do not formally constitute a "course" in physics, few other of our field's titans have taken as much time to write for students.  As far as I know, hydrodynamics makes an appearance in three of these seven works:  *Cosmology*, *Lectures on Astrophysics*, and *Foundations of Modern Physics*.  Coverage in the first two of these is rather specialized, so here I focus on the third, published just days before his death, and the only one of his texts intended for undergraduates.   A short discussion of fluid dynamics appears (Sec. 2.5) in the chapter on thermodynamics and kinetic theory.  Unlike most presentations in statistical physics texts, which are based on the kinetic theory of gases, Weinberg actually gives a continuum derivation of the Navier-Stokes equations, but not a conventional one.  HIs account uses a style of reasoning that "has become common in the quantum theory of fields, leading to what are known as effective-field theories".  No physicist interested in fluid dynamics should miss it.  
+Of the architects of contemporary physics since Landau, perhaps Steven Weinberg is the closest to having attempted to write a series of textbooks spanning multiple subdisciplines.  While these books (the 3-volume *Quantum Theory of Fields*, *Cosmology*, *Lectures on Quantum Mechanics*, *Lectures on Astrophysics*, and *Foundations of Modern Physics*) do not formally constitute a "course" in physics, few other of our field's titans have taken as much time to write so much for students.  As far as I know, hydrodynamics makes an appearance in three of these seven works:  *Cosmology*, *Lectures on Astrophysics*, and *Foundations of Modern Physics*.  Coverage in the first two of these is rather specialized, so here I focus on the third, published just days before his death, and the only one of his texts intended for undergraduates.   A short discussion of fluid dynamics appears (Sec. 2.5) in the chapter on thermodynamics and kinetic theory.  Unlike most presentations in statistical physics texts, which are based on the kinetic theory of gases, Weinberg actually gives a continuum derivation of the Navier-Stokes equations, but not a conventional one.  HIs account uses a style of reasoning that "has become common in the quantum theory of fields, leading to what are known as effective-field theories".  No physicist interested in fluid dynamics should miss it.  
 
 ### What about the Berkeley Physics Course?
 
