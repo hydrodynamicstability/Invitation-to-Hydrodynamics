@@ -30,7 +30,7 @@
 
   - Wide applications *within* physics, including plasma physics, astrophysics & cosmology, condensed and soft matter physics, and hybrid fields such as physical chemistry, biological physics, and environmental science and engineering.  
   
-  - Crucial subject for the study of geophysics, atmosphere and ocean dynamics, hydrology, and all their counterparts in planetary physics.  [Ben Korgen](https://physicstoday.scitation.org/doi/full/10.1063/1.1839379) argues that most of these are socially relevant subjects, and that physics majors are a preferred source of students for graduate programs in these fields, but that their physics education condemns them to require remedial coursework on fluid mechanics.
+  - Crucial subject for the study of geophysics, atmosphere and ocean dynamics, hydrology, and all their counterparts in planetary physics.  
 
   - Applications across engineering and technology, including civil, chemical, biomedical, mechanical, and aerospace engineering, but even occasionally in electrical and nuclear engineering, and materials science and engineering.  Closely allied fields include acoustics and rheology.
 
@@ -49,6 +49,8 @@ Some additional reasons physics *students* should consider learning some fluid m
 - "\[M\]ost other subjects in the physics curriculum are almost exclusively concerned with *linear* processes, whereas fluid dynamics leads one into the *non-linear* domain."  -- Thomas E. Faber, *Fluid Dynamics for Physicists* (Cambridge University Press, 1995).
 
 - As James S. Trefil has argued, many physicists end up pursuing careers in fields beyond conventional physics research, and should be educated as generalists.  "This point was brought home to me most forcefully when I became involved in some interdisciplinary research projects in medicine, and discovered to my chagrin that I did not possess the background necessary to make meaningful contributions in many areas of the research."  -- James S. Trefil, *Introduction to the Physics of Fluids and Solids* (Pergamon, 1975; reprinted by Dover, 2010).
+
+- [Ben Korgen](https://physicstoday.scitation.org/doi/full/10.1063/1.1839379) argues that atmosperic science, oceanography, and geophysics are socially relevant subjects, and that physics majors are a preferred source of students for graduate programs in these fields, but that without fluid mechanics, their physics education condemns them to require remedial coursework in it.
 
 ### Intrigued, but not yet ready to commit?
 
@@ -69,7 +71,7 @@ In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.c
 Some of you will be ready to crack open Landau & Lifshitz's *Fluid Mechanics*, part of which which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; a friendlier introduction might be in order.  I discuss books on fluid and continuum mechanics written by physicists on a [companion page](booksByPhysicists.md).  Please consult that list, as it is of great value to read how fellow physicists view the subject.  Having said that, hydrodynamics is an interdisciplinary field, and some of the finest literature in it has been written by others, deserving of your attention.  Below I will enumerate some books by non-physicists that physicists often recommend.  A personal favorite is by the late oceanographer, Pijush K. Kundu (1941-1994):
 - P. K. Kundu, 1990:  *Fluid Mechanics*, 1st edition (Academic Press).
 
-This was my primary text when I began learning the subject in the summer of 1996, and subsequent experience has convined me that it remains one of the finest first books on the subject one can read.  (I am unable to vouch for later editions of the book, which were prepared by other authors; please see the comments of R. A. Shaw alluded to below.)
+This was my primary text when I began learning the subject in the summer of 1996, and subsequent experience has convined me that it remains one of the finest first books on the subject one can learn from.  (I am unable to vouch for later editions of the book, which were prepared by other authors.  Physicist [R. A. Shaw](https://doi.org/10.1119/1.4929153) has used the original edition, but would not use the later ones.)
 
 I will divide the other books into two categories:  those by applied mathematicians and those by engineers.
 
@@ -89,7 +91,7 @@ I will also mention a few more advanced books that any serious student of the su
   - M. James Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics* (Oxford University Press).  This author once held Sir Isaac Newton's post at Cambridge University (the Lucasian Professorship of Mathematics).
   - Ronald L. Panton, 2013:  *Incompressible Flow*, 4th edition (Wiley).
 
-Some perceptive thoughts on books for physicists to use when teaching fluid mechanics are offered by Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) of the second edition of *Physical Hydrodynamics* by Guyon et al. in the *American Journal of Physics*, 83 (12):  1061-1062 (2015).  Shaw's short review should be required reading for everyone visiting this page :-).
+Some perceptive thoughts on books for physicists to use when teaching fluid mechanics are offered by Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) of the second edition of *Physical Hydrodynamics* by Guyon et al. in the *American Journal of Physics* (2015).  Shaw's short review should be required reading for everyone visiting this page :-).
 
 Fluid mechanics is an inherently visual discipline.  Some multimedia resources include:
 - The American Physical Society's Division of Fluid Dynamics (DFD) hosts an annual event called the *Gallery of Fluid Motion*, which can now be accessed [online](https://gfm.aps.org/).
