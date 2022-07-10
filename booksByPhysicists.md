@@ -33,7 +33,7 @@ Commentary on these books is being added gradually over time, so please consider
      
 ### Books covering fluid mechanics
 
-The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), both classics but with different personalities.  Landau/Lifshitz is very theoretical, while Tritton is packed with photographs and plots of experimental data.  Neither is likely suitable for a first undergraduate course in the field, but serious students of hydrodynamics will inevitably consult both.
+The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), both classics but with different personalities.  Landau/Lifshitz is obviously very theoretical, while Tritton is packed with photographs and plots of experimental data.  Neither is likely suitable for a first undergraduate course in the field, but serious students of hydrodynamics will inevitably consult both.
 
 - Thomas E. Faber, 1995:  *Fluid Dynamics for Physicists*. Cambridge University Press.
     - Faber (1927-2004) was both a theoretical and experimental physicist at Cambridge University and also an executive at the publishing company founded by his father.  Like Tritton's, Faber's book is packed with photos, but unlike Tritton, it fails to include much experimental data.  Faber concedes that he is but an "enthusiastic amateur" compared to other physicists who've written fluid dynamics books.  He wrote this one so that it "may be read for pleasure as well as for instruction by physicists of any age and at almost any level of sophisticiation who want to learn fluid dynamics for themselves."  It lacks exercises, but derivations are only sketched, so that readers could certainly work through the material with pencil and paper if they chose to.  
@@ -42,7 +42,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
     - Written by an Israeli theoretical physicist, this very short book attempts to teach "the minimum of what every physicist, engineer and mathematician needs to know about hydrodynamics."  Solutions to exercises are provided in the back, and a [supporting website](https://www.weizmann.ac.il/complex/falkovich/fluid-mechanics) is maintained by the author.  This short text is more demanding on the reader than some others on this list.
    
 - Richard Fitzpatrick, 2017:  *Theoretical Fluid Mechanics*.  Institute of Physics.
-    - Lamenting the absence of fluid dynamics courses in the physics curriculum, the book was written for self-study by graduate students, and consequently includes solutions to all its problems.  Emphasizes astrophysical and geophysical applications.  The author seems to be an astrophysicist-turned-plasma physicist.
+    - Lamenting the absence of fluid dynamics courses in the physics curriculum, the book was written for self-study by graduate students, and consequently includes solutions to all its problems.  Emphasizes astrophysical and geophysical applications.  The author seems to be an astronomer-turned-plasma physicist.
     
 - Etienne Guyon, Jean-Pierre Hulin, Luc Petit, and Catalin D. Mitescu, 2015:  *Physical Hydrodynamics*, 2d edition.  Oxford University Press.  Original French edition, 1991.
     - This French text is another with a strong experimentalists' flavor.  The original edition had no exercises, but the second edition has a small number of end-of-chapter problems, with solutions in the back.  See Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) in the *American Journal of Physics*, 83 (12):  1061-1062 (2015).
@@ -65,7 +65,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
     - Unusual for its emphasis on dynamical systems, Lie algebra, Riemannian geometry, and the use of the Hamiltonian formulation; also covers numerical computation, chaotic advection, and even renormalization.  This is what happens when a particle theorist writes about hydrodynamics.
 
 - Oded Regev, Orkan M. Umurhan, and Philip A. Yecko, 2016:  *Modern Fluid Dynamics for Physics and Astrophysics*.  Graduate Texts in Physics.  Springer.
-    - See the review by astrophysicist Giuseppe Lodato in the May 2017 issue of [Physics Today](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.3559).
+    - This book is based on an Israeli graduate-level course.  See the review by astrophysicist Giuseppe Lodato in the May 2017 issue of [Physics Today](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.3559).
 
 - Michel Rieutord, 2015:  *Fluid Dynamics: An Introduction*. Graduate Texts in Physics.  Springer.
     - A French astrophysicist's presentation of fluid dynamics; includes chapters on magnetohydrodynamics and kinetic theory.  Provides solutions to exercises.
@@ -82,6 +82,7 @@ I am admittedly very unfamiliar with the literature in this field, so this secti
 - Lev D. Landau and Evgenii M Lifshitz, 1986:  *Theory of Elasticity*, 3d ed., revised and enlarged by E. M. Lifshitz, A. M. Kosevich, and L. P. Pitaevskii.  Translated by J. B. Sykes and W. H. Reid.  Course of Theoretical Physics, Vol. 7.  Butterworth-Heinemann.  Original Russian edition, 1944.
 - Alister G. McLellan, 1980:  *The Classical Thermodynamics of Deformable Materials*.  Cambridge Monographs on Physics.  Cambridge University Press.
 - Adrian P. Sutton, 2020:  *Physics of Elasticity and Crystal Defects*.  Oxford Series on Materials Modelling.  Oxford University Press.
+- Jerome H. Weiner, 2002:  *Statistical Mechanics of Elasticity*, 2d edition.  Dover.  (Reissued 2017.)
 
 ### Books covering acoustics
 
@@ -116,8 +117,8 @@ As a point of personal privilege, I want to include a few other titles on a more
 
 Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can't fail to mention two other Nobel laureates in physics:
 
-- Hannes Alfven and Carl-Gunne Falthammar, 1963: *Cosmical Electrodynamics*, 2d edition. International Series of Monographs on Physics.  Oxford University Press.  (Original edition, 1950.)
-    - Alfven (1908-1995) is the founder of modern magnetohydrodynamics, a topic he covers in this book.  Alven won the 1970 Nobel Prize in Physics.
+- Hannes Alfven, 1950: *Cosmical Electrodynamics*. International Series of Monographs on Physics.  Oxford University Press.  
+    - Alfven (1908-1995) is the founder of modern magnetohydrodynamics, a topic he covers in this book.  Alven won the 1970 Nobel Prize in Physics for his contributions to plasma physics.  A second edition in 1963, co-authored with Carl-Gunne Falthammar, was subtitled *Fundamental Principles*.
 
 - Subrahmanyan Chandrasekhar, 1981:  *Hydrodynamic and Hydromagnetic Stability*.  Dover.  (Original edition published in the International Series of Monographs on Physics, by Oxford University Press, 1961.)
     - A landmark contribution by a legendary astrophysicist.  Anyone interested in hydrodynamic instabilities must own this book.  Chandrasekhar (1910-1995) won the 1983 Nobel Prize in Physics.  (In 2011 Edward A. Spiegel  edited and published Chandrasekhar's 1954 lectures on *The Theory of Turbulence*.)
@@ -128,7 +129,7 @@ In this section I focus on the books listed in the first two sections, on contin
 
 #### A chronological perspective  
 
-In the early years of the nuclear age, Sommerfeld's lectures appeared in English in 1950, and Prandtl's book in 1952, both near the end of their authors' lives.  The first English edition of Landau & Lifshitz appeared in 1959.  All three of these books have roots in the pre-WWII period.  Sommerfeld and Landau/Lifshitz remained staples for years; though most of the books in fluid mechanics in this era were written by nonphysicists, such as Batchelor's masterpiece (1967).  It was not until the 1970s that a few more physicists realized that their perspective could be useful - McCormack & Crane (1973), Trefil (1975), and Tritton (1977).  It seems that only the third of these was an undisputed success.  The 1980s saw the appearance of Bhatia & Singh (1984), the first English edition of Brekhovskikh & Goncharov (1985), and  second editions of the classics, Landau & Lifshitz (1987) and Tritton (1988).  The 1990s greeted the second edition of Brekhovskikh & Goncharov (1994) and the landmark contribution of Faber (1995).  Faber claimed to know of only three previous fluid dynamics books written by physicists:  Ludwig Prandtl's *Essentials of Fluid Dynamics* and the classics by Landau/Lifshitz and Tritton -- basically snubbing the other authors mentioned in this paragraph -- including Arnold Sommerfeld!
+In the early years of the nuclear age, Sommerfeld's lectures appeared in English in 1950, and Prandtl's book in 1952, both near the end of their authors' lives.  The first English edition of Landau & Lifshitz appeared in 1959.  All three of these books have roots in the pre-WWII period.  Sommerfeld and Landau/Lifshitz remained staples for years; though most of the books in fluid mechanics in this era were written by nonphysicists, such as Batchelor's masterpiece (1967).  It was not until the 1970s that a few more physicists realized that their perspective could be useful - McCormack & Crane (1973), Trefil (1975), and Tritton (1977).  It seems that only the third of these was an undisputed success.  The 1980s saw the appearance of Bhatia & Singh (1984), the first English edition of Brekhovskikh & Goncharov (1985), and  second editions of the classics, Landau & Lifshitz (1987) and Tritton (1988).  The 1990s greeted the second edition of Brekhovskikh & Goncharov (1994) and the landmark contribution of Faber (1995).  Faber claimed to know of only three previous fluid dynamics books written by physicists:  Ludwig Prandtl's *Essentials of Fluid Dynamics* and the classics by Landau/Lifshitz and Tritton -- basically snubbing the other authors mentioned in this paragraph, including Arnold Sommerfeld!
 
 The first decade of the 21st century witnessed the first English edition of Guyon et al. (2001), the first edition of Lautrup (2005), and Kambe's contribution (2007).  However the second decade welcomed an outburst of physicists on our subject:  Falkovich (2011, 2018), Pert (2013), Rieutord (2015), Regev et al. (2016), Fitzpatrick (2017), Thorne & Blandford (2017), Rajeev (2018), as well as second editions of Lautrup (2011) and Guyon et al (2015).  Thus, the most recent decade has single-handedly eliminated the death of general and introductory books on fluid mechanics written by physicists!
 
