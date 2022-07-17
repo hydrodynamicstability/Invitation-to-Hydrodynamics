@@ -10,7 +10,12 @@
 
 &emsp; &emsp; &emsp; \*\* *The Feynman Lectures in Physics*, vol. 2, ch. 41.  (Addison-Wesley, 1964.)
 
-**Welcome.**  This page aims to outline why a physicist should learn a little bit of fluid mechanics, and how to get started doing so.   The page is currently under construction; thank you for your patience.  
+"The older I get, the stranger it seems to me that my undergraduate education in physics and astronomy included virtually no instruction in fluids.  I suspect I am not the only physicist who feels that way." -- [Chanda Prescod-Weinstein](http://www.cprescodweinstein.com/)\*\*\*
+
+&emsp; &emsp; &emsp; \*\*\* *Physics Today*, July 2022, p. 53.
+
+
+**Welcome.**  This page aims to outline why a physicist should learn a little bit of fluid mechanics, and how to get started doing so.   It exists because the subject is usually completely neglected in the standard physics curriculum.  The page is currently under construction; thank you for your patience.  
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
 **Outline:**
@@ -68,7 +73,7 @@ In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.c
 
 ### Convinced, and ready to take the plunge?
 
-Some of you will be ready to crack open Landau & Lifshitz's *Fluid Mechanics*, part of which which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; a friendlier introduction might be in order.  I discuss books on fluid and continuum mechanics written by physicists on a [companion page](booksByPhysicists.md).  Please consult that list, as it is of great value to read how fellow physicists view the subject.  Having said that, hydrodynamics is an interdisciplinary field, and some of the finest literature in it has been written by others, deserving of your attention.  Below I will enumerate some books by non-physicists that physicists often recommend.  A personal favorite is by the late oceanographer, Pijush K. Kundu (1941-1994):
+Some of you will be ready to crack open Landau & Lifshitz's *Fluid Mechanics*, part of which represents their (very demanding) "theoretical minimum".  For most of you, starting there would be unwise; a friendlier introduction might be in order.  I discuss books on fluid and continuum mechanics written by physicists on a [companion page](booksByPhysicists.md).  Please consult that list, as it is of great value to read how fellow physicists view the subject.  Having said that, hydrodynamics is an interdisciplinary field, and some of the finest literature in it has been written by others, deserving of your attention.  Below I will enumerate some books by non-physicists that physicists often recommend.  A personal favorite is by the late oceanographer, Pijush K. Kundu (1941-1994):
 - P. K. Kundu, 1990:  *Fluid Mechanics*, 1st edition (Academic Press).
 
 This was my primary text when I began learning the subject in the summer of 1996, and subsequent experience has convined me that it remains one of the finest first books on the subject one can learn from.  (I am unable to vouch for later editions of the book, which were prepared by other authors.  Physicist [R. A. Shaw](https://doi.org/10.1119/1.4929153) has used the original edition, but would not use the later ones.)
@@ -77,7 +82,7 @@ I will divide the other books into two categories:  those by applied mathematici
 
   - Books by applied mathematicians:
     - David J. Acheson, 1990:  *Elementary Fluid Dynamics* (Oxford University Press).
-    - Alexandre J. Chorin and Jerrold E. Marsden, 2000:  *A Mathematical Introduction to Fluid Mechanics*, 3d edition (Springer).
+    - Alexandre J. Chorin and Jerrold E. Marsden, 2000:  *A Mathematical Introduction to Fluid Mechanics*, 3d edition (Springer).  The first author was awarded the National Medal of Science for his contributions to hydrodynamics.
     - A. R. Paterson, 1983:  *A First Course in Fluid Dynamics* (Cambridge University Press).
   - Books by engineers:
     - Rutherford Aris, 1989:  *Vectors, Tensors, and the Basic Equations of Fluid Mechanics*, corrected reprint (Dover).
@@ -97,16 +102,16 @@ Fluid mechanics is an inherently visual discipline.  Some multimedia resources i
 - The American Physical Society's Division of Fluid Dynamics (DFD) hosts an annual event called the *Gallery of Fluid Motion*, which can now be accessed [online](https://gfm.aps.org/).
 - Cambridge University Press offers *Multimedia Fluid Mechanics*, also [online](https://www.cambridge.org/core/homsy/) but behind a paywall.  This is one of the most popular resources for fluid mechanics teaching.
 - Prof. Jean Hertzberg (U. Colorado-Boulder)'s course on [Flow Visualization](https://www.flowvis.org/).
-- Two classic series of fluid mechanics instructional films are those of Prof. Ascher Shapiro (MIT), the [National Committee for Fluid Mechanics Films](https://web.mit.edu/hml/ncfmf.html); and those of Prof. Hunter Rouse (U. Iowa), at the [Iowa Institute for Hydraulic Research](https://www.iihr.uiowa.edu/rouse-educational-films/).
+- Two classic series of fluid mechanics instructional films are those of Prof. Ascher Shapiro (MIT), the [National Committee for Fluid Mechanics Films](https://web.mit.edu/hml/ncfmf.html); and those of Prof. Hunter Rouse (U. Iowa), at the [Iowa Institute for Hydraulic Research](https://www.iihr.uiowa.edu/rouse-educational-films/).  Shapiro's series includes distinguished presenters such as G. I. Taylor, James Lighthill, John Lumley, Hershel Markovitz, and Dave Fultz.
 - An online portal for all things fluid mechanical is [eFluids](http://www.efluids.com/).  While it probably falls short in its goal to be a "one stop source for fluid dynamics and flow engineering", it is still a useful resource, and I know of nothing else even close to it on the web.
 
 ### Some background thoughts
 
-Fluid mechanics consists of the statics and dynamics of fluids (hydrostatics and hydrodynamics, respectively), classically including liquids, gases, and plasmas, under conditions when these materials deform continuously in response to tangential force.  The same macroscopic laws of fluid mechanics are operative despite fundamentally different microscopic physics governing these states of matter, perhaps a clue that fluid mechanics is an emergent phenomenon.  These macroscopic laws were developed primarily in the 18th and 19th centuries, well before the general acceptance of the atomic hypothesis was achieved, and have scarcely needed revision since then.  Nonetheless, a number of *fundamental* problems involving fluid dynamics remains unsolved, and there is a wide range of applications throughout science, engineering, and medicine.
+Fluid mechanics consists of the statics and dynamics of fluids (hydrostatics and hydrodynamics, respectively), classically including liquids, gases, and plasmas, under conditions when these materials deform continuously in response to tangential force.  The same macroscopic laws of fluid mechanics are operative despite fundamentally different microscopic physics governing these states of matter, perhaps a clue that fluid mechanics is an emergent phenomenon.  These macroscopic laws were developed primarily in the 18th and 19th centuries, well before the general acceptance of the atomic hypothesis, and have scarcely needed revision since then.  Nonetheless, a number of *fundamental* problems involving fluid dynamics remains unsolved, and there is a wide range of applications throughout science, engineering, and medicine.
 
 In classical mechanics, we typically study point particles, systems thereof, and rigid bodies.  However, an oft-neglected feature of mechanics in today's physics curriculum is *continuum mechanics*, the statics and dynamics of deformable solids and fluids, as well as materials with more complex rheology.  The classical theory of continua makes use of both the continuum hypothesis (ignoring the discrete molecular structure of matter) and the assumption of local thermodynamic equilibrium.  In fluid dynamics, the bulk transport of mass, momentum, and heat are nonequilibrium phenomena, but we posit the existence of scalar, vector, and tensor fields where mechanical variables (like velocity and stress) and thermodynamic variables (like density, pressure, and temperature) can be *locally* well defined, even as they vary globally in space and time.  In kinetic theories of gases, however, it is possible to derive the classical equations of hydrodynamics as approximations to the Boltzmann transport equation for, e.g., dilute monatomic gases with conservative binary collisions.  The approximation is often based on decomposing the number density distribution function in state space as the sum of a Maxwell-Boltzmann distribution and a small deviation, and expanding the collision integral to first order in that deviation.  Thus while hydrodynamics is usually considered a branch of mechanics, it has intimate connections with statistical mechanics and nonequilibrium thermodynamics.
 
-Fluid dynamics is often divided into incompressible and compressible flows (the latter is sometimes termed "gas dynamics").  The transmission of sound waves in fluids is a link between compressible hydrodynamics and acoustics, another neglected topic of classical physics in the contemporary curriculum.   Less neglected is *magnetohydrodynamics*, the extension of hydroynamics to electrically conducting fluids in the presence of magnetic fields, an often useful approximation in plasma physics, astrophysics, and cosmology (where relativistic fluid dynamics may also be considered).  Meanwhile the inherently quantum mechanical phenomenon of superfluidity (liquid helium-3's and -4's superfulid states, and Bose-Einstein condensates formed from dilute alkali atomic gases) have been the source of multiple Nobel Prizes in Physics.  
+Fluid dynamics is often divided into incompressible and compressible flows (the latter is sometimes termed "gas dynamics").  The transmission of sound waves in fluids is a link between compressible hydrodynamics and acoustics, another neglected topic of classical physics in the contemporary curriculum.   Less neglected is *magnetohydrodynamics*, the extension of hydroynamics to electrically conducting fluids in the presence of magnetic fields, an often useful approximation in plasma physics, astrophysics, and cosmology (where relativistic fluid dynamics may also be considered).  More specialized subjects include electrohydrodynamics (charged fluid in an electrostatic field, receiving recent attention in microhydrodynamics) and ferrohydrodynamics (magnetic fluids often in the absence of either electric charge or current.)  Meanwhile the inherently quantum mechanical phenomenon of superfluidity (e.g., liquid helium-3’s and -4’s superfulid states, and Bose-Einstein condensates formed from dilute alkali atomic gases) have been the source of multiple Nobel Prizes in Physics.  (It is even claimed that superfluids can form in the cores of neutron stars.)
 
 Much of classical hydrodynamics focuses on *Newtonian* fluids, for which a linear relationship exists between the stress tensor and velocity gradients; *Non-Newtonian* fluids have a more complex relationship between stress and response.  *Rheology* is the study of such fluids.  For Newtonian fluids, the classical equations of hydrodynamics include the *continuity equation* (mass balance) and the *Navier-Stokes equations* (momentum balance).   (The special case of inviscid flow is described by the *Euler equations*, the Navier-Stokes equations without the viscosity terms.)  As Oxford theoretical physicist Julia Yeomans [reminds](https://www.nature.com/articles/s41567-021-01258-4) us, we celebrate the 200th anniversary of the Navier-Stokes equations in 2022 (the year this page went live).  While some analytical solutions can be derived, in most realistic problems the equations must be solved numerically.  Computational fluid dynamics (CFD) is one of the oldest domains of computational physics, and the arena of much applied research, and engagement with yet another discipline, computer science and engineering.  For mathematicians, the Navier-Stokes equations are the focus of [one](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation) of the seven Clay Mathematics Institute's Millenium Prizes.  (The simplest constitutive laws for the diffusion of heat and solute concentration in fluids are those of Fourier and Fick, respectively, and can be incorporated in convection equations that supplement the Navier-Stokes.)
 
@@ -115,7 +120,7 @@ Fluid dynamics is of increasing interest in condensed and soft matter physics, b
 ### Some favorite fluid mechanics pieces in *Physics Today*
 
 - Jerry Gollub:  Continuum mechanics in physics education.  Dec. 2003, pp. 8-9.
-  - The seedcorn for this website!
+  - A primary inspiration for this website!
 - Ben J. Korgen:  Let's revive the study of fluids!  Nov. 2004, pp. 60-61.
   - Adds to Gollub's arguments above.
 - John D. Anderson, Jr.:  Ludwig Prandtl's boundary layer.  Dec. 2005, pp. 42-48.
@@ -128,6 +133,8 @@ Fluid dynamics is of increasing interest in condensed and soft matter physics, b
   - Amusing story of the founding of rheology and using the Deborah number to distinguish between solid and fluid.
 - Hershel Markovitz:  The emergence of rheology.   April, 1968:  pp. 23-30.
   - History of constitutive laws in continuum mechanics and rheology.
+- Russell J. Donnelly:  The discovery of superfluidity.  July, 1995:  pp. 30-36.
+  - History of early experiments on liquid helium superfluids, from Heike Kamerlingh Onnes to the Toronto group to Pyotr Kapitsa.
   
 ### Companion pages
 
