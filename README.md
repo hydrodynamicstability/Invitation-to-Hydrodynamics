@@ -1,16 +1,19 @@
 ## An Invitation to Fluid Mechanics for Physicists
 
 "Hydrodynamics and magnetohydrodynamics are fundamental, regardless of popular opinion."  
+
 &emsp; -- [Eugene N. Parker](https://news.uchicago.edu/story/eugene-parker-legendary-figure-solar-science-and-namesake-parker-solar-probe-1927-2022) (1927-2022)\*
 
 &emsp; &emsp; &emsp; \*Quoted in the retrospective by Stuart D. Bale, *Science*, 376:  461 (29 Apr 2022).
 
 "That we have written an equation does not remove from the flow of fluids its charm or mystery or its surprise."  
+
 &emsp; -- [Richard P. Feynman](http://www.richardfeynman.com/about/bio.html) (1918-1988)\*\*
 
 &emsp; &emsp; &emsp; \*\* *The Feynman Lectures in Physics*, vol. 2, ch. 41.  (Addison-Wesley, 1964.)
 
 "The older I get, the stranger it seems to me that my undergraduate education in physics and astronomy included virtually no instruction in fluids.  I suspect I am not the only physicist who feels that way." 
+
 &emsp; -- [Chanda Prescod-Weinstein](http://www.cprescodweinstein.com/)\*\*\*
 
 &emsp; &emsp; &emsp; \*\*\* *Physics Today*, July 2022, p. 53.
