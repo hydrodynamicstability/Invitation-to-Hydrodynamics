@@ -59,7 +59,7 @@ According to Peter A. Davidson, Michael Faraday (1791-1867) "tried to measure th
 
 ### Maxwell (and Boltzmann)
 
-Keith Moffatt writes of James Clerk Maxwell's (1831-1879) research in hydrodynamics:  "his publications were few but nevertheless ground-breaking in their originality".  Of course, as mentioned, the conceptual and mathematical appartus of hydrodynamic theory was employed by Maxwell in the early stages of developing his electromagnetic field theory.  Meanwhile, after Maxwell's first paper on the kinetic theory of gases, he and his wife Katherine carried out a series of experiments to measure the viscosity of air at various conditions, confirming that it is independent of pressure.  Elizabeth Garber says that these experiments, published in 1866, "became one of the most significant pieces of evidence in favour of his kinetic theory".  Maxwell's second paper on kinetic theory (1867) shows how the Navier-Stokes equations may be obtained within the theory.  Ludwig Boltzmann (1844-1906), of course, completed Maxwell's kinetic theory; but also a cryptic passage in Serrin (1958) claims that Boltzmann was the first to propose that the symmetry of the Cauchy stress tensor be an axiom, rather than a theorem (as Cauchy had presented it).  Maxwell and Boltzmann both contributed to early theories of viscoelasticity.
+Keith Moffatt writes of James Clerk Maxwell's (1831-1879) research in hydrodynamics:  "his publications were few but nevertheless ground-breaking in their originality".  Of course, as mentioned, the conceptual and mathematical appartus of hydrodynamic theory was employed by Maxwell in the early stages of developing his electromagnetic field theory.  Meanwhile, after Maxwell's first paper on the kinetic theory of gases, he and his wife Katherine carried out a series of experiments to measure the viscosity of air at various conditions, confirming that it is independent of pressure.  Elizabeth Garber says that these experiments, published in 1866, "became one of the most significant pieces of evidence in favour of his kinetic theory".  Maxwell's second paper on kinetic theory (1867) shows how the Navier-Stokes equations may be obtained within the theory.  Ludwig Boltzmann (1844-1906), of course, completed Maxwell's kinetic theory; but also a cryptic passage in Serrin (1958) claims that Boltzmann was the first to propose that the symmetry of the Cauchy stress tensor be an axiom, rather than a theorem (as Cauchy had presented it).  As Hershel Markovitz reminds us, Boltzmann (along with Maxwell and Kelvin) contributed to early theories of viscoelasticity.
 
 - J. Clerk Maxwell, 1866:  The Bakerian Lecture--On the viscosity or internal friction of air and other gases.  *Philosophical Transactions of the Royal Society of London*, 156:  249-268.
 
@@ -117,6 +117,8 @@ For more on the history of fluid mechanics, Rouse and Ince (1957), Darrigol (200
 - T. D. Lee, 1952:  On some statistical properties of hydrodynamical and magnetohydrodynamical fields. *Quart. J. Appl. Math.*, 10, 69-74.
 
 - U. J. Lorenz and A. H. Zewail, 2014:  Observing liquid flow in nanotubes by 4D electron microscopy.  *Science*, 344:  1496-1500.
+
+- H. Markovitz, 1977:  Boltzmann and the beginnings of linear viscoelasticity.  *Transactions of the Society of Rheology*, 21:  381-398.
 
 - K. Moffatt, 2014:  The fluid dynamics of James Clerk Maxwell.  In *James Clerk Maxwell:  Perspectives on His Life and Work*, ed. by R. Flood, M. McCartney, and A. Whitaker.  Oxford University Press, pp. 223-230.
 
