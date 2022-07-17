@@ -166,6 +166,11 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
     <th>John William Strutt, Lord Rayleigh</th>
     <th>Hydrodynamic instabilities (e.g., Rayleigh-Benard, Rayleigh-Taylor, Plateau-Rayleigh); acoustics.</th>
   </tr>
+    <tr>
+    <th>1906</th>
+    <th>J. J. Thomson</th>
+    <th>Contributed to viscoelastic theory.</th>
+  </tr>
   <tr>
     <th>1913</th>
     <th>Heike Kamerlingh Onnes</th>
