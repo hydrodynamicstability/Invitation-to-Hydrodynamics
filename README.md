@@ -10,7 +10,8 @@
 
 &emsp; &emsp; &emsp; \*\* *The Feynman Lectures in Physics*, vol. 2, ch. 41.  (Addison-Wesley, 1964.)
 
-"The older I get, the stranger it seems to me that my undergraduate education in physics and astronomy included virtually no instruction in fluids.  I suspect I am not the only physicist who feels that way." -- [Chanda Prescod-Weinstein](http://www.cprescodweinstein.com/)\*\*\*
+"The older I get, the stranger it seems to me that my undergraduate education in physics and astronomy included virtually no instruction in fluids.  I suspect I am not the only physicist who feels that way." 
+&emsp; -- [Chanda Prescod-Weinstein](http://www.cprescodweinstein.com/)\*\*\*
 
 &emsp; &emsp; &emsp; \*\*\* *Physics Today*, July 2022, p. 53.
 
