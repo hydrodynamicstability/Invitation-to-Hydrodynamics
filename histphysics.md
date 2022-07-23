@@ -40,7 +40,7 @@ Sir Isaac Newton's (1642-1727) *Principia Mathematica* (1687) is divided into th
 
 ### The 18th Century
 
-Modern hydrodynamic theory was founded in this era by the Swiss savants, Daniel Bernoulli and Leonhard Euler (see *Notes on the History of Fluid Mechanics* at the end of this page).
+Modern hydrodynamic theory was founded in this era by the Swiss savants, Daniel Bernoulli and Leonhard Euler, with key roles played by the Frenchmen, D'Alembert and Lagrange (see *Notes on the History of Fluid Mechanics* at the end of this page).
 
 It is notable that the Italian physicist, Laura Bassi (1711-1778), who was modern Europe's second female recipient of a doctoral degree, first female science faculty member, and first female science department chair, all at the University of Bologna, was a hydrodynamicist.  While she is better known for promoting Newtonian mechanics and Franklinian electricity in Italy, and for her experimental work on electricity, one of her few surviving publications is on fluid mechanics.  Is she, then, the first woman hydrodynamicist?
 
