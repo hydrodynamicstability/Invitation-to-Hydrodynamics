@@ -13,6 +13,11 @@
 
 &emsp; &emsp; &emsp; \*\* *The Feynman Lectures in Physics*, vol. 2, ch. 40.  (Addison-Wesley, 1964.)
 
+"We regard the transport phenomena course as a third semester of physics, made necessary by the fact that elementary physics includes almost no material on fluid dynamics, heat conduction, and diffusion."
+
+&emsp; -- [R. Byron Bird](https://engineering.wisc.edu/news/chemical-engineering-pioneer-robert-byron-bird-passes-away-at-96/) (1924-2020)\*\*\*
+
+&emsp; &emsp; &emsp; \*\*\* *Chemical Engineering Education*, Winter 1968, pp. 4-7.
 
 
 **Welcome.**  In the following, I discuss encounters with fluid mechanics, as it appears in textbooks intended for major subjects in the core undergraduate and graduate physics curriculum.  This page is a work in progress; I appreciate your patience.
