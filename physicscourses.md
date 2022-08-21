@@ -2,8 +2,7 @@
 
 Several of the key architects of contemporary theoretical physics have published entire physics courses, ranging from the *Feynman Lectures on Physics*, 
 intended for  first and second year undergraduates, to the graduate-level *Course of Theoretical Physics* by Landau & Lifshitz.  In this essay I share some 
-thoughts on the  coverage of continuum mechanics in these courses, including also those of Arnold Sommerfeld, Wolfgang Pauli, and Kip Thorne & Roger Blandford.
-I end with a discussion of the textbooks of Steven Weinberg.
+thoughts on the  coverage of continuum mechanics in these courses, including also those of Arnold Sommerfeld, Wolfgang Pauli, and Kip Thorne & Roger Blandford.  I end with a very brief discussion of the textbooks of Steven Weinberg.
 
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
