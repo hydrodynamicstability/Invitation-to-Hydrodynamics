@@ -72,15 +72,16 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
     - Percy McCormack (1929-2015) was an Irish physicist who later became chief of operation medicine for NASA, and still later a bio-engineering professor.  His Irish colleague Lawrence J. Crane (1931-2021) was an applied mathematician.  The final chapter of the book covers superfluid helium, distinguishing it from most other textbooks.  There is also a chapter on particle-laden flows, a topic not treated as extensively by other physicists on this list.  However, Russell J. Donnelly provided a very negative [review](https://aapt.scitation.org/doi/abs/10.1119/1.10051) of this book in the *American Journal of Physics*, and I have not seen it cited much.
 
 - Geoffrey J. Pert, 2013:  *Introductory Fluid Mechanics for Physicists and Mathematicians*. Wiley.
+    - Comments on this book are forthcoming.
 
 - Ludwig Prandtl, 1952:  *Essentials of Fluid Dynamics, With Applications to Hydraulics, Aeronautics, Meteorology and other Subjects*.  Translated by W. M. Deans.  Hafner.  Original German edition, 1942.  An updated version edited by H. Oertel is published in Springer's *Applied Mathematical Sciences* series (2010).
     - I've included this book by the founder of boundary layer theory, Ludwig Prandtl (1875-1953), mainly because it made T. E. Faber's own list of such books.  However, like Faber, I would not consider it a go-to for a student first learning this subject.  This book grew out of some encyclopedia articles Prandtl wrote in 1913, and morphed multiple times until reaching the form of this book.  It should be noted that Prandtl's actual lectures on fluid mechanics were prepared for publication by O. G. Tietjens in 1934 (McGraw-Hill) and made available as Dover paperbacks in 1957 under the titles *Fundamentals of Hydro- and Aeromechanics* (translated by L. Rosenhead) and *Applied Hydro- and Aeromechanics* (translated by J. P. Den Hartog).
 
 - Sarada G. Rajeev, 2018: *Fluid Mechanics: A Geometrical Point of View*. Oxford University Press.
-    - Unusual for its emphasis on dynamical systems, Lie algebra, Riemannian geometry, and the use of the Hamiltonian formulation; also covers numerical computation, chaotic advection, and even renormalization.  This is what happens when a particle theorist writes about hydrodynamics.
+    - Unusual for its emphasis on dynamical systems, Lie algebra, Riemannian geometry, and the use of the Hamiltonian formulation; also covers numerical computation, chaotic advection, and even renormalization.  Maybe this is what happens when a particle theorist writes about hydrodynamics :-)
 
 - Oded Regev, Orkan M. Umurhan, and Philip A. Yecko, 2016:  *Modern Fluid Dynamics for Physics and Astrophysics*.  Graduate Texts in Physics.  Springer.
-    - This book is based on an Israeli graduate-level course.  Solutions to problems are not provided.  See the review by astrophysicist Giuseppe Lodato in the May 2017 issue of [Physics Today](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.3559).
+    - This book is based on an Israeli graduate-level course.  Solutions to problems are not provided.  See the useful [review](https://physicstoday.scitation.org/doi/10.1063/PT.3.3559) by astrophysicist Giuseppe Lodato in the May 2017 issue of *Physics Today*.
 
 - Michel Rieutord, 2015:  *Fluid Dynamics: An Introduction*. Graduate Texts in Physics.  Springer.
     - A French astrophysicist's presentation of fluid dynamics; includes chapters on magnetohydrodynamics and kinetic theory.  Provides solutions to exercises.
