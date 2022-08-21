@@ -104,7 +104,7 @@ I am admittedly very unfamiliar with the literature in this field, so this secti
 
 Despite the relatively few physicists who work in acoustics in recent decades, a surprisingly large number of the key books in the field have been written
 by physicists.  Lord Rayleigh's 19th century classic *Theory of Sound* ranks first among these.  (Rayleigh also won the 1904 Nobel Prize in Physics.)  As acoustics deserves a separate page of its own, which is beyond the scope
-of my present efforts, I will not attempt to list such books here.  Let it suffice to mention the names of illustrious authors such as Leo Beranek, Eugene Skudrzyk, 
+of my present efforts, I will not attempt to list such books here.  Let it suffice to mention the names of illustrious physicist authors such as Leo Beranek, Eugene Skudrzyk, 
 Philip M. Morse and K. Uno Ingard, Allan D. Pierce, David T. Blackstock, and Thomas D. Rossing.  Also worthy of mention is the workhorse text by 
 Kinsler/Frey/Coppens/Sanders and the textbook by Berg and Stork, also written by physicists.
 
@@ -132,7 +132,7 @@ As a point of personal privilege, I want to include a few other titles on a more
     - A surprisingly nontechnical exposition of vortex flow, a central concept in hydrodynamics.  Packed with illustrations, it would make an excellent introduction to hydrodynamics for a student who hasn't yet mastered vector calculus, yet the book can also grip the attention of a seasoned physicist.  This book deserves to be better known in the fluid mechanics community.  Lugt is a German physicist who worked at the U.S. Navy's David Taylor Model Basin.
 
 - Grigory Vekstein, 2013:  *Physics of Continuous Media:  Problems and Solutions in Electromagnetism, Fluid Mechanics, and MHD*, 2d edition.  CRC Press.
-    - Includes electrodynamics in addition to fluid mechanics, magnetohydrodynamics, and elasticity.  Unfortunately the author, a solar and plasma physicist, passed away in 2021 due to COVID.
+    - Includes electrodynamics in addition to fluid mechanics, magnetohydrodynamics, and elasticity.  Unfortunately the author, a solar and plasma physicist, passed away in 2021, a victim of COVID.
 
 Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can't fail to mention two other Nobel laureates in physics:
 
@@ -150,7 +150,7 @@ In this section I focus on the books listed in the first two sections, on contin
 
 In the early years of the nuclear age, Sommerfeld's lectures appeared in English in 1950, and Prandtl's book in 1952, both near the end of their authors' lives.  The first English edition of Landau & Lifshitz appeared in 1959.  All three of these books have roots in the pre-WWII period.  All three indeed remained staples for years; though most of the books in fluid mechanics in this era were written by nonphysicists, such as Batchelor's masterpiece (1967).  It was not until the 1970s that a few more physicists realized that their perspective could be useful - McCormack & Crane (1973), Trefil (1975), and Tritton (1977).  It seems that only the third of these was an undisputed success.  The 1980s saw the appearance of Bhatia & Singh (1984), the first English edition of Brekhovskikh & Goncharov (1985), and  second editions of the classics, Landau & Lifshitz (1987) and Tritton (1988).  The 1990s greeted the second edition of Brekhovskikh & Goncharov (1994) and the landmark contribution of Faber (1995).  Faber claimed to know of only three previous fluid dynamics books written by physicists:  Ludwig Prandtl's *Essentials of Fluid Dynamics* and the classics by Landau/Lifshitz and Tritton -- basically snubbing the other authors mentioned in this paragraph, including Arnold Sommerfeld!
 
-The first decade of the 21st century witnessed the first English edition of Guyon et al. (2001), the first edition of Lautrup (2005), and Kambe's contribution (2007).  However the second decade welcomed an outburst of physicists on our subject:  Falkovich (2011, 2018), Pert (2013), Rieutord (2015), Regev et al. (2016), Hosking & Dewar (2016), Braithwaite (2017), Fitzpatrick (2017), Thorne & Blandford (2017), Rajeev (2018), as well as second editions of Lautrup (2011) and Guyon et al (2015).  Thus, the most recent decade has single-handedly eliminated the death of general and introductory books on fluid mechanics written by physicists!
+The first decade of the 21st century witnessed the first English edition of Guyon et al. (2001), the first edition of Lautrup (2005), and Kambe's contribution (2007).  However the second decade welcomed an outburst of physicists on our subject:  Falkovich (2011, 2018), Pert (2013), Rieutord (2015), Regev et al. (2016), Hosking & Dewar (2016), Braithwaite (2017), Fitzpatrick (2017), Thorne & Blandford (2017), Rajeev (2018), as well as second editions of Lautrup (2011) and Guyon et al (2015).  Thus, the most recent decade has single-handedly eliminated the dearth of general and introductory books on fluid mechanics written by physicists!  Alas, I have yet to see any new contributions in the current decade.
 
 #### A topical perspective
 
