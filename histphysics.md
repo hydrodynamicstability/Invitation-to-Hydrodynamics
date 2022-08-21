@@ -72,7 +72,7 @@ Keith Moffatt writes of James Clerk Maxwell's (1831-1879) research in hydrodynam
 
 ### Helmholtz and Kelvin
 
-Of course, two of the 19th century's greatest thermodynamicists were also among its greatest hydrodynamicists:  Hermann von Helmholtz (1821-1894) and William Thomson (Lord Kelvin, 1824-1907).  They contributed fundamental work to both fields (and Kelvin, in addition, to electromagnetism).  To mention just a few examples in hydrodynamics:  Helmholtz's vortex theorems and Kelvin's circulation theorem are fundamental for inviscid flows; the Kelvin-Helmholtz instability is named after them both.  Helmholtz was the first to define vorticity, and also made contributions to acoustics.  Helmholtz's 1868 work on using conformal mapping to study discontinuous two-dimensional flow was picked up and used by others including Gustav Robert Kirchoff (1824-1887) and John William Strutt, Lord Rayleigh (1842-1919).  Kelvin made major contributions to the theory of hydrodynamic waves of various types, but famously refused to beleive that powered flight was possible.
+Of course, two of the 19th century's greatest thermodynamicists were also among its greatest hydrodynamicists:  Hermann von Helmholtz (1821-1894) and William Thomson (Lord Kelvin, 1824-1907).  They contributed fundamental work to both fields (and Kelvin, in addition, to electromagnetism).  To mention just a few examples in hydrodynamics:  Helmholtz's vortex theorems and Kelvin's circulation theorem are fundamental for inviscid flows; the Kelvin-Helmholtz instability is named after them both.  Helmholtz was the first to define vorticity, and also made contributions to acoustics.  Helmholtz's 1868 work on using conformal mapping to study discontinuous two-dimensional flow was picked up and used by others including Gustav Robert Kirchoff (1824-1887) and John William Strutt, Lord Rayleigh (1842-1919).  Kelvin made major contributions to the theory of hydrodynamic waves of various types, but famously refused to believe that powered flight was possible.  
 
 - H. von Helmholtz, 1858:  Uber integrale der hydrodynamischen gleichungen, welche den wirbelbewegungen entsprechen.  *Journal fur die Reine und Angewandte Mathematik*, 55:  25-55.
 
@@ -87,6 +87,10 @@ Of course, two of the 19th century's greatest thermodynamicists were also among 
 Using a fallacious argument based on the Venturi effect, Albert Einstein (1879-1955) proposed a "cat's back" airfoil design in 1916 that failed miserably when tested by a Berlin aircraft company.  The test pilot, Paul Ehrhardt, survived, but years later, a few months before Einstein died, he told Ehrhardt "I have often been ashamed of my folly of those days."  (A second test pilot, Otto Reichert, crashed but also survived.)  "Einstein's folly" is discussed by Bloor (2011, pp. 296-302) and Calaprice et al. (2015, p. 297).  Bloor writes that "Einstein had little knowledge of current developments in the field of aerodynamics.  This episode is a salutory reminder of the difference between fundamental physics and technical mechanics.  Eminence in the former does not guarantee competence in the latter."
 
 - A. Einstein, 1916:  Elementare theorie der wasserwellen und des fluges.  *Die Naturwissenschaften*, 4:  509-510.
+
+In Einstein's defense, his discussion of the "teacup effect" (where loose tea leaves tend to gather at the center of the cup after stirring) is generally thought to be sound.  It appears in a paper discussing the meadering of rivers and Baer's Law.
+
+- A. Einstein, 1926:  Die ursache der maanderbildung der flusslaufe und des sogenannten Baerschen Gesetzes. *Naturwissenschaften*, 14, 223–224. 
 
 ### Notes on the history of fluid mechanics
 
