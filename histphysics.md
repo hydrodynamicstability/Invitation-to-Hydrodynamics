@@ -41,6 +41,7 @@ Sir Isaac Newton's (1642-1727) *Principia Mathematica* (1687) is divided into th
 
 - Isaac Newton, *Philosophiae Naturalis Principia Mathematica*.  Translated from the third Latin edition by I. Bernard Cohen and Anne Whitman, assisted by Julia Budenz.  University of California Press, 1999.
 
+At least two of Newton's successors as Lucasian Chair of Mathematics, Cambridge University, were themselves titanic figures in the history of fluid mechanics:  Sir Geoge Gabriel Stokes (1819-1903), and Sir M. James Lighthill (1924-1998).
 
 ### The 18th Century
 
@@ -85,6 +86,12 @@ Of course, two of the 19th century's greatest thermodynamicists were also among 
 ### Rayleigh
 
 John William Strutt, Lord Rayleigh (1842-1919, Nobel in Physics 1904), made major contributions to acoustics and other areas of theoretical hydrodynamics (wave motion, cavitation, aerodynamic heating at hypersonic speeds), as well as dimensional analysis.  In the field of hydrodynamic instabilities alone, the Plateau-Rayleigh, Rayleigh-Benard, and Rayleigh-Taylor instabilities bear his name.
+
+- Lord Rayleigh, 1878:  On the instability of jets.  *Proceedings of the London Mathematical Society*, s1-10:  4-13.
+
+- Lord Rayleigh, 1916:  On convection currents in a horizontal layer of fluid when the higher temperature is on the under side.  *Philosophical Magazine*, series 6, 32:  529-546.
+
+- Lord Rayleigh, 1916:  On the dynamics of revolving fluids.  *Proceedings of the Royal Society of London*, series A, 93:  148-154.
 
 ### Einstein's folly
 
