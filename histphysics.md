@@ -25,7 +25,7 @@
 
 Most physicists attribute the beginning of *field theory* to Michael Faraday and James Clerk Maxwell in the 19th century.  It is true that theirs was the first *force field theory*; however it borrows a great deal of its mathematics from *mechanical* field theories that originated in the 18th century with Jean le Rond D'Alembert and Leonhard Euler.  Consequently much of the vector calculus of electromagnetism retains a distinctly hydrodynamic character, as illustrated in this [video lecture](https://www.youtube.com/watch?v=sB4C3YfSZyU&list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ&index=36) from *The Mechanical Universe and Beyond*, by Prof. David Goodstein (Caltech).
 
-The greatest classical physicists of all time, Galileo, Newton, Faraday, and Maxwell, all investigated fluid mechanics, though their primary influence on the subject is indirect, through their laying of the foundations of classical mechanics, electromagnetism, and kinetic theory.  At least two of the principal founders of classical thermodynamics, Helmholtz and Kelvin, made more direct and profound contributions to hydrodynamics.  Albert Einstein's foray into aerodynamics is more questionable.  Finally, while only one Nobel Prize in Physics has been awarded for classical hydrodynamics (Hannes Alfven, 1970), many have been awarded for work in superfluids, and many Nobel Laureates honored for other fields have been involved in a greater or lesser extent in the physics of fluids.  (For the latter, please see the *Appendix* at the bottom of this page.)
+The greatest classical physicists of all time, Galileo, Newton, Faraday, and Maxwell, all investigated fluid mechanics, though their primary influence on the subject is indirect, through their laying of the foundations of classical mechanics, electromagnetism, and kinetic theory.  At least two of the principal founders of classical thermodynamics, Helmholtz and Kelvin, made more direct and profound contributions to hydrodynamics.  Albert Einstein's foray into aerodynamics is more questionable.  Finally, while only one Nobel Prize in Physics has been awarded for classical hydrodynamics (Hannes Alfven, 1970), many have been awarded for work in superfluids, and many Nobel Laureates honored for other fields have been involved in a greater or lesser extent in the physics of fluids.  (For the latter, please see the *Appendix* at the bottom of this page.  I discuss some of these figures [elsewhere](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/booksByPhysicists.html) on this site - notably Lev Landau, Hannes Alfven, and S. Chandrasekhar; and [here](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/physicscourses.html) for more on Landau, plus Richard Feynman, Kip Thorne, and Steven Weinberg.)
 
 ### Galileo
 
@@ -323,7 +323,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
   <tr>
     <th>2004</th>
     <th>Frank Wilczek</th>
-    <th>Physics of swimminig (Schapire and Wilczek, 1989a,b)</th>
+    <th>Physics of swimming (Schapire and Wilczek, 1989a,b)</th>
   </tr>
    <tr>
     <th>2016</th>
