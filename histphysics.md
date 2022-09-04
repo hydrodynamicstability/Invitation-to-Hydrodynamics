@@ -246,7 +246,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
     <th>Theory of superfluids; theory of turbulence; relativistic hydrodynamics (see Fermi above); classic text <i>Fluid Mechanics</i></th>
   </tr>
   <tr>
-    <th>11965</th>
+    <th>1965</th>
     <th>Richard P. Feynman</th>
     <th>Circulation quantization in superfluids.  Fluid mechanics chapters in classic <i>Feynman Lectures on Physics</i>.</th>
   </tr>
