@@ -1,6 +1,6 @@
 ## An Encomium for *D/Dt* Notation
 
-In this panegyric, I discuss Sir George Gabriel Stokes' *D/Dt* notation for the material derivative, and defend it against Nobel-Prize wielding arrivistes.  Of course, disagreements about notation are among the most pointless in science, so please regard this essay for its entertainment value only.  I have included excerpts from several key texts, and I apologize for the poor quality of the scans.
+In this panegyric, I discuss Sir George Gabriel Stokes' *D/Dt* notation for the material derivative, and defend it against Nobel-Prize wielding arrivistes.  Of course, disagreements about notation are among the most pointless in science, so please regard this essay for its entertainment value only.  Shameless appeals to authority, as exercised below, have no place in "real" scientific disagreements, but are all the rage in silly ones.  I have included excerpts from several key texts, and I apologize for the poor quality of the scans.
 
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
