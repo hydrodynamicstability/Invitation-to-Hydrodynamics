@@ -15,7 +15,7 @@ Lamb used the *D/Dt* notation introduced by Stokes himself (1849, Sec. 5).  Othe
 <center>
 <img src="batchelor.PNG" width="700">
 </center>
-Tritton (1988) has an entire section (5.5) dedicated to the "substantive derivative", which I won't quote here; he also uses *D/Dt* notation for it.  The *Feynman Lectures* have a nice derivation of the expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html), which you can read for free, but Feynman does not use any special notation for the material derivative.
+Tritton (1988) has an entire section (5.5) dedicated to the "substantive derivative", which I won't quote here; he also uses *D/Dt* notation for it.  The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free, but Feynman does not use any special notation for the material derivative.
 
 A particularly insightful passage on this notation is provided by Sir James Lighthill, who like Stokes, was a holder of Sir Issac Newton's Lucasian Chair of Mathematics at Cambridge University.  Lighthill (1986, Sec. 3.1) writes:
 <center>
@@ -35,12 +35,15 @@ This is an excerpt from Stokes (1949) where *D/Dt* first appears.
 <center>
 <img src="stokes1.PNG" width="700"> <img src="stokes2.PNG" width="700">
 </center>
+The use of a capital *D* as a differential operator in hydrodynamics is actually older than Stokes.  Joseph-Louis Lagrange introduces such an operator in volume 2, Section XI, subsection 1, of *Mecanique analytique, novelle edition* (1811), but it appears to mean something different than Stokes' meaning.
 
 ### References
 
 G. K. Batchelor, 1967:  *Introduction to Fluid Dynamics*.  Cambridge University Press.
 
 H. Lamb, 1932:  *Hydrodynamics*, 6th edition.  Cambridge University Press.  Reprinted with a forward by R. A. Caflisch, 1997.
+
+J. L. Lagrange, 1997:  *Analytical Mechanics*, translated from the *Mecanique Analytique, novelle edition* of 1811.  Translated and edited by A. Boissonnade and V. N. Vagliente.  Boston Studies in the Philosophy of Science, vol. 191.  Kluwer.
 
 L. D. Landau and E. M. Lifshitz, 1959:  *Fluid Mechanics*.  Course of Theoretical Physics, vol. 6.  Pergamon Press.
 
