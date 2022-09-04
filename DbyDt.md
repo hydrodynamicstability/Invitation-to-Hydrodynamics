@@ -11,7 +11,7 @@ One of any student's first lessons in fluid dynamics is the use, in D'Alembert-E
 <center>
 <img src="lamb.PNG" width="700">
 </center>
-Lamb used the *D/Dt* notation introduced by Stokes himself (1849, Sec. 5).  Other authors use either *d/dt* or *D/Dt* for this concept.  Batchelor (1967, sec. 2.1), for instance, has this passage.
+Lamb used the *D/Dt* notation introduced by Stokes himself (1849, Sec. 5; see my *Appendix* below).  Other authors use either *d/dt* or *D/Dt* for this concept.  Batchelor (1967, sec. 2.1), for instance, has this passage.
 <center>
 <img src="batchelor.PNG" width="700">
 </center>
@@ -27,6 +27,7 @@ Kip Thorne and Roger Blandford, in their *Modern Classical Physics* (2017), also
 <center>
 <img src="thorne.PNG" width="700">
 </center>
+Their footnote 2 indicates that "The combination of spatial derivatives appearing here is called the *Lie derivative*" and that it is the commutator of the velocity and vorticity vectors, an operator "often encountered in differential geometry."
 They go on to use the term "fluid derivative" for their expression 14.5 when acting on a vector (and when acting on a scalar, they state is it just the convective derivative).  Finally they parenthetically (and dismissively) note that "The notation *D/Dt* is used in some older texts for the convective derivative *d/dt*."  Excuse me?  I have never seen any other text use *D/Dt* for expression 14.5.  Thorne and Blandford have appropriated Stokes' notation for an expression other than what Stokes (and generations of authors after him) intended.
 
 ### Appendix:  Stokes himself
