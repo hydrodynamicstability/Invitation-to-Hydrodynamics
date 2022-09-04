@@ -23,6 +23,8 @@ A particularly insightful passage on this notation is provided by Sir James Ligh
 </center>
 Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  However, many key writers, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.
 
+### The "Fluid Derivative"?!
+
 Kip Thorne and Roger Blandford, in their *Modern Classical Physics* (2017), also use *d/dt* for the material derivative, but go one step further.  See this excerpt from Sec. 14.2.1:
 <center>
 <img src="thorne.PNG" width="700">
