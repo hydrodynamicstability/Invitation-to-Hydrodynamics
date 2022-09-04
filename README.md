@@ -150,6 +150,7 @@ Fluid dynamics is of increasing interest in condensed and soft matter physics, b
 - [Fluid mechanics in the physics curriculum](curriculum.md).
 - [Continuum mechanics in the great physics courses](physicscourses.md).
 - [Fluid mechanics and the history of physics](histphysics.md).
+- [An encomium for *D/Dt* notation](DbyDt.md).
 - Thoughts on journals and conferences.  (Forthcoming)
 
 ### Acknowledgments
