@@ -30,7 +30,7 @@ Kip Thorne and Roger Blandford, in their *Modern Classical Physics* (2017), also
 Their footnote 2 indicates that "The combination of spatial derivatives appearing here is called the *Lie derivative*" and that it is the commutator of the velocity and vorticity vectors, an operator "often encountered in differential geometry."
 They go on to use the term "fluid derivative" for their expression 14.5 when acting on a vector (and when acting on a scalar, they state is it just the convective derivative).  Finally they parenthetically (and dismissively) note that "The notation *D/Dt* is used in some older texts for the convective derivative *d/dt*."  Excuse me?  I have never seen any other text use *D/Dt* for expression 14.5.  Thorne and Blandford have appropriated Stokes' notation for an expression other than what Stokes (and generations of authors after him) intended.
 
-I predict that Thorne and Blandford's new notation will not catch on.  The *D/Dt* notation is too entrenched, and for good reason (as the Lighthill passage indicates).  Won't you join me in the Campaign to Save Stokes' *D/Dt* from Rampaging Nobel Laureates (CSSDDtfRNL)?  
+I predict that Thorne and Blandford's revisionist notation will not catch on.  The *D/Dt* notation for the material derivative is too entrenched, and for good reason (as the Lighthill passage indicates).  Won't you join me in the Campaign to Save Stokes' *D/Dt*?  
 
 ;-)
 
