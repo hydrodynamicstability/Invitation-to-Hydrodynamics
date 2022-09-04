@@ -1,6 +1,6 @@
 ## An Encomium for *D/Dt* Notation
 
-In this panegyric, I discuss Sir George Gabriel Stokes' *D/Dt* notation for the material derivative, and defend it against Nobel-Prize wielding arrivistes.  Of course, disagreements about notation are among the most pointless in science, so please regard this essay for its entertainment value only.  Shameless appeals to authority, as exercised below, have no place in "real" scientific disagreements, but are all the rage in silly ones.  I have included excerpts from several key texts, and I apologize for the poor quality of the scans.
+In this panegyric, I discuss Sir George Gabriel Stokes' *D/Dt* notation for the material derivative, and defend it against Nobel-Prize wielding arrivistes.  Of course, disagreements about notation are among the most pointless in science, so please regard this essay for its entertainment value only.  Shameless appeals to authority, as exercised below, have no place in actual scientific disagreements, but remain in fashion for mock disputes.  I have included excerpts from several key texts, and I apologize for the poor quality of the scans.
 
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
@@ -15,7 +15,7 @@ Lamb used the *D/Dt* notation introduced by Stokes himself (1849, Sec. 5; see my
 <center>
 <img src="batchelor.PNG" width="700">
 </center>
-Lord Rayleigh (1916), who later won the 1904 Nobel Prize in Physics, also used the *D/Dt* notation.  Tritton (1988) has an entire section (5.5) dedicated to the "substantive derivative", which I won't quote here; he also uses *D/Dt* notation for it.  The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free.  However, Feynman does not use any special notation for the material derivative, nor do Subramanyan Chandrasekhar (1961) and Steven Weinberg (2021, sec. 2.5).
+Lord Rayleigh (1916), who later won the 1904 Nobel Prize in Physics, also used the *D/Dt* notation.  Tritton (1988, Sec. 5.5), Faber (1995, Sec. 2.4), and Rieutord (2015, sec. 1.3.4) have entire sections dedicated to the material derivative, which I won't quote here; they all also use the *D/Dt* notation for it.  The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free.  However, Feynman does not use any special notation for the material derivative, nor do Subramanyan Chandrasekhar (1961) and Steven Weinberg (2021, sec. 2.5).
 
 A particularly insightful passage on this notation is provided by Sir James Lighthill, who like Stokes, was a holder of Sir Issac Newton's Lucasian Chair of Mathematics at Cambridge University.  Lighthill (1986, Sec. 3.1) writes:
 <center>
@@ -23,7 +23,7 @@ A particularly insightful passage on this notation is provided by Sir James Ligh
 </center>
 Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  However, many key writers, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.
 
-### The "Fluid Derivative"?!
+### The "Fluid Derivative"
 
 Kip Thorne and Roger Blandford, in their *Modern Classical Physics* (2017), also use *d/dt* for the material derivative, but go one step further.  See this excerpt from Sec. 14.2.1:
 <center>
@@ -54,6 +54,8 @@ G. K. Batchelor, 1967:  *Introduction to Fluid Dynamics*.  Cambridge University 
 
 S. Chandrasekhar, 1961:  *Hydrodynamic and Hydromagnetic Stability*.  Inernational Series of Monographs on Physics.  Oxford University Press.  Reprinted by Dover, 1981.
 
+T. E. Faber, 1995:  *Fluid Dynamics for Physicists*.  Cambridge University Press.
+
 H. Lamb, 1932:  *Hydrodynamics*, 6th edition.  Cambridge University Press.  Reprinted with a forward by R. A. Caflisch, 1997.
 
 J. L. Lagrange, 1997:  *Analytical Mechanics*, translated from the *Mecanique Analytique, novelle edition* of 1811.  Translated and edited by A. Boissonnade and V. N. Vagliente.  Boston Studies in the Philosophy of Science, vol. 191.  Kluwer.
@@ -63,6 +65,8 @@ L. D. Landau and E. M. Lifshitz, 1959:  *Fluid Mechanics*.  Course of Theoretica
 J. Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics*.  IMA Monograph Series, vol. 2.  Oxford University Press.
 
 Lord Rayleigh, 1916: On convection currents in a horizontal layer of fluid when the higher temperature is on the under side. *Philosophical Magazine*, series 6, 32: 529-546.
+
+M. Rieutord, 2015:  *Fluid Dynamics:  An Introduction*.  Graduate Texts in Physics.  Springer.
 
 G. G. Stokes, 1849:  On the theories of the internal friction of fluids in motion, and of the equilibrium and motion of elastic solids.  *Transactions of the Cambridge Philosophical Society*, 8: 287-305.  (Presented in 1845.)
 
