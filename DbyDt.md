@@ -15,13 +15,13 @@ Lamb used the *D/Dt* notation introduced by Stokes himself (1849, Sec. 5; see my
 <center>
 <img src="batchelor.PNG" width="700">
 </center>
-Tritton (1988) has an entire section (5.5) dedicated to the "substantive derivative", which I won't quote here; he also uses *D/Dt* notation for it.  The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free, but Feynman does not use any special notation for the material derivative.
+Lord Rayleigh (1916), who later won the 1904 Nobel Prize in Physics, also used the *D/Dt* notation.  Tritton (1988) has an entire section (5.5) dedicated to the "substantive derivative", which I won't quote here; he also uses *D/Dt* notation for it.  The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free.  However, Feynman does not use any special notation for the material derivative, nor do Subramanyan Chandrasekhar (1961) and Steven Weinberg (2021, sec. 2.5).
 
 A particularly insightful passage on this notation is provided by Sir James Lighthill, who like Stokes, was a holder of Sir Issac Newton's Lucasian Chair of Mathematics at Cambridge University.  Lighthill (1986, Sec. 3.1) writes:
 <center>
 <img src="lighthill.PNG" width="700">
 </center>
-Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  However, many key writers, including Landau & Lifshitz (1959), continue to use *d/dt* instead of *D/Dt*.
+Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  However, many key writers, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.
 
 Kip Thorne and Roger Blandford, in their *Modern Classical Physics* (2017), also use *d/dt* for the material derivative, but go one step further.  See this excerpt from Sec. 14.2.1:
 <center>
@@ -46,7 +46,11 @@ To add to the confusion, in general relativity, the *covariant derivative* is so
 
 ### References
 
+H. Alfven, 1942:  Existence of electromagnetic-hydrodynamic waves.  *Nature*, 150:  405-406.
+
 G. K. Batchelor, 1967:  *Introduction to Fluid Dynamics*.  Cambridge University Press.
+
+S. Chandrasekhar, 1961:  *Hydrodynamic and Hydromagnetic Stability*.  Inernational Series of Monographs on Physics.  Oxford University Press.  Reprinted by Dover, 1981.
 
 H. Lamb, 1932:  *Hydrodynamics*, 6th edition.  Cambridge University Press.  Reprinted with a forward by R. A. Caflisch, 1997.
 
@@ -56,9 +60,13 @@ L. D. Landau and E. M. Lifshitz, 1959:  *Fluid Mechanics*.  Course of Theoretica
 
 J. Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics*.  IMA Monograph Series, vol. 2.  Oxford University Press.
 
+Lord Rayleigh, 1916: On convection currents in a horizontal layer of fluid when the higher temperature is on the under side. *Philosophical Magazine*, series 6, 32: 529-546.
+
 G. G. Stokes, 1849:  On the theories of the internal friction of fluids in motion, and of the equilibrium and motion of elastic solids.  *Transactions of the Cambridge Philosophical Society*, 8: 287-305.  (Presented in 1845.)
 
 K. S. Thorne and R. D. Blandford, 2017:  *Modern Classical Physics:  Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics*.  Princeton University Press.
+
+S. Weinberg, 2021:  *Foundations of Modern Physics*.  Cambridge University Press.
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
