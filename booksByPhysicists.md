@@ -103,10 +103,22 @@ I am admittedly very unfamiliar with the literature in this field, so this secti
 ### Books covering acoustics
 
 Despite the relatively few physicists who work in acoustics in recent decades, a surprisingly large number of the key books in the field have been written
-by physicists.  Lord Rayleigh's 19th century classic *Theory of Sound* ranks first among these.  (Rayleigh also won the 1904 Nobel Prize in Physics.)  As acoustics deserves a separate page of its own, which is beyond the scope
-of my present efforts, I will not attempt to list such books here.  Let it suffice to mention the names of illustrious physicist authors such as Leo Beranek, Eugene Skudrzyk, 
-Philip M. Morse and K. Uno Ingard, Allan D. Pierce, David T. Blackstock, and Thomas D. Rossing.  Also worthy of mention is the workhorse text by 
-Kinsler/Frey/Coppens/Sanders and the textbook by Berg and Stork, also written by physicists.
+by physicists.  Lord Rayleigh's 19th century classic *Theory of Sound* ranks first among these.  (Rayleigh also won the 1904 Nobel Prize in Physics.)  As acoustics deserves a separate site of its own, which is beyond the scope
+of my present efforts, I will simply list a sampling of fairly general works on acoustics that have been written by physicists, without further commentary.
+
+- L. Beranek, 1954:  *Acoustics*.  McGraw-Hill Electrical and Electronic Engineering Series.  McGraw-Hill.  Reprinted by the Acoustical Society of America, 1986.
+- R. E. Berg and D. G. Stork, 2004: *The Physics of Sound,* 3d edition. Prentice Hall (now Pearson).
+- D. T. Blackstock, 2000: *Fundamentals of Physical Acoustics*. Wiley.
+- S. L. Garrett, 2017: *Understanding Acoustics: An Experimentalist's View of Acoustics and Vibration*. Graduate Texts in Physics.  Springer.
+- L. E. Kinsler, A. R. Frey, A. B. Coppens, and J. V. Sanders, 1999: *Fundamentals of Acoustics,* 4th edition. Wiley.
+- H. Kuttruff, 2006: *Acoustics: An Introduction*. CRC Press.
+- S.-Y. Lee, 2021: *Fundamental Physics of Sound*. World Scientific.
+- P. M. Morse and K. U. Ingard, 1968:  *Theoretical Acoustics*.  International Series in Pure and Applied Physics.  McGraw-Hill.  Reprinted by Princeton University Press, 1986.
+- A. D. Pierce, 1994:  *Acoustics: An Introduction to its Physical Principles and Applications,* 3d edition.  Acoustical Society of America.  Reprinted by Springer, 2019.
+- T. D. Rossing and N. H. Fletcher, 2004: *Principles of Vibration and Sound,* 2d edition. Springer.
+- T. D. Rossing, F. R. Moore, and P. A. Wheeler, 2002: *The Science of Sound,* 3d edition. Pearson Addison Wesley.
+- E. Skudrzyk, 1971:  *The Foundations of Acoustics: Basic Mathematics and Basic Acoustics*. Springer.
+
 
 
 ### Other books by physicists that you should be aware of
