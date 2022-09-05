@@ -93,7 +93,7 @@ physics) and future ones (plasma physics) so I advise consuming the content from
 
 Though I enjoyed reading the fluid dynamics chapters in general, a few points of contention could be made.  Their treatment of Stokes' creeping flow problem (Sec. 14.3.2) seems particularly baroque.  Perhaps their approach is meant, as they write, to make contact with "some general ideas that ought to be familiar from other areas of physics."  Students should be advised to consult a more conventional text in parallel.  
 
-Another complaint is detailed on a [companion page](DbyDt.md).
+Another (more tongue-in-cheek) disagreement is detailed on a [companion page](DbyDt.md).
 
 Further comments on *Modern Classical Physics* are forthcoming.
 
