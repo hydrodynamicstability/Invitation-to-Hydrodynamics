@@ -60,7 +60,7 @@ T. E. Faber, 1995:  *Fluid Dynamics for Physicists*.  Cambridge University Press
 
 H. Lamb, 1932:  *Hydrodynamics*, 6th edition.  Cambridge University Press.  Reprinted with a forward by R. A. Caflisch, 1997.
 
-J. L. Lagrange, 1997:  *Analytical Mechanics*, translated from the *Mecanique Analytique, novelle edition* of 1811.  Translated and edited by A. Boissonnade and V. N. Vagliente.  Boston Studies in the Philosophy of Science, vol. 191.  Kluwer.
+J.-L. Lagrange, 1997:  *Analytical Mechanics*, translated from the *Mecanique Analytique, novelle edition* of 1811.  Translated and edited by A. Boissonnade and V. N. Vagliente.  Boston Studies in the Philosophy of Science, vol. 191.  Kluwer.
 
 L. D. Landau and E. M. Lifshitz, 1959:  *Fluid Mechanics*.  Course of Theoretical Physics, vol. 6.  Pergamon Press.
 
@@ -79,6 +79,8 @@ M. Rieutord, 2015:  *Fluid Dynamics:  An Introduction*.  Graduate Texts in Physi
 G. G. Stokes, 1849:  On the theories of the internal friction of fluids in motion, and of the equilibrium and motion of elastic solids.  *Transactions of the Cambridge Philosophical Society*, 8: 287-305.  (Presented in 1845.)
 
 K. S. Thorne and R. D. Blandford, 2017:  *Modern Classical Physics:  Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics*.  Princeton University Press.
+
+D. J. Tritton, 1988:  *Physical Fluid Dynamics*, second edition.  Oxford University Press.
 
 S. Weinberg, 2021:  *Foundations of Modern Physics*.  Cambridge University Press.
 
