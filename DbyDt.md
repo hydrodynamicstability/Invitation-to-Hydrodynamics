@@ -84,9 +84,9 @@ J. R. Holton, 2004:  *An Introduction to Dynamic Meteorology*, 4th edition.  Int
 
 H. J. Kreuzer, 1981:  *Nonequilibrium Thermodynamics and its Statistical Foundations*.  Monographs on the Physics and Chemistry of Materials.  Oxford University Press.
 
-H. Lamb, 1932:  *Hydrodynamics*, 6th edition.  Cambridge University Press.  Reprinted with a forward by R. A. Caflisch, 1997.
-
 J.-L. Lagrange, 1997:  *Analytical Mechanics*, translated from the *Mecanique Analytique, novelle edition* of 1811.  Translated and edited by A. Boissonnade and V. N. Vagliente.  Boston Studies in the Philosophy of Science, vol. 191.  Kluwer.
+
+H. Lamb, 1932:  *Hydrodynamics*, 6th edition.  Cambridge University Press.  Reprinted with a forward by R. A. Caflisch, 1997.
 
 L. D. Landau and E. M. Lifshitz, 1959:  *Fluid Mechanics*.  Course of Theoretical Physics, vol. 6.  Pergamon Press.
 
