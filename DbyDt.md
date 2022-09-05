@@ -1,13 +1,13 @@
 ## An Encomium for *D/Dt* Notation
 
-In this panegyric, I discuss Sir George Gabriel Stokes' *D/Dt* notation for the material derivative, and defend it against Nobel-Prize wielding arrivistes.  Of course, disagreements about notation are among the most pointless in science, so please regard this essay for its entertainment value only.  Shameless appeals to authority, as exercised below, have no place in actual scientific disagreements, but remain in fashion for mock disputes.  I have included excerpts from several key texts, and I apologize for the poor quality of the scans.
+In this panegyric, I discuss Sir George Gabriel Stokes' *D/Dt* notation for the material derivative, and defend it against Nobel-Prize wielding arrivistes.  Of course, disagreements about notation are among the most pointless in science, so please regard this essay for its entertainment value only.  Shameless appeals to authority, as exercised below, have no place in actual scientific disagreements, but remain in fashion for mock disputes.  I have included excerpts from several key texts, and I apologize for the distortion in the images.
 
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
 ### The Material Derivative
 
-One of any student's first lessons in fluid dynamics is the use, in D'Alembert-Euler local field theory, of a total derivative known as the *material derivative*,
-*convective derivative*, or *substantive derivative*.  For instance the classic monograph by Sir Horace Lamb (1932, sec. 5) includes the following.
+One of a student's first lessons in fluid dynamics is the use, in the standard local field theory of D'Alembert and Euler, of a total derivative known as the *material derivative*,
+*convective derivative*, or *substantive derivative*.  For instance, the classic monograph by Sir Horace Lamb (1932, sec. 5) includes the following.
 <center>
 <img src="lambNEW.PNG" width="700">
 </center>
@@ -15,7 +15,7 @@ Lamb used the *D/Dt* notation introduced by Stokes himself, in the paper where h
 <center>
 <img src="batchelorNEW.PNG" width="700">
 </center>
-Lord Rayleigh (1916), who later won the 1904 Nobel Prize in Physics, also used the *D/Dt* notation.  Tritton (1988, Sec. 5.5), Faber (1995, Sec. 2.4), and Rieutord (2015, sec. 1.3.4) have entire sections dedicated to the material derivative, which I won't quote here; they all also use the *D/Dt* notation for it.  The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free.  However, Feynman does not use any special notation for the material derivative, nor do Subramanyan Chandrasekhar (1961) and Steven Weinberg (2021, sec. 2.5).
+Lord Rayleigh (1916), who later won the 1904 Nobel Prize in Physics, also used the *D/Dt* notation.  Several books written by physicists, such as Tritton (1988, Sec. 5.5), Faber (1995, Sec. 2.4), and Rieutord (2015, sec. 1.3.4), have entire sections dedicated to the material derivative; the cited authors all also use the *D/Dt* notation for it.  The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free.  However, Feynman does not use any special notation for the material derivative, nor do Subramanyan Chandrasekhar (1961) and Steven Weinberg (2021, sec. 2.5).
 
 A particularly insightful passage on this notation is provided by Sir James Lighthill, who like Stokes, was a holder of Sir Issac Newton's Lucasian Chair of Mathematics at Cambridge University.  Lighthill (1986, Sec. 3.1) writes:
 <center>
