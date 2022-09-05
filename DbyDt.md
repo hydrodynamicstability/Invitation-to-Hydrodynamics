@@ -9,11 +9,11 @@ In this panegyric, I discuss Sir George Gabriel Stokes' *D/Dt* notation for the 
 One of any student's first lessons in fluid dynamics is the use, in D'Alembert-Euler local field theory, of a total derivative known as the *material derivative*,
 *convective derivative*, or *substantive derivative*.  For instance the classic monograph by Sir Horace Lamb (1932, sec. 5) includes the following.
 <center>
-<img src="lamb.PNG" width="700">
+<img src="lambNEW.PNG" width="700">
 </center>
 Lamb used the *D/Dt* notation introduced by Stokes himself, in the paper where he gives the essentially modern continuum derivation of the Navier-Stokes equations (Stokes, 1849, Sec. 5; see my *Appendix* below).  Other authors use either *d/dt* or *D/Dt* for this concept.  Batchelor (1967, sec. 2.1), for instance, has this passage.
 <center>
-<img src="batchelor.PNG" width="700">
+<img src="batchelorNEW.PNG" width="700">
 </center>
 Lord Rayleigh (1916), who later won the 1904 Nobel Prize in Physics, also used the *D/Dt* notation.  Tritton (1988, Sec. 5.5), Faber (1995, Sec. 2.4), and Rieutord (2015, sec. 1.3.4) have entire sections dedicated to the material derivative, which I won't quote here; they all also use the *D/Dt* notation for it.  The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free.  However, Feynman does not use any special notation for the material derivative, nor do Subramanyan Chandrasekhar (1961) and Steven Weinberg (2021, sec. 2.5).
 
@@ -27,7 +27,7 @@ Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in flui
 
 Kip Thorne and Roger Blandford, in their *Modern Classical Physics* (2017), also use *d/dt* for the material derivative, but go one step further.  See this excerpt from Sec. 14.2.1:
 <center>
-<img src="thorne.PNG" width="700">
+<img src="thorneNEW.PNG" width="700">
 </center>
 Their footnote 2 indicates that "The combination of spatial derivatives appearing here is called the *Lie derivative*", and that it is the commutator of the velocity and vorticity vectors, an operator "often encountered in differential geometry."  They provide alternate notations for the Lie derivative, either a capital script "L" with a subscript "v", or commutator brackets.
 They go on to use the term "fluid derivative" for their expression 14.5 when acting on a vector (and when acting on a scalar, they state is it just the convective derivative).  Finally they parenthetically (and dismissively) note that "The notation *D/Dt* is used in some older texts for the convective derivative *d/dt*."  Excuse me?  I have never seen any other text use *D/Dt* for expression 14.5.  Thorne and Blandford have appropriated Stokes' notation for an expression other than what Stokes (and generations of authors after him) intended.  As far as I can tell, this usage is unique to Thorne and Blandford.
