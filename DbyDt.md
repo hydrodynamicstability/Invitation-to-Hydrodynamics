@@ -7,7 +7,7 @@ In this panegyric, I discuss Sir George Gabriel Stokes' *D/Dt* notation for the 
 ### The Material Derivative
 
 One of a student's first lessons in fluid dynamics is the use, in the standard local field theory of D'Alembert and Euler, of a total derivative known as the *material derivative*,
-*convective derivative*, *substantive derivative*, or *barycentric derivative*.  For instance, the classic monograph by Sir Horace Lamb (1932, sec. 5) includes the following.
+*convective derivative*, *substantive derivative*, or *barycentric derivative*.  For instance, the classic monograph by Sir Horace Lamb (1932, sec. 5) includes the following passage, using Cartesian coordinates.
 <center>
 <img src="lambNEW.PNG" width="700">
 </center>
@@ -21,7 +21,7 @@ A particularly insightful passage on this notation is provided by Sir James Ligh
 <center>
 <img src="lighthill.PNG" width="700">
 </center>
-Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  Perhaps not without reason then, many other mathematicians who write about hydrodynamics use *D/Dt* as well (e.g., Acheson, 1990; Birkhoff, 1960; Chorin and Marsden, 2000).  However, many key writers in physics, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.  Paradoxically, though Prandtl (1952) used *d/dt*, Prandtl and Tietjens (1934, sec. 49) used the hybrid notation *D/dt*.  The latter convention is also adopted briefly by Rajeev (2018), though most of the time he just writes out the full expression in tensor notation.  Surveying other hydrodynamics works by physicists (such as those listed [here](booksByPhysicists.md)) shows about an even split between the use of *d/dt* and *D/Dt* for the material derivative.  The *D/Dt* notation is less common among statistical physicists, though I know of at least one text that uses it (Kreuzer, 1981), as well as one by a chemist (McQuarrie, 2000).  Among the atmospheric and oceanographic sciences, the *D/Dt* notation is not dominant, but it is used in some of the most prominent texts (e.g., Holton, 2004; Gill, 1982; Salmon, 1998).  Similarly, many important texts in mechanical and aerospace engineering use *D/Dt* (e.g., Anderson, 2002; Panton, 2013; Smits, 1999; and White, 2005) as does the classic chemical engineering text by Bird, Stewart, and Lightfoot (2002).
+Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  Perhaps not without reason then, many other mathematicians who write about hydrodynamics use *D/Dt* as well (e.g., Acheson, 1990; Birkhoff, 1960; Chorin and Marsden, 2000; and Lin and Segel, 1974).  However, many key writers in physics, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.  Paradoxically, though Prandtl (1952) used *d/dt*, Prandtl and Tietjens (1934, sec. 49) used the hybrid notation *D/dt*.  The latter convention is also adopted briefly by Rajeev (2018), though most of the time he just writes out the full expression in tensor notation.  Surveying other hydrodynamics works by physicists (such as those listed [here](booksByPhysicists.md)) shows about an even split between the use of *d/dt* and *D/Dt* for the material derivative.  The *D/Dt* notation is less common among statistical physicists, though I know of at least one text that uses it (Kreuzer, 1981), as well as one by a chemist (McQuarrie, 2000).  Among the atmospheric and oceanographic sciences, the *D/Dt* notation is not dominant, but it is used in some of the most prominent texts (e.g., Holton, 2004; Gill, 1982; Salmon, 1998).  Similarly, many important texts in mechanical and aerospace engineering use *D/Dt* (e.g., Anderson, 2002; Panton, 2013; Smits, 1999; and White, 2005) as does the classic chemical engineering text by Bird, Stewart, and Lightfoot (2002).
 
 Liepmann and Roshko (1957) used *D/Dt* but curiously named it the *Eulerian derivative*.  It is indeed likely that Leonhard Euler was the first to write the fluid acceleration term, as we understand it, in its three-dimensional form, but in one dimension it was previously intuited by Daniel Bernoulli's father, Johann, and expressed in field theoretic form by Jean le Rond D'Alembert (Darrigol, 2005).  The *D/Dt* notation was not used by any of them; it is due to solely to G. G. Stokes (1849). Hence, some writers call it the *Stokes operator*.
 
@@ -86,13 +86,15 @@ H. J. Kreuzer, 1981:  *Nonequilibrium Thermodynamics and its Statistical Foundat
 
 H. Lamb, 1932:  *Hydrodynamics*, 6th edition.  Cambridge University Press.  Reprinted with a forward by R. A. Caflisch, 1997.
 
-H. W. Liepmann and A. Roshko, 1957:  *Elements of Gasdynamics*.  McGraw-Hill.  Reprinted with corrections and an appendix by Dover, 2001.
-
 J.-L. Lagrange, 1997:  *Analytical Mechanics*, translated from the *Mecanique Analytique, novelle edition* of 1811.  Translated and edited by A. Boissonnade and V. N. Vagliente.  Boston Studies in the Philosophy of Science, vol. 191.  Kluwer.
 
 L. D. Landau and E. M. Lifshitz, 1959:  *Fluid Mechanics*.  Course of Theoretical Physics, vol. 6.  Pergamon Press.
 
+H. W. Liepmann and A. Roshko, 1957:  *Elements of Gasdynamics*.  McGraw-Hill.  Reprinted with corrections and an appendix by Dover, 2001.
+
 J. Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics*.  IMA Monograph Series, vol. 2.  Oxford University Press.
+
+C. C. Lin and L. A. Segel, 1974:  *Mathematics Applied to Deterministic Problems in the Natural Sciences*.  Macmillan.  Reprinted with corrections by SIAM, 1988.
 
 D. A. McQuarrie, 2000:   *Statistical Mechanics*.  University Science Books.
 
