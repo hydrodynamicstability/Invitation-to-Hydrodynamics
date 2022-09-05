@@ -21,7 +21,7 @@ A particularly insightful passage on this notation is provided by Sir James Ligh
 <center>
 <img src="lighthill.PNG" width="700">
 </center>
-Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  However, many key writers in physics, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.  Paradoxically, though Prandtl (1952) uses *d/dt*, Prandtl and Tietjens (1934, sec. 49) use the hybrid notation *D/dt*.  The latter convention is also adopted briefly by Rajeev (2018), though most of the time he just writes out the full expression in tensor notation.  Surveying other works by physicists (such as those listed [here](booksByPhysicists.md) show about an even split between the use of *d/dt* and *D/Dt* for the material derivative.
+Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  However, many key writers in physics, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.  Paradoxically, though Prandtl (1952) uses *d/dt*, Prandtl and Tietjens (1934, sec. 49) use the hybrid notation *D/dt*.  The latter convention is also adopted briefly by Rajeev (2018), though most of the time he just writes out the full expression in tensor notation.  Surveying other works by physicists (such as those listed [here](booksByPhysicists.md)) show about an even split between the use of *d/dt* and *D/Dt* for the material derivative.
 
 ### The "Fluid Derivative"
 
@@ -44,7 +44,7 @@ This is an excerpt from Stokes (1949) where *D/Dt* first appears.
 <center>
 <img src="stokes1.PNG" width="700"> <img src="stokes2.PNG" width="700">
 </center>
-The use of a capital *D* as a differential operator in hydrodynamics is actually older than Stokes.  Joseph-Louis Lagrange introduces such an operator in volume 2, Section XI, subsection 1, of *Mecanique analytique, novelle edition* (1811), but it appears to mean something different than Stokes' meaning.
+The use of a capital *D* as a differential operator in hydrodynamics is actually older than Stokes.  Joseph-Louis Lagrange introduces such an operator in volume 2, Section XI, subsection 1, of *Mecanique analytique, novelle edition* (1811), which covers the motion of incompressible fluids, but it appears to mean something different than Stokes' meaning.  He never used the notation *D/Dt*.
 
 To add to the confusion, in general relativity, the *covariant derivative* is sometimes denoted using a capital *D* operator as well.
 
