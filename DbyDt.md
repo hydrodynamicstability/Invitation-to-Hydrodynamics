@@ -17,11 +17,11 @@ Lamb used the *D/Dt* notation introduced by Stokes himself, in the paper where h
 </center>
 Lord Rayleigh (1916), who later won the 1904 Nobel Prize in Physics, also used the *D/Dt* notation.  Several books written by physicists, such as Tritton (1988, Sec. 5.5), Faber (1995, Sec. 2.4), and Rieutord (2015, sec. 1.3.4), have entire sections dedicated to the material derivative; the cited authors all also use the *D/Dt* notation for it.  The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free.  However, Feynman does not use any special notation for the material derivative, nor do Subramanyan Chandrasekhar (1961) and Steven Weinberg (2021, sec. 2.5).
 
-A particularly insightful passage on this notation is provided by Sir James Lighthill, who like Stokes, was a holder of Sir Issac Newton's Lucasian Chair of Mathematics at Cambridge University.  Lighthill (1986, Sec. 3.1) writes:
+A particularly insightful passage on this notation is provided by Sir James Lighthill, who like Stokes, was a holder of Sir Issac Newton's Lucasian Chair of Mathematics at Cambridge University.  (Other holders of this chair include Charles Babbage, Paul Dirac, and Stephen Hawking.)  Lighthill (1986, Sec. 3.1) writes:
 <center>
 <img src="lighthill.PNG" width="700">
 </center>
-Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  However, many key writers, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.  Paradoxically, though Prandtl (1952) uses *d/dt*, Prandtl and Tietjens (1934, sec. 49) use the hybrid notation *D/dt*.  The latter convention is also adopted briefly by Rajeev (2018), though most of the time he just writes out the full expression in tensor notation.
+Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  However, many key writers in physics, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.  Paradoxically, though Prandtl (1952) uses *d/dt*, Prandtl and Tietjens (1934, sec. 49) use the hybrid notation *D/dt*.  The latter convention is also adopted briefly by Rajeev (2018), though most of the time he just writes out the full expression in tensor notation.  Surveying other works by physicists (such as those listed [here](booksByPhysicists.md) show about an even split between the use of *d/dt* and *D/Dt* for the material derivative.
 
 ### The "Fluid Derivative"
 
