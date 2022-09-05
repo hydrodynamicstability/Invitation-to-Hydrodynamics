@@ -7,7 +7,7 @@ In this panegyric, I discuss Sir George Gabriel Stokes' *D/Dt* notation for the 
 ### The Material Derivative
 
 One of a student's first lessons in fluid dynamics is the use, in the standard local field theory of D'Alembert and Euler, of a total derivative known as the *material derivative*,
-*convective derivative*, or *substantive derivative*.  For instance, the classic monograph by Sir Horace Lamb (1932, sec. 5) includes the following.
+*convective derivative*, *substantive derivative*, or *barycentric derivative*.  For instance, the classic monograph by Sir Horace Lamb (1932, sec. 5) includes the following.
 <center>
 <img src="lambNEW.PNG" width="700">
 </center>
@@ -21,7 +21,9 @@ A particularly insightful passage on this notation is provided by Sir James Ligh
 <center>
 <img src="lighthill.PNG" width="700">
 </center>
-Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  However, many key writers in physics, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.  Paradoxically, though Prandtl (1952) uses *d/dt*, Prandtl and Tietjens (1934, sec. 49) use the hybrid notation *D/dt*.  The latter convention is also adopted briefly by Rajeev (2018), though most of the time he just writes out the full expression in tensor notation.  Surveying other works by physicists (such as those listed [here](booksByPhysicists.md)) show about an even split between the use of *d/dt* and *D/Dt* for the material derivative.
+Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  Perhaps not without reason, many other mathematicians who write about hydrodynamics use *D/Dt* as well (e.g., Acheson, 1990; Birkhoff, 1960; Chorin and Marsden, 2000).  However, many key writers in physics, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.  Paradoxically, though Prandtl (1952) uses *d/dt*, Prandtl and Tietjens (1934, sec. 49) use the hybrid notation *D/dt*.  The latter convention is also adopted briefly by Rajeev (2018), though most of the time he just writes out the full expression in tensor notation.  Surveying other works by physicists (such as those listed [here](booksByPhysicists.md)) show about an even split between the use of *d/dt* and *D/Dt* for the material derivative.  The *D/Dt* notation is less common among statistical physicists, though I know of at least one text that uses it (Kreuzer, 1981), as well as one by a chemist (McQuarrie, 2000).
+
+Some physicists (Bruus, 2008; Hertel, 2012) use the notation $D_t$ for the material derivative.
 
 ### The "Fluid Derivative"
 
@@ -29,7 +31,7 @@ Kip Thorne and Roger Blandford, in their *Modern Classical Physics* (2017), also
 <center>
 <img src="thorneNEW.PNG" width="700">
 </center>
-Their footnote 2 indicates that "The combination of spatial derivatives appearing here is called the *Lie derivative*", and that it is the commutator of the velocity and vorticity vectors, an operator "often encountered in differential geometry."  They provide alternate notations for the Lie derivative, either a capital script "L" with a subscript "v", or commutator brackets.
+Their footnote 2 indicates that "The combination of spatial derivatives appearing here is called the *Lie derivative*", and that it is the commutator of the velocity and vorticity vectors, an operator "often encountered in differential geometry."  They provide alternate notations for the Lie derivative, either $\cal{L}_v$ or by using commutator brackets.
 They go on to use the term "fluid derivative" for their expression 14.5 when acting on a vector (and when acting on a scalar, they state is it just the convective derivative).  Finally they parenthetically (and dismissively) note that "The notation *D/Dt* is used in some older texts for the convective derivative *d/dt*."  Excuse me?  I have never seen any other text use *D/Dt* for expression 14.5.  Thorne and Blandford have appropriated Stokes' notation for an expression other than what Stokes (and generations of authors after him) intended.  As far as I can tell, this usage is unique to Thorne and Blandford.
 
 I predict that Thorne and Blandford's revisionist notation will not catch on.  The *D/Dt* notation for the material derivative is too entrenched, and for good reason (as the Lighthill passage indicates).  Thorne and Blandford's "fluid derivative" could easily be denoted as the sum of *D/Dt* and the Lie derivative (or equivalently the commutator of the velocity and vorticity vectors).
@@ -50,13 +52,25 @@ To add to the confusion, in general relativity, the *covariant derivative* is so
 
 ### References
 
+D. J. Acheson, 1990:  *Elementary Fluid Dynamics*.  Oxford Applied Mathematics and Computing Science Series.  Oxford University Press.
+
 H. Alfven, 1942:  Existence of electromagnetic-hydrodynamic waves.  *Nature*, 150:  405-406.
 
 G. K. Batchelor, 1967:  *Introduction to Fluid Dynamics*.  Cambridge University Press.
 
+G. Birkhoff, 1960:  *Hydrodynamics:  A Study in Logic, Fact and Similitude*, revised edition.  Princeton University Press.  Reprinted in the Princeton Legacy Library series.
+
+H. Bruus, 2008:  *Theoretical Microfluidics*.  Oxford Master Series in Condensed Matter Physics.  Oxford University Press.
+
 S. Chandrasekhar, 1961:  *Hydrodynamic and Hydromagnetic Stability*.  Inernational Series of Monographs on Physics.  Oxford University Press.  Reprinted by Dover, 1981.
 
+A. J. Chorin and J. E. Marsden, 2000:  *A Mathematical Introduction to Fluid Mechanics*, 3d edition.  Texts in Applied Mathematics, vol. 4.  Springer.
+
 T. E. Faber, 1995:  *Fluid Dynamics for Physicists*.  Cambridge University Press.
+
+P. Hertel, 2012:  *Continuum Physics*. Graduate Texts in Physics. Springer. 
+
+H. J. Kreuzer, 1981:  *Nonequilibrium Thermodynamics and its Statistical Foundations*.  Monographs on the Physics and Chemistry of Materials.  Oxford University Press.
 
 H. Lamb, 1932:  *Hydrodynamics*, 6th edition.  Cambridge University Press.  Reprinted with a forward by R. A. Caflisch, 1997.
 
@@ -65,6 +79,8 @@ J.-L. Lagrange, 1997:  *Analytical Mechanics*, translated from the *Mecanique An
 L. D. Landau and E. M. Lifshitz, 1959:  *Fluid Mechanics*.  Course of Theoretical Physics, vol. 6.  Pergamon Press.
 
 J. Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics*.  IMA Monograph Series, vol. 2.  Oxford University Press.
+
+D. A. McQuarrie, 2000:   *Statistical Mechanics*.  University Science Books.
 
 L. Prandtl, 1952:  *Essentials of Fluid Dynamics, With Applications to Hydraulics, Aeronautics, Meteorology and other Subjects*.  Hafner.
 
