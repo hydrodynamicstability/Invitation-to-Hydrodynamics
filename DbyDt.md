@@ -21,7 +21,7 @@ A particularly insightful passage on this notation is provided by Sir James Ligh
 <center>
 <img src="lighthill.PNG" width="700">
 </center>
-Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  However, many key writers, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.
+Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  However, many key writers, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.  Paradoxically, though Prandtl (1952) uses *d/dt*, Prandtl and Tietjens (1934, sec. 49) use the hybrid notation *D/dt*.  The latter convention is also adopted briefly by Rajeev (2018), though most of the time he just writes out the full expression in tensor notation.
 
 ### The "Fluid Derivative"
 
@@ -29,10 +29,12 @@ Kip Thorne and Roger Blandford, in their *Modern Classical Physics* (2017), also
 <center>
 <img src="thorne.PNG" width="700">
 </center>
-Their footnote 2 indicates that "The combination of spatial derivatives appearing here is called the *Lie derivative*" and that it is the commutator of the velocity and vorticity vectors, an operator "often encountered in differential geometry."
+Their footnote 2 indicates that "The combination of spatial derivatives appearing here is called the *Lie derivative*" and that it is the commutator of the velocity and vorticity vectors, an operator "often encountered in differential geometry."  They provide alternate notations for the Lie derivative, either a capital script "L" with a subscript "v", or commutator brackets.
 They go on to use the term "fluid derivative" for their expression 14.5 when acting on a vector (and when acting on a scalar, they state is it just the convective derivative).  Finally they parenthetically (and dismissively) note that "The notation *D/Dt* is used in some older texts for the convective derivative *d/dt*."  Excuse me?  I have never seen any other text use *D/Dt* for expression 14.5.  Thorne and Blandford have appropriated Stokes' notation for an expression other than what Stokes (and generations of authors after him) intended.
 
-I predict that Thorne and Blandford's revisionist notation will not catch on.  The *D/Dt* notation for the material derivative is too entrenched, and for good reason (as the Lighthill passage indicates).  Won't you join me in the Campaign to Save Stokes' *D/Dt*?  
+I predict that Thorne and Blandford's revisionist notation will not catch on.  The *D/Dt* notation for the material derivative is too entrenched, and for good reason (as the Lighthill passage indicates).  Thorne and Blandford's "fluid derivative" could easily be denoted as the sum of *D/Dt* and the Lie derivative (or equivalently the commutator of the velocity and vorticity vectors).
+
+Won't you join me in the Campaign to Save Stokes' *D/Dt*?  
 
 ;-)
 
@@ -63,6 +65,12 @@ J. L. Lagrange, 1997:  *Analytical Mechanics*, translated from the *Mecanique An
 L. D. Landau and E. M. Lifshitz, 1959:  *Fluid Mechanics*.  Course of Theoretical Physics, vol. 6.  Pergamon Press.
 
 J. Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics*.  IMA Monograph Series, vol. 2.  Oxford University Press.
+
+L. Prandtl, 1952:  *Essentials of Fluid Dynamics, With Applications to Hydraulics, Aeronautics, Meteorology and other Subjects*.  Hafner.
+
+L. Prandtl and O. G. Tietjens, 1934:  *Fundamentals of Hydro- and Aeromechanics*.  Engineering Societies Monographs.  McGraw-Hill.  Reprinted by Dover, 1957.
+
+S. Rajeev, 2018:  *Fluid Mechanics: A Geometrical Point of View*. Oxford University Press. 
 
 Lord Rayleigh, 1916: On convection currents in a horizontal layer of fluid when the higher temperature is on the under side. *Philosophical Magazine*, series 6, 32: 529-546.
 
