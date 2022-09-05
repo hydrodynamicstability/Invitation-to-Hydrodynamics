@@ -38,7 +38,7 @@ They go on to use the term "fluid derivative" for their expression 14.5 when act
 
 I predict that Thorne and Blandford's revisionist notation will not catch on.  The *D/Dt* notation for the material derivative is too entrenched, and for good reason (as the Lighthill passage indicates).  Thorne and Blandford's "fluid derivative" could easily be denoted as the sum of *D/Dt* and the Lie derivative (or equivalently the commutator of the velocity and vorticity vectors).
 
-Won't you join me in the Campaign to Save Stokes' *D/Dt*?  
+Won't you join me in the Campaign to Save Stokes' version of *D/Dt*?  
 
 ;-)
 
