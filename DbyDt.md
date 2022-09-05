@@ -21,9 +21,11 @@ A particularly insightful passage on this notation is provided by Sir James Ligh
 <center>
 <img src="lighthill.PNG" width="700">
 </center>
-Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  Perhaps not without reason, many other mathematicians who write about hydrodynamics use *D/Dt* as well (e.g., Acheson, 1990; Birkhoff, 1960; Chorin and Marsden, 2000).  However, many key writers in physics, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.  Paradoxically, though Prandtl (1952) uses *d/dt*, Prandtl and Tietjens (1934, sec. 49) use the hybrid notation *D/dt*.  The latter convention is also adopted briefly by Rajeev (2018), though most of the time he just writes out the full expression in tensor notation.  Surveying other works by physicists (such as those listed [here](booksByPhysicists.md)) show about an even split between the use of *d/dt* and *D/Dt* for the material derivative.  The *D/Dt* notation is less common among statistical physicists, though I know of at least one text that uses it (Kreuzer, 1981), as well as one by a chemist (McQuarrie, 2000).
+Here Lighthill defends the use of *D/Dt* rather than *d/dt* for this use in fluid dynamics.  Perhaps not without reason then, many other mathematicians who write about hydrodynamics use *D/Dt* as well (e.g., Acheson, 1990; Birkhoff, 1960; Chorin and Marsden, 2000).  However, many key writers in physics, including Alfven (1942) and Landau & Lifshitz (1959), continued to use *d/dt* instead of *D/Dt*.  Paradoxically, though Prandtl (1952) uses *d/dt*, Prandtl and Tietjens (1934, sec. 49) use the hybrid notation *D/dt*.  The latter convention is also adopted briefly by Rajeev (2018), though most of the time he just writes out the full expression in tensor notation.  Surveying other hydrodynamics works by physicists (such as those listed [here](booksByPhysicists.md)) show about an even split between the use of *d/dt* and *D/Dt* for the material derivative.  The *D/Dt* notation is less common among statistical physicists, though I know of at least one text that uses it (Kreuzer, 1981), as well as one by a chemist (McQuarrie, 2000).  Among the atmospheric and oceanographic sciences, the *D/Dt* notation is not dominant, but it is used in some of the most prominent texts (e.g., Holton, 2004; Gill, 1982; Salmon, 1998).  Many important texts in mechanical and aerospace engineering use *D/Dt* (e.g., Anderson, 2002; Panton, 2013; Smits, 1999; and White, 2005) as well as the classic chemical engineering text by Bird, Stewart, and Lightfoot (2002).
 
-Some physicists (Bruus, 2008; Hertel, 2012) use the notation $D_t$ for the material derivative.
+Liepmann and Roshko (1957) use *D/Dt* but curiously name it the *Eulerian derivative*.  It is indeed likely that Leonhard Euler was the first to write the fluid acceleration term in its three-dimensional form, but in one dimension it was previously intuited by Daniel Bernoulli's father, Johann, and expressed in field theoretic form by Jean le Rond D'Alembert (Darrigol, 2005).  The *D/Dt* notation was not used by any of them; it is due to Stokes (1849), hence, some writers call it the *Stokes operator*.
+
+Some physicists (Bruus, 2008; Hertel, 2012) use the simple notation $D_t$ for the material derivative.
 
 ### The "Fluid Derivative"
 
@@ -56,7 +58,11 @@ D. J. Acheson, 1990:  *Elementary Fluid Dynamics*.  Oxford Applied Mathematics a
 
 H. Alfven, 1942:  Existence of electromagnetic-hydrodynamic waves.  *Nature*, 150:  405-406.
 
+J. D. Anderson, 2002:  *Modern Compressible Flow: with Historical Perspective*, 3d edition. McGraw-Hill.
+
 G. K. Batchelor, 1967:  *Introduction to Fluid Dynamics*.  Cambridge University Press.
+
+R. B. Bird, W. E. Stewart, and E. N. Lightfoot, 2002: *Transport Phenomena*, 2d edition. Wiley.
 
 G. Birkhoff, 1960:  *Hydrodynamics:  A Study in Logic, Fact and Similitude*, revised edition.  Princeton University Press.  Reprinted in the Princeton Legacy Library series.
 
@@ -66,13 +72,21 @@ S. Chandrasekhar, 1961:  *Hydrodynamic and Hydromagnetic Stability*.  Inernation
 
 A. J. Chorin and J. E. Marsden, 2000:  *A Mathematical Introduction to Fluid Mechanics*, 3d edition.  Texts in Applied Mathematics, vol. 4.  Springer.
 
+O. Darrigol, 2005:  *Worlds of Flow:  A History of Hydrodynamics from the Bernoullis to Prandtl*.  Oxford University Press.
+
 T. E. Faber, 1995:  *Fluid Dynamics for Physicists*.  Cambridge University Press.
 
+A. Gill, 1982:  *Atmosphere-Ocean Dynamics*.  International Geophysics Series, vol. 30.  Academic Press.
+
 P. Hertel, 2012:  *Continuum Physics*. Graduate Texts in Physics. Springer. 
+
+J. R. Holton, 2004:  *An Introduction to Dynamic Meteorology*, 4th edition.  International Geophysics Series, vol. 88.  Elsevier.
 
 H. J. Kreuzer, 1981:  *Nonequilibrium Thermodynamics and its Statistical Foundations*.  Monographs on the Physics and Chemistry of Materials.  Oxford University Press.
 
 H. Lamb, 1932:  *Hydrodynamics*, 6th edition.  Cambridge University Press.  Reprinted with a forward by R. A. Caflisch, 1997.
+
+H. W. Liepmann and A. Roshko, 1957:  *Elements of Gasdynamics*.  McGraw-Hill.  Reprinted with corrections and an appendix by Dover, 2001.
 
 J.-L. Lagrange, 1997:  *Analytical Mechanics*, translated from the *Mecanique Analytique, novelle edition* of 1811.  Translated and edited by A. Boissonnade and V. N. Vagliente.  Boston Studies in the Philosophy of Science, vol. 191.  Kluwer.
 
@@ -81,6 +95,8 @@ L. D. Landau and E. M. Lifshitz, 1959:  *Fluid Mechanics*.  Course of Theoretica
 J. Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics*.  IMA Monograph Series, vol. 2.  Oxford University Press.
 
 D. A. McQuarrie, 2000:   *Statistical Mechanics*.  University Science Books.
+
+R. L. Panton, 2013: *Incompressible Flow*, 4th edition.  Wiley.
 
 L. Prandtl, 1952:  *Essentials of Fluid Dynamics, With Applications to Hydraulics, Aeronautics, Meteorology and other Subjects*.  Hafner.
 
@@ -92,6 +108,10 @@ Lord Rayleigh, 1916: On convection currents in a horizontal layer of fluid when 
 
 M. Rieutord, 2015:  *Fluid Dynamics:  An Introduction*.  Graduate Texts in Physics.  Springer.
 
+R. Salmon, 1998:  *Lectures on Geophysical Fluid Dynamics*.  Oxford University Press.
+
+A. J. Smits, 1999: *A Physical Introduction to Fluid Mechanics*. Wiley.
+
 G. G. Stokes, 1849:  On the theories of the internal friction of fluids in motion, and of the equilibrium and motion of elastic solids.  *Transactions of the Cambridge Philosophical Society*, 8: 287-305.  (Presented in 1845.)
 
 K. S. Thorne and R. D. Blandford, 2017:  *Modern Classical Physics:  Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics*.  Princeton University Press.
@@ -99,6 +119,8 @@ K. S. Thorne and R. D. Blandford, 2017:  *Modern Classical Physics:  Optics, Flu
 D. J. Tritton, 1988:  *Physical Fluid Dynamics*, second edition.  Oxford University Press.
 
 S. Weinberg, 2021:  *Foundations of Modern Physics*.  Cambridge University Press.
+
+F. M. White, 2005:  *Viscous Fluid Flow*, 3d edition. McGraw-Hill.
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
