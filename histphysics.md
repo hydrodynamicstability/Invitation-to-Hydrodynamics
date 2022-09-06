@@ -25,7 +25,7 @@
 
 Most physicists attribute the beginning of *field theory* to Michael Faraday and James Clerk Maxwell in the 19th century.  It is true that theirs was the first *force field theory*; however it borrows a great deal of its mathematics from *mechanical* field theories that originated in the 18th century with Jean le Rond D'Alembert and Leonhard Euler.  Consequently much of the vector calculus of electromagnetism retains a distinctly hydrodynamic character, as illustrated in this [video lecture](https://www.youtube.com/watch?v=sB4C3YfSZyU&list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ&index=36) from *The Mechanical Universe and Beyond*, by Prof. David Goodstein (Caltech).
 
-The greatest classical physicists of all time, Galileo, Newton, Faraday, and Maxwell, all investigated fluid mechanics, though their primary influence on the subject is indirect, through their laying of the foundations of classical mechanics, electromagnetism, and kinetic theory.  At least two of the principal founders of classical thermodynamics, Helmholtz and Kelvin, made more direct and profound contributions to hydrodynamics.  Albert Einstein's foray into aerodynamics is more questionable.  Finally, while only one Nobel Prize in Physics has been awarded for classical hydrodynamics (Hannes Alfven, 1970), many have been awarded for work in superfluids, and many Nobel Laureates honored for other fields have been involved in a greater or lesser extent in the physics of fluids.  (For the latter, please see the *Appendix* at the bottom of this page.  I discuss some of these figures [elsewhere](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/booksByPhysicists.html) on this site - notably Lev Landau, Hannes Alfven, S. Chandrasekhar, and Kip Thorne; and [here](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/physicscourses.html) for more on Landau and Thorne, plus Richard Feynman and Steven Weinberg.)
+The greatest classical physicists of all time, Galileo, Newton, Faraday, and Maxwell, all investigated fluid mechanics, though their primary influence on the subject is indirect, through their laying of the foundations of classical mechanics, electromagnetism, and kinetic theory.  At least two of the principal founders of classical thermodynamics, Helmholtz and Kelvin, made more direct and profound contributions to hydrodynamics.  Albert Einstein's foray into aerodynamics is more questionable.  Finally, while only one Nobel Prize in Physics has been awarded for classical hydrodynamics (Hannes Alfven, 1970), many have been awarded for work in superfluids, and many Nobel Laureates honored for other fields have been involved in a greater or lesser extent in the physics of fluids.  (For the latter, please see the *Appendix* at the bottom of this page.  I discuss some of these pesonalities [elsewhere](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/booksByPhysicists.html) on this site - notably Lev Landau, Hannes Alfven, S. Chandrasekhar, and Kip Thorne; and [here](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/physicscourses.html) for more on Landau and Thorne, plus Richard Feynman and Steven Weinberg.)
 
 ### Galileo
 
@@ -113,9 +113,50 @@ The 19th century saw the introduction of Augustin-Louis Cauchy's (1789-1857) str
 
 Joseph Fourier (1768-1830) introduced his law of heat conductivity in 1822, and Adolf Fick (1829-1901) introduced his diffusion law in 1855.  Giorgio Bidone (1781-1839) initiated the study of hydraulic jumps in papers of 1820 and 1826, a problem that engaged several later theorists including Gaspard Gustave de Coriolis (1792-1843) in 1836. John Scott Russell (1808-1882) discovered solitary waves during studies for a canal company in the 1830s and 40s.  Osborne Reynolds (1832-1912) began the modern investigation of turbulent flow in 1883.  Andrei N. Kolmogorov (1903-1987) and Alexander M. Obukhov (1918-1989) indepdently proposed turbulence scaling laws in 1941 that have had an enduring influence on the subject; as noted below, Heisenberg and von Weiszacker, and Lars Onsager, developed similar theories after the war.
 
-Ludwig Prandtl (1875-1953) introduced the boundary layer concept in 1904.  The two-dimensional theory of aerodynamic lift was formulated by Wilhelm Kutta (1867-1944) and Nikolai Egorovich Zhukovskii (1847-1921), while the three-dimensional theory is due to Prandtl and Frederick W. Lanchester (1868-1946).  G. I. Taylor (1886-1975), who made enduring contributions across fluid and solid mechanics (such as investigating the Taylor-Couette instability) and aerodynamicist Theodore von Karman (1881-1963), together with Prandtl, are the three most consequential hydrodynamicists of the 20th century.
+Ludwig Prandtl (1875-1953) introduced the boundary layer concept in 1904.  The two-dimensional theory of aerodynamic lift was formulated by Wilhelm Kutta (1867-1944) and Nikolai Egorovich Zhukovskii (1847-1921), while the three-dimensional theory is due to Prandtl and Frederick W. Lanchester (1868-1946), along with the work of Prandtl's student Heinrich Blasius (1883-1970).  G. I. Taylor (1886-1975), who made enduring contributions across fluid and solid mechanics (such as investigating the Taylor-Couette instability) and aerodynamicist Theodore von Karman (1881-1963), together with Prandtl, are the three most consequential hydrodynamicists of the 20th century.
 
 For more on the history of fluid mechanics, Rouse and Ince (1957), Anderson (1997), Darrigol (2005), Eckert (2006), and Calero (2008) are particularly useful.  The last three are complementary:  Calero covers the period from Huyghens, Marriotte, and Newton, to Euler and Lagrange; Darrigol takes the story from the Bernoullis to Prandtl; and Eckert begins with Prandtl and ends on the eve of WWII.  I have drawn liberally from these sources in the above.
+
+### APPENDIX:  Nobel Laureates and the Physics of Fluids
+
+Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Physics (and Chemistry, noted as such), the year of their award, and a mention of a few of their involvements in fluid mechanics or the physics of fluids.
+
+| Year | Laureate| Involvement with the physics of fluids or related activity |
+| ------ | -----------| ----------------------------------------------------------------------|
+| 1901 | Wiliam C. Rontgen | Research on problems such as the effect of pressure on refractive index in various fluids, variations in the relationship between temperature and compressibility in water and other fluids; the spreading of oil drops on water. |
+| 1904 | John William Strutt, Lord Rayleigh | Hydrodynamic instabilities (e.g., Rayleigh-Benard, Rayleigh-Taylor, Plateau-Rayleigh); acoustics. |
+| 1906 | J. J. Thomson | Contributed to viscoelastic theory. |
+| 1913 | Heike Kamerlingh Onnes | Experiments on liquid helium |
+| 1921 | Albert Einstein | Doctoral dissertation in part on viscosity of solutions with added sugar; teacup effect; "Cat's back" aerofoil (Einstein's folly - see above). |
+| 1922 | Niels Bohr | Developed Gamow's liquid drop model of the nucleus. |
+|1923 | Robert A. Millikan | Oil drop experiment requires use of Stokes formula for drag force on a slowly falling sphere |
+| 1932 | Werner Heisenberg | Doctoral dissertation under Sommerfeld on transition to turbulence in Poiseuille flow.  Worked with with C. F. von Weizsacker on liquid drop model of the nucelus, and turbulence scaling law (similar to Kolmogorov-Obukhov's). |
+| 1932 (Chemistry) | Irving Langmuir | Discovered Langmuir circulation in the Sargasso Sea. |
+|1938 | Enrico Fermi | Relativistic hydrodynamics of collision products of high energy cosmic rays. |
+| 1952 | Edward M. Purcell | Life at low Reynolds number (Purcell, 1977). |
+| 1957 | T. D. Lee | Statistical properties of hydrodynamic and magnetohydroynamic fields (Lee, 1952). | 
+|1962 | Lev D. Landau | Theory of superfluids; theory of turbulence; relativistic hydrodynamics (see Fermi above); classic text with Lifshitz, *Fluid Mechanics*. |
+|1965 | Richard P. Feynman | Circulation quantization in superfluids.  Fluid mechanics chapters in classic *Feynman Lectures on Physics*. |
+| 1967 | Hans A. Bethe | Worked on liquid drop model of nucleus. |
+| 1968 (Chemistry) | Lars Onsager | Turbulence scaling law (similar to Kolmogorov-Obukhov's), 1945; 1949 papers on statistical hydrodynamics; Bose-Einstein condensation in liquid helium (Penrose & Onsager, 1956). |
+| 1970 | Hannes O. G. Alfven | Magnetohydrodynamic waves. |
+| 1977 | Philip W. Anderson | Anderson's equations for superfluid flow. |
+| 1977 (Chemistry) | Ilya Prigogine | Theory of dissipative structures such as Benard cells in thermal convection. |
+| 1978 | Pyotr L. Kapitsa | Superfluid liquid helium-4 |
+| 1979 | Steven Weinberg | Relativistic hydrodynamics, e.g., Weinberg, 1971. |
+| 1983 | Subramanyan Chandrasekhar | Hydrodynamic and magnetohydrodynamic instabilities; chaired APS-DFD in 1955. |
+| 1991 | Pierre-Gilles DeGennes | Liquid crystals. |
+| 1996 | David Lee, Douglas Osheroff, and Robert Richardson | Superfluid liquid helium-3|
+| 1998 | Robert B. Laughlin, Horst L. Stormer, and Daniel C. Tsui | Fractional quantum hall effect in a quantum fluid. |
+| 1999 (Chemistry) | Ahmed H. Zewail | Nanofluidics of molten lead in a single zinc oxide nanotube (Lorenz & Zewail, 2014). |
+| 2001 | Eric A. Cornell, Wolfgang Ketterle, and Carl Wiemann | Bose-Einstein condensation in dilute alkali atom gases. |
+| 2003 | Anthony J. Leggett | Contributions to theory of superfluids. |
+| 2004 | Frank Wilczek | Physics of swimming (Schapire and Wilczek, 1989a,b). |
+| 2016 | David J. Thouless and J. Michael Kosterlitz | Proposed new type of phase transition observable in superfluids. |
+| 2017 | Kip S. Thorne | Astrophysical hydrodynamics; fluid mechanics chapters in *Modern Classical Physics* (with R. Blandford). |
+| 2019 | P. J. E. Peebles | Hydrodynamic models in cosmology |
+| 2021 | Syukuro Manabe and Klaus Hasselmann | Fundamental contributions to climate modeling |
+| 2021 | Giorgio Parisi | Multifractal description of turbulence (with coauthors). |
 
 
 ### References
@@ -169,187 +210,3 @@ For more on the history of fluid mechanics, Rouse and Ince (1957), Anderson (199
 The content on this site was developed solely on my personal time. The views expressed are solely my own, and do not necessarily represent the views, policies, or opinions of my employer or any organization with which I am affiliated.
 
 (c) 2022 by Christopher Tong.  
-
-### APPENDIX:  Nobel Laureates and fluid mechanics
-
-Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Physics (and Chemistry, noted as such), the year of their award, and a mention of a few of their involvements in fluid mechanics or the physics of fluids.
-
-<table>
-  <tr>
-    <th>Year</th>
-    <th>Laureate</th>
-    <th>Involvement with fluid mechanics or related activity</th>
-  </tr>
-  <tr>
-    <th>1901</th>
-    <th>Wiliam C. Rontgen</th>
-    <th>Research on problems such as the effect of pressure on refractive index in various fluids, variations in the relationship between temperature and compressibility in water and other fluids; the spreading of oil drops on water.</th>
-  </tr>
-  <tr>
-    <th>1904</th>
-    <th>John William Strutt, Lord Rayleigh</th>
-    <th>Hydrodynamic instabilities (e.g., Rayleigh-Benard, Rayleigh-Taylor, Plateau-Rayleigh); acoustics.</th>
-  </tr>
-    <tr>
-    <th>1906</th>
-    <th>J. J. Thomson</th>
-    <th>Contributed to viscoelastic theory.</th>
-  </tr>
-  <tr>
-    <th>1913</th>
-    <th>Heike Kamerlingh Onnes</th>
-    <th>Experiments on liquid helium</th>
-  </tr>
-  <tr>
-    <th>1921</th>
-    <th>Albert Einstein</th>
-    <th>Doctoral dissertation in part on viscosity of solutions with added sugar; teacup effect; "Cat's back" aerofoil (Einstein's folly - see above)</th>
-  </tr>
-  <tr>
-    <th>1922</th>
-    <th>Niels Bohr</th>
-    <th>Developed Gamow's liquid drop model of the nucleus</th>
-  </tr>
-  <tr>
-    <th>1923</th>
-    <th>Robert A. Millikan</th>
-    <th>Oil drop experiment requires use of Stokes formula for drag force on a slowly falling sphere</th>
-  </tr>
-  <tr>
-    <th>1932</th>
-    <th>Werner Heisenberg</th>
-    <th>Doctoral dissertation under Sommerfeld on transition to turbulence in Poiseuille flow.  Worked with with C. F. von Weizsacker on liquid drop model of the nucelus, and turbulence scaling law (similar to Kolmogorov-Obukhov's)</th>
-  </tr>
-    <tr>
-    <th>1932 (Chemistry)</th>
-    <th>Irving Langmuir</th>
-    <th>Discovered Langmuir circulation in the Sargasso Sea.</th>
-  </tr>
-  <tr>
-    <th>1938</th>
-    <th>Enrico Fermi</th>
-    <th>Relativistic hydrodynamics of collision products of high energy cosmic rays.</th>
-  </tr>
-  <tr>
-    <th>1952</th>
-    <th>Edward M. Purcell</th>
-    <th>Life at low Reynolds number (Purcell, 1977)</th>
-  </tr>
-  <tr>
-    <th>1957</th>
-    <th>T. D. Lee</th>
-    <th>Statistical properties of hydrodynamic and magnetohydroynamic fields (Lee, 1952).</th>
-  </tr>
-  <tr>
-    <th>1962</th>
-    <th>Lev D. Landau</th>
-    <th>Theory of superfluids; theory of turbulence; relativistic hydrodynamics (see Fermi above); classic text <i>Fluid Mechanics</i></th>
-  </tr>
-  <tr>
-    <th>1965</th>
-    <th>Richard P. Feynman</th>
-    <th>Circulation quantization in superfluids.  Fluid mechanics chapters in classic <i>Feynman Lectures on Physics</i>.</th>
-  </tr>
-  <tr>
-    <th>1967</th>
-    <th>Hans A. Bethe</th>
-    <th>Worked on liquid drop model of nucleus</th>
-  </tr>
-    <tr>
-    <th>1968 (Chemistry)</th>
-    <th>Lars Onsager</th>
-    <th>Turbulence scaling law (similar to Kolmogorov-Obukhov's), 1945; 1949 papers on statistical hydrodynamics; Bose-Einstein condensation in liquid helium (Penrose & Onsager, 1956)</th>
-  </tr>
-  <tr>
-    <th>1970</th>
-    <th>Hannes O. G. Alfven</th>
-    <th>Magnetohydrodynamic waves</th>
-  </tr>
-  <tr>
-    <th>1977</th>
-    <th>Philip W. Anderson</th>
-    <th>Anderson's equations for superfluid flow</th>
-  </tr>
-  <tr>
-    <th>1977 (Chemistry)</th>
-    <th>Ilya Prigogine</th>
-    <th>Theory of dissipative structures such as Benard cells in thermal convection</th>
-  </tr>
-  <tr>
-    <th>1978</th>
-    <th>Pyotr L. Kapitsa</th>
-    <th>Superfluid liquid helium-4</th>
-  </tr>
-  <tr>
-    <th>1979</th>
-    <th>Steven Weinberg</th>
-    <th>Relativistic hydrodynamics, e.g., Weinberg, 1971</th>
-  </tr>
-  <tr>
-    <th>1983</th>
-    <th>Subramanyan Chandrasekhar</th>
-    <th>Hydrodynamic and magnetohydrodynamic instabilities; chaired APS-DFD in 1955</th>
-  </tr>
-  <tr>
-    <th>1991</th>
-    <th>Pierre-Gilles DeGennes</th>
-    <th>Liquid crystals</th>
-  </tr>
-  <tr>
-    <th>1996</th>
-    <th>David Lee, Douglas Osheroff, and Robert Richardson</th>
-    <th>Superfluid liquid helium-3</th>
-  </tr>
-  <tr>
-    <th>1998</th>
-    <th>Robert B. Laughlin, Horst L. Stormer, and Daniel C. Tsui</th>
-    <th>Fractional quantum hall effect in a quantum fluid</th>
-  </tr>
-    <tr>
-    <th>1999 (Chemistry)</th>
-    <th>Ahmed H. Zewail</th>
-    <th>Nanofluidics of molten lead in a single zinc oxide nanotube (Lorenz & Zewail, 2014)</th>
-  </tr>
-  <tr>
-    <th>2001</th>
-    <th>Eric A. Cornell, Wolfgang Ketterle, and Carl Wiemann</th>
-    <th>Bose-Einstein condensation in dilute alkali atom gases</th>
-  </tr>
-  <tr>
-    <th>2003</th>
-    <th>Anthony J. Leggett</th>
-    <th>Contributions to theory of superfluids</th>
-  </tr>
-  <tr>
-    <th>2004</th>
-    <th>Frank Wilczek</th>
-    <th>Physics of swimming (Schapire and Wilczek, 1989a,b)</th>
-  </tr>
-   <tr>
-    <th>2016</th>
-    <th>David J. Thouless and J. Michael Kosterlitz</th>
-    <th>Proposed new type of phase transition observable in superfluids</th>
-  </tr>
-    <tr>
-      <th>2017</th>
-      <th>Kip S. Thorne</th>
-    <th>Astrophysical hydrodynamics; fluid mechanics chapters in <i>Modern Classical Physics</i> (with R. Blandford)</th>
-  </tr>
-  <tr>
-    <th>2019</th>
-    <th>P. J. E. Peebles</th>
-    <th>Hydrodynamic models in cosmology</th>
-  </tr>
-  <tr>
-    <th>2021</th>
-    <th>Syukuro Manabe and Klaus Hasselmann</th>
-    <th>Fundamental contributions to climate modeling</th>
-  <tr>
-  <tr>
-    <th>2021</th>
-    <th>Giorgio Parisi</th>
-    <th>Multifractal description of turbulence (with coauthors)</th>
-  </tr>
-</table>
-
-
