@@ -10,7 +10,9 @@
 I have listed all the books on continuum, fluid, and solid mechanics written by physicists (or astronomers) of an introductory or general nature that I know of.  I've confined the scope of this list to include works published after the Second World War and available in the English language.  
 
 I have not included
-more specialized works on continuum mechanics for geophysics, atmospheric dynamics, magnetohydrodynamics, plasma physics, astrophysical hydrodynamics, microfluidics, and so on.  Some elements of elasticity theory typically appear in texts on solid state physics, while elements of hydrodynamics less commonly appear in condensed matter physics texts -- these too will be omitted here.  Finally, hydrodynamics is often a canonical example of nonequilibrium thermodynamics and statistical mechanics, and I have not listed books in these fields that provide extensive coverage of this connection, with the exception of the classic by DeGroot & Mazur. The reason for these omissions is that such works often fail to provide a general view of hydrodynamics, to include for instance the topic of aerodynamic lift.  (Any physicist who finds Bernoulli's equation applied to cambered airfoils to be a satisfactory explanation of aerodynamic lift needs to explain how aerobatic aircraft can fly upside down!  See further discussion at [Fluid Mechanics in the Physics Curriculum](curriculum.md).  There are certainly hazards of learning continuum mechanics from a physicist, as illustrated by Ascher Shapiro's review of the Trefil book listed below.)  Unfortunately even some of the books I *have* listed here fail to adequately cover aerodynamic lift and other seemingly essential topics.  
+more specialized works on by physicists on geophysical fluid dynamics, magnetohydrodynamics, plasma physics, microfluidics, and so on.  Some elements of elasticity theory typically appear in texts on solid state physics, while elements of hydrodynamics less commonly appear in condensed matter physics texts -- these too will be omitted here.  Finally, hydrodynamics is often a canonical example of nonequilibrium thermodynamics and statistical mechanics, and I have not listed books in these fields that provide extensive coverage of this connection, with the exception of the classic by DeGroot & Mazur. The reason for these omissions is that such works often fail to provide a general view of hydrodynamics, to include for instance the topic of aerodynamic lift.  Any physicist who finds Bernoulli's equation, applied to cambered airfoils, to be a satisfactory explanation of aerodynamic lift needs to explain how aerobatic aircraft can fly upside down!  See further discussion at [Fluid Mechanics in the Physics Curriculum](curriculum.md).  (There are certainly hazards of learning continuum mechanics from a physicist, as illustrated by Ascher Shapiro's review of the Trefil book listed below.)  Unfortunately even some of the books I *have* listed here fail to adequately cover aerodynamic lift and other seemingly essential topics.
+
+I have made one concession, however, by including an *Appendix* on general books about astrophysical hydrodynamics.  If there is popular demand, I may consider adding additional appendices on other more advanced topics.
 
 This list is surely not complete, but I would like to make it so.  If you believe you know of an omission, please contact me at (remove spaces) c t o n g "at" m a i l a p s . o r g.
 
@@ -183,6 +185,19 @@ Landau, of course, is a primary contributor to the theory of superfluidity, and 
 *Non-Newtonian fluids*.  This is a topic surprisingly mentioned at best in passing by most books on this list.  Only Faber devotes an entire chapter (10) to the topic, though he includes plasmas and superfluid helium in the same chapter.  Guyon et al (Sec. 4.4) and Rieutord (Sec. 1.9) do provide some coverage, as do (very briefly) McCormack & Crane (Sec. 1.5).
 
 *Pseudomomentum (Quasimomentum)*.  This is a topic physicists usually meet in solid state physics, though Rudolf Peierls discussed it in optics too.  Falkovich discusses it in the setting of induced mass (sometimes called added mass, or virtual mass) of an object moving through an ideal fluid.  He dares to criticize Landau/Lifshitz's treatment of induced mass as "misleading in not distinguishing between momentum and quasi-momentum".  Further discussion of pseudomomentum in continuum mechanics can be found in Singh and Hanna, 2021, "Pseudomomentum:  origins and consequences", *Zeitschrift fur Angewandte Mathematik und Physik*, 72:  122.
+
+### Appendix A:  General books on astrophysical hydrodynamics.
+
+- Eduardo Battaner, 1996: *Astrophysical Fluid Dynamics*. Cambridge Univeristy Press.
+- Arnab Rai Choudhuri, 1998:  *The Physics of Fluids and Plasmas: An Introduction for Astrophysicists*. Cambridge University Press.
+- Cathie J. Clarke and Robert F. Carswell, 2007: *Principles of Astrophysical Fluid Dynamics*. Cambridge.
+- Shoji Kato and Jun Fukue, 2020: *Fundamentals of Astrophysical Fluid Dynamics: Hydrodynamics, Magnetohydrodynamics, and Radiation Hydrodynamics*. Astronomy and Astrophysics Library. Springer.
+- Vinod Krishan, 1999: *Astrophysical Plasmas and Fluids*. Astrophysics and Space Science Library, vol. 235.  Springer.
+- James E. Pringle and Andrew King, 2007: *Astrophysical Flows*. Cambridge University Press.
+- Steven N. Shore, 2007:  *Astrophysical Hydrodynamics: An Introduction*, 2d edition. Wiley-VCH.
+- Frank H. Shu, 1992:  *The Physics of Astrophysics. Vol. 2: Gas Dynamics*. University Science Books.
+- Michael J. Thompson, 2006:  *An Introduction to Astrophysical Fluid Dynamics*. Imperial College Press/World Scientific.
+- Jean-Paul Zahn and Jean Zinn-Justin (eds.), 1993: *Astrophysical Fluid Dynamics*. Proceedings of the Les Houches Summer School, Course XLVII, 29 June-31 July 1987.  North-Holland.
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
