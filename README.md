@@ -100,7 +100,7 @@ I will also mention a few more advanced books that any serious student of the su
   - M. James Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics* (Oxford University Press).  This author once held Sir Isaac Newton's post at Cambridge University (the Lucasian Professorship of Mathematics).
   - Ronald L. Panton, 2013:  *Incompressible Flow*, 4th edition (Wiley).
 
-Some perceptive thoughts on books for physicists to use when teaching fluid mechanics are offered by Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) of the second edition of *Physical Hydrodynamics* by Guyon et al. in the *American Journal of Physics* (2015).  Shaw's short review should be required reading for everyone visiting this page :-).
+Some perceptive thoughts on books for physicists to use when teaching fluid mechanics are offered by Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) of the second edition of *Physical Hydrodynamics* by Guyon et al. in the *American Journal of Physics* (2015).  Shaw's short review should be required reading for everyone visiting this page 🙂.
 
 Fluid mechanics is an inherently visual discipline.  Some multimedia resources include:
 - The American Physical Society's Division of Fluid Dynamics (DFD) hosts an annual event called the *Gallery of Fluid Motion*, which can now be accessed [online](https://gfm.aps.org/).
