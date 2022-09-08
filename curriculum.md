@@ -81,7 +81,7 @@ Most books titled *Classical Field Theory* focus exclusively on electromagnetic 
 
 ### Other notable books
 
-The third edition of Malcolm Longair's *Theoretical Concepts in Physics* (originally published in 1984) now includes a "gentle introduction" to fluid dynamics (Ch. 9 and parts of Ch. 10).  Rudolf Peierls' *More Surprises in Theoreteical Physics* includes a chapter (7) on hydrodynamics.
+The third edition of Malcolm Longair's *Theoretical Concepts in Physics* (originally published in 1984) now includes a "gentle introduction" to fluid dynamics (Ch. 9 and parts of Ch. 10).  Rudolf Peierls' *More Surprises in Theoretical Physics* includes a chapter (7) on hydrodynamics.
 
 ### A final thought
 
@@ -145,7 +145,7 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - M. P. Marder, 2010:  *Condensed Matter Physics*, 2d edition.  Wiley.
 
-- D. A. McQuarrie, 2000:  *Statisical Mechanics*.  University Science Books.
+- D. A. McQuarrie, 2000:  *Statistical Mechanics*.  University Science Books.
 
 - F. Melia, 2001:  *Electrodynamics*.  Chicago Lectures in Physics.  University of Chicago Press.
 
