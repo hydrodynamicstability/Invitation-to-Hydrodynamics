@@ -27,6 +27,7 @@
 - Intrigued, but not yet ready to commit?
 - Convinced, and ready to take the plunge?
 - Some background thoughts
+- Some favorite fluid mechanics pieces in *Physics Today*
 - Companion pages
 
 ### Why should a physicist learn some fluid mechanics?
@@ -158,6 +159,7 @@ Fluid dynamics is of increasing interest in condensed and soft matter physics, b
 - [Continuum mechanics in the great physics courses](physicscourses.md).
 - [Fluid mechanics and the history of physics](histphysics.md).
 - [An encomium for *D/Dt* notation](DbyDt.md) (tongue-in-cheek).
+
 
 ### Acknowledgments
 
