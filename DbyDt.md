@@ -15,7 +15,7 @@ Lamb used the *D/Dt* notation introduced by Stokes himself, in the paper where h
 <center>
 <img src="batchelorNEW.PNG" width="700">
 </center>
-The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free.  However, Feynman did not use any special notation for the material derivative, nor did Subramanyan Chandrasekhar (1961) and Steven Weinberg (2021, sec. 2.5).  Speaking of Nobel laureate physicists, Lord Rayleigh (1894, 1916) did use the *D/Dt* notation.  Several books written by physicists, such as Tritton (1988, Sec. 5.5), Faber (1995, Sec. 2.4), and Rieutord (2015, sec. 1.3.4), have entire sections dedicated to the material derivative; the three cited authors all use the *D/Dt* notation for it.  
+The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free.  However, Feynman did not use any special notation for the material derivative, nor did Subramanyan Chandrasekhar (1961) and Steven Weinberg (2021, sec. 2.5).  Speaking of Nobel laureate physicists, Lord Rayleigh (1894, 1916) did use the *D/Dt* notation.  Several hydrodynamics books written by physicists, such as Tritton (1988, Sec. 5.5), Faber (1995, Sec. 2.4), and Rieutord (2015, sec. 1.3.4), have entire sections dedicated to the material derivative; the three cited authors all use the *D/Dt* notation for it.  
 
 A particularly insightful discussion on this notation is provided by Sir James Lighthill, who like Stokes, was a holder of Sir Issac Newton's Lucasian Chair of Mathematics at Cambridge University.  (Other holders of this chair include Charles Babbage, Paul Dirac, and Stephen Hawking!)  Lighthill (1986, Sec. 3.1) wrote:
 <center>
@@ -27,7 +27,7 @@ Surveying other hydrodynamics works by physicists (such as those listed [here](b
 
 Liepmann and Roshko (1957) used *D/Dt* but curiously named it the *Eulerian derivative*.  It is indeed likely that Leonhard Euler was the first to write the fluid acceleration term, as we understand it, in its three-dimensional form, but in one dimension it was previously intuited by Daniel Bernoulli's father, Johann, and expressed in field theoretic form by Jean le Rond D'Alembert (Darrigol, 2005).  The *D/Dt* notation was not used by any of them; it is due to solely to G. G. Stokes (1849). Hence, some writers call it the *Stokes operator*.
 
-A few physicists (Bruus, 2008; Hertel, 2012) use the simple notation $D_t$ for the material derivative.  🤔
+A few physicists (Bruus, 2008; Hertel, 2012) use the simple notation $D_t$ for the material derivative.  Jose and Saletan (1998) compromise by using *both* the *D/Dt* and $D_t$ notations.  🤔
 
 ### The "Fluid Derivative"
 
@@ -35,8 +35,9 @@ Kip Thorne and Roger Blandford, in their *Modern Classical Physics* (2017), also
 <center>
 <img src="thorneNEW.PNG" width="700">
 </center>
-Their footnote 2 indicates that "The combination of spatial derivatives appearing here is called the *Lie derivative*", and that it is the commutator of the velocity and vorticity vectors, an operator "often encountered in differential geometry."  They provide alternate notations for the Lie derivative, either $\cal{L}_v$ or by using commutator brackets.
-They go on to use the term "fluid derivative" for their expression 14.5 when acting on a vector (and when acting on a scalar, they state is it just the convective derivative).  Finally they parenthetically (and dismissively) note that "The notation *D/Dt* is used in some older texts for the convective derivative *d/dt*."  Excuse me?  I have never seen any other text use *D/Dt* for expression 14.5.  Thorne and Blandford have appropriated Stokes' notation for an expression other than what Stokes (and generations of authors after him) intended.  As far as I can tell, this usage is unique to Thorne and Blandford.  😬
+Their footnote 2 indicates that "The combination of spatial derivatives appearing here is called the *Lie derivative*", and that it is the commutator of the velocity and vorticity vectors, an operator "often encountered in differential geometry."  They provide alternate notations for the Lie derivative, either $\cal{L}_v$ or by using commutator brackets.  They go on to use the term "fluid derivative" for their expression 14.5 when acting on a vector (and when acting on a scalar, they state is it just the convective derivative).  Finally they parenthetically (and dismissively) note that "The notation *D/Dt* is used in some older texts for the convective derivative *d/dt*."  Excuse me?  I have never seen any other text use *D/Dt* for expression 14.5.  Thorne and Blandford have appropriated Stokes' notation for an expression other than what Stokes (and generations of authors after him) intended.  As far as I can tell, this usage is unique to Thorne and Blandford.  😬
+
+It is true that the "fluid derivative" bears a resemblence to the Poisson bracket formulation of Liouville's theorem, lending itself to a hydrodynamic analogy seen in upper level treatments of classical mechanics and the kinetic theory of gases.
 
 I predict that Thorne and Blandford's revisionist notation will not catch on.  The *D/Dt* notation for the material derivative is too entrenched, and for good reason (as the Lighthill passage indicates).  Thorne and Blandford's "fluid derivative" could easily be denoted as the sum of *D/Dt* and the Lie derivative (or equivalently the commutator of the velocity and vorticity vectors).
 
@@ -83,6 +84,8 @@ A. Gill, 1982:  *Atmosphere-Ocean Dynamics*.  International Geophysics Series, v
 P. Hertel, 2012:  *Continuum Physics*. Graduate Texts in Physics. Springer. 
 
 J. R. Holton, 2004:  *An Introduction to Dynamic Meteorology*, 4th edition.  International Geophysics Series, vol. 88.  Elsevier.
+
+J. V. Jose and E. J. Saletan, 1998: *Classical Dynamics: A Contemporary Approach*. Cambridge University Press.
 
 H. J. Kreuzer, 1981:  *Nonequilibrium Thermodynamics and its Statistical Foundations*.  Monographs on the Physics and Chemistry of Materials.  Oxford University Press.
 
