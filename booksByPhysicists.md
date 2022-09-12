@@ -132,6 +132,10 @@ As a point of personal privilege, I want to include a few other titles on a more
 - Sybren R. DeGroot and Peter Mazur, 1984:  *Non-Equilibrium Thermodynamics*.  Dover.  (Original edition published by North-Holland, 1962.)
     - A foundational monograph on the thermodynamics of irreversible processes.  Many authors in the nonequilbrium statistical physics literature cite DeGroot & Mazur as a source for hydrodynamics.  DeGroot (1916-1994) was a Danish theorist, and Mazur (1922-2001) was of Austrian extraction; both worked in the Netherlands.
 
+- Samuel A. Elder and Jerome Williams, 1996:  *Fluid Physics for Oceanographers and Physicists:  An Introduction to Incompressible Flow*, 2d edition.  Butterworth Heinemann.
+
+    - Derived from a course taught in the physics department at the U.S. Naval Academy, offered to physical oceanography, dynamic meteorology, and physics majors, this book has a definite geophysical leaning.  The authors' own comments on the book are worth noting:  "The most appreciative audience for a book of this type has proven to be among undergraduate students in oceanography, geology, biology and other environmental sciences, who tend to lack a rigorous background in math and physics. Our text is less demanding, mathematically, than most other fluid mechanics texts on the market, though it covers essentially all the basic equations of incompressible flow.  Furthermore, because it is short, the book can be priced attractively."  For these reasons I have not included this book in the main lists above, though readers of this site should certainly be aware of its existence.
+
 - Uriel Frisch, 1995:  *Turbulence:  The Legacy of A. N. Kolmogorov*. Cambridge University Press.
     - Several physicists have written books on turbulence, and if your interests turn in this direction, you will get to know them.  However if not, you should still consider acquiring some literacy in the field by reading this exposition, which gives particular attention to Kolmogorov's 1941 scaling theory, "one of the very few exact and nontrivial results in the field".  
 
