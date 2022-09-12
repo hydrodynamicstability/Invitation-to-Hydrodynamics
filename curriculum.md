@@ -59,7 +59,11 @@ Magnetohydrodynamics (MHD) is understandably ignored in the canon of undergradua
 
 ### Statistical physics
 
-A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32) is one example, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19), and Reichl (2016, Ch. 8-9) for example.  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases.  Again, most examples I know of are at the graduate level, such as Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Feynman (1998, Ch. 11).  It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  
+A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32) is one example, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19), and Reichl (2016, Ch. 8-9) for example.  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Schwabl (2010) derives, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
+
+What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases.  Again, most examples I know of are at the graduate level, such as Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Feynman (1998, Ch. 11).  
+
+It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  
 
 ### Nonlinear dynamics
 
@@ -75,7 +79,7 @@ Computational physics is another not yet standard one in the physics curriculum.
 
 ### Other courses
 
-Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  Coverage in condensed matter physics texts is more hit-or-miss, as many of the standards completely ignore the subject.  Exceptions that I know of include Chaikin & Lubensky (2000) and Marder (2010).  
+Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  Coverage in condensed matter physics texts is more hit-or-miss, as many of the standards completely ignore the subject, except possibly the topic of superfluidity.  Exceptions that I know of include Chaikin & Lubensky (2000) and Marder (2010), both graduate level texts.  Comparing these last two books, while Marder seems to have a more in-depth discussion of superfluid Helium, Chaikin & Lubensky's treatment is substantially longer overall, and more directly pursues the unique approach of a condensed matter theorist to hydrodynamics, as opposed to the very classical continuum approach I have generally taken on this site.
 
 Most books titled *Classical Field Theory* focus exclusively on electromagnetic and gravitational fields -- indeed, these are the classical force fields.  That's not enough for Nastase (2019), who also covers hydrodynamics in chapters 7 and 19.  The latter chapter includes relativistic fluid dynamics.
 
@@ -168,6 +172,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - L. E. Reichl, 2016:  *A Modern Course in Statistical Physics*, 4th edition.  Wiley-VCH.
 
 - H. G. Schuster and W. Just, 2005:  *Deterministic Chaos:  An Introduction*, 4th edition.  Wiley-VCH.
+
+- F. Schwabl, 2010:  *Statistical Mechanics*, 2d edition.  Springer.
 
 - K. R. Symon, 1971:  *Mechanics*, 3d edition.  Addison-Wesley.
 
