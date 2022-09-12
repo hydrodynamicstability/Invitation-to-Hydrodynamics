@@ -59,7 +59,7 @@ Magnetohydrodynamics (MHD) is understandably ignored in the canon of undergradua
 
 ### Statistical physics
 
-A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32) is one example, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19), and Reichl (2016, Ch. 8-9) for example.  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Schwabl (2010) derives, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
+A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32) is one example, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19), and Reichl (2016, Ch. 8-9) for example.  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Schwabl (2010) includes, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
 
 What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases.  Again, most examples I know of are at the graduate level, such as Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Feynman (1998, Ch. 11).  
 
