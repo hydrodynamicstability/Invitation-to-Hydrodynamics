@@ -67,11 +67,11 @@ This subject is not yet a standard one in the physics curriculum, and much of it
 
 ### Mathematical methods 
 
-Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus, as in Boas (2006).  Morse & Feshbach (1953) include a 20-page section (2.3) on the motion of fluids, but more commonly, hydrodynamics is never explicitly mentioned in the standard textbooks of today.
+Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus and conformal mapping, as in Boas (2006).  Morse & Feshbach (1953) include a 20-page section (2.3) on the motion of fluids, but more commonly, hydrodynamics is never explicitly mentioned in the standard textbooks of today.
 
 ### Computational physics
 
-Computational physics is another not yet standard one in the physics curriculum.  Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  One exception is Landau et al. (2015).  A hydrodynamics problem is given as a project for the chapter on elliptic PDEs in Koonin & Meredith (1990).
+Computational physics is another not yet standard one in the physics curriculum.  Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Two exceptions that I know of include Landau et al. (2015) and Pang (2006, ch. 9).  A hydrodynamics problem is given as a project for the chapter on elliptic PDEs in Koonin & Meredith (1990).
 
 ### Other courses
 
@@ -158,6 +158,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - H. Nastase, 2019:  *Classical Field Theory*.  Cambridge University Press.
 
 - M. Nelkon and P. Parker, 1995:  *Advanced Level Physics*, 7th edition.  Heinemann.
+
+- T. Pang, 2006:  *An Introduction to Computational Physics*, 2d edition.  Cambridge University Press.
 
 - W. K. H. Panofsky and M. Phillips, 2005:  *Classical Electricity and Magnetism*, 2d edition.  Dover.
 
