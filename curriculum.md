@@ -49,7 +49,7 @@ These problems are meant to be solved using Bernoulli's equation for streamlines
 
 ### Classical mechanics
 
-When I was an undergraduate in the early 1990s, most intermediate mechanics texts omitted fluids entirely.  Symon (1971, Ch. 8) and Arya (1997, Ch. 15) were two exceptions, both including a chapter on the mechanics of continuous media, consisting of vibrations on strings as well as fluid dynamics and sound waves.  Corben and Stehle (1994, Sec. 81) devote less space to fluid dynamics, but at least they include the Navier-Stokes equations as a "special application".  At the graduate level, the texts of Fetter &  Walecka (1980) and Jose & Saletan (1998, Sec. 9.5) are notable examples that include fluid dynamics.  Fetter & Walecka are particularly praiseworthy for celebrating the whole of continuum mechanics in the entire second half of their book (Ch. 7-13).  Finally, Appendix 2 of the classic Arnol'd (1989) discusses the formal correspondence between the Euler equations of rigid body dynamics and the Euler equations of ideal fluid flow.
+When I was an undergraduate in the early 1990s, most intermediate mechanics texts omitted fluids entirely.  Symon (1971, Ch. 8) and Arya (1997, Ch. 15) were two exceptions, both including a chapter on the mechanics of continuous media, consisting of vibrations on strings as well as fluid dynamics and sound waves.  Corben and Stehle (1994, Sec. 81) devote less space to fluid dynamics, but at least they include the Navier-Stokes equations as a "special application".  At the graduate level, the texts of Fetter &  Walecka (1980) and Jose & Saletan (1998, Sec. 9.5) are notable examples that include fluid dynamics.  Fetter & Walecka are particularly praiseworthy for celebrating the whole of continuum mechanics in the entire second half of their book (Ch. 7-13); Jose & Saletan's Chapter 9 is similarly devoted to continuum mechanics.  Both books derive the basic field equations (contuinuity, and Euler and Navier-Stokes) and discuss surface waves; Fetter and Walecka also cover sound and shock waves; while Jose and Saletan include the Burgers and KdV equations.  Otherwise, graduate-level mechanics books touch on fluid flow only as an analogy with the Liouville theorem (e.g., Goldstein, et al, 2001; Hand and Finch, 1998).  Uniquely among such texts, Appendix 2 of the classic Arnol'd (1989) discusses the formal correspondence between the Euler equations of rigid body dynamics and the Euler equations of ideal fluid flow.
 
 In the years since my studenthood, more undergraduate mechanics texts are including chapters on fluid dynamics, though many of the most popular texts continue to competely ignore the topic.  Examples of the more enlightened texts include Taylor (2005, Ch. 16), Chaichian et al. (2012, Ch. 6), Deshmukh (2020, Ch. 11), and Hamill (2022, Ch. 19).  Jerry Gollub (2003) himself used the undergrad intermediate mechanics course to introduce fluid dynamics to his physics students, so it is heartening to see further progress in this direction, especially as Taylor (2005) has gained wide popularity.
 
@@ -115,6 +115,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - R. P. Feynman, 1998:  *Statistical Mechanics:  A Set of Lectures*.  Advanced Book Classics.  CRC Press.  Originally published 1972.
 
+- H. Goldstein, C. Poole, and J. Safko, 2001:  *Classical Mechanics*, 3d edition.  Addison-Wesley.
+
 - J. Gollub, 2003:  Continuum mechanics in physics education.  *Physics Today*, 56 (12):  10-11.
 
 - J. Gollub, 2008:  Teaching about fluids. *Physics Today*, 61 (10):  8-9.
@@ -122,6 +124,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - D. Halliday, R. Resnick, and J. Walker, 1997:  *Fundamentals of Physics*, 5th edition.  Wiley.
 
 - P. Hamill, 2022:  *Intermediate Dynamics*, 2d edition.  Cambridge University Press.
+
+- L. Hand and J. Finch, 1998: *Analytical Mechanics*. Cambridge University Press.
 
 - R. C. Hilborn, 2000:  *Chaos and Nonlinear Dynamics:  An Introduction for Scientists and Engineers*, 2d edition.  Oxford University Press.
 
