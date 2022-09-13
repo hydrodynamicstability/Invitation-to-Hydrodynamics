@@ -153,10 +153,10 @@ Fluid dynamics is of increasing interest in condensed and soft matter physics, b
 - Russell J. Donnelly:  The discovery of superfluidity.  July, 1995:  pp. 30-36.
   - History of early experiments on liquid helium superfluids, from Heike Kamerlingh Onnes to the Toronto group to Pyotr Kapitsa.
   
-Speaking of *Physcs Today*, check out this lamentation, an excerpt from a sidebar in a *Physics Today* article by Richard G. Fowler (June, 1966):
+Speaking of *Physcs Today*, check out this lamentation, an excerpt from a sidebar in a *Physics Today* article by Richard G. Fowler (June, 1966; pp. 37-42):
 
 <center>
-<img src="folwer1966.PNG .PNG" width="700">
+<img src="folwer1966.PNG" width="700">
 </center>
 
 
