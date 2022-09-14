@@ -4,6 +4,8 @@ Several of the key architects of contemporary theoretical physics have published
 intended for  first and second year undergraduates, to the graduate-level *Course of Theoretical Physics* by Landau & Lifshitz.  In this essay I share some 
 thoughts on the  coverage of continuum mechanics in these courses, including also those of Arnold Sommerfeld, Wolfgang Pauli, and Kip Thorne & Roger Blandford.  I end with a very brief discussion of the textbooks of Steven Weinberg.
 
+Unfortunately, like my list of [books on fluid and continuum mechanics written by physicists](https://github.com/hydrodynamicstability/Invitation-to-Hydrodynamics/blob/main/booksByPhysicists.md), I have restricted discussion here to works available in English and published after the second world war.  Consequently I do not discuss works such as Max Planck's 5-volume *Introduction to Theoretical Physics* (English edition, 1932), of which the second volume covers the *Mechanics of Deformable Bodies*.  (The third and final part of that volume covers fluid mechanics.)
+
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
 ### The Feynman Lectures on Physics
