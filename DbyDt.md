@@ -15,7 +15,7 @@ Lamb used the *D/Dt* notation introduced by Stokes himself, in the paper where h
 <center>
 <img src="batchelorNEW.PNG" width="700">
 </center>
-The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free.  However, Feynman did not use any special notation for the material derivative, nor did Subramanyan Chandrasekhar (1961) and Steven Weinberg (2021, sec. 2.5).  Speaking of Nobel laureate physicists, Lord Rayleigh (1894, 1916) did use the *D/Dt* notation.  Several hydrodynamics books written by physicists, such as Tritton (1988, Sec. 5.5), Faber (1995, Sec. 2.4), and Rieutord (2015, sec. 1.3.4), have entire sections dedicated to the material derivative; the three cited authors all use the *D/Dt* notation for it.  
+The *Feynman Lectures* have a nice derivation of this expression in [Chapter 40](https://www.feynmanlectures.caltech.edu/II_40.html) (Sec. 2), which you can read for free.  However, Feynman did not use any special notation for the material derivative, nor did Max Planck (1932), Subramanyan Chandrasekhar (1961) and Steven Weinberg (2021, sec. 2.5).  Speaking of Nobel laureate physicists, Lord Rayleigh (1894, 1916) did use the *D/Dt* notation.  Several hydrodynamics books written by physicists, such as Tritton (1988, Sec. 5.5), Faber (1995, Sec. 2.4), and Rieutord (2015, sec. 1.3.4), have entire sections dedicated to the material derivative; the three cited authors all use the *D/Dt* notation for it.  
 
 A particularly insightful discussion on this notation is provided by Sir James Lighthill, who like Stokes, was a holder of Sir Issac Newton's Lucasian Chair of Mathematics at Cambridge University.  (Other holders of this chair include Charles Babbage, Paul Dirac, and Stephen Hawking!)  Lighthill (1986, Sec. 3.1) wrote:
 <center>
@@ -104,6 +104,8 @@ C. C. Lin and L. A. Segel, 1974:  *Mathematics Applied to Deterministic Problems
 D. A. McQuarrie, 2000:   *Statistical Mechanics*.  University Science Books.
 
 R. L. Panton, 2013: *Incompressible Flow*, 4th edition.  Wiley.
+
+M. Planck, 1932:  *Mechanics of Deformable Bodies*.  Introduction to Theoretical Physics, vol. 2; translated from the third German edition by Henry L. Brose.  Macmillan.  (Original German edition, 1919.)
 
 L. Prandtl, 1952:  *Essentials of Fluid Dynamics, With Applications to Hydraulics, Aeronautics, Meteorology and other Subjects*.  Hafner.
 
