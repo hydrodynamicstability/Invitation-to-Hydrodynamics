@@ -81,7 +81,7 @@ Computational physics is another not yet standard one in the physics curriculum.
 
 ### Other courses
 
-Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  Coverage in condensed matter physics texts is more hit-or-miss, as many of the standards completely ignore the subject, except possibly the topic of superfluidity.  Exceptions that I know of include Chaikin & Lubensky (2000, Ch. 8) and Marder (2010, Ch. 15), both graduate level texts.  Comparing these last two books, while Marder seems to have a more in-depth discussion of superfluid Helium, Chaikin & Lubensky's treatment is substantially longer overall, and more directly pursues the unique approach of a condensed matter theorist to hydrodynamics, as opposed to the very classical continuum approach I have generally taken on this site.
+Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  Coverage in condensed matter physics texts is more hit-or-miss, as many of the standards completely ignore the entire subject, except possibly the topic of superfluidity.  Exceptions that I know of include Chaikin & Lubensky (2000, Ch. 8) and Marder (2010, Ch. 15), both graduate level texts.  Comparing these last two books, while Marder seems to have a more in-depth discussion of superfluid Helium, Chaikin & Lubensky's treatment is substantially longer overall, and more directly pursues the unique approach of a condensed matter theorist to hydrodynamics, as opposed to the very classical continuum approach I have generally taken on this site.  At the undergraduate level, Sidebottom (2012) has a brief section on "Hydrodynamic modes in liquids" (Sec. 9.1.3).
 
 Most books titled *Classical Field Theory* focus exclusively on electromagnetic and gravitational fields -- indeed, these are the classical force fields.  That's not enough for Nastase (2019), who also covers hydrodynamics in chapters 7 and 19.  The latter chapter includes relativistic fluid dynamics.
 
@@ -176,6 +176,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - H. G. Schuster and W. Just, 2005:  *Deterministic Chaos:  An Introduction*, 4th edition.  Wiley-VCH.
 
 - F. Schwabl, 2010:  *Statistical Mechanics*, 2d edition.  Springer.
+
+- D. L. Sidebottom, 2012:  *Fundamentals of Condensed Matter and Crystalline Physics:  An Introduction for Students of Physics and Materials Science*.  Cambridge University Press.
 
 - K. R. Symon, 1971:  *Mechanics*, 3d edition.  Addison-Wesley.
 
