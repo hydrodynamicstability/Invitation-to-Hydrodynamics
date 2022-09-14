@@ -119,12 +119,12 @@ For more on the history of fluid mechanics, Rouse and Ince (1957), Anderson (199
 
 ### APPENDIX:  Nobel Laureates and the Physics of Fluids
 
-Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Physics (and Chemistry, noted as such), the year of their award, and a mention of a few of their involvements in fluid mechanics or the physics of fluids.
+Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Physics (and Chemistry, noted as such), the year of their award, and a mention of a few of their involvements in fluid mechanics or the physics of fluids.  In most cases such involvement was *not* the reason for their Nobel Prize.
 
 | Year | Laureate| Involvement with the physics of fluids or related activity |
 | ------ | -----------| ----------------------------------------------------------------------|
 | 1901 | Wiliam C. Rontgen | Research on problems such as the effect of pressure on refractive index in various fluids, variations in the relationship between temperature and compressibility in water and other fluids; the spreading of oil drops on water. |
-| 1904 | John William Strutt, Lord Rayleigh | Hydrodynamic instabilities (e.g., Rayleigh-Benard, Rayleigh-Taylor, Plateau-Rayleigh); acoustics. |
+| 1904 | John William Strutt, Lord Rayleigh | Hydrodynamic instabilities (e.g., Rayleigh-Benard, Rayleigh-Taylor, Plateau-Rayleigh); acoustics; many other contributions (see above). |
 | 1906 | J. J. Thomson | Contributed to viscoelastic theory. |
 | 1913 | Heike Kamerlingh Onnes | Experiments on liquid helium |
 | 1921 | Albert Einstein | Doctoral dissertation in part on viscosity of solutions with added sugar; teacup effect; "Cat's back" aerofoil (Einstein's folly - see above). |
@@ -149,7 +149,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | 1996 | David Lee, Douglas Osheroff, and Robert Richardson | Superfluid liquid helium-3|
 | 1998 | Robert B. Laughlin, Horst L. Stormer, and Daniel C. Tsui | Fractional quantum hall effect in a quantum fluid. |
 | 1999 (Chemistry) | Ahmed H. Zewail | Nanofluidics of molten lead in a single zinc oxide nanotube (Lorenz & Zewail, 2014). |
-| 2001 | Eric A. Cornell, Wolfgang Ketterle, and Carl Wiemann | Bose-Einstein condensation in dilute alkali atom gases. |
+| 2001 | Eric A. Cornell, Wolfgang Ketterle, and Carl Wiemann | Bose-Einstein condensation in dilute alkali atom gases, which is a superfluid. |
 | 2003 | Anthony J. Leggett | Contributions to theory of superfluids. |
 | 2004 | Frank Wilczek | Physics of swimming (Schapire and Wilczek, 1989a,b). |
 | 2016 | David J. Thouless and J. Michael Kosterlitz | Proposed new type of phase transition observable in superfluids. |
