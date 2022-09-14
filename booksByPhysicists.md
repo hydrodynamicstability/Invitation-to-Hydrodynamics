@@ -113,7 +113,7 @@ of my present efforts, I will simply list a sampling of fairly general works on 
 - L. Beranek, 1954:  *Acoustics*.  McGraw-Hill Electrical and Electronic Engineering Series.  McGraw-Hill.  Reprinted by the Acoustical Society of America, 1986.
 - R. E. Berg and D. G. Stork, 2004: *The Physics of Sound,* 3d edition. Prentice Hall (now Pearson).
 - D. T. Blackstock, 2000: *Fundamentals of Physical Acoustics*. Wiley.
-- S. L. Garrett, 2017: *Understanding Acoustics: An Experimentalist's View of Acoustics and Vibration*. Graduate Texts in Physics.  Springer.
+- S. L. Garrett, 2020: *Understanding Acoustics: An Experimentalist's View of Acoustics and Vibration*, 2d edition. Graduate Texts in Physics.  Springer.
 - L. E. Kinsler, A. R. Frey, A. B. Coppens, and J. V. Sanders, 1999: *Fundamentals of Acoustics,* 4th edition. Wiley.
 - H. Kuttruff, 2006: *Acoustics: An Introduction*. CRC Press.
 - S.-Y. Lee, 2021: *Fundamental Physics of Sound*. World Scientific.
