@@ -159,7 +159,7 @@ Speaking of *Physcs Today*, check out this lamentation, an excerpt from a sideba
 <img src="folwer1966.PNG" width="700">
 </center>
 
-Alas, a similar panel could easily be held today, except (1) there would be women, not just men, and (2) they might also have to point out the "egregious errors" in fluid physics made by physicists themselves!
+Alas, a similar panel could easily be held today, except (1) there would be women, not just men, on the panel; and (2) they might also have to point out the "egregious errors" in fluid physics made by physicists themselves!
 
 ### Companion pages
 
