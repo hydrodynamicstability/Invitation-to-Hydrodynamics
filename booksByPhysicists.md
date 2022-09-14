@@ -43,7 +43,7 @@ Commentary on these books is being added gradually over time, so please consider
      
 ### Books covering fluid mechanics
 
-The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), both classics but with different personalities.  Landau/Lifshitz is obviously very theoretical, while Tritton is packed with photographs and plots of experimental data.  Neither is likely suitable for a first undergraduate course in the field, but serious students of hydrodynamics will inevitably consult both.
+The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), both classics but with different personalities.  Landau/Lifshitz is obviously very theoretical, while Tritton is packed with photographs and plots of experimental data.  Neither is likely suitable for a first undergraduate course in the field, but serious students of hydrodynamics will inevitably consult both.  Indeed, unlike most of the books on this list, Landau/Lifshitz and Tritton are routinely cited by non-physicists in the hydrodynamics community, a rare signal of quality for works in this field written by physicists.
 
 - Jonathan Braithwaite, 2017:  *Essential Fluid Dynamics for Scientists*.  IOP Concise Physics.  Morgan & Claypool/IOP.
     - A graduate level text by an astrophysicist, emphasizing astrophysical and geophysical applications, at the expense of others.  Solutions to problems are not provided.  The author wisely recommends that "since atmospheric fluid dynamics has a longer history than astrophysical fluids, astrophysicists are well advised to learn from this neighbouring field to avoid reinventing the wheel."
