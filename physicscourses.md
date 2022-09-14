@@ -61,6 +61,8 @@ theoretic formulation of the Navier-Stokes equations are discussed.  Volume 9, *
 microscopic theory of superfluidity (Ch. 3) as well as hydrodynamic fluctuations (Ch. 9).  The macroscopic theory of superfluidity is discussed 
 in Ch. 16 of *Fluid Mechanics*.
 
+### Landau and Lifshitz on fluids
+
 The *Fluid Mechanics* volume is a favorite among physicists who work in this field.  In the preface to the second English edition, Lifshitz writes:
 
 "This book has a special place among those I had occasion to write jointly with L. D. Landau.  He gave it a part of his soul.  That branch of 
