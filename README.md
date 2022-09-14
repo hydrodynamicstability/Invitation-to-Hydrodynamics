@@ -19,7 +19,7 @@
 &emsp; &emsp; &emsp; \*\*\* *Physics Today*, July 2022, p. 53.
 
 
-**Welcome.**  This site aims to outline why a physicist should learn a little bit of fluid mechanics, and how to get started doing so.   It exists because the subject is usually completely neglected in the standard physics curriculum.  The site is currently under construction; thank you for your patience.  To further develop this site, comments and collaboration from others (physicists or otherwise) is welcome.  We physicists have a poor track record teaching hydrodynamics, as sadly documented elsewhere on this site.  Like T. E. Faber I am but an "enthusiastic amateur" in this arena, so constructive criticism is always and humbly welcome.
+**Welcome.**  This site aims to outline why a physicist should learn a little bit of fluid mechanics, and how to get started doing so.   It exists because the subject is usually completely neglected in the standard physics curriculum.  The site is currently under construction; thank you for your patience.  To further develop this site, comments and collaboration from others (physicists or otherwise) is welcome.  We physicists have a checkered track record in teaching hydrodynamics, as sadly documented elsewhere on this site.  Like T. E. Faber I am but an "enthusiastic amateur" in this arena, so constructive criticism is always and humbly welcome.
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
 **Outline:**
