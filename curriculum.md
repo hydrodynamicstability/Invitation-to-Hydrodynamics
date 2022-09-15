@@ -61,7 +61,7 @@ The now-discarded one-fluid and two-fluid theories of electricity were of great 
 
 ### Statistical physics
 
-A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32) is one example, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19), and Reichl (2016, Ch. 8-9) for example.  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Schwabl (2010) includes, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
+A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32) is one example, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19),  Reichl (2016, Ch. 8-9), and Halley (2007, Ch. 10), for example.  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Schwabl (2010) includes, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
 
 What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases.  Again, most examples I know of are at the graduate level, such as Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Feynman (1998, Ch. 11).  
 
@@ -69,7 +69,7 @@ It could be argued that the study of fluid mechanics naturally belongs with the 
 
 ### Nonlinear dynamics
 
-This subject is not yet a standard one in the physics curriculum, and much of it can be taught without reference to the equations of fluid dynamics.  However, the derivation of the famous Lorenz model requires hydroynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  Historically there have many connections between fluid dynamics and nonlinear dynamics, and Gollub (2003) encouraged using this link to teach both.
+This subject is not always a standard one in the physics curriculum, and much of it can be taught without reference to the equations of fluid dynamics.  However, the derivation of the famous Lorenz model requires hydroynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  Historically there have many connections between fluid dynamics and nonlinear dynamics, and Gollub (2003) encouraged using this link to teach both.
 
 ### Mathematical methods 
 
@@ -77,7 +77,7 @@ Hydrodynamics can be a source of examples of mathematical methods in physics, as
 
 ### Computational physics
 
-Computational physics is another not yet standard one in the physics curriculum.  Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Two exceptions that I know of include Landau et al. (2015) and Pang (2006, ch. 9).  A hydrodynamics problem is given as a project for the chapter on elliptic PDEs in Koonin & Meredith (1990).
+Computational physics is another not universally standard one in the physics curriculum.  Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Two exceptions that I know of include Landau et al. (2015) and Pang (2006, ch. 9).  A hydrodynamics problem is given as a project for the chapter on elliptic PDEs in Koonin & Meredith (1990).  Fluid dynamics are briefly mentioned in Franklin (2013, Sec. 5.1.5).
 
 ### Other courses
 
@@ -121,11 +121,15 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - R. P. Feynman, 1998:  *Statistical Mechanics:  A Set of Lectures*.  Advanced Book Classics.  CRC Press.  Originally published 1972.
 
+- J. Franklin, 2013:  *Computational Methods for Physicists*.  Cambridge University Press.
+
 - H. Goldstein, C. Poole, and J. Safko, 2001:  *Classical Mechanics*, 3d edition.  Addison-Wesley.
 
 - J. Gollub, 2003:  Continuum mechanics in physics education.  *Physics Today*, 56 (12):  10-11.
 
 - J. Gollub, 2008:  Teaching about fluids. *Physics Today*, 61 (10):  8-9.
+
+- J. W. Halley, 2007:  *Statistical Mechanics:  From First Principles to Macroscopic Phenomena*.  Cambridge University Press.
 
 - D. Halliday, R. Resnick, and J. Walker, 1997:  *Fundamentals of Physics*, 5th edition.  Wiley.
 
