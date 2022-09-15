@@ -74,7 +74,7 @@ Here are a few sampler dishes to see if you like it.  Effort increases as you wo
 
 - Read geophysicist Grae Worster's little book, *Understanding Fluid Flow* (AIMS Library Series, Cambridge University Press, 2009).  In 100 pages you will gain a quick tour of some of the prominent ideas of the subject, and a flavor of what it's like to study it.
 
-In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.com/) blog, which is a completely nontechnical, often whimsical take on fluid physics, run by aerospace engineer Dr. Nicole Sharp.
+In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.com/) blog, which is a completely nontechnical, often whimsical take on fluid physics, run by aerospace engineer Dr. Nicole Sharp.  I recently became aware of a new nontechnical book by applied mathematician Eric Lauga, *Fluid Mechanics:  A Very Short Introduction* (Oxford University Press).  I will comment further on this book after I get my hands on it.
 
 ### Convinced, and ready to take the plunge?
 
