@@ -62,6 +62,8 @@ Some additional reasons physics *students* should consider learning some fluid m
 
 - [Ben Korgen](https://physicstoday.scitation.org/doi/full/10.1063/1.1839379) argues that atmosperic science, oceanography, and geophysics are socially relevant subjects, and that physics majors are a preferred source of students for graduate programs in these fields, but that without fluid mechanics, their physics education condemns them to require remedial coursework in it.
 
+Jerry Gollub (*Physics Today*, Dec. 2003, pp. 10-11) noted many of the reasons above, as well as reasons why physics faculty should consider teaching undergraduates the subject:  it would "increase students' confidence that their physics knowledge is widely applicable" and might help retain students "whom we currently lose to other fields."
+
 ### Intrigued, but not yet ready to commit?
 
 Here are a few sampler dishes to see if you like it.  Effort increases as you work your way down the list.
