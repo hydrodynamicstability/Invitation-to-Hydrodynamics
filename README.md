@@ -60,7 +60,7 @@ Some additional reasons physics *students* should consider learning some fluid m
 
 - As James S. Trefil has argued, many physicists end up pursuing careers in fields beyond conventional physics research, and should be educated as generalists.  "This point was brought home to me most forcefully when I became involved in some interdisciplinary research projects in medicine, and discovered to my chagrin that I did not possess the background necessary to make meaningful contributions in many areas of the research."  -- James S. Trefil, *Introduction to the Physics of Fluids and Solids* (Pergamon, 1975; reprinted by Dover, 2010).
 
-- [Ben Korgen](https://physicstoday.scitation.org/doi/full/10.1063/1.1839379) argues that atmosperic science, oceanography, and solid-Earth geophysics are socially relevant subjects, and that physics majors are a preferred source of students for graduate programs in these fields, but that without fluid mechanics, their physics education condemns them to require remedial coursework in it.
+- [Ben Korgen](https://physicstoday.scitation.org/doi/full/10.1063/1.1839379) argued that atmospheric science, oceanography, and solid-Earth geophysics are socially relevant subjects, and that physics majors are a preferred source of students for graduate programs in these fields, but that without fluid mechanics, their physics education condemns them to require remedial coursework in it.
 
 Jerry Gollub (*Physics Today*, Dec. 2003, pp. 10-11) noted many of the reasons above, as well as reasons why physics faculty should consider teaching undergraduates the subject:  it would "increase students' confidence that their physics knowledge is widely applicable" and might help retain students "whom we currently lose to other fields."
 
