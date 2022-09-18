@@ -83,11 +83,17 @@ Computational physics is another not universally standard one in the physics cur
 
 Coverage  of hydrodynamics in condensed matter physics texts is hit-or-miss, as many of the standards completely ignore the entire subject, except possibly the topic of superfluidity.  Exceptions that I know of include Chaikin & Lubensky (2000, Ch. 8) and Marder (2010, Ch. 15), both graduate level texts.  Comparing these last two books, while Marder seems to have a more in-depth discussion of superfluid Helium, Chaikin & Lubensky's treatment is substantially longer overall, and more directly pursues the unique approach of a condensed matter theorist to hydrodynamics, as opposed to the very classical continuum approach I have generally taken on this site.  At the undergraduate level, Sidebottom (2012) has a brief section on "Hydrodynamic modes in liquids" (Sec. 9.1.3).
 
+### Classical field theory
+
+Most books titled *Classical Field Theory* focus exclusively on electromagnetic and gravitational fields -- indeed, these are the classical force fields.  Leonard Susskind was even more reductive when he wrote "Classical field theory means electromagnetic theory -- waves, forces on charged particles, and so on -- in the context of SR \[special relativity\]" (Susskind and Friedman, 2017).  I am no Susskind, but with all due respect, this is an astonishingly narrow perspective.
+
+Fortunately some lesser known authors take a broader view.  Setlur (2014) includes both elasticity and fluid mechanics in his chapter 4.  Nastase (2019) includes hydrodynamics in his chapters 7 and 19 (the latter chapter includes relativistic fluid dynamics).   Indeed, Truesdell and Toupin (1960) *only* considered continuum mechanics in their treatise on *The Classical Field Theories*, a narrow perspective in the opposite direction.
+
 ### Other courses
 
 Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  
 
-Most books titled *Classical Field Theory* focus exclusively on electromagnetic and gravitational fields -- indeed, these are the classical force fields.  That's not enough for Nastase (2019), who also covers hydrodynamics in chapters 7 and 19.  The latter chapter includes relativistic fluid dynamics.
+
 
 ### Other notable books
 
@@ -185,13 +191,19 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - F. Schwabl, 2010:  *Statistical Mechanics*, 2d edition.  Springer.
 
+- G. S. Setlur, 2014:  *Dynamics of Classical and Quantum Fields:  An Introduction*.  CRC Press.
+
 - D. L. Sidebottom, 2012:  *Fundamentals of Condensed Matter and Crystalline Physics:  An Introduction for Students of Physics and Materials Science*.  Cambridge University Press.
+
+- L. Susskind and A. Friedman, 2017:  *Special Relativity and Classical Field Theory*.  The Theoretical Minimum, vol. 3.  Basic Books.
 
 - K. R. Symon, 1971:  *Mechanics*, 3d edition.  Addison-Wesley.
 
 - J. R. Taylor, 2005:  *Classical Mechanics*. University Science Books.
 
-- H. W. Wyld, 1976:  *Mathematical Methods for Physics*.  Lecture Notes and Supplements in Physics, vol. 15.  W. A. Benjamin.
+- C. Truesdell and R. A. Toupin, 1960:  The classical theory of fields.  *Handbuch der Physik*, Band III/I, ed. by S. Flugge.  Springer, pp. 226-858.
+
+- H. W. Wyld, 1976:  *Mathematical Methods for Physics*.  Lecture Notes and Supplements in Physics, vol. 15.  W. A. Benjamin.  (An updated 45th anniversary edition, edited by G. Powell, was published in 2021 by CRC Press.)
 
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
