@@ -77,7 +77,7 @@ Hydrodynamics can be a source of examples of mathematical methods in physics, as
 
 ### Computational physics
 
-Computational physics is another not universally standard one in the physics curriculum.  Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Two exceptions that I know of include Landau et al. (2015) and Pang (2006, ch. 9).  A hydrodynamics problem is given as a project for the chapter on elliptic PDEs in Koonin & Meredith (1990).  Fluid dynamics are briefly mentioned in Franklin (2013, Sec. 5.1.5).
+Computational physics is another not universally standard one in the physics curriculum.  Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Notable exceptions that I know of include Pang (2006, ch. 9) and various works by Rubin Landau and collaborators (Landau et al., 2008, ch. 19; Landau et al., 2015, ch. 24-25; Landau and Paez, 2018, ch. 4).  A hydrodynamics problem is given as a project for the chapter on elliptic PDEs in Koonin & Meredith (1990).  Fluid dynamics are briefly mentioned in Franklin (2013, Sec. 5.1.5).
 
 ### Condensed matter physics
 
@@ -91,9 +91,7 @@ Fortunately some lesser known authors take a broader view.  Setlur (2014) includ
 
 ### Other courses
 
-Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  
-
-
+Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  Indeed, every introductory book on plasma physics will cover magnetohydrodynamics, and every atmospheric dynamics text is founded upon hydrodynamics in a rotating frame of reference.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  (I attempted to make a list of general books on astrophysical hydrodynamics in *Appendix A* of my list of [books on fluid and continuum mechanics written by physicists](booksByPhysicists.md).)
 
 ### Other notable books
 
@@ -160,6 +158,10 @@ Physics students serious about fluids should explore the relevant courses in eng
 - S. E. Koonin and D. C. Meredith, 1990:  *Computational Physics:  FORTRAN Version*.  Advanced Book Program.  Westview Press.
 
 - A. Kovetz, 2000: *Electromagnetic Theory*. Oxford University Press.
+
+- R. H. Landau, C. C. Boreianu, and M. J. Paez, 2008: *A Survey of Computational Physics:  Introductory Computational Science*.  Princeton University Press.
+
+- R. H. Landau and M. J. Paez, 2018:  *Computational Problems for Physics:  With Guided Solutions Using Python*.  CRC Press.
 
 - R. H. Landau, M. J. Paez, and C. C. Boreianu, 2015:  *Computational Physics:  Problem Solving with Python*, 3d edition.  Wiley-VCH.
 
