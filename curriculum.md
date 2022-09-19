@@ -53,6 +53,8 @@ When I was an undergraduate in the early 1990s, most intermediate mechanics text
 
 In the years since then, more undergraduate mechanics texts are including chapters on fluid dynamics, though many of the most popular texts continue to competely ignore the topic.  Examples of the more enlightened texts include Taylor (2005, Ch. 16), Chaichian et al. (2012, Ch. 6), Deshmukh (2020, Ch. 11), and Hamill (2022, Ch. 19).  Jerry Gollub (2003) himself used the undergrad intermediate mechanics course to introduce fluid dynamics to his physics students, so it is heartening to see further progress in this direction, especially as Taylor (2005) has gained wide popularity.
 
+(While not used as a course text, the monograph by Sudarshan and Mukunda (1974, ch. 19) developes fluid mechanics as a Galilean field theory, though this requires restricting the fluid to an invsicid, compressible flow in unrestricted space, without obstacles or body forces.  They develop the Lagrangian, Hamiltonian, and Poisson brackets formulation for both irrotational and general flows.)
+
 ### Electricity and magnetism
 
 The now-discarded one-fluid and two-fluid theories of electricity were of great historical importance, but have now been largely forgotten, except insofar as "electron hydrodynamics" can be exhibited in a few specific situations in solid state physics.  Today's curriculum in E&M touches on only one fluid physics subject:  magnetohydrodynamics (MHD).  This topic is understandably ignored in the canon of undergraduate E&M textbooks, with the remarkable but little-known exception of one by astrophysicist Attay Kovetz (2000), who devotes three entire chapters to it (Ch. 14-16).  In contrast, many graduate level texts do include a few token pages on the subject.  The ubiquitous Jackson (1999) has a single section (7.7) of about 3 pages on MHD, less than the 7-page chapter on the topic in Panofsky and Phillips (2005, Ch. 12).  Remarkably, the brief grad-level text by Melia (2001, Secs. 8.4-8.5) beats them both with just over 8 pages; the author's background as an astrophysicist may explain this.  Sadly, for many physicists the few pages on MHD in their graduate E&M text are the only ones on any fluid mechanics topic (beyond introductory physics) on their bookshelves.
@@ -202,6 +204,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - G. S. Setlur, 2014:  *Dynamics of Classical and Quantum Fields:  An Introduction*.  CRC Press.
 
 - D. L. Sidebottom, 2012:  *Fundamentals of Condensed Matter and Crystalline Physics:  An Introduction for Students of Physics and Materials Science*.  Cambridge University Press.
+
+- E. C. G. Sudarshan and N. Mukunda, 1974:  *Classical Dynamics: A Modern Perspective*. Wiley.
 
 - L. Susskind and A. Friedman, 2017:  *Special Relativity and Classical Field Theory*.  The Theoretical Minimum, vol. 3.  Basic Books.
 
