@@ -61,7 +61,7 @@ The now-discarded one-fluid and two-fluid theories of electricity were of great 
 
 ### Statistical physics
 
-A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32) is one example, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19),  Reichl (2016, Ch. 8-9), and Halley (2007, Ch. 10), for example.  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Schwabl (2010) includes, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
+A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32) is one example, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19),  Reichl (2016, Ch. 8-9), and Halley (2007, Ch. 10), for example.  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Kadanoff (2000) briefly discusses hydrodynamics in Sec. 5.4, which mainly focuses on diffusion.  (He presumes that students have studied hydrodynamics in an earlier course, "as part of a traditional physics education", a presumption as unlikely to be true then as it is now.)  Schwabl (2010) includes, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
 
 What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases.  Again, most examples I know of are at the graduate level, such as Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Feynman (1998, Ch. 11).  
 
@@ -69,7 +69,7 @@ It could be argued that the study of fluid mechanics naturally belongs with the 
 
 ### Nonlinear dynamics
 
-This subject is not always a standard one in the physics curriculum, and much of it can be taught without reference to the equations of fluid dynamics.  However, the derivation of the famous Lorenz model requires hydroynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  Historically there have many connections between fluid dynamics and nonlinear dynamics, and Gollub (2003) encouraged using this link to teach both.
+Historically there have many connections between fluid dynamics and nonlinear dynamics, and Gollub (2003) encouraged using this link to teach both.  Unfortunately it is possible to convey many of the key ideas of nonlinear dynamics and chaos theory without explicit reference to the equations of hydrodynamics.  However, the derivation of the famous Lorenz model requires hydroynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  
 
 ### Mathematical methods 
 
@@ -77,11 +77,11 @@ Hydrodynamics can be a source of examples of mathematical methods in physics, as
 
 ### Computational physics
 
-Computational physics is another not universally standard one in the physics curriculum.  Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Notable exceptions that I know of include Pang (2006, ch. 9) and various works by Rubin Landau and collaborators (Landau et al., 2008, ch. 19; Landau et al., 2015, ch. 24-25; Landau and Paez, 2018, ch. 4).  A hydrodynamics problem is given as a project for the chapter on elliptic PDEs in Koonin & Meredith (1990).  Fluid dynamics are briefly mentioned in Franklin (2013, Sec. 5.1.5).
+Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Notable exceptions that I know of include Pang (2006, ch. 9) and various works by Rubin Landau and collaborators (Landau et al., 2008, ch. 19; Landau et al., 2015, ch. 24-25; Landau and Paez, 2018, ch. 4).  A hydrodynamics problem (steady state flow in 2D) is given as a project for the chapter on elliptic PDEs in Koonin (1986, ch. 6), updated as Koonin & Meredith (1990).  Fluid dynamics are only briefly mentioned in Franklin (2013, Sec. 5.1.5).
 
 ### Condensed matter physics
 
-Coverage  of hydrodynamics in condensed matter physics texts is hit-or-miss, as many of the standards completely ignore the entire subject, except possibly the topic of superfluidity.  Exceptions that I know of include Chaikin & Lubensky (2000, Ch. 8) and Marder (2010, Ch. 15), both graduate level texts.  Comparing these last two books, while Marder seems to have a more in-depth discussion of superfluid Helium, Chaikin & Lubensky's treatment is substantially longer overall, and more directly pursues the unique approach of a condensed matter theorist to hydrodynamics, as opposed to the very classical continuum approach I have generally taken on this site.  At the undergraduate level, Sidebottom (2012) has a brief section on "Hydrodynamic modes in liquids" (Sec. 9.1.3).
+Coverage of hydrodynamics in condensed matter physics texts is hit-or-miss, as many of the standards completely ignore the entire subject, except possibly the topic of superfluidity.  Exceptions that I know of include Chaikin & Lubensky (2000, Ch. 8) and Marder (2010, Ch. 15), both graduate level texts.  Comparing these last two books, while Marder seems to have a more in-depth discussion of superfluid Helium, Chaikin & Lubensky's treatment is substantially longer overall, and more directly pursues the unique approach of a condensed matter theorist to hydrodynamics, as opposed to the very classical continuum approach I have generally taken on this site.  At the undergraduate level, Sidebottom (2012) has a brief section on "Hydrodynamic modes in liquids" (Sec. 9.1.3).
 
 ### Classical field theory
 
@@ -91,7 +91,7 @@ Fortunately some lesser known authors take a broader view.  Setlur (2014) includ
 
 ### Other courses
 
-Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  Indeed, every introductory book on plasma physics will cover magnetohydrodynamics, and every atmospheric dynamics text is founded upon hydrodynamics in a rotating frame of reference.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  (I attempted to make a list of general books on astrophysical hydrodynamics in *Appendix A* of my list of [books on fluid and continuum mechanics written by physicists](booksByPhysicists.md).)
+Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  Indeed, every introductory book on plasma physics will cover magnetohydrodynamics, and every atmospheric dynamics text is founded upon hydrodynamics in a rotating frame of reference.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  (I attempted to make a list of general books on astrophysical hydrodynamics in *Appendix A* of my list of [books on fluid and continuum mechanics written by physicists](booksByPhysicists.md).)  An example of an enlightened soft matter physics text is Kleman and Lavrentovich (2003), whose chapter 6 covers the hydrodynamics of both isotropic fluids and of nematic liquid crystals.
 
 ### Other notable books
 
@@ -154,6 +154,12 @@ Physics students serious about fluids should explore the relevant courses in eng
 - J. V. Jose and E. J. Saletan, 1998:  *Classical Dynamics: A Contemporary Approach*. Cambridge University Press.
 
 - C. Kittel and H. Kroemer, 1980:  *Thermal Physics*.  W. H. Freeman.
+
+- L. P. Kadanoff, 2000:  *Statistical Physics:  Statics, Dynamics and Renormalization*.  World Scientific.
+
+- M. Kleman and O. D. Lavrentovich, 2003:  *Soft Matter Physics:  An Introduction*.  Partially Ordered Systems seris.  Springer.
+
+- S. E. Koonin, 1986:  *Computational Physics*.  Addison-Wesley.
 
 - S. E. Koonin and D. C. Meredith, 1990:  *Computational Physics:  FORTRAN Version*.  Advanced Book Program.  Westview Press.
 
