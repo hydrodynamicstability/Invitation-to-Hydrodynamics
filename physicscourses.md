@@ -2,7 +2,7 @@
 
 Several of the key architects of contemporary theoretical physics have published entire physics courses, ranging from the *Feynman Lectures on Physics*, 
 intended for  first and second year undergraduates, to the graduate-level *Course of Theoretical Physics* by Landau & Lifshitz.  In this essay I share some 
-thoughts on the  coverage of continuum mechanics in these courses, including also those of Arnold Sommerfeld, Wolfgang Pauli, and Kip Thorne & Roger Blandford.  I end with a very brief discussion of the textbooks of Steven Weinberg.
+thoughts on the  coverage of continuum mechanics in these courses, including also those of Arnold Sommerfeld, Wolfgang Pauli, and Kip Thorne & Roger Blandford.  I end with very brief discussions of the textbooks of Steven Weinberg, and of the Berkeley Physics Course.
 
 Unfortunately, like my list of [books on fluid and continuum mechanics written by physicists](https://github.com/hydrodynamicstability/Invitation-to-Hydrodynamics/blob/main/booksByPhysicists.md), I have restricted discussion here to works available in English and published after the second world war.  Consequently I do not discuss works such as Max Planck's 5-volume *Introduction to Theoretical Physics* (English edition, 1932), of which the second volume covers the *Mechanics of Deformable Bodies*.  (The third and final part of that volume covers fluid mechanics.)
 
@@ -95,7 +95,7 @@ thermodynamics, and electromagnetism.  Originally published in 2017 as a single 
 up into 5 volumes.  Volume 3 covers *Elasticity & Fluid Dynamics*.  However, the chapters make reference to earlier ones (relativity and statistical 
 physics) and future ones (plasma physics) so I advise consuming the content from the original single-volume version.
 
-Though I enjoyed reading the fluid dynamics chapters in general, a few points of contention could be made.  Their treatment of Stokes' creeping flow problem (Sec. 14.3.2) seems particularly baroque.  Perhaps their unusual approach is meant, as they write, to make contact with "some general ideas that ought to be familiar from other areas of physics."  Students should be advised to consult a more conventional text in parallel.  
+Though I enjoyed reading the fluid dynamics chapters in general, a few points of contention could be made.  Their treatment of Stokes' creeping flow problem (Sec. 14.3.2) seems particularly baroque.  Their unusual approach is meant, as they write, to make contact with "some general ideas that ought to be familiar from other areas of physics."  They later concede (Exercise 14.20) that a more conventional approach using a streamfunction "is more straightforward but less intuitive" than their exposition.  
 
 Another (more tongue-in-cheek) disagreement is detailed on a [companion page](DbyDt.md).  Meanwhile in the elasticity chapters, a correspondent has informed me that Fig. 11.10 (on elastica) is incorrect, not noted in the book's errata list.
 
@@ -107,7 +107,11 @@ Of the architects of contemporary physics since Landau, perhaps Steven Weinberg 
 
 ### What about the Berkeley Physics Course?
 
-As far as I can tell, this famous 5-volume course completely ignores continuum mechanics.
+As far as I can tell, this famous 5-volume course lacks a systematic presentation of continuum mechanics.  For example, I could not find any reference to fluid or solid mechanics in the second edition of *Mechanics* by Kittel, Knight, and Ruderman (1973).  Rather, fluid topics are scattered in at least three of the five volumes.  Thus the Berkeley course does more than Pauli, but less than the other courses discussed here, as far as hydrodynamics goes.
+
+Edward M. Purcell (Nobel in Physics, 1952) was famously interested in low Reynolds number hydrodynamics in biology, but the second edition of his *Electricity and Magnetism* (1985) mentions magnetohydrodynamics only in passing, at the end of a discussion of the change in magnetic field at a current sheet (Sec. 6.6).  Frederick Reif's *Statistical Physics* (1967) discusses fluids in the final chapter (8), defining viscosity and providing a rough approximate calculation of what it should be for a dilute gas of identical-mass and identical-speed molecules, in terms of the mean free path and molecular speed.  He provides a similar calculation for the thermal conductivity of a dilute gas.  The problems at the end of the chapter discuss a few more hydrodynamic topics (Millikan's oil drop experiment, a rotating cylinder viscometer, and Poiseuille flow).  (Reif had done research on superfluid helium, among other topics.)
+
+Frank S. Crawford's *Waves* (1968) depicts ocean waves on its cover.  Crawford was interested in acoustics, and his book discusses Newton's incorrect derivation of the speed of sound, and its modern correction (Sec. 4.2, example 2) and a few other acoustic topics (Sec. 4.4, example 10; Sec. 5.3, example 3).  In addition he discusses surface waves on water (Sec. 6.2, example 5; Sec. 7.3) including deep water and shallow water waves.
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
