@@ -161,7 +161,7 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - L. P. Kadanoff, 2000:  *Statistical Physics:  Statics, Dynamics and Renormalization*.  World Scientific.
 
-- M. Kleman and O. D. Lavrentovich, 2003:  *Soft Matter Physics:  An Introduction*.  Partially Ordered Systems seris.  Springer.
+- M. Kleman and O. D. Lavrentovich, 2003:  *Soft Matter Physics:  An Introduction*.  Partially Ordered Systems series.  Springer.
 
 - S. E. Koonin, 1986:  *Computational Physics*.  Addison-Wesley.
 
