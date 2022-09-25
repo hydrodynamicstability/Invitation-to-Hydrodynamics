@@ -57,13 +57,13 @@ In the years since then, more undergraduate mechanics texts are including chapte
 
 ### Electricity and magnetism
 
-The now-discarded one-fluid and two-fluid theories of electricity were of great historical importance, but have now been largely forgotten, except insofar as "electron hydrodynamics" can be exhibited in a few specific situations in solid state physics.  Today's curriculum in E&M touches on only one fluid physics subject:  magnetohydrodynamics (MHD).  This topic is understandably ignored in the canon of undergraduate E&M textbooks, with the remarkable but little-known exception of one by astrophysicist Attay Kovetz (2000), who devotes three entire chapters to it (Ch. 14-16).  In contrast, many graduate level texts do include a few token pages on the subject.  The ubiquitous Jackson (1999) has a single section (7.7) of about 3 pages on MHD, less than the 7-page chapter on the topic in Panofsky and Phillips (2005, Ch. 12).  Remarkably, the brief grad-level text by Melia (2001, Secs. 8.4-8.5) beats them both with just over 8 pages; the author's background as an astrophysicist may explain this.  Sadly, for many physicists the few pages on MHD in their graduate E&M text are the only ones on any fluid mechanics topic (beyond introductory physics) on their bookshelves.
+The now-discarded one-fluid and two-fluid theories of electricity were of great historical importance, but have now been largely forgotten, except insofar as "electron hydrodynamics" can be exhibited in a few specific situations in solid state physics.  Today's curriculum in E&M touches on only one fluid physics subject:  magnetohydrodynamics (MHD).  This topic is understandably ignored in the canon of undergraduate E&M textbooks, with the remarkable but little-known exception of one by astrophysicist Attay Kovetz (2000), who devotes three entire chapters to it (Ch. 14-16).  Another exception is the recent text by Chaichian et al. (2016), which includes a single chapter (ch. 5) on MHD.  In contrast, many graduate level texts do include a few token pages on the subject.  The ubiquitous Jackson (1999) has a single section (7.7) of about 3 pages on MHD, less than the 7-page chapter on the topic in Panofsky and Phillips (2005, Ch. 12).  Remarkably, the brief grad-level text by Melia (2001, Secs. 8.4-8.5) beats them both with just over 8 pages; the author's background as an astrophysicist may explain this.  Sadly, for many physicists the few pages on MHD in their graduate E&M text are the only ones on any fluid mechanics topic (beyond introductory physics) on their bookshelves.
 
 
 
 ### Statistical physics
 
-A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32) and Huang (2010, Ch. 7) are two examples, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19),  Reichl (2016, Ch. 8-9), and Halley (2007, Ch. 10), for example.  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Kadanoff (2000) briefly discusses hydrodynamics in Sec. 5.4, which mainly focuses on diffusion.  (He presumes that students have studied hydrodynamics in an earlier course, "as part of a traditional physics education", a presumption as unlikely to be true then as it is now.)  Schwabl (2010) includes, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
+A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32), Huang (2010, Ch. 7), and more briefly Reif (1965, Sec. 14.5), are a few examples, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19),  Reichl (2016, Ch. 8-9), and Halley (2007, Ch. 10).  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Kadanoff (2000) briefly discusses hydrodynamics in Sec. 5.4, which mainly focuses on diffusion.  (He presumes that students have studied hydrodynamics in an earlier course, "as part of a traditional physics education", a presumption as unlikely to be true then as it is now.)  Schwabl (2010) includes, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
 
 What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases, and Huang (2010, ch. 20) devotes a whole chapter to it.  Again, most examples I know of are at the graduate level, such as Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Feynman (1998, Ch. 11).  
 
@@ -95,6 +95,8 @@ Fortunately some lesser known authors take a broader view.  Setlur (2014) includ
 
 Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  Indeed, every introductory book on plasma physics will cover magnetohydrodynamics, and every atmospheric dynamics text is founded upon hydrodynamics in a rotating frame of reference.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  (I attempted to make a list of general books on astrophysical hydrodynamics in *Appendix A* of my list of [books on fluid and continuum mechanics written by physicists](booksByPhysicists.md).)  An example of an enlightened soft matter physics text is Kleman and Lavrentovich (2003), whose chapter 6 covers the hydrodynamics of both isotropic fluids and of nematic liquid crystals.
 
+Sometimes a separate course on waves is offered, and many books used for such courses cover bits of acoustics and/or surface waves on water.  Of these, Elmore and Heald (1985, ch. 3-7) has perhaps the most extensive coverage of continuum mechanics, including elastic waves in solids.   I comment further on the out-of-print classic by Crawford (1968) [here](physicscourses.md).
+
 ### Other notable books
 
 The third edition of Malcolm Longair's *Theoretical Concepts in Physics* (originally published in 1984) now includes a "gentle introduction" to fluid dynamics (Ch. 9 and parts of Ch. 10).  Rudolf Peierls' *More Surprises in Theoretical Physics* includes a chapter (7) on hydrodynamics.
@@ -117,13 +119,19 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - M. Chaichian, I. Merches, and A. Tureanu, 2012: *Mechanics: An Intensive Course*. Springer.
 
+- M. Chaichian, I. Merches, D. Radu, and A. Tureanu, 2016:  *Electrodybamics:  An Intensive Course*.  Springer.
+
 - P. M. Chaikin and T. C. Lubensky, 2000.  *Principles of Condensed Matter Physics*, corrected reprint.  Cambridge University Press.
 
 - A. R. Choudhuri, 1998:  *The Physics of Fluids and Plasmas:  An Introduction for Astrophysicists*.  Cambridge University Press.
 
 - H. C. Corben and P. Stehle, 1994:  *Classical Mechanics*, 2d edition.  Dover.
 
+- F. S. Crawford, Jr., 1968:  *Waves*.  Berkeley Physics Course, vol. 3.  McGraw-Hill.
+
 - P. C. Deshmukh, 2020:  *Foundations of Classical Mechanics*.  Cambridge University Press.
+
+- W. C. Elmore and M. A. Heald, 1985:  *Physics of Waves*, corrected reprint.  Dover.  (Originally published by McGraw-Hill, 1969.)
 
 - A. L. Fetter and J. D. Walecka, 1980:  *Theoretical Mechanics of Particles and Continua*. McGraw-Hill.  Reprinted by Dover, 2003.
 
@@ -198,6 +206,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - R. Peierls, 1991:  *More Surprises in Theoretical Physics*.  Princeton University Press.
 
 - L. E. Reichl, 2016:  *A Modern Course in Statistical Physics*, 4th edition.  Wiley-VCH.
+
+- F. Reif, 1965:  *Fundamentals of Statistical and Thermal Physics*.  McGraw-Hill Series in Fundamentals of Physics.  McGraw-Hill.
 
 - H. G. Schuster and W. Just, 2005:  *Deterministic Chaos:  An Introduction*, 4th edition.  Wiley-VCH.
 
