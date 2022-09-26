@@ -136,7 +136,7 @@ As a point of personal privilege, I want to include a few other titles on a more
     - A foundational monograph on the thermodynamics of irreversible processes.  Many authors in the nonequilbrium statistical physics literature cite DeGroot & Mazur as a source for hydrodynamics.  DeGroot (1916-1994) was a Danish theorist, and Mazur (1922-2001) was of Austrian extraction; both worked in the Netherlands.
 
 - Phuong Mai Dinh, Jesus Navarro, and Eric Suraud, 2018:  *An Introduction to Quantum Fluids*.  CRC Press.
-    - It turns out that the topic of quantum fluids is more general than just superfluids.  This book adopts a fairly wide perspective, including electron fluids, the nucleus (including the liquid drop model), and high density fluids (white dwarfs, neutron stars, and quark-gluon plasma).  I have emphasized classical fluids on this site, but at least one book on quantum fluids should be mentioned here.  (Natrually there are a number of more specific books on superfluids which I have not attempted to enumerate.)
+    - It turns out that the topic of quantum fluids is more general than just superfluids.  This book adopts a fairly wide perspective, including electron fluids, the nucleus (including the liquid drop model), and high density fluids (white dwarfs, neutron stars, and quark-gluon plasma).  I have emphasized classical fluids on this site, but at least one book on quantum fluids should be mentioned here.  (Natrually there are a number of more specific books on superfluids and Bose-Einstein condensates, which I have not attempted to enumerate.)
 
 - Samuel A. Elder and Jerome Williams, 1996:  *Fluid Physics for Oceanographers and Physicists:  An Introduction to Incompressible Flow*, 2d edition.  Butterworth Heinemann.
 
