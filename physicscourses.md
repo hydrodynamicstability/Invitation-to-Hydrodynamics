@@ -75,10 +75,9 @@ Further comments on Landau/Lifshitz' *Fluid Mechanics* are forthcoming.
 ### Arnold Sommerfeld
 
 Arnold Sommerfeld's 6-volume *Lectures on Theoretical Physics* (English translations published 1949-1956) are long out of print, though now available 
-electronically from Elsevier, and perhaps of mainly historical interest at this juncture.  Volume 2 is on the *Mechanics of Deformable Bodies*, 
-covering both solid and fluid mechanics.  Sommerfeld passed away during the preparation of volume 5, *Thermodynamics and Statistical Mechanics*; 
-thus the final chapter (ch. 5), which includes a development of the hydrodynamic balance equations from kinetic theory (Sec. 43), was prepared by 
-the editors, F. Bopp and J. Meixner.
+electronically from Elsevier, and perhaps of mainly historical interest at this juncture.  These lectures, Sommerfeld said, "were confined essentially to classical physics, which, as a basis for all modern developments, must never be curtailed" (*Am. J. Phys.*, 17:  315-316).  He added, "I used to organize my own lectures in such a way that they were too easy for advanced students and too difficult for beginners."
+
+Volume 2 is on the *Mechanics of Deformable Bodies*, covering both solid and fluid mechanics.  Sommerfeld passed away during the preparation of volume 5, *Thermodynamics and Statistical Mechanics*; thus the final chapter (ch. 5), which includes a development of the hydrodynamic balance equations from kinetic theory (Sec. 43), was prepared by the editors, F. Bopp and J. Meixner.
 
 Further comments on Sommerfeld's *Mechanics of Deformable Bodies* are forthcoming.
 
