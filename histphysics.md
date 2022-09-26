@@ -129,6 +129,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | 1904 | John William Strutt, Lord Rayleigh | Hydrodynamic instabilities (e.g., Rayleigh-Benard, Rayleigh-Taylor, Plateau-Rayleigh); acoustics; many other contributions (see above). |
 | 1906 | J. J. Thomson | Contributed to viscoelastic theory. |
 | 1913 | Heike Kamerlingh Onnes | Experiments on liquid helium |
+| 1918 | Max Planck | Wrote *Mechanics of Deformable Bodies* (second volume of his *Introduction to Theoretical Physics*). |
 | 1921 | Albert Einstein | Doctoral dissertation in part on viscosity of solutions with added sugar; teacup effect; "Cat's back" aerofoil (Einstein's folly - see above). |
 | 1922 | Niels Bohr | Developed Gamow's liquid drop model of the nucleus. |
 |1923 | Robert A. Millikan | Oil drop experiment requires use of Stokes formula for drag force on a slowly falling sphere |
