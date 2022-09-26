@@ -81,9 +81,11 @@ Hydrodynamics can be a source of examples of mathematical methods in physics, as
 
 Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Notable exceptions that I know of include Pang (2006, ch. 9) and various works by Rubin Landau and collaborators (Landau et al., 2008, ch. 19; Landau et al., 2015, ch. 24-25; Landau and Paez, 2018, ch. 4).  A hydrodynamics problem (steady state flow in 2D) is given as a project for the chapter on elliptic PDEs in Koonin (1986, ch. 6), updated as Koonin & Meredith (1990).  Fluid dynamics are only briefly mentioned in Franklin (2013, Sec. 5.1.5).
 
-### Condensed matter physics
+### Condensed matter physics, soft matter physics
 
 Coverage of hydrodynamics in condensed matter physics texts is hit-or-miss, as many of the standards completely ignore the entire subject, except possibly the topic of superfluidity.  Exceptions that I know of include Chaikin & Lubensky (2000, Ch. 8) and Marder (2010, Ch. 15), both graduate level texts.  Comparing these last two books, while Marder seems to have a more in-depth discussion of superfluid Helium, Chaikin & Lubensky's treatment is substantially longer overall, and more directly pursues the unique approach of a condensed matter theorist to hydrodynamics, as opposed to the very classical continuum approach I have generally taken on this site.  At the undergraduate level, Sidebottom (2012) has a brief section on "Hydrodynamic modes in liquids" (Sec. 9.1.3).
+
+Discussion of fluids, often with more interesting rheology than classical Hookean solids and Newtonian fluids, is more common in texts with the phrase "soft matter" in their titles.  Kleman and Lavrentovich (2003)'s chapter 6 covers the hydrodynamics of both isotropic fluids and of nematic liquid crystals.  Kimmich (2012) includes a long and interesting chapter (4) on fluid dynamics, broadly interpreted; I cringe at his habit of using slashes in place of hyphens, e.g., "Navier/Stokes" and "Rayleigh/Benard".  Doi (2013) has a chapter (9) on flow and deformation of soft matter, focusing on the rheology of viscoelastic materials.  The edited volume by Fernandez-Nieves and Puerta (2016) devotes its entire first section to fluid flows, but hydrodynamic and rheological topics appear in many places in the rest of the book.  All the soft matter texts mentioned here appear to be at the graduate level.
 
 ### Classical field theory
 
@@ -93,7 +95,7 @@ Fortunately some lesser known authors take a broader view.  Setlur (2014) includ
 
 ### Other courses
 
-Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, soft matter physics, atmospheric dynamics, and environmental physics, for example.  Indeed, every introductory book on plasma physics will cover magnetohydrodynamics, and every atmospheric dynamics text is founded upon hydrodynamics in a rotating frame of reference.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  (I attempted to make a list of general books on astrophysical hydrodynamics in *Appendix A* of my list of [books on fluid and continuum mechanics written by physicists](booksByPhysicists.md).)  An example of an enlightened soft matter physics text is Kleman and Lavrentovich (2003), whose chapter 6 covers the hydrodynamics of both isotropic fluids and of nematic liquid crystals.
+Physics students are likely to encounter fluid dynamics when they take courses on plasma physics, astrophysics, biological physics, atmospheric dynamics, and environmental physics, for example.  Indeed, every introductory book on plasma physics will cover magnetohydrodynamics, and every atmospheric dynamics text is founded upon hydrodynamics in a rotating frame of reference.  There are good specialized texts on both magnetohydrodynamics and astrophysical fluid dynamics, which I won't enumerate here, except to mention a personal favorite, Choudhuri (1998).  (I attempted to make a list of general books on astrophysical hydrodynamics in *Appendix A* of my list of [books on fluid and continuum mechanics written by physicists](booksByPhysicists.md).)  
 
 Sometimes a separate course on waves is offered, and many books used for such courses cover bits of acoustics and/or surface waves on water.  Of these, Elmore and Heald (1985, ch. 3-7) has perhaps the most extensive coverage of continuum mechanics, including elastic waves in solids.   I comment further on the out-of-print classic by Crawford (1968) [here](physicscourses.md).
 
@@ -131,7 +133,11 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - P. C. Deshmukh, 2020:  *Foundations of Classical Mechanics*.  Cambridge University Press.
 
+- M. Doi, 2013:  *Soft Matter Physics*.  Oxford University Press.
+
 - W. C. Elmore and M. A. Heald, 1985:  *Physics of Waves*, corrected reprint.  Dover.  (Originally published by McGraw-Hill, 1969.)
+
+- A. Fernandez-Nieves and A. M. Puertas, eds., 2016:  *Fluids, Colloids, and Soft Materials:  An Introduction to Soft Matter Physics*.  Wiley.
 
 - A. L. Fetter and J. D. Walecka, 1980:  *Theoretical Mechanics of Particles and Continua*. McGraw-Hill.  Reprinted by Dover, 2003.
 
@@ -164,6 +170,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - J. D. Jackson, 1999: *Classical Electrodynamics*, 3d edition. Wiley.
 
 - J. V. Jose and E. J. Saletan, 1998:  *Classical Dynamics: A Contemporary Approach*. Cambridge University Press.
+
+- R. Kimmich, 2012:  *Principles of Soft-Matter Dynamics:  Basic Theories, Non-invasive Methods, Mesoscopic Aspects*.  Springer.
 
 - C. Kittel and H. Kroemer, 1980:  *Thermal Physics*.  W. H. Freeman.
 
