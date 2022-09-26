@@ -41,7 +41,7 @@
 
   - Wide applications *within* physics, including plasma physics, astrophysics & cosmology, condensed and soft matter physics, and hybrid fields such as physical chemistry, biological physics, and environmental science and engineering.  
   
-  - Crucial subject for the study of geophysics, atmosphere and ocean dynamics, hydrology, and all their counterparts in planetary physics.  
+  - Crucial subject for the study of geophysics, atmosphere and ocean dynamics, hydrology, and all their counterparts in planetary physics.  Carl Eckart (of the Wigner-Eckart theorem in quantum theory, and his influential 1940 papers on the thermodynamics of irreversible processes) later switched fields into geophysics, oceanography, and underwater acoustics.  He even wrote a 1960 treatise, *Hydrodynamics of Oceans and Atmospheres* (Pergamon).
 
   - Applications across engineering and technology, including civil, chemical, biomedical, mechanical, and aerospace engineering, but even occasionally in electrical and nuclear engineering, and materials science and engineering.  Closely allied fields include acoustics and rheology.
 
