@@ -168,6 +168,11 @@ Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can
 - Subrahmanyan Chandrasekhar, 1981:  *Hydrodynamic and Hydromagnetic Stability*.  Dover.  (Original edition published in the International Series of Monographs on Physics, by Oxford University Press, 1961.)
     - A landmark contribution by a legendary astrophysicist.  Anyone interested in hydrodynamic instabilities must own this book.  Chandrasekhar (1910-1995) won the 1983 Nobel Prize in Physics.  (In 2011 Edward A. Spiegel  edited and published Chandrasekhar's 1954 lectures on *The Theory of Turbulence*.)
 
+Finally, though it breaks my rule about only post-WWII books, for completeness I will mention one more Nobel laureate:
+
+- Max Planck, 1932:  *The Mechanics of Deformable Bodies*.  Translated by Henry L. Brose.  Introduction to Theoretical Physics, vol. 2.  Macmillan.
+    - This is translated from the third German edition; the original German text is dated 1919.  The book covers both solid and fluid mechanics.  Max Planck (1858-1947) is, of course, the founder of quantum mechanics.
+
 ### Some reflections on the books discussed
 
 In this section I focus on the books listed in the first two sections, on continuum and fluid mechanics.  
