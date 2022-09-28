@@ -160,13 +160,16 @@ As a point of personal privilege, I want to include a few other titles on a more
 - Grigory Vekstein, 2013:  *Physics of Continuous Media:  Problems and Solutions in Electromagnetism, Fluid Mechanics, and MHD*, 2d edition.  CRC Press.
     - Includes electrodynamics in addition to fluid mechanics, magnetohydrodynamics, and elasticity.  Unfortunately the author, a solar and plasma physicist, passed away in 2021, a victim of COVID.
 
-Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can't fail to mention two other Nobel laureates in physics:
+Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can't fail to mention three other Nobel laureates in physics:
 
 - Hannes Alfven, 1950: *Cosmical Electrodynamics*. International Series of Monographs on Physics.  Oxford University Press.  
     - Alfven (1908-1995) is the founder of modern magnetohydrodynamics, a topic he covers in this book.  Alven won the 1970 Nobel Prize in Physics for his contributions to plasma physics.  A second edition in 1963, co-authored with Carl-Gunne Falthammar, was subtitled *Fundamental Principles*.
 
 - Subrahmanyan Chandrasekhar, 1981:  *Hydrodynamic and Hydromagnetic Stability*.  Dover.  (Original edition published in the International Series of Monographs on Physics, by Oxford University Press, 1961.)
     - A landmark contribution by a legendary astrophysicist.  Anyone interested in hydrodynamic instabilities must own this book.  Chandrasekhar (1910-1995) won the 1983 Nobel Prize in Physics.  (In 2011 Edward A. Spiegel  edited and published Chandrasekhar's 1954 lectures on *The Theory of Turbulence*.)
+
+- Pierre-Gilles de Gennes, Francoise Brochard-Wyart, and David Quere, 2004:  *Capillarity and Wetting:  Drops, Bubbles, Pearls, Waves*.  Translated by Axel Reisinger.  Springer.
+    - P.-G. de Gennes (1932-2007) won the 1991 Nobel Prize in physics, the first for soft matter physics.  Brochard-Wyart was one of his students, and Quere was one of hers.  The book, written specifically for students, is intended to provide a more qualitative, "impressionistic" account of the phenomena covered, at the expense of "rigor" and fancy mathematics.
 
 Finally, though it breaks my rule about only post-WWII books, for completeness I will mention one more Nobel laureate:
 
