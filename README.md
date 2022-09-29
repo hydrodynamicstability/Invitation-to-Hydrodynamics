@@ -39,7 +39,7 @@
   
   - Theorists might be inspired to use a fluid model for some other physical phenomenon.  Example:  George Gamow's influential [liquid drop model of the nucleus](https://doi.org/10.1098/rspa.1930.0032), developed further by Bohr, Heisenberg, von Weiszacker, and Wheeler, and used by Meitner & Frisch to [explain nuclear fission](https://www.atomicheritage.org/key-documents/meitner-frisch-nuclear-fission).
 
-  - Wide applications *within* physics, including plasma physics, astrophysics & cosmology, condensed and soft matter physics, and hybrid fields such as physical chemistry, biological physics, and environmental science and engineering.  
+  - Wide applications *within* physics, including plasma physics, astrophysics & cosmology, condensed and soft matter physics, and hybrid fields such as physical chemistry, biological physics, and environmental science and engineering.  (Isn't it interesting that plasmas are definitely *not* condensed matter, yet both Choudhuri's book *The Physics of Fluids and Plasmas:  An Introduction for Astrophysicists* and Chaikin & Lubensky's *Principles of Condensed Matter Physics* both discuss hydrodynamics?)
   
   - Crucial subject for the study of geophysics, atmosphere and ocean dynamics, hydrology, and all their counterparts in planetary physics.  Carl Eckart (of the Wigner-Eckart theorem in quantum theory, and his influential 1940 papers on the thermodynamics of irreversible processes) later switched fields into geophysics, oceanography, and underwater acoustics.  He even wrote a 1960 treatise, *Hydrodynamics of Oceans and Atmospheres* (Pergamon).
 
@@ -69,7 +69,7 @@ Jerry Gollub (*Physics Today*, Dec. 2003, pp. 10-11) noted many of the reasons a
 
 Here are a few sampler dishes to see if you like it.  Effort increases as you work your way down the list.
 
-- Watch this 46-minute video lecture, [Why Hydrodynamics?](https://podcasts.ox.ac.uk/why-hydrodynamics) by Prof. Steve Simon, a condensed matter theorist at Oxford University.  It's a nontechnical talk aimed at fellow physicists.  
+- Watch this 46-minute video lecture, [Why Hydrodynamics?](https://podcasts.ox.ac.uk/why-hydrodynamics) by Prof. Steve Simon, a condensed matter theorist at Oxford University.  It's a nontechnical talk aimed at fellow physicists.  Examples from astrophysics (the solar corona; the interstellar medium; the motion of stars near galactic nuclei), atomic physics (cold trapped atoms), condensed matter (electron flow in delafossites; electron-hole plasma in graphenes), and high energy physics (quark-gluon plasma) are discussed, though curiously not superfluids.
  
 - Read the fluid mechanics chapters (vol. 2, ch. 40-41) of the [Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/), to find out what Richard Feynman wanted every physics undergraduate to know about fluid mechanics.  This is about 24 pages of material.
 
