@@ -49,9 +49,9 @@ These problems are meant to be solved using Bernoulli's equation for streamlines
 
 ### Classical mechanics
 
-When I was an undergraduate in the early 1990s, most intermediate mechanics texts omitted fluids entirely.  Symon (1971, Ch. 8) and Arya (1997, Ch. 15) were two exceptions, both including a chapter on the mechanics of continuous media, consisting of vibrations on strings as well as fluid dynamics and sound waves.  Corben and Stehle (1994, Sec. 81) devote less space to fluid dynamics, but at least they include the Navier-Stokes equations as a "special application".  At the graduate level, the texts of Fetter &  Walecka (1980) and Jose & Saletan (1998, Sec. 9.5) are notable examples that include fluid dynamics.  Fetter & Walecka are particularly praiseworthy for celebrating the whole of continuum mechanics in the entire second half of their book (Ch. 7-13); Jose & Saletan's Chapter 9 is similarly devoted to continuum mechanics.  Both books derive the basic field equations (contuinuity, and Euler and Navier-Stokes) and discuss surface waves; Fetter and Walecka also cover sound and shock waves; while Jose and Saletan include the Burgers and KdV equations.  Otherwise, graduate-level mechanics books touch on fluid flow only as an analogy with the Liouville theorem (e.g., Goldstein, et al, 2001; Hand and Finch, 1998).  Uniquely among such texts, Appendix 2 of the classic Arnol'd (1989) discusses the formal correspondence between the Euler equations of rigid body dynamics and the Euler equations of ideal fluid flow.  Generally though, Jerry Gollub (2003) was correct when he wrote that "The most popular textbooks intended for courses in classical mechanics do not generally treat fluid or solid mechanics. It is hard to teach courses that are not adequately supported by textbooks, especially at the undergraduate level."
+When I was an undergraduate in the early 1990s, most intermediate mechanics texts omitted fluids entirely.  Symon (1971, Ch. 8) and Arya (1997, Ch. 15) were two exceptions, both including a chapter on the mechanics of continuous media, consisting of vibrations on strings as well as fluid dynamics and sound waves.  Corben and Stehle (1994, Sec. 81) devote less space to fluid dynamics, but at least they include the Navier-Stokes equations as a "special application".  Fowles & Cassiday (2005) include a section (2.4) on "Velocity-dependent forces:  fluid resistance and terminal velocity", which considers a drag force that has linear and quadratic terms in velocity.  At the graduate level, the texts of Fetter &  Walecka (1980) and Jose & Saletan (1998, Sec. 9.5) are notable examples that include fluid dynamics.  Fetter & Walecka are particularly praiseworthy for celebrating the whole of continuum mechanics in the entire second half of their book (Ch. 7-13); Jose & Saletan's Chapter 9 is similarly devoted to continuum mechanics.  Both books derive the basic field equations (contuinuity, and Euler and Navier-Stokes) and discuss surface waves; Fetter and Walecka also cover sound and shock waves; while Jose and Saletan include the Burgers and KdV equations.  Otherwise, graduate-level mechanics books touch on fluid flow only as an analogy with the Liouville theorem (e.g., Goldstein, et al, 2001; Hand and Finch, 1998).  Uniquely among such texts, Appendix 2 of the classic Arnol'd (1989) discusses the formal correspondence between the Euler equations of rigid body dynamics and the Euler equations of ideal fluid flow.  Generally though, Jerry Gollub (2003) was correct when he wrote that "The most popular textbooks intended for courses in classical mechanics do not generally treat fluid or solid mechanics. It is hard to teach courses that are not adequately supported by textbooks, especially at the undergraduate level."
 
-In the years since then, more undergraduate mechanics texts are including chapters on fluid dynamics, though many of the most popular texts continue to competely ignore the topic.  Examples of the more enlightened texts include Taylor (2005, Ch. 16), Chaichian et al. (2012, Ch. 6), Deshmukh (2020, Ch. 11), and Hamill (2022, Ch. 19).  Jerry Gollub (2003) himself used the undergrad intermediate mechanics course to introduce fluid dynamics to his physics students, so it is heartening to see further progress in this direction, especially as Taylor (2005) has gained wide popularity.
+In the years since then, more undergraduate mechanics texts are including chapters on fluid dynamics, though many of the most popular texts continue to competely ignore the topic.  The final chapter of the popular text by Taylor (2005, Ch. 16) covers continuum mechanics, emphasizing solid mechanics, with the very brief sections on fluid mechanics marked optional.  Other examples include Chaichian et al. (2012, Ch. 6), Deshmukh (2020, Ch. 11), and Hamill (2022, Ch. 19).  At the graduate level, Fasano & Maarrmi (2006) include a brief final chapter (16) on the Lagrangian formulation of continuum mechanics, covering solid and fluid mechanics, as well as electromagnetism.  Jerry Gollub (2003) himself used the undergrad intermediate mechanics course to introduce fluid dynamics to his physics students, so it is heartening to see further progress in this direction.
 
 (While not used as a course text, the monograph by Sudarshan and Mukunda (1974, ch. 19) developes fluid mechanics as a Galilean field theory, though this requires restricting the fluid to an invsicid, compressible flow in unrestricted space, without obstacles or body forces.  They develop the Lagrangian, Hamiltonian, and Poisson brackets formulation for both irrotational and general flows.)
 
@@ -137,6 +137,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - W. C. Elmore and M. A. Heald, 1985:  *Physics of Waves*, corrected reprint.  Dover.  (Originally published by McGraw-Hill, 1969.)
 
+- A. Fasano and S. Marmi, 2006:  *Analytical Mechanics:  An Introduction*.  Translated by B. Pelloni.  Oxford University Press.
+
 - A. Fernandez-Nieves and A. M. Puertas, eds., 2016:  *Fluids, Colloids, and Soft Materials:  An Introduction to Soft Matter Physics*.  Wiley.
 
 - A. L. Fetter and J. D. Walecka, 1980:  *Theoretical Mechanics of Particles and Continua*. McGraw-Hill.  Reprinted by Dover, 2003.
@@ -144,6 +146,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - A. L. Fetter and J. D. Walecka, 2006:  *Nonlinear Mechanics:  A Supplement to Theoretical Mechanics of Particles and Continua*.  Dover.
 
 - R. P. Feynman, 1998:  *Statistical Mechanics:  A Set of Lectures*.  Advanced Book Classics.  CRC Press.  Originally published 1972.
+
+- G. R. Fowles and G. L. Cassiday, 2005:  *Analytical Mechanics*, 7th edition.  Thomson Brooks/Cole.
 
 - J. Franklin, 2013:  *Computational Methods for Physicists*.  Cambridge University Press.
 
@@ -225,7 +229,7 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - D. L. Sidebottom, 2012:  *Fundamentals of Condensed Matter and Crystalline Physics:  An Introduction for Students of Physics and Materials Science*.  Cambridge University Press.
 
-- E. C. G. Sudarshan and N. Mukunda, 1974:  *Classical Dynamics: A Modern Perspective*. Wiley.
+- E. C. G. Sudarshan and N. Mukunda, 1974:  *Classical Dynamics: A Modern Perspective*. Wiley.  Reprinted in 2016 by World Scientific.
 
 - L. Susskind and A. Friedman, 2017:  *Special Relativity and Classical Field Theory*.  The Theoretical Minimum, vol. 3.  Basic Books.
 
