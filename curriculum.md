@@ -57,7 +57,7 @@ In the years since then, more undergraduate mechanics texts are including chapte
 
 ### Electricity and magnetism
 
-The now-discarded one-fluid and two-fluid theories of electricity were of great historical importance, but have now been largely forgotten, except insofar as "electron hydrodynamics" can be exhibited in a few specific situations in solid state physics.  Today's curriculum in E&M touches on only one fluid physics subject:  magnetohydrodynamics (MHD).  This topic is understandably ignored in the canon of undergraduate E&M textbooks, with the remarkable but little-known exception of one by astrophysicist Attay Kovetz (2000), who devotes three entire chapters to it (Ch. 14-16).  Another exception is the recent text by Chaichian et al. (2016), which includes a single chapter (ch. 5) on MHD.  In contrast, many graduate level texts do include a few token pages on the subject.  The ubiquitous Jackson (1999) has a single section (7.7) of about 3 pages on MHD, less than the 7-page chapter on the topic in Panofsky and Phillips (2005, Ch. 12).  Remarkably, the brief grad-level text by Melia (2001, Secs. 8.4-8.5) beats them both with just over 8 pages; the author's background as an astrophysicist may explain this.  Sadly, for many physicists the few pages on MHD in their graduate E&M text are the only ones on any fluid mechanics topic (beyond introductory physics) on their bookshelves.
+The now-discarded one-fluid and two-fluid theories of electricity were of great historical importance, but have now been largely forgotten, except insofar as "electron hydrodynamics" can be exhibited in a few specific situations in solid state physics.  Today's curriculum in E&M touches on only one fluid physics subject:  magnetohydrodynamics (MHD).  This topic is understandably ignored in the canon of undergraduate E&M textbooks, with the remarkable but little-known exception of one by astrophysicist Attay Kovetz (2000), who devotes three entire chapters to it (Ch. 14-16).  Another exception is the recent text by Chaichian et al. (2016), which includes a single chapter (ch. 5) on MHD.  In contrast, many graduate level texts do include a few token pages on the subject.  The ubiquitous Jackson (1999) has a single section (7.7) of about 3 pages on MHD, less than the 7-page chapter on the topic in Panofsky and Phillips (2005, Ch. 12).  Remarkably, the brief grad-level text by Melia (2001, Secs. 8.4-8.5) beats them both with just over 8 pages; the author's background as an astrophysicist may explain this.  In contrast, Zangwill (2013) mentions Alfven waves only briefly, in Application 17.1.  Sadly, for many physicists the few pages on MHD in their graduate E&M text are the only ones on any fluid mechanics topic (beyond introductory physics) on their bookshelves.
 
 
 
@@ -71,15 +71,19 @@ It could be argued that the study of fluid mechanics naturally belongs with the 
 
 ### Nonlinear dynamics
 
-Historically there have many connections between fluid dynamics and nonlinear dynamics, and Gollub (2003) encouraged using this link to teach both.  Unfortunately it is possible to convey many of the key ideas of nonlinear dynamics and chaos theory without explicit reference to the equations of hydrodynamics.  However, the derivation of the famous Lorenz model requires hydroynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  
+Historically there have many connections between fluid dynamics and nonlinear dynamics, and Gollub (2003) encouraged using this link to teach both.  Unfortunately it is possible to convey many of the key ideas of nonlinear dynamics and chaos theory without explicit reference to the equations of hydrodynamics.  However, the derivation of the famous Lorenz model requires hydroynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  Hilborn's Sec. 11.2 also includes a qualitative discussion of mixing in a two-dimensional flow.
 
 ### Mathematical methods 
 
-Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus and conformal mapping, as in Boas (2006).  Morse & Feshbach (1953) include a 20-page section (2.3) on the motion of fluids, but more commonly, hydrodynamics is never explicitly mentioned in the standard textbooks of today.
+Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus and conformal mapping, as in Boas (2006).  Morse & Feshbach (1953) include a 20-page section (2.3) on the motion of fluids, but more commonly, hydrodynamics is never explicitly mentioned in the standard textbooks of today.  A recent exeption is the graduate-level text by Vaughn (2007), whose chapter on geometry in physics includes a final section (3.6) on fluid mechanics.  There he defines the Lie derivative, and shows how the continuity equation, Euler equation, and vorticity can be expressed in terms of differential forms.
 
 ### Computational physics
 
-Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Notable exceptions that I know of include Pang (2006, ch. 9) and various works by Rubin Landau and collaborators (Landau et al., 2008, ch. 19; Landau et al., 2015, ch. 24-25; Landau and Paez, 2018, ch. 4).  A hydrodynamics problem (steady state flow in 2D) is given as a project for the chapter on elliptic PDEs in Koonin (1986, ch. 6), updated as Koonin & Meredith (1990).  Fluid dynamics are only briefly mentioned in Franklin (2013, Sec. 5.1.5).
+Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Notable exceptions that I know of include Pang (2006, ch. 9) and various works by Rubin Landau and collaborators (Landau et al., 2008, ch. 19; Landau et al., 2015, ch. 24-25; Landau and Paez, 2018, ch. 4).  A hydrodynamics problem (steady state flow in 2D) is given as a project for the chapter on elliptic PDEs in Koonin (1986, ch. 6), updated as Koonin & Meredith (1990).  A discussion of lattice gas models of fluid flow is included in Gould et al. (2016, sec. 14.6).  Fluid dynamics are only briefly mentioned in Franklin (2013, Sec. 5.1.5).
+
+Readers of this site will appreciate the following quotation from Landau et al. (2008):
+
+> The mathematical description of the motion of fluids, though not a new subject, remains a challenging one.  The equations are complicated and nonlinear, there are many degrees of freedom, the nonlinearities may lead to instabilities, analytic solutions are rare, and the boundary conditions for realistic geometries (like airplanes) are not intuitive.  These difficulties may explain why fluid dynamics is often absent from undergraduate and even graduate physics curricula.  Nonetheless, as an essential element of the real world that also has tremendous practical importance, we encourage its study.
 
 ### Condensed matter physics, soft matter physics
 
@@ -156,6 +160,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - J. Gollub, 2003:  Continuum mechanics in physics education.  *Physics Today*, 56 (12):  10-11.
 
 - J. Gollub, 2008:  Teaching about fluids. *Physics Today*, 61 (10):  8-9.
+
+- H. Gould, J Tobochnik, and W. Christian, 2016:  *An Introduction to Computer Simulation Methods:  Applications to Physical Systems*, revised 3d edition.  Available [online](https://www.compadre.org/osp/items/detail.cfm?ID=7375).
 
 - J. W. Halley, 2007:  *Statistical Mechanics:  From First Principles to Macroscopic Phenomena*.  Cambridge University Press.
 
@@ -239,8 +245,11 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - C. Truesdell and R. A. Toupin, 1960:  The classical theory of fields.  *Handbuch der Physik*, Band III/I, ed. by S. Flugge.  Springer, pp. 226-858.
 
+- M. T. Vaughn, 2007:  *Introduction to Mathematical Physics8.  Wiley-VCH.
+
 - H. W. Wyld, 1976:  *Mathematical Methods for Physics*.  Lecture Notes and Supplements in Physics, vol. 15.  W. A. Benjamin.  (An updated 45th anniversary edition, edited by G. Powell, was published in 2021 by CRC Press.)
 
+- A. Zangwill, 2013:  *Modern Electrodynamics*.  Cambridge University Press.
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
