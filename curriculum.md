@@ -123,7 +123,7 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - M. Chaichian, I. Merches, and A. Tureanu, 2012: *Mechanics: An Intensive Course*. Springer.
 
-- M. Chaichian, I. Merches, D. Radu, and A. Tureanu, 2016:  *Electrodybamics:  An Intensive Course*.  Springer.
+- M. Chaichian, I. Merches, D. Radu, and A. Tureanu, 2016:  *Electrodynamics:  An Intensive Course*.  Springer.
 
 - P. M. Chaikin and T. C. Lubensky, 2000.  *Principles of Condensed Matter Physics*, corrected reprint.  Cambridge University Press.
 
@@ -247,7 +247,7 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - C. Van Vliet, 2008:  *Equilibrium and Non-equilibrium Statistical Mechanics*.  World Scientific.
 
-- M. T. Vaughn, 2007:  *Introduction to Mathematical Physics8.  Wiley-VCH.
+- M. T. Vaughn, 2007:  *Introduction to Mathematical Physics*.  Wiley-VCH.
 
 - H. W. Wyld, 1976:  *Mathematical Methods for Physics*.  Lecture Notes and Supplements in Physics, vol. 15.  W. A. Benjamin.  (An updated 45th anniversary edition, edited by G. Powell, was published in 2021 by CRC Press.)
 
