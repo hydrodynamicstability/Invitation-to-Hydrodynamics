@@ -63,15 +63,15 @@ The now-discarded one-fluid and two-fluid theories of electricity were of great 
 
 ### Statistical physics
 
-A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32), Huang (2010, Ch. 7), and more briefly Reif (1965, Sec. 14.5), are a few examples, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), McQuarrie (2000, Ch. 16-19),  Reichl (2016, Ch. 8-9), and Halley (2007, Ch. 10).  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Kadanoff (2000) briefly discusses hydrodynamics in Sec. 5.4, which mainly focuses on diffusion.  (He presumes that students have studied hydrodynamics in an earlier course, "as part of a traditional physics education", a presumption as unlikely to be true then as it is now.)  Schwabl (2010) includes, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
+A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32), Huang (2010, Ch. 7), and more briefly Reif (1965, Sec. 14.5), are a few examples, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), Reichl (2016, Ch. 8-9), Robertson (1993, ch. 9), McQuarrie (2000, Ch. 16-19), Le Bellac et al. (2004, Sec. 6.3), Halley (2007, Ch. 10), and Van Vliet (2008, ch. 14).  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Kadanoff (2000) briefly discusses hydrodynamics in Sec. 5.4, which mainly focuses on diffusion.  (He presumes that students have studied hydrodynamics in an earlier course, "as part of a traditional physics education", a presumption as unlikely to be true then as it is now.)  Schwabl (2010) includes, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
 
-What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases, and Huang (2010, ch. 20) devotes a whole chapter to it.  Again, most examples I know of are at the graduate level, such as Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Feynman (1998, Ch. 11).  
+What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases, and Huang (2010, ch. 20) devotes a whole chapter to it.  Again, most examples I know of are at the graduate level, such as Feynman (1998, Ch. 11), Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Halley (2007, ch. 10).  Van Vliet (2008) has a chapter (12) on quantum fluids in general.
 
 It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  
 
 ### Nonlinear dynamics
 
-Historically there have many connections between fluid dynamics and nonlinear dynamics, and Gollub (2003) encouraged using this link to teach both.  Unfortunately it is possible to convey many of the key ideas of nonlinear dynamics and chaos theory without explicit reference to the equations of hydrodynamics.  However, the derivation of the famous Lorenz model requires hydroynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  Hilborn's Sec. 11.2 also includes a qualitative discussion of mixing in a two-dimensional flow.
+Historically there have many connections between fluid dynamics and nonlinear dynamics, and Gollub (2003) encouraged using this link to teach both.  Unfortunately it is possible to convey many of the key ideas of nonlinear dynamics and chaos theory without explicit reference to the equations of hydrodynamics.  However, the derivation of the famous Lorenz model requires hydrodynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  Hilborn's Sec. 11.2 also includes a qualitative discussion of mixing in a two-dimensional flow.
 
 ### Mathematical methods 
 
@@ -201,6 +201,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - R. H. Landau, M. J. Paez, and C. C. Boreianu, 2015:  *Computational Physics:  Problem Solving with Python*, 3d edition.  Wiley-VCH.
 
+- M. Le Bellac, F. Mortessagne, and G. G. Batrouni, 2004:  *Equilibrium and Non-Equilibrium Statistical Thermodynamics*.  Cambridge University Press.
+
 - M. Longair, 2020:  *Theoretical Concepts in Physics:  An Alternative View of Theoretical Reasoning in Physics*, 3d edition.  Cambridge University Press.
 
 - S. K. Ma, 1985:   *Statistical Mechanics*.  World Scientific.
@@ -223,9 +225,11 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - R. Peierls, 1991:  *More Surprises in Theoretical Physics*.  Princeton University Press.
 
-- L. E. Reichl, 2016:  *A Modern Course in Statistical Physics*, 4th edition.  Wiley-VCH.
+- L. E. Reichl, 2016:  *A Modern Course in Statistical Physics*, 4th edition.  Wiley-VCH.  (Original edition, 1980.)
 
 - F. Reif, 1965:  *Fundamentals of Statistical and Thermal Physics*.  McGraw-Hill Series in Fundamentals of Physics.  McGraw-Hill.
+
+- H. S. Robertson, 1993:  *Statistical Thermophysics*.  Prentice Hall.
 
 - H. G. Schuster and W. Just, 2005:  *Deterministic Chaos:  An Introduction*, 4th edition.  Wiley-VCH.
 
@@ -243,7 +247,9 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - J. R. Taylor, 2005:  *Classical Mechanics*. University Science Books.
 
-- C. Truesdell and R. A. Toupin, 1960:  The classical theory of fields.  *Handbuch der Physik*, Band III/I, ed. by S. Flugge.  Springer, pp. 226-858.
+- C. Truesdell and R. A. Toupin, 1960:  The classical theory of fields.  *Handbuch der Physik*, Band III/I, ed. by S. Flugge.  Springer, pp. 226-858.  Includes an appendix by J. L. Ericksen.
+
+- C. Van Vliet, 2008:  *Equilibrium and Non-equilibrium Statistical Mechanics*.  World Scientific.
 
 - M. T. Vaughn, 2007:  *Introduction to Mathematical Physics8.  Wiley-VCH.
 
