@@ -75,7 +75,7 @@ Historically there have many connections between fluid dynamics and nonlinear dy
 
 ### Mathematical methods 
 
-Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus and conformal mapping, as in Boas (2006).  Morse & Feshbach (1953) include a 20-page section (2.3) on the motion of fluids, but more commonly, hydrodynamics is never explicitly mentioned in the standard textbooks of today.  A recent exeption is the graduate-level text by Vaughn (2007), whose chapter on geometry in physics includes a final section (3.6) on fluid mechanics.  There he defines the Lie derivative, and shows how the continuity equation, Euler equation, and vorticity can be expressed in terms of differential forms.
+Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus and conformal mapping, as in Boas (2006).  The classic Morse & Feshbach (1953) include a 20-page section (2.3) on the motion of fluids, but more commonly, hydrodynamics is never explicitly mentioned in the standard textbooks of today.  A recent exeption is the graduate-level text by Vaughn (2007), whose chapter on geometry in physics includes a final section (3.6) on fluid mechanics.  There he defines the Lie derivative, and shows how the continuity equation, Euler equation, and vorticity can be expressed in terms of differential forms.
 
 ### Computational physics
 
@@ -103,9 +103,7 @@ Physics students are likely to encounter fluid dynamics when they take courses o
 
 Sometimes a separate course on waves is offered, and many books used for such courses cover bits of acoustics and/or surface waves on water.  Of these, Elmore and Heald (1985, ch. 3-7) has perhaps the most extensive coverage of continuum mechanics, including elastic waves in solids.   I comment further on the out-of-print classic by Crawford (1968) [here](physicscourses.md).
 
-### Other notable books
-
-The third edition of Malcolm Longair's *Theoretical Concepts in Physics* (originally published in 1984) now includes a "gentle introduction" to fluid dynamics (Ch. 9 and parts of Ch. 10).  Rudolf Peierls' *More Surprises in Theoretical Physics* includes a chapter (7) on hydrodynamics.
+Finally, the third edition of Malcolm Longair's *Theoretical Concepts in Physics* (originally published in 1984) now includes a "gentle introduction" to fluid dynamics (Ch. 9 and parts of Ch. 10).  
 
 ### A final thought
 
@@ -222,8 +220,6 @@ Physics students serious about fluids should explore the relevant courses in eng
 - T. Pang, 2006:  *An Introduction to Computational Physics*, 2d edition.  Cambridge University Press.
 
 - W. K. H. Panofsky and M. Phillips, 2005:  *Classical Electricity and Magnetism*, 2d edition.  Dover.
-
-- R. Peierls, 1991:  *More Surprises in Theoretical Physics*.  Princeton University Press.
 
 - L. E. Reichl, 2016:  *A Modern Course in Statistical Physics*, 4th edition.  Wiley-VCH.  (Original edition, 1980.)
 
