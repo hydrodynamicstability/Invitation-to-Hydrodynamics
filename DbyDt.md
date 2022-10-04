@@ -65,7 +65,7 @@ J. D. Anderson, 2002:  *Modern Compressible Flow: with Historical Perspective*, 
 
 G. K. Batchelor, 1967:  *Introduction to Fluid Dynamics*.  Cambridge University Press.
 
-R. B. Bird, W. E. Stewart, and E. N. Lightfoot, 2007: *Transport Phenomena*, revised 2d edition. Wiley.
+R. B. Bird, W. E. Stewart, and E. N. Lightfoot, 2007: *Transport Phenomena*, revised 2d edition. Wiley.  (Original edition, 1960.)
 
 G. Birkhoff, 1960:  *Hydrodynamics:  A Study in Logic, Fact and Similitude*, revised edition.  Princeton University Press.  Reprinted in the Princeton Legacy Library series.
 
