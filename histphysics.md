@@ -16,6 +16,10 @@
 
 &emsp; -- William Thomson (Lord Kelvin), letter to Sir George Gabriel Stokes, 20 Dec 1857.
 
+"\[Ludwig\] Prandtl created a revolution in fluid mechanics that was very similar to the revolution in quantum mechanics. He developed, just after the turn of the century, a mathematical ability to understand fluid mechanics. And once he did this, man, he and his students just solved all the outstanding problems. The same thing happened in quantum mechanics. Once the mathematical structure was developed, very quickly all the problems got solved."
+
+&emsp; -- John F. Clauser, 2022 Nobel Laureate in Physics, [oral history interview](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/25096) with Joan Bromberg, May2002.
+
 **Welcome.**  In the following, I present some thoughts about fluid mechanics and the history of physics, pointing in particular to some names that physicists may recognize, and others that they should.  This is a work in progress.  If you know of any errors or omissions, please contact me at (remove spaces) c t o n g "at" m a i l a p s . o r g.
 
 &emsp; -- Christopher Tong, Ph.D. (physics).
