@@ -99,7 +99,7 @@ Discussion of fluids, often with more interesting rheology than classical Hookea
 
 Most books titled *Classical Field Theory* focus exclusively on electromagnetic and gravitational fields -- indeed, these are the classical force fields.  Leonard Susskind was even more reductive when he wrote "Classical field theory means electromagnetic theory -- waves, forces on charged particles, and so on -- in the context of SR \[special relativity\]" (Susskind and Friedman, 2017).  I am no Susskind, but with all due respect, this is an astonishingly narrow perspective.
 
-Fortunately some lesser known authors take a broader view.  Setlur (2014) includes both elasticity and fluid mechanics in his chapter 4.  Nastase (2019) includes hydrodynamics in his chapters 7 and 19 (the latter chapter includes relativistic fluid dynamics).   Indeed, Truesdell and Toupin (1960) *only* considered continuum mechanics in their treatise on *The Classical Field Theories*, a narrow perspective in the opposite direction.
+Fortunately some lesser known authors take a broader view.  Setlur (2014) includes both elasticity and fluid mechanics in his chapter 4.  Nastase (2019) includes hydrodynamics in his chapters 7 and 19 (the latter chapter includes relativistic fluid dynamics).   Indeed, Truesdell and Toupin (1960) *only* considered continuum mechanics in their treatise on *The Classical Field Theories*, albeit including interactions with electromagnetic fields, but still a narrow perspective in the opposite direction.
 
 ### Other courses
 
