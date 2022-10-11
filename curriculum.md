@@ -99,7 +99,7 @@ Discussion of fluids, often with more interesting rheology than classical Hookea
 
 Most books titled *Classical Field Theory* focus exclusively on electromagnetic and gravitational fields -- indeed, these are the classical force fields.  Leonard Susskind was even more reductive when he wrote "Classical field theory means electromagnetic theory -- waves, forces on charged particles, and so on -- in the context of SR \[special relativity\]" (Susskind and Friedman, 2017).  I am no Susskind, but with all due respect, this is an astonishingly narrow perspective.
 
-Fortunately some lesser known authors take a broader view.  Setlur (2014) includes both elasticity and fluid mechanics in his chapter 4.  Nastase (2019) includes hydrodynamics in his chapters 7 and 19 (the latter chapter includes relativistic fluid dynamics).   Indeed, Truesdell and Toupin (1960) *only* considered continuum mechanics in their treatise on *The Classical Field Theories*, albeit including interactions with electromagnetic fields, but still a narrow perspective in the opposite direction.
+Fortunately some lesser known authors take a broader view.  Soper (2008) covers fluid mechanics in chapter 4, and solid mechanics in chapters 5-6, with further discussion of dissipative effects in chapter 13.  Setlur (2014) includes both elasticity and fluid mechanics in his chapter 4.  Swanson (2015) covers Newtonian fluid dynamics in his chapter 2.  Nastase (2019) includes hydrodynamics in his chapters 7 and 19 (the latter chapter includes relativistic fluid dynamics).   Indeed, Truesdell and Toupin (1960) *only* considered continuum mechanics in their treatise on *The Classical Field Theories*, albeit including interactions with electromagnetic fields, but still a narrow perspective in the opposite direction.
 
 ### Other courses
 
@@ -239,9 +239,13 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - D. L. Sidebottom, 2012:  *Fundamentals of Condensed Matter and Crystalline Physics:  An Introduction for Students of Physics and Materials Science*.  Cambridge University Press.
 
+- D. E. Soper, 2008:  *Classical Field Theory*, corrected reprint. Dover.  (Originally published, 1976.)
+
 - E. C. G. Sudarshan and N. Mukunda, 1974:  *Classical Dynamics: A Modern Perspective*. Wiley.  Reprinted in 2016 by World Scientific.
 
 - L. Susskind and A. Friedman, 2017:  *Special Relativity and Classical Field Theory*.  The Theoretical Minimum, vol. 3.  Basic Books.
+
+- M. S. Swanson, 2015:  *Classical Field Theory and the Stress-Energy Tensor*.  Morgan and Claypool/IOP.
 
 - K. R. Symon, 1971:  *Mechanics*, 3d edition.  Addison-Wesley.
 
