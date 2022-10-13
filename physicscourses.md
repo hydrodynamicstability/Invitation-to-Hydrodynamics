@@ -65,14 +65,19 @@ in Ch. 16 of *Fluid Mechanics*.
 
 The *Fluid Mechanics* volume is a favorite among physicists who work in this field.  In the preface to the second English edition, Lifshitz writes:
 
-"This book has a special place among those I had occasion to write jointly with L. D. Landau.  He gave it a part of his soul.  That branch of 
+> This book has a special place among those I had occasion to write jointly with L. D. Landau.  He gave it a part of his soul.  That branch of 
 theoretical physics, new to him at the time, caught his fancy, and in a very typical way he set about thinking through it *ab initio* and deriving 
 its basic results.   This led to a number of original papers which appeared in various journals, but several of his contributions or ideas were not 
-published elsewhere than in the book, and in some instances even his priority was not established till later."
+published elsewhere than in the book, and in some instances even his priority was not established till later.
 
 Further comments on Landau/Lifshitz' *Fluid Mechanics* are forthcoming.
 
 ### Arnold Sommerfeld
+
+"You see, one of the nice things about Sommerfeld was that he was keenly interested in Hydrodynamics and the problem of turbulence, which was not solved. I don't think it's ever been solved..."
+
+&emsp; -- Paul Peter Ewald (1888-1985), [oral history interview](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/4596-1) by Charles Wiener, 1968.
+
 
 Arnold Sommerfeld's 6-volume *Lectures on Theoretical Physics* (English translations published 1949-1956) are long out of print, though now available 
 electronically from Elsevier, and perhaps of mainly historical interest at this juncture.  These lectures, Sommerfeld said, "were confined essentially to classical physics, which, as a basis for all modern developments, must never be curtailed" (*Am. J. Phys.*, 17:  315-316).  He added, "I used to organize my own lectures in such a way that they were too easy for advanced students and too difficult for beginners."
@@ -110,7 +115,11 @@ As far as I can tell, this famous 5-volume course lacks a systematic presentatio
 
 Edward M. Purcell (Nobel in Physics, 1952) was famously interested in low Reynolds number hydrodynamics in biology, but the second edition of his *Electricity and Magnetism* (1985) mentions magnetohydrodynamics only in passing, at the end of a discussion of the change in magnetic field at a current sheet (Sec. 6.6).  Frederick Reif's *Statistical Physics* (1967) discusses fluids in the final chapter (8), defining viscosity and providing a rough approximate calculation of what it should be for a dilute gas of identical-mass and identical-speed molecules, in terms of the mean free path and molecular speed.  He provides a similar calculation for the thermal conductivity of a dilute gas.  The problems at the end of the chapter discuss a few more hydrodynamic topics (Millikan's oil drop experiment, a rotating cylinder viscometer, and Poiseuille flow).  (Reif had done research on superfluid helium, among other topics.)
 
-Frank S. Crawford's *Waves* (1968) depicts ocean waves on its cover.  Crawford was interested in acoustics, and his book discusses Newton's incorrect derivation of the speed of sound, and its modern correction (Sec. 4.2, example 2) and a few other acoustic topics (Sec. 4.4, example 10; Sec. 5.3, example 3).  In addition he discusses surface waves on water (Sec. 6.2, example 5; Sec. 7.3) including deep water and shallow water waves.
+Frank S. Crawford's *Waves* (1968) depicts ocean waves on its cover.  Crawford was interested in acoustics, and his book discusses Newton's incorrect derivation of the speed of sound, and its modern correction (Sec. 4.2, example 2) and a few other acoustic topics (Sec. 4.4, example 10; Sec. 5.3, example 3).  In addition he discusses surface waves on water (Sec. 6.2, example 5; Sec. 7.3) including deep water and shallow water waves.  About Crawford's book, Lyle Roelofs wrote:
+
+> In my opinion this is the book that displays the deepest physical insight and has the most interesting applications. It includes a large number of fascinating home experiments. Physical reasoning is favored over mathematical, to the extent that complex numbers are not even mentioned. Although this book cannot be selected for use in a course, all instructors should avail themselves of a copy to enrich their teaching.
+
+(The quote appears in Roelof's 2001 comparative review of textbooks for a vibration and waves course, *American Journal of Physics*, 69:  922-926.)
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
