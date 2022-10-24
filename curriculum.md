@@ -71,7 +71,7 @@ A minority of texts in statistical physics cover fluid flow and transport phenom
 
 What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases, and Huang (2010, ch. 20) devotes a whole chapter to it.  Again, most examples I know of are at the graduate level, such as Feynman (1998, Ch. 11), Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Halley (2007, ch. 10).  Van Vliet (2008) has a chapter (12) on quantum fluids in general.
 
-It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  
+It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  The sadly obscure thermodynamics text by Bailyn (1994) includes a discussion of fluid mechanics in part A of Chapter 5.
 
 ### Nonlinear dynamics
 
@@ -91,7 +91,7 @@ Readers of this site will appreciate the following quotation from Landau et al. 
 
 ### Condensed matter physics, soft matter physics
 
-Coverage of hydrodynamics in condensed matter physics texts is hit-or-miss, as many of the standards completely ignore the entire subject, except possibly the topic of superfluidity.  Exceptions that I know of include Chaikin & Lubensky (2000, Ch. 8) and Marder (2010, Ch. 15), both graduate level texts.  Comparing these last two books, while Marder seems to have a more in-depth discussion of superfluid Helium, Chaikin & Lubensky's treatment is substantially longer overall, and more directly pursues the unique approach of a condensed matter physicist to hydrodynamics, as opposed to the very classical continuum approach I have generally taken on this site.  At the undergraduate level, Sidebottom (2012) has a brief section on "Hydrodynamic modes in liquids" (Sec. 9.1.3).
+Coverage of hydrodynamics in condensed matter physics texts is hit-or-miss, as many of the standards completely ignore the entire subject, except possibly the topic of superfluidity.  Exceptions that I know of include Chaikin & Lubensky (2000, Ch. 8) and Marder (2010, Ch. 15), both graduate level texts.  Comparing these last two books, while Marder seems to have a more in-depth discussion of superfluid Helium, Chaikin & Lubensky's treatment is substantially longer overall, and more directly pursues the unique approach of a condensed matter physicist to hydrodynamics, as opposed to the very classical continuum approach I have generally taken on this site.  At the undergraduate level, Sidebottom (2012) has a brief section on "Hydrodynamic modes in liquids" (Sec. 9.1.3) which also discusses the Rayleigh-Brillouin spectrum.
 
 Discussion of fluids, often with more interesting rheology than classical Hookean solids and Newtonian fluids, is more common in texts with the phrase "soft matter" in their titles.  Kleman and Lavrentovich (2003)'s chapter 6 covers the hydrodynamics of both isotropic fluids and of nematic liquid crystals.  Kimmich (2012) includes a long and interesting chapter (4) on fluid dynamics, broadly interpreted; I cringe at his habit of using slashes in place of hyphens, e.g., "Navier/Stokes" and "Rayleigh/Benard".  Doi (2013) has a chapter (9) on flow and deformation of soft matter, focusing on the rheology of viscoelastic materials.  The edited volume by Fernandez-Nieves and Puerta (2016) devotes its entire first section to fluid flows, but hydrodynamic and rheological topics appear in many places in the rest of the book.  All the soft matter texts mentioned here appear to be at the graduate level.
 
@@ -120,6 +120,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - D. E. Alexander, 2009:  *Why Don't Jumbo Jets Flap Their Wings?  Flying Animals,  Flying Machines, and How They Are Different.*  Rutgers University Press.
 
 - A. P. Arya, 1997:  *Introduction to Classical Mechanics*, 2d edition.  Pearson.
+
+- M. Bailyln, 1994:  *A Survey of Thermodynamics*.  AIP Press.
 
 - A. Bettini, 2016:  *A Course in Classical Physics 2--Fluids and Thermodynamics*.  Undergraduate Lecture Notes in Physics.  Springer.
 
