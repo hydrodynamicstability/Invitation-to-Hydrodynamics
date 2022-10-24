@@ -35,7 +35,7 @@ reader. The writing style is very conversational, and readability is high (altho
 more difficult towards the end). There is no shortage of diagrams to illustrate the text; only a handful of photographs are included.
 
 Unfortunately, the book does not attempt to bring the reader to the forefront of research. Turbulence
-earns a single paragraph. Given that the transition to turbulence is considered \[one of the most\] the most important
+earns a single paragraph. Given that the transition to turbulence is considered \[one of the most\] important
 unsolved problem\[s\] in fluid dynamics, the intended reader might have benefited from more discussion. More mathematically inclined students might also appreciate a mention of the Clay
 Mathematics Prize offered for an existence and smoothness proof for solutions of the 3D Navier-Stokes equations. Finally, the book does very little to develop the thermodynamics of flow, an
 arguably fundamental aspect. Of course, one could go on and on about other missing topics and concepts, which underlines the richness and diversity of fluid dynamics. This book pushes the
