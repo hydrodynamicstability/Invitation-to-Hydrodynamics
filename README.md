@@ -75,7 +75,7 @@ Here are a few sampler dishes to see if you like it.  Effort increases as you wo
 
 - Read the first chapter of T. E. Faber's *Fluid Dynamics for Physicists* (Cambridge University Press, 1995).  Several writers have praised the first chapter, "A bird's eye view", as an overview of hydrodynamic problem solving, using the example of ejecting liquid from a syringe.  This is 36 pages of material.
 
-- Read geophysicist Grae Worster's little book, *Understanding Fluid Flow* (AIMS Library Series, Cambridge University Press, 2009).  In 100 pages you will gain a quick tour of some of the prominent ideas of the subject, and a flavor of what it's like to study it.
+- Read geophysicist Grae Worster's little book, *Understanding Fluid Flow* (AIMS Library Series, Cambridge University Press, 2009).  In 100 pages you will gain a quick tour of some of the prominent ideas of the subject, and a flavor of what it's like to study it. (In 2010 I wrote a [review](bookrev_Worster2009.md) of this book.)
 
 In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.com/) blog, which is a completely nontechnical, often whimsical take on fluid physics, run by aerospace engineer Dr. Nicole Sharp.  I recently became aware of a new nontechnical book by applied mathematician Eric Lauga, *Fluid Mechanics:  A Very Short Introduction* (Oxford University Press).  I will comment further on this book after I get my hands on it.
 
@@ -178,6 +178,10 @@ Alas, a similar panel could easily be held today, except (1) there would be wome
 - [Fluid mechanics and the history of physics](histphysics.md).
 - [An encomium for *D/Dt* notation](DbyDt.md) (tongue-in-cheek).
 
+### Relevant book reviews by yours truly
+
+- *Fluid Mechanics:  A Very Short Introduction* by Eric Lauga (2022) (forthcoming)
+- [*Understanding Fluid Flow* by Grae Worster (2009)](bookrev_Worster2009.md)
 
 ### Acknowledgments
 
