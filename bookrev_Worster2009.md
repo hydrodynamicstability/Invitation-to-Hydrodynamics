@@ -2,8 +2,7 @@
 
 
 
-Note:  This review was originally published in the newsletter of the Mathematical Association of America's Special Interest Group on Business, Industry, and Government (BIG SIGMAA), *The BIG Notebook*, volume 6, number 1, pp. 4-5 (April, 2010). 
-It is reprinted here with the gracious permission of the MAA and from the then-editor, Greg Coxson.  Edits and corrections are indicated using square brackets.  -- Christopher Tong, Ph.D. (physics)
+Note:  This review was originally published in the April, 2010, newsletter of the Mathematical Association of America's Special Interest Group on Business, Industry, and Government (BIG SIGMAA).  It is reprinted here with the gracious permission of the MAA and from the then-editor, Dr. Greg Coxson.  Edits and corrections are indicated using square brackets.  -- Christopher Tong, Ph.D. (physics)
 
 *Understanding Fluid Flow*, by M. Grae Worster (Cambridge University Press, AIMS Library Series, 2009).
 
@@ -45,6 +44,7 @@ The book is ideal for an upper level undergraduate or beginning graduate student
 course of study or research. It will also benefit more mature physicists and applied mathematicians who are new to fluid dynamics, and would like a taste of the field and a start on achieving some literacy in it. I would recommend
 this book, along with the two chapters on fluids in *The Feynman Lectures on Physics*, to any beginner.
 
+(This review was originally published in April, 2010, in *The BIG Notebook*, volume 6, number 1, pp. 4-5.) 
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
