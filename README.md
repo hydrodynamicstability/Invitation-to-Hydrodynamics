@@ -30,6 +30,7 @@
 - What is a fluid?
 - Some favorite fluid mechanics pieces in *Physics Today*
 - Companion pages
+- Relevant book reviews by yours truly
 
 ### Why should a physicist learn some fluid mechanics?
 
