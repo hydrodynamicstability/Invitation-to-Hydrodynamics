@@ -3,7 +3,7 @@
 
 
 Note:  This review was originally published in the newsletter of the Mathematical Association of America's Special Interest Group on Business, Industry, and Government (BIG SIGMAA), *The BIG Notebook*, volume 6, number 1, pp. 4-5 (April, 2010). 
-It is reprinted here with the gracious permission of the MAA and from the then-editor, Greg Coxson.  Edits and corrections are indicated using square brackets.
+It is reprinted here with the gracious permission of the MAA and from the then-editor, Greg Coxson.  Edits and corrections are indicated using square brackets.  -- Christopher Tong, Ph.D. (physics)
 
 *Understanding Fluid Flow*, by M. Grae Worster (Cambridge University Press, AIMS Library Series, 2009).
 
