@@ -67,11 +67,11 @@ The now-discarded one-fluid and two-fluid theories of electricity were of great 
 
 ### Statistical physics
 
-A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32), Huang (2010, Ch. 7), and more briefly Reif (1965, Sec. 14.5), are a few examples, but most that I know of are graduate-level texts such as Huang (1987, Ch. 5), Reichl (2016, Ch. 8-9), Robertson (1993, ch. 9), McQuarrie (2000, Ch. 16-19), Le Bellac et al. (2004, Sec. 6.3), Halley (2007, Ch. 10), and Van Vliet (2008, ch. 14).  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Kadanoff (2000) briefly discusses hydrodynamics in Sec. 5.4, which mainly focuses on diffusion.  (He presumes that students have studied hydrodynamics in an earlier course, "as part of a traditional physics education", a presumption as unlikely to be true then as it is now.)  Schwabl (2010) includes, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
+A minority of texts in statistical physics cover fluid flow and transport phenomena, usually from the perspective of kinetic theory.  At the undergraduate level Desloge (1966, Ch. 32), Huang (2010, Ch. 7), and more briefly Reif (1965, Sec. 14.5), are a few examples, but most that I know of are graduate-level texts such as Balescu (1975, ch. 12), Huang (1987, Ch. 5), Reichl (2016, Ch. 8-9), Robertson (1993, ch. 9), McQuarrie (2000, Ch. 16-19), Le Bellac et al. (2004, Sec. 6.3) , Halley (2007, Ch. 10), and Van Vliet (2008, ch. 14).  (McQuarrie was a chemist, but his book was strongly recommended to me by an experimental physicist.)  Balian (1992) covers fluid mechanics within both chapter 14, on nonequilibrium thermodynamics, and chapter 15, on kinetic equations.  Kadanoff (2000) briefly discusses hydrodynamics in Sec. 5.4, which mainly focuses on diffusion.  (He presumes that students have studied hydrodynamics in an earlier course, "as part of a traditional physics education", a presumption as unlikely to be true then as it is now.)  Schwabl (2010) includes, in his Appendix H, a "microscopic derivation of the linear hydrodynamic equations", by which he seems to mean diffusion equations.  
 
 What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases, and Huang (2010, ch. 20) devotes a whole chapter to it.  Again, most examples I know of are at the graduate level, such as Feynman (1998, Ch. 11), Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Halley (2007, ch. 10).  Van Vliet (2008) has a chapter (12) on quantum fluids in general.
 
-It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  The sadly obscure thermodynamics text by Bailyn (1994) includes a discussion of fluid mechanics in part A of Chapter 5.
+It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  The (unfortunately obscure) thermodynamics text by Bailyn (1994) includes a discussion of fluid mechanics in part A of Chapter 5.  
 
 ### Nonlinear dynamics
 
@@ -122,6 +122,10 @@ Physics students serious about fluids should explore the relevant courses in eng
 - A. P. Arya, 1997:  *Introduction to Classical Mechanics*, 2d edition.  Pearson.
 
 - M. Bailyln, 1994:  *A Survey of Thermodynamics*.  AIP Press.
+
+- R. Balescu, 1975:  *Equilibrium and Non-Equilibrium Statistical Mechanics*.  Wiley.
+
+- R. Balian, 1992:  *From Microphysics to Macrophysics:  Methods and Applications of Statistical Physics*, vol. 2.  Translated by Dirk ter Haar.  Springer Texts and Monographs in Physics.  Original French edition, 1982; reprinted in Springer's Theoretical and Mathematical Physics series, 2007.
 
 - A. Bettini, 2016:  *A Course in Classical Physics 2--Fluids and Thermodynamics*.  Undergraduate Lecture Notes in Physics.  Springer.
 
