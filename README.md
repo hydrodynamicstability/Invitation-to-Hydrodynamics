@@ -69,7 +69,7 @@ Jerry Gollub (*Physics Today*, Dec. 2003, pp. 10-11) noted many of the reasons a
 
 Here are a few sampler dishes to see if you like it.  Effort increases as you work your way down the list.
 
-- Watch this 46-minute video lecture, [Why Hydrodynamics?](https://podcasts.ox.ac.uk/why-hydrodynamics) by Prof. Steve Simon, a condensed matter theorist at Oxford University.  It's a nontechnical talk aimed at fellow physicists.  Examples from astrophysics (the solar corona; the interstellar medium; the motion of stars near galactic nuclei), atomic physics (cold trapped atoms), condensed matter (electron flow in delafossites; electron-hole plasma in graphenes), and high energy physics (quark-gluon plasma) are discussed, though curiously not superfluids.
+- Watch this 46-minute video lecture, [Why Hydrodynamics?](https://podcasts.ox.ac.uk/why-hydrodynamics) by Prof. Steve Simon, a condensed matter theorist at Oxford University.  It's a nontechnical talk aimed at fellow physicists.  Examples from astrophysics (the solar corona; the interstellar medium; the motion of stars near galactic nuclei), atomic physics (cold trapped atoms), condensed matter (electron flow in delafossites; electron-hole plasma in graphenes), and high energy physics (quark-gluon plasma) are discussed, though curiously superfluids are not mentioned.
  
 - Read the fluid mechanics chapters (vol. 2, ch. 40-41) of the [Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/), to find out what Richard Feynman wanted every physics undergraduate to know about fluid mechanics.  This is about 24 pages of material.
 
@@ -77,7 +77,10 @@ Here are a few sampler dishes to see if you like it.  Effort increases as you wo
 
 - Read geophysicist Grae Worster's little book, *Understanding Fluid Flow* (AIMS Library Series, Cambridge University Press, 2009).  In 100 pages you will gain a quick tour of some of the prominent ideas of the subject, and a flavor of what it's like to study it. (In 2010 I wrote a [review](bookrev_Worster2009.md) of this book.)
 
-In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.com/) blog, which is a completely nontechnical, often whimsical take on fluid physics, run by aerospace engineer Dr. Nicole Sharp.  I recently became aware of a new nontechnical book by applied mathematician Eric Lauga, *Fluid Mechanics:  A Very Short Introduction* (Oxford University Press).  I will comment further on this book after I get my hands on it.
+A book by an applied mathematician, Eric Lauga, *Fluid Mechanics:  A Very Short Introduction* (Oxford University Press, 2022) has recently been published.  While longer than the others mentioned above (about 140 pages), its technical level is lower than any of them.  It can be read by anyone comfortable with the first semester of introductory physics; no math beyond high school algebra is needed.
+
+In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.com/) blog, which is a completely nontechnical, often whimsical take on fluid physics, run by aerospace engineer Dr. Nicole Sharp.  
+
 
 ### Convinced, and ready to take the plunge?
 
