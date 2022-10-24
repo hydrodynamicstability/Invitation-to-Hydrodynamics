@@ -4,7 +4,7 @@
 
 Note:  This review was originally published in the April, 2010, newsletter of the Mathematical Association of America's Special Interest Group on Business, Industry, and Government (BIG SIGMAA).  It is reprinted here with the gracious permission of the MAA and from the then-editor, Dr. Greg Coxson.  Edits and corrections are indicated using square brackets.  -- Christopher Tong, Ph.D. (physics)
 
-*Understanding Fluid Flow*, by M. Grae Worster (Cambridge University Press, AIMS Library Series, 2009).
+*Understanding Fluid Flow*, by M. Grae Worster (Cambridge University Press, AIMS Library Series, 2009).  Reviewed by Christopher Tong.
 
 Wouldn't it be nice if, before a student embarks on a course on fluid dynamics, he or she has the
 opportunity to tour the subject and get a flavor of what it will be like to study it? This brief, informal
