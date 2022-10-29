@@ -191,6 +191,8 @@ Alas, a similar panel could easily be held today, except (1) there would be wome
 
 I am grateful to Dr. Linda St-Cyr for providing feedback on this site.
 
+During the construction of this site, I consulted the libraries of Iowa State University, the University of Nevada - Reno, the University of California - Davis, and the University of Utah.
+
 #### Disclaimers
 
 The content on this site was developed solely on my personal time.  The views expressed are solely my own, and do not necessarily represent the views, policies, or opinions of my employer or any organization with which I am affiliated.
