@@ -78,7 +78,7 @@ Here are a few sampler dishes to see if you like it.  Effort increases as you wo
 
 - Read geophysicist Grae Worster's little book, *Understanding Fluid Flow* (AIMS Library Series, Cambridge University Press, 2009).  In 100 pages you will gain a quick tour of some of the prominent ideas of the subject, and a flavor of what it's like to study it. (In 2010 I wrote a [review](bookrev_Worster2009.md) of this book.)
 
-A book by an applied mathematician, Eric Lauga, *Fluid Mechanics:  A Very Short Introduction* (Oxford University Press, 2022) has recently been published.  While longer than the others mentioned above (about 140 pages), its technical level is lower than any of them.  It can be read by anyone comfortable with the first semester of introductory physics; no math beyond high school algebra is needed.
+A book by an applied mathematician, Eric Lauga, *Fluid Mechanics:  A Very Short Introduction* (Oxford University Press, 2022) has recently been published.  While longer than the others mentioned above (about 140 small pages), its technical level is lower than any of them.  It can be read by anyone comfortable with the first semester of introductory physics; no math beyond high school algebra is needed.  See my [review](bookrev_Lauga2022.md) for details.
 
 In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.com/) blog, which is a completely nontechnical, often whimsical take on fluid physics, run by aerospace engineer Dr. Nicole Sharp.  
 
@@ -184,7 +184,7 @@ Alas, a similar panel could easily be held today, except (1) there would be wome
 
 ### Relevant book reviews by yours truly
 
-- *Fluid Mechanics:  A Very Short Introduction* by Eric Lauga (2022) (forthcoming)
+- [*Fluid Mechanics:  A Very Short Introduction* by Eric Lauga (2022)](bookrev_Lauga2022.md)
 - [*Understanding Fluid Flow* by Grae Worster (2009)](bookrev_Worster2009.md)
 
 ### Acknowledgments
