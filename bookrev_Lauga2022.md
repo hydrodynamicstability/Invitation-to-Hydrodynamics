@@ -15,8 +15,7 @@ this book may be read by anyone with a working knowledge of the first semester o
 Newton's laws of motion, force balance, and mechanical energy conservation, for example.  All calculations are at a high-school algebra level, and 
 calculus is stated to be beyond the scope of the book.  
 
-Lauga's book is limited by the format of the *Very Short Introductions* series:   the 140-or-so pages are small, but illustrations are plentiful.  
-The small size helps make the book friendly, of course.  Though it is probably more mathematical than most *VSI*s, it is as readable as the best of 
+Lauga's book is limited by the format of the *Very Short Introductions* series:   the 140-or-so pages are small, but illustrations are plentiful.  The small size helps make the book friendly, of course.  Though it is probably more mathematical than most *VSI*s, it is as readable as the best of 
 them, in my opinion.  Good writing is essential for a book of this type, and the author doesn't disappoint.
 
 The first chapter outlines the macroscopic, continuum approach taken in the book, and covers hydrostatics, surface tension, and wetting.  The second 
