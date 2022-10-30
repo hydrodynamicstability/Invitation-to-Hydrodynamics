@@ -16,6 +16,10 @@
 
 &emsp; -- William Thomson (Lord Kelvin), letter to Sir George Gabriel Stokes, 20 Dec 1857.
 
+"Werner Heisenberg's dissertation was 'On the Stability and Turbulence of Fluid Flow'.  He was disappointed with his progress and was glad to change to a more tractable problem."
+
+&emsp; -- Kip S. Thorne and Roger D. Blandford, *Modern Classical Physics* (2017), Sec. 15.1.
+
 "\[Ludwig\] Prandtl created a revolution in fluid mechanics that was very similar to the revolution in quantum mechanics. He developed, just after the turn of the century, a mathematical ability to understand fluid mechanics. And once he did this, man, he and his students just solved all the outstanding problems. The same thing happened in quantum mechanics. Once the mathematical structure was developed, very quickly all the problems got solved."
 
 &emsp; -- John F. Clauser, 2022 Nobel Laureate in Physics, [oral history interview](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/25096) with Joan Bromberg, May 2002.
@@ -103,7 +107,7 @@ Using a fallacious argument based on the Venturi effect, Albert Einstein (1879-1
 
 - A. Einstein, 1916:  Elementare theorie der wasserwellen und des fluges.  *Die Naturwissenschaften*, 4:  509-510.
 
-In Einstein's defense, his discussion of the "teacup effect" (where loose tea leaves tend to gather at the center of the cup after stirring) is generally thought to be sound.  It appears in a paper discussing the meadering of rivers and Baer's Law.
+In Einstein's defense, his discussion of the "teacup effect" (where loose tea leaves tend to gather at the center of the cup after stirring) is generally thought to be sound.  It appears in a paper discussing the meadering of rivers and Baer's Law.  (Kip Thorne and Roger Blandford, in their *Modern Classical Physics*, treat the teacup effect using Ekman boundary layer theory; see their Exercise 14.22.)
 
 - A. Einstein, 1926:  Die ursache der maanderbildung der flusslaufe und des sogenannten Baerschen Gesetzes. *Naturwissenschaften*, 14, 223–224. 
 
@@ -159,7 +163,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | 1978 | Pyotr L. Kapitsa | Superfluid liquid helium-4 |
 | 1979 | Steven Weinberg | Relativistic hydrodynamics, e.g., Weinberg, 1971. |
 | 1983 | Subramanyan Chandrasekhar | Hydrodynamic and magnetohydrodynamic instabilities; chaired APS-DFD in 1955. |
-| 1991 | Pierre-Gilles DeGennes | Liquid crystals. |
+| 1991 | Pierre-Gilles DeGennes | Liquid crystals; capillarity and wetting. |
 | 1996 | David Lee, Douglas Osheroff, and Robert Richardson | Superfluid liquid helium-3|
 | 1998 | Robert B. Laughlin, Horst L. Stormer, and Daniel C. Tsui | Fractional quantum hall effect in a quantum fluid. |
 | 1999 (Chemistry) | Ahmed H. Zewail | Nanofluidics of molten lead in a single zinc oxide nanotube (Lorenz & Zewail, 2014). |
