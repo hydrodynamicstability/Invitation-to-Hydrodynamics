@@ -46,6 +46,8 @@ from laminar to steady flow, then to periodic flow (Benard-Karman vortex sheddin
 briefly discusses the zero viscosity limit, then returns to Couette-Taylor flow to discuss the regime changes in that problem.  Feynman ends with 
 some big-picture discussion of how simple equations can generate complex behavior.
 
+In his comments at the 2022 [*Boulder School for Condensed Matter and Materials Physics*](https://boulderschool.yale.edu/2022/boulder-school-2022), Royce Zia reminds us that [Feynman's blackboard](https://doi.org/10.1063/1.2810904), at the time of his death, had a list of topics "to learn", including "Non linear classical hydro\[dynamics\]".
+
 ### Landau and Lifshitz
 
 Lev D. Landau and Evgenii M. Lifshitz's 10-volume *Course of Theoretical Physics* is on the opposite end of the *Feynman Lectures*, best used by graduate 
