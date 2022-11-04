@@ -91,7 +91,6 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
     - A French astrophysicist's presentation of fluid dynamics; includes chapters on magnetohydrodynamics and kinetic theory.  Provides solutions to exercises.
 
 - Emmanuil G. Sinaiski, 2011:  *Hydromechanics:  Theory and Fundamentals*.  Translated by Moritz Braun.  Wiley-VCH.
-
     - The author has a Ph.D. in mathematics and physics, and a Dr. Eng. Sci. in petroleum engineering, from Russian universities.  The book is based on lectures he gave at the Gubkin State University of Oil and Gas, Moscow.  This book emphasizes the continuum mechanics foundations of fluid mechanics, and includes extensive mathematical appendices on vector and tensor analysis, differential geometry, probability theory, and complex analysis.  No exercises are included.
 
 - David J. Tritton, 1988: *Physical Fluid Dynamics*, 2d edition. Oxford University Press.  (Original edition, 1977.)
@@ -141,10 +140,9 @@ As a point of personal privilege, I want to include a few other titles on a more
     - A foundational monograph on the thermodynamics of irreversible processes.  Many authors in the nonequilbrium statistical physics literature cite DeGroot & Mazur as a source for hydrodynamics.  DeGroot (1916-1994) was a Danish theorist, and Mazur (1922-2001) was of Austrian extraction; both worked in the Netherlands.
 
 - Phuong Mai Dinh, Jesus Navarro, and Eric Suraud, 2018:  *An Introduction to Quantum Fluids*.  CRC Press.
-    - It turns out that the topic of quantum fluids is more general than just superfluids.  This book adopts a fairly wide perspective, including electron fluids, the nucleus (including the liquid drop model), and high density fluids (white dwarfs, neutron stars, and quark-gluon plasma).  I have emphasized classical fluids on this site, but at least one book on quantum fluids should be mentioned here.  (Natrually there are a number of more specific books on superfluids and Bose-Einstein condensates, which I have not attempted to enumerate.)
+    - It turns out that the topic of quantum fluids is more general than just superfluids.  This book adopts a fairly wide perspective, including electron fluids, the nucleus (including the liquid drop model), and high density fluids (white dwarfs, neutron stars, and quark-gluon plasma).  I have emphasized classical fluids on this site, but at least one book on quantum fluids should be mentioned here.  (Naturally there are a number of more specific books on superfluids and Bose-Einstein condensates, which I have not attempted to enumerate.)
 
 - Samuel A. Elder and Jerome Williams, 1996:  *Fluid Physics for Oceanographers and Physicists:  An Introduction to Incompressible Flow*, 2d edition.  Butterworth Heinemann.
-
     - Derived from a course taught in the physics department at the U.S. Naval Academy, offered to physical oceanography, dynamic meteorology, and physics majors, this book has a definite geophysical leaning.  The authors' own comments on the book are worth noting:  "The most appreciative audience for a book of this type has proven to be among undergraduate students in oceanography, geology, biology and other environmental sciences, who tend to lack a rigorous background in math and physics. Our text is less demanding, mathematically, than most other fluid mechanics texts on the market, though it covers essentially all the basic equations of incompressible flow.  Furthermore, because it is short, the book can be priced attractively."  For these reasons I have not included this book in the main lists above, though it deserves mention here for completeness' sake.
 
 - Uriel Frisch, 1995:  *Turbulence:  The Legacy of A. N. Kolmogorov*. Cambridge University Press.
@@ -160,12 +158,13 @@ As a point of personal privilege, I want to include a few other titles on a more
     - Focuses on wave phenomena in various classical media:  strings, membranes, rods, plates, elastic media, incompressible fluids, sound in fluids, and applictions in acoustics and geophysics, oceanography, and meteorology.  The final chapter delves into a range of special topics such as statistical physics, electron "hydrodynamics" in superconductivity, and liquid helium.  Lindsay (1900-1985) was an American theorist particularly active in acoustics.
 
 - Hans J. Lugt, 1983:  *Vortex Flow in Nature and Technology*.  Wiley-Interscience.  (Original German edition, 1979.  English edition reprinted by Krieger, 1995.) \[Out of print\]
-    - A surprisingly nontechnical exposition of vortex flow, a central concept in hydrodynamics.  Packed with illustrations, it would make an excellent introduction to hydrodynamics for a student who hasn't yet mastered vector calculus, yet the book can also grip the attention of a seasoned physicist.  This book deserves to be better known in the fluid mechanics community.  Lugt is a German physicist who worked at the U.S. Navy's David Taylor Model Basin.
+    - A surprisingly nontechnical exposition of vortex flow, a central concept in hydrodynamics.  Packed with illustrations, it would make an excellent introduction to hydrodynamics for a student who hasn't yet mastered vector calculus, yet the book can also grip the attention of a seasoned physicist.  This book deserves to be better known in the fluid mechanics community.  Lugt is a German physicist who worked at the U.S. Navy's David Taylor Model Basin.  Unfortunately the book received a blisteringly negative review from Bruce Morton in the *Journal of Fluid Mechanics*, mainly due to the "superficial" approach.
+        - B. Morton, *JFM*, 143:  468-470.
 
 - Grigory Vekstein, 2013:  *Physics of Continuous Media:  Problems and Solutions in Electromagnetism, Fluid Mechanics, and MHD*, 2d edition.  CRC Press.
     - Includes electrodynamics in addition to fluid mechanics, magnetohydrodynamics, and elasticity.  Unfortunately the author, a solar and plasma physicist, passed away in 2021, a victim of COVID.
 
-Finally, having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can't fail to mention three other Nobel laureates in physics:
+Having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can't fail to mention three other Nobel laureates in physics:
 
 - Hannes Alfven, 1950: *Cosmical Electrodynamics*. International Series of Monographs on Physics.  Oxford University Press.  
     - Alfven (1908-1995) is the founder of modern magnetohydrodynamics, a topic he covers in this book.  Alven won the 1970 Nobel Prize in Physics for his contributions to plasma physics.  A second edition in 1963, co-authored with Carl-Gunne Falthammar, was subtitled *Fundamental Principles*.
