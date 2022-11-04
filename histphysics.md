@@ -146,7 +146,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | 1913 | Heike Kamerlingh Onnes | Experiments on liquid helium |
 | 1918 | Max Planck | Wrote *Mechanics of Deformable Bodies* (second volume of his *Introduction to Theoretical Physics*). |
 | 1921 | Albert Einstein | Doctoral dissertation in part on viscosity of solutions with added sugar; teacup effect; "Cat's back" aerofoil (Einstein's folly - see above). |
-| 1922 | Niels Bohr | Developed Gamow's liquid drop model of the nucleus. |
+| 1922 | Niels Bohr | Chain oscillations in liquid jets (Bohr, 1909); developed Gamow's liquid drop model of the nucleus. |
 |1923 | Robert A. Millikan | Oil drop experiment requires use of Stokes formula for drag force on a slowly falling sphere |
 | 1932 | Werner Heisenberg | Doctoral dissertation under Sommerfeld on transition to turbulence in Poiseuille flow.  Worked with with C. F. von Weizsacker on liquid drop model of the nucelus, and turbulence scaling law (similar to Kolmogorov-Obukhov's). |
 | 1932 (Chemistry) | Irving Langmuir | Discovered Langmuir circulation in the Sargasso Sea. |
@@ -182,6 +182,8 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 - J. D. Anderson, Jr., 1997:  *A History of Aerodynamics*.  Cambridge University Press.
 
 - D. Bloor, 2011:  *The Enigma of the Aerofoil:  Rival Theories in Aerodynamics, 1909-1930*.  University of Chicago Press.
+
+- N. Bohr, 1909:  Determination of the surface tension of water by the method of jet vibration.  *Philosophical Transactions of the Royal Society*, A209:  441-458.
 
 - A. Calaprice, D. Kennefick, and R. Schulmann, 2015:  *An Einstein Encyclopedia*.  Princeton University Press.
 
