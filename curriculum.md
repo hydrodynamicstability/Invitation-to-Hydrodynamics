@@ -81,7 +81,7 @@ Historically there have many connections between fluid dynamics and nonlinear dy
 
 ### Mathematical methods 
 
-Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus and conformal mapping, as in Boas (2006).  The classic Morse & Feshbach (1953) include a 20-page section (2.3) on the motion of fluids, but more commonly, hydrodynamics is never explicitly mentioned in the standard textbooks of today.  A recent exeption is the graduate-level text by Vaughn (2007), whose chapter on geometry in physics includes a final section (3.6) on fluid mechanics.  There he defines the Lie derivative, and shows how the continuity equation, Euler equation, and vorticity can be expressed in terms of differential forms.
+Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus and conformal mapping, as in Boas (2006).  The classic Morse & Feshbach (1953) include a 20-page section (2.3) on the motion of fluids, but more commonly, hydrodynamics is never explicitly mentioned in the standard textbooks of today.  A recent exception is the graduate-level text by Vaughn (2007), whose chapter on geometry in physics includes a final section (3.6) on fluid mechanics.  There he defines the Lie derivative, and shows how the continuity equation, Euler equation, and vorticity can be expressed in terms of differential forms.
 
 ### Computational physics
 
@@ -123,7 +123,7 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - A. P. Arya, 1997:  *Introduction to Classical Mechanics*, 2d edition.  Pearson.
 
-- M. Bailyln, 1994:  *A Survey of Thermodynamics*.  AIP Press.
+- M. Bailyn, 1994:  *A Survey of Thermodynamics*.  AIP Press.
 
 - R. Balescu, 1975:  *Equilibrium and Non-Equilibrium Statistical Mechanics*.  Wiley.
 
