@@ -19,7 +19,9 @@
 &emsp; &emsp; &emsp; \*\*\* *Physics Today*, July 2022, p. 53.
 
 
-**Welcome.**  This site aims to outline why a physicist should learn a little bit of fluid mechanics, and how to get started doing so.   It exists because the subject is usually completely neglected in the standard physics curriculum.  The site is currently under construction; thank you for your patience.  To further develop this site, comments and collaboration from others (physicists or otherwise) is welcome.  We physicists have a checkered track record in teaching hydrodynamics, as sadly documented elsewhere on this site, so please share suggestions for improvement of this site.  Like T. E. Faber, I am but an "enthusiastic amateur" in this arena, though a highly opinionated one, so constructive criticism is always and humbly welcome.
+**Welcome.**  This site aims to outline why a physicist should learn a little bit of fluid mechanics, and how to get started doing so.   It exists because the subject is usually completely neglected in the standard physics curriculum.  I hope that this site will be useful to undergraduate physics majors as well as physicists at any later stage of their career.
+
+The site is currently under construction; thank you for your patience.  To further develop this site, comments and collaboration from others (physicists or otherwise) is welcome.  We physicists have a checkered track record in teaching hydrodynamics, as sadly documented elsewhere on this site, so please share suggestions for improvement of this site.  Like T. E. Faber, I am but an "enthusiastic amateur" in this arena, though a highly opinionated one, so constructive criticism is always and humbly welcome.
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
 **Outline:**
@@ -78,6 +80,7 @@ Here are a few sampler dishes to see if you like it.  Effort increases as you wo
 
 - Read geophysicist Grae Worster's little book, *Understanding Fluid Flow* (AIMS Library Series, Cambridge University Press, 2009).  In 100 pages you will gain a quick tour of some of the prominent ideas of the subject, and a flavor of what it's like to study it. (In 2010 I wrote a [review](bookrev_Worster2009.md) of this book.)
 
+The last two on the list require some facility with vector calculus and diffferential equations (especially Worster); I recommend them for those who have already taken an intermediate electromagnetism course along the lines of Griffiths' *Introduction to Electrodynamics*.  (In the *Feynman Lectures* Richard Feynman also recommended studying hydrodynamics *after* studying electrodynamics.)  For those who haven't yet taken intermediate E&M, there is another resource.
 A book by an applied mathematician, Eric Lauga, *Fluid Mechanics:  A Very Short Introduction* (Oxford University Press, 2022) has recently been published.  While longer than the others mentioned above (about 140 small pages), its technical level is lower than any of them.  It can be read by anyone comfortable with the first semester of introductory physics; no math beyond high school algebra is needed.  See my [review](bookrev_Lauga2022.md) for details.
 
 In addition, check out the [F\*ck Yeah Fluid Dynamics](https://fyfluiddynamics.com/) blog, which is a completely nontechnical, often whimsical take on fluid physics, run by aerospace engineer Dr. Nicole Sharp.  
