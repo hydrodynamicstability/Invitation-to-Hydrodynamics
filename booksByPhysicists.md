@@ -6,6 +6,10 @@
 
 &emsp; &emsp; &emsp; \*   *Chemical Engineering Science*, 15:  332-333 (1961).
 
+"If you are not confused, you are not paying attention."
+
+&emsp; -- Gregory Falkovich, *Fluid Mechanics*, 2/e, p. 112.
+
 
 I have listed all the books on continuum, fluid, and solid mechanics written by physicists (or astronomers) of an introductory or general nature that I know of.  I've confined the scope of this list to include works published after the Second World War and available in the English language.  
 
@@ -53,7 +57,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
         - P. F. Linden, *JFM*, 325:  440-441.
 
 - Gregory Falkovich, 2018:  *Fluid Mechanics*, second edition. Cambridge University Press.  Original edition, 2011, subtitled *A Short Course for Physicists*.
-    - Written by an Israeli theoretical physicist, this very short yet demanding book attempts to teach "the minimum of what every physicist, engineer and mathematician needs to know about hydrodynamics."  He expects readers to "master the basic elements" in "about two intense weeks".  Solutions to exercises are provided in the back; these usually begin with a qualitative discussion followed by a "sketch of the theory".  A [supporting website](https://www.weizmann.ac.il/complex/falkovich/fluid-mechanics) is maintained by the author.  Intended for both undergraduates and grad students, be aware that in places it makes use of complex variables (e.g., Sec. 1.2.4) and Hamiltonian mechanics (Sec. 1.3.4).  I find Falkovich to be almost uniquely insightful, but would not suggest it as a student's very first text on the subject.  I've also found that the readability of the book can be improved by watching a recording of his lectures, based on the book, which he has linked on his website.  I know of two (very positive) reviews of the first edition:
+    - Written by an Israeli theoretical physicist, this very short (~200 pages) yet demanding book attempts to teach "the minimum of what every physicist, engineer and mathematician needs to know about hydrodynamics."  He expects readers to "master the basic elements" in "about two intense weeks".  Solutions to exercises are provided in the back; these usually begin with a qualitative discussion followed by a "sketch of the theory".  A [supporting website](https://www.weizmann.ac.il/complex/falkovich/fluid-mechanics) is maintained by the author.  Intended for both undergraduates and grad students, be aware that in places it makes use of complex variables (e.g., Sec. 1.2.4) and Hamiltonian mechanics (Sec. 1.3.4).  The third and final chapter, on dispersive waves, uses analogies (conceptual and methodological) with quantum theory, "since quantum physics is to a large extent a wave physics".  The author concedes this is done in "the perverse manner of people who learnt quantum mechanics before fluid mechanics".   I find Falkovich to be almost uniquely insightful, but would *not* suggest it as a student's very first text on the subject.  I've also found that the readability of the book can be improved by watching a recording of his lectures, based on the book, which he has linked on his website.  (Honestly, watching his 2022 Boulder Summer School lectures was the only way I could fully digest the first chapter.)  I know of two (very positive) reviews of the first edition:
         - Salvatore Esposito, 2012.  *Contemporary Physics*, 53 (3):  277-278.
         - Shreyas Mandre, 2013.  *Pure and Applied Geophysics*, 170:  489-490.
     
