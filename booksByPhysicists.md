@@ -8,7 +8,7 @@
 
 "If you are not confused, you are not paying attention."
 
-&emsp; -- Gregory Falkovich, *Fluid Mechanics*, 2/e, p. 112.
+&emsp; -- [Gregory Falkovich](https://www.weizmann.ac.il/complex/falkovich/home), *Fluid Mechanics*, 2/e, p. 112.
 
 
 I have listed all the books on continuum, fluid, and solid mechanics written by physicists (or astronomers) of an introductory or general nature that I know of.  I've confined the scope of this list to include works published after the Second World War and available in the English language.  
