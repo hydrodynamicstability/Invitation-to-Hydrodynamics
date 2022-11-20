@@ -83,6 +83,10 @@ Historically there have many connections between fluid dynamics and nonlinear dy
 
 Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus and conformal mapping, as in Boas (2006).  The classic Morse & Feshbach (1953) include a 20-page section (2.3) on the motion of fluids, but more commonly, hydrodynamics is never explicitly mentioned in the standard textbooks of today.  A recent exception is the graduate-level text by Vaughn (2007), whose chapter on geometry in physics includes a final section (3.6) on fluid mechanics.  There he defines the Lie derivative, and shows how the continuity equation, Euler equation, and vorticity can be expressed in terms of differential forms.
 
+Morse & Feshbach (1953) are worth further discussion.  In the aforementionned Sec. 2.3, they derive the continuity, Euler, and Navier-Stokes equations (but refuse to name the latter two), discuss potential flow, irrotational flow, Bernoulli's equation, compressible flow, and shock waves.  Sec. 3.3 includes further discussion of potential flow and sound waves.  Other fluid flow problems are addressed in chapters 10 and 13.
+
+The classic by Jeffries/Jeffries (1972) is also worth mentioning.  They discuss applications to hydrodynamics of tensors (Sec. 3.10, 3.1062, 3.1063), potential theory (Sec. 6.01), and conformal mapping (Sec. 13.03).  They also include discussions of the dispersion of water waves (Sec. 17.09) and Rayleigh-Benard convection (Sec. 14.062), the latter being a subject to which Harold Jeffries made early key research contributions.
+
 ### Computational physics
 
 Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Notable exceptions that I know of include Pang (2006, ch. 9) and various works by Rubin Landau and collaborators (Landau et al., 2008, ch. 19; Landau et al., 2015, ch. 24-25; Landau and Paez, 2018, ch. 4).  A hydrodynamics problem (steady state flow in 2D) is given as a project for the chapter on elliptic PDEs in Koonin (1986, ch. 6), updated as Koonin & Meredith (1990).  A discussion of lattice gas models of fluid flow is included in Gould et al. (2016, sec. 14.6).  Fluid dynamics are only briefly mentioned in Franklin (2013, Sec. 5.1.5).
@@ -193,6 +197,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - J. D. Jackson, 1999: *Classical Electrodynamics*, 3d edition. Wiley.
 
+- Harold and Bertha Swirles Jeffries, 1972:  *Methods of Mathematical Physics*, third edition.  Cambridge University Press.  Originally published, 1946; reprinted, 2001.
+
 - J. V. Jose and E. J. Saletan, 1998:  *Classical Dynamics: A Contemporary Approach*. Cambridge University Press.
 
 - R. Kimmich, 2012:  *Principles of Soft-Matter Dynamics:  Basic Theories, Non-invasive Methods, Mesoscopic Aspects*.  Springer.
@@ -227,7 +233,7 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - F. Melia, 2001:  *Electrodynamics*.  Chicago Lectures in Physics.  University of Chicago Press.
 
-- P. M. Morse and H. Feshbach, 1953:  *Methods of Theoretical Physics*, Part 1.  McGraw-Hill.
+- P. M. Morse and H. Feshbach, 1953:  *Methods of Theoretical Physics*, Parts 1-2.  McGraw-Hill.
 
 - H. Nastase, 2019:  *Classical Field Theory*.  Cambridge University Press.
 
