@@ -49,7 +49,7 @@ These problems are meant to be solved using Bernoulli's equation for streamlines
 
 ### Classical mechanics
 
-When I was an undergraduate in the early 1990s, most intermediate mechanics texts omitted fluids entirely.  Symon (1971, Ch. 8) and Arya (1997, Ch. 15) were two exceptions, both including a chapter on the mechanics of continuous media, consisting of vibrations on strings as well as fluid dynamics and sound waves.  Of these, Symon is a little more thorough, also discusssing the Cauchy stress tensor in Sec. 10.6.  Arya includes a qualitative discussion of the role of the Coriolis force in weather patterns (Sec. 11.6).  Both derive the continuity and Euler equations, Bernoulli's principle (Symon's treatment being a tad more general than Arya's), and discuss Poiseuille flow and the Reynolds number, but not the Navier-Stokes equation.  They also both discuss vorticity without naming it so.  🙄  The old text by Slater and Frank (1947) has similar coverage, though they do get to the Navier-Stokes equation (without naming it) but not the Reynolds number.  I find their treatment to be too formal, and lacking in intuition-building.  My actual course text was the typo-ridden Davis (1986), which doesn't get as far as the three books just discussed, but even this is superior to the majority of books at the time which omitted fluids entirely.  Corben and Stehle (1994, Sec. 81) also devote less space to fluid dynamics, but at least they include the Navier-Stokes equations as a "special application".  Fowles & Cassiday (2005) include a section (2.4) on "Velocity-dependent forces:  fluid resistance and terminal velocity", which considers a drag force that has linear and quadratic terms in velocity.  They do not derive the general equations of fluid motion.
+When I was an undergraduate in the early 1990s, most intermediate mechanics texts omitted fluids entirely.  Symon (1971, Ch. 8) and Arya (1998, Ch. 15) were two exceptions, both including a chapter on the mechanics of continuous media, consisting of vibrations on strings as well as fluid dynamics and sound waves.  Of these, Symon is a little more thorough, also discusssing the Cauchy stress tensor in Sec. 10.6.  Arya includes a qualitative discussion of the role of the Coriolis force in weather patterns (Sec. 11.6).  Both derive the continuity and Euler equations, Bernoulli's principle (Symon's treatment being a tad more general than Arya's), and discuss Poiseuille flow and the Reynolds number, but not the Navier-Stokes equation.  They also both discuss vorticity without naming it so.  🙄  The old text by Slater and Frank (1947) has similar coverage, though they do get to the Navier-Stokes equation (without naming it) but not the Reynolds number.  I find their treatment to be too formal, and lacking in intuition-building.  My actual course text was the typo-ridden Davis (1986), which doesn't get as far as the three books just discussed, but even this is superior to the majority of books at the time which omitted fluids entirely.  Corben and Stehle (1994, Sec. 81) also devote less space to fluid dynamics, but at least they include the Navier-Stokes equations as a "special application".  Fowles & Cassiday (2005) include a section (2.4) on "Velocity-dependent forces:  fluid resistance and terminal velocity", which considers a drag force that has linear and quadratic terms in velocity.  They do not derive the general equations of fluid motion.
 
 At the graduate level, the texts of Fetter &  Walecka (1980) and Jose & Saletan (1998, Sec. 9.5) are notable examples that include fluid dynamics.  Fetter & Walecka are particularly praiseworthy for celebrating the whole of continuum mechanics in the entire second half of their book (Ch. 7-13); Jose & Saletan's Chapter 9 is similarly devoted to continuum mechanics.  Focusing on the fluids coverage, both books derive the basic field equations (contuinuity, and Euler and Navier-Stokes) and discuss surface waves; Fetter and Walecka also cover sound and shock waves; while Jose and Saletan include the Burgers and KdV equations.  Otherwise, graduate-level mechanics books touch on fluid flow only as an analogy with the Liouville theorem (e.g., Goldstein, et al, 2001; Hand and Finch, 1998).  Uniquely among such texts, Appendix 2 of the classic Arnol'd (1989) discusses the formal correspondence between the Euler equations of rigid body dynamics and the Euler equations of ideal fluid flow.  
 
@@ -81,11 +81,13 @@ Historically there have many connections between fluid dynamics and nonlinear dy
 
 ### Mathematical methods 
 
-Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus and conformal mapping, as in Boas (2006).  The classic Morse & Feshbach (1953) include a 20-page section (2.3) on the motion of fluids, but more commonly, hydrodynamics is never explicitly mentioned in the standard textbooks of today.  A recent exception is the graduate-level text by Vaughn (2007), whose chapter on geometry in physics includes a final section (3.6) on fluid mechanics.  There he defines the Lie derivative, and shows how the continuity equation, Euler equation, and vorticity can be expressed in terms of differential forms.
+Hydrodynamics can be a source of examples of mathematical methods in physics, as in Wyld (1976), and can also be used to help explain concepts of vector calculus and conformal mapping, as in Boas (2006).  More commonly though, hydrodynamics is never explicitly mentioned in the standard textbooks of today.  A recent exception is the graduate-level text by Vaughn (2007), whose chapter on geometry in physics includes a final section (3.6) on fluid mechanics.  There he defines the Lie derivative, and shows how the continuity equation, Euler equation, and vorticity can be expressed in terms of differential forms.
 
-Morse & Feshbach (1953) are worth further discussion.  In the aforementionned Sec. 2.3, they derive the continuity, Euler, and Navier-Stokes equations (but refuse to name the latter two), discuss potential flow, irrotational flow, Bernoulli's equation, compressible flow, and shock waves.  Sec. 3.3 includes further discussion of potential flow and sound waves.  Other fluid flow problems are addressed in chapters 10 and 13.
+Some of the older textbooks do better than our modern literature.  For example, the classic by Morse & Feshbach (1953) includes a 20-page section (2.3) on the motion of fluids.  They derive the continuity, Euler, and Navier-Stokes equations (but refuse to name the latter two), discuss potential flow, Bernoulli's equation, compressible flow, and shock waves.  Sec. 3.3 includes further discussion of potential flow and sound waves.  Other fluid flow problems are addressed in chapters 10 and 13.  Philip Morse was a leading acoustician (in addition to his other research in physics and operations research) so the attention to hydrodynamics is unsurprising.
 
-The classic by Jeffries/Jeffries (1972) is also worth mentioning.  They discuss applications to hydrodynamics of tensors (Sec. 3.10, 3.1062, 3.1063), potential theory (Sec. 6.01), and conformal mapping (Sec. 13.03).  They also include discussions of the dispersion of water waves (Sec. 17.09) and Rayleigh-Benard convection (Sec. 14.062), the latter being a subject to which Harold Jeffries made early key research contributions.
+The classic by Jeffries/Jeffries (1972), whose original edition dates from 1946, is also worth mentioning.  They discuss applications to hydrodynamics of tensors (Sec. 3.10, 3.1062, 3.1063), potential theory (Sec. 6.01), and conformal mapping (Sec. 13.03).  They also include discussions of the dispersion of water waves (Sec. 17.09) and Rayleigh-Benard convection (Sec. 14.062), the latter being a subject to which Harold Jeffries made early key research contributions.
+
+Two texts from the 1960s bear mentioning.  Sokolnikoff and Redheffer (1966) discuss hydrodynamic topics in Secs. 6.15, 6.17, 8.19, and 8.20.  Their Sec. 6.18 is a lovely discussion of the kinematic transport theorems; an even more thorough presentation of these is given by Kraut (1995, originally published 1967) in the latter's Secs. 3-15 through 3-17, within the chapter on vector calculus.  Kraut also treats some hydrodynamic problems in his chapter on complex variables (Secs. 4-13 and 4-14).
 
 ### Computational physics
 
@@ -125,7 +127,7 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - D. E. Alexander, 2009:  *Why Don't Jumbo Jets Flap Their Wings?  Flying Animals,  Flying Machines, and How They Are Different.*  Rutgers University Press.
 
-- A. P. Arya, 1997:  *Introduction to Classical Mechanics*, 2d edition.  Pearson.
+- A. P. Arya, 1998:  *Introduction to Classical Mechanics*, 2d edition.  Pearson.  Original edition, 1990.
 
 - R. Baierlein, 1999:  *Thermal Physics*.  Cambridge University Press.
 
@@ -197,7 +199,7 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - J. D. Jackson, 1999: *Classical Electrodynamics*, 3d edition. Wiley.
 
-- Harold and Bertha Swirles Jeffries, 1972:  *Methods of Mathematical Physics*, third edition.  Cambridge University Press.  Originally published, 1946; reprinted, 2001.
+- Harold and Bertha Swirles Jeffries, 1972:  *Methods of Mathematical Physics*, third edition.  Cambridge University Press.  Originally edition, 1946; reprinted, 2001.
 
 - J. V. Jose and E. J. Saletan, 1998:  *Classical Dynamics: A Contemporary Approach*. Cambridge University Press.
 
@@ -214,6 +216,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - S. E. Koonin and D. C. Meredith, 1990:  *Computational Physics:  FORTRAN Version*.  Advanced Book Program.  Westview Press.
 
 - A. Kovetz, 2000: *Electromagnetic Theory*. Oxford University Press.
+
+- E. A. Kraut, 1995:  *Fundamentals of Mathematical Physics*, corrected reprint.  Dover.  Originally published in 1967 by McGraw-Hill.
 
 - R. H. Landau, C. C. Boreianu, and M. J. Paez, 2008: *A Survey of Computational Physics:  Introductory Computational Science*.  Princeton University Press.
 
@@ -258,6 +262,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - D. L. Sidebottom, 2012:  *Fundamentals of Condensed Matter and Crystalline Physics:  An Introduction for Students of Physics and Materials Science*.  Cambridge University Press.
 
 - J. C. Slater and N. H. Frank, 1947:  *Mechanics*.  International Series in Pure and Applied Physics.  McGraw-Hill.
+
+- I. S. Sokolnikoff and R. M. Redheffer, 1966:  *Mathematics of Physics and Modern Engineering*, second edition.  McGraw-Hill.  Original edition, 1958.
 
 - D. E. Soper, 2008:  *Classical Field Theory*, corrected reprint. Dover.  (Originally published, 1976.)
 
