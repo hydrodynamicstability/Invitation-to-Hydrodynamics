@@ -65,7 +65,9 @@ At the end of the century (1800), Charles-Augustin de Coloumb (1736-1806), bette
 
 ### Faraday
 
-According to Peter A. Davidson, Michael Faraday (1791-1867) "tried to measure the voltage induced by the Thames flowing through the Earth's magnetic field", allegedly the "first experiment" in magnetohydrodynamics.  After 3 days of effort at the Waterloo bridge, Faraday wrote "I could not...obtain any satisfactory results."  (An illustration of this experiment may be found [here](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/327/).)
+According to Peter A. Davidson, Michael Faraday (1791-1867) "tried to measure the voltage induced by the Thames flowing through the Earth's magnetic field", allegedly the "first experiment" in magnetohydrodynamics.  After 3 days of effort at the Waterloo bridge, Faraday wrote "I could not...obtain any satisfactory results."  (An illustration of this experiment may be found [here](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/327/).)  Of course, *Faraday waves* are a phenomenon (observed in both granular media or liquids on a vibrating platform) named in his honor, though Faraday's own paper acknowledges prior work by Oersted, Wheatstone, Weber, "and probably others".
+
+- Michael Faraday, 1831:  On a peculiar class of acoustical figures; and on certain forms assumed by groups of particles upon vibrating elastic surfaces.  *Philosophical Transactions of the Royal Society of London*, 121:  299-340.
 
 - Michael Faraday, 1832:  The Bakerian Lecture--Experimental Researches in Electricity--Second Series.  *Philosophical Transactions of the Royal Society of London*, 122:  163-194.
 
