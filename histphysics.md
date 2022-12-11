@@ -63,6 +63,12 @@ At the end of the century (1800), Charles-Augustin de Coloumb (1736-1806), bette
 
 - C.-A. Coulomb, 1800:  Experiences destinees a determiner la coherence des fluides et les loins de leur resistance dans les mouvements tres lents.  *Memoires des Sciences Mathematiques et Physiques, de l'Institut National des Sciences et Arts*, 3:  246-305.
 
+### Thomas Young
+
+Thomas Young, M.D. (1773-1829), best known for his demonstration of the interference of light, as well as for Young's modulus in elasticity theory, also contributed to the theory of capillary flow and wetting.
+
+- T. Young, 1905:  An essay on the cohesion of fluids.  *Philosophical Transactions of the Royal Society of London*, 95:  67-87.
+
 ### Faraday
 
 According to Peter A. Davidson, Michael Faraday (1791-1867) "tried to measure the voltage induced by the Thames flowing through the Earth's magnetic field", allegedly the "first experiment" in magnetohydrodynamics.  After 3 days of effort at the Waterloo bridge, Faraday wrote "I could not...obtain any satisfactory results."  (An illustration of this experiment may be found [here](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/327/).)  Of course, *Faraday waves* are a phenomenon (observed in both granular media or liquids on a vibrating platform) named in his honor, though Faraday's own paper acknowledges prior work by Oersted, Wheatstone, Weber, "and probably others".
@@ -83,7 +89,7 @@ Keith Moffatt writes of James Clerk Maxwell's (1831-1879) research in hydrodynam
 
 ### Helmholtz and Kelvin
 
-Of course, two of the 19th century's greatest thermodynamicists were also among its greatest hydrodynamicists:  Hermann von Helmholtz (1821-1894) and William Thomson (Lord Kelvin, 1824-1907).  They contributed fundamental work to both fields (and Kelvin, in addition, to electromagnetism).  To mention just a few examples in hydrodynamics:  Helmholtz's vortex theorems and Kelvin's circulation theorem are fundamental for inviscid flows; the Kelvin-Helmholtz instability is named after them both.  Helmholtz was the first to define vorticity, and also made contributions to acoustics.  Helmholtz's 1868 work on using conformal mapping to study discontinuous two-dimensional flow was picked up and used by others including Gustav Robert Kirchoff (1824-1887) and Lord Rayleigh (see below).  (While Kirchoff made important contributions to hydrodynamics, he was even more influential in solid mechanics.)  Helmholtz and Kelvin made major contributions to the theory of hydrodynamic waves of various types, but Kelvin famously refused to believe that powered flight was possible.  
+Of course, two of the 19th century's greatest thermodynamicists were also among its greatest hydrodynamicists:  Hermann von Helmholtz, M.D. (1821-1894) and William Thomson (Lord Kelvin, 1824-1907).  They contributed fundamental work to both fields (and Kelvin, in addition, to electromagnetism).  To mention just a few examples in hydrodynamics:  Helmholtz's vortex theorems and Kelvin's circulation theorem are fundamental for inviscid flows; the Kelvin-Helmholtz instability is named after them both.  Helmholtz was the first to define vorticity, and also made contributions to acoustics.  Helmholtz's 1868 work on using conformal mapping to study discontinuous two-dimensional flow was picked up and used by others including Gustav Robert Kirchoff (1824-1887) and Lord Rayleigh (see below).  (While Kirchoff made important contributions to hydrodynamics, he was even more influential in solid mechanics.)  Helmholtz and Kelvin made major contributions to the theory of hydrodynamic waves of various types, but Kelvin famously refused to believe that powered flight was possible.  
 
 - H. von Helmholtz, 1858:  Uber integrale der hydrodynamischen gleichungen, welche den wirbelbewegungen entsprechen.  *Journal fur die Reine und Angewandte Mathematik*, 55:  25-55.
 
