@@ -193,7 +193,7 @@ Alas, a similar panel could easily be held today, except (1) there would be wome
 
 ### Acknowledgments
 
-I am grateful to Dr. Linda St-Cyr for providing feedback on this site.
+I am solely responsible for the content throughout this site, including errors of fact and judgment.  However I am grateful to Dr. Linda St-Cyr for providing constructive feedback.
 
 During the construction of this site, I consulted the libraries of Iowa State University, the University of Nevada - Reno, the University of California - Davis, and the University of Utah.
 
