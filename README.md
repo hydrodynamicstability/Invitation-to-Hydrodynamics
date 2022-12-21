@@ -197,6 +197,11 @@ I am solely responsible for the content throughout this site, including errors o
 
 During the construction of this site, I consulted the libraries of Iowa State University, the University of Nevada - Reno, the University of California - Davis, and the University of Utah.
 
+"One thing remains about which I wish the Reader to be especially warned in advance:  that I was not able to apply to this work that diligence or attention which I should have, and which I myself desired.  And therefore I have no doubt but that some errors will have crept in while I was doing the calculations, which I hope no one will employ wrongly; others which met my eye while I lightly read over the treatise I myself corrected; nevertheless I am convinced that still others remain even yet."
+
+&emsp; -- Daniel Bernoulli (1700-1782), *Hydrodynamica* (1738)
+
+
 #### Disclaimers
 
 The content on this site was developed solely on my personal time.  The views expressed are solely my own, and do not necessarily represent the views, policies, or opinions of my employer or any organization with which I am affiliated.
