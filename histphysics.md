@@ -149,6 +149,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | Year | Laureate| Involvement with the physics of fluids or related activity |
 | ------ | -----------| ----------------------------------------------------------------------|
 | 1901 | Wiliam C. Rontgen | Research on problems such as the effect of pressure on refractive index in various fluids, variations in the relationship between temperature and compressibility in water and other fluids; the spreading of oil drops on water. |
+| 1902 | Hendrik A. Lorentz | Research in hydrodynamics included at least one paper on the transition to turbulence. |
 | 1904 | John William Strutt, Lord Rayleigh | Hydrodynamic instabilities (e.g., Rayleigh-Benard, Rayleigh-Taylor, Plateau-Rayleigh); acoustics; many other contributions (see above). |
 | 1906 | J. J. Thomson | Contributed to viscoelastic theory. |
 | 1913 | Heike Kamerlingh Onnes | Experiments on liquid helium |
