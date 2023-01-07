@@ -119,7 +119,7 @@ In Einstein's defense, his discussion of the "teacup effect" (where loose tea le
 
 - A. Einstein, 1926:  Die ursache der maanderbildung der flusslaufe und des sogenannten Baerschen Gesetzes. *Naturwissenschaften*, 14, 223–224. 
 
-Einstein's greatest contribution to hydrodynamics may be that he encouraged his post-doc, Robert H. Kraichnan (1928-2008) to work in fluid mechanics; Kraichnan later made influential contributions to the theory of turbulence.  
+Einstein's doctoral dissertation included a theoretical prediction for the viscosity of a dilute suspension of spheres, a result still taught (e.g., Gary Leal's *Advanced Transport Phenomena*, 2007).  Einstein's greatest contribution to hydrodynamics may be that he encouraged his post-doc, Robert H. Kraichnan (1928-2008) to work in fluid mechanics; Kraichnan later made influential contributions to the theory of turbulence.  
 
 ### The founders of quantum theory
 
