@@ -63,7 +63,7 @@ In the years since then, more undergraduate mechanics texts are including chapte
 
 The now-discarded one-fluid and two-fluid theories of electricity (of Ben Franklin and Charles du Fay, respectively) were of great historical importance, but have now been largely forgotten, except insofar as "electron hydrodynamics" can be exhibited in a few specific situations in solid state physics.  Today's curriculum in E&M touches on only one fluid physics subject:  magnetohydrodynamics (MHD).  This topic is understandably ignored in the canon of undergraduate E&M textbooks, with the remarkable but little-known exception of one by astrophysicist Attay Kovetz (2000), who devotes three entire chapters to it (Ch. 14-16).  Another exception is the recent text by Chaichian et al. (2016), which includes a single chapter (ch. 5) on MHD.  
 
-In contrast, many graduate level texts do include a few token pages on the subject.  The ubiquitous Jackson (1999) has a single section (7.7) of about 3 pages on MHD, less than the 7-page chapter on the topic in Panofsky and Phillips (2005, Ch. 12).  Remarkably, the brief grad-level text by Melia (2001, Secs. 8.4-8.5) beats them both with just over 8 pages; the author's background as an astrophysicist may explain this.  In contrast, Zangwill (2013) mentions Alfven waves only briefly, in Application 17.1.  Sadly, for many physicists the few pages on MHD in their graduate E&M text are the only ones on any fluid mechanics topic (beyond introductory physics) on their bookshelves.
+In contrast, many graduate level texts do include a few token pages on the subject.  The ubiquitous Jackson (1999) has a single section (7.7) of about 3 pages on MHD, less than the 7-page chapter on the topic in Panofsky and Phillips (2005, Ch. 12).  Remarkably, the brief grad-level text by Melia (2001, Secs. 8.4-8.5) beats them both with just over 8 pages; the author's background as an astrophysicist may explain this.  The longest chapter in a graduate E&M text that I know of is Ch. 20 of Raychaudhuri (2022).  In contrast, Zangwill (2013) mentions Alfven waves only briefly, in Application 17.1.  Sadly, for many physicists the few pages on MHD in their graduate E&M text are the only ones on any fluid mechanics topic (beyond introductory physics) on their bookshelves.
 
 
 
@@ -246,6 +246,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - T. Pang, 2006:  *An Introduction to Computational Physics*, 2d edition.  Cambridge University Press.
 
 - W. K. H. Panofsky and M. Phillips, 2005:  *Classical Electricity and Magnetism*, 2d edition.  Dover.
+
+- A. K. Raychaudhuri, 2022:  *Classical Theory of Electricity and Magnetism:  A Course of Lectures*.    Texts and Readings in Physical Science, vol. 21.  Springer/Hindustan Book Agency.
 
 - L. E. Reichl, 2016:  *A Modern Course in Statistical Physics*, 4th edition.  Wiley-VCH.  (Original edition, 1980.)
 
