@@ -171,6 +171,11 @@ Rheologists would point out that some solids will flow if the shear stress reach
 - Russell J. Donnelly:  The discovery of superfluidity.  July, 1995:  pp. 30-36.
   - History of early experiments on liquid helium superfluids, from Heike Kamerlingh Onnes to the Toronto group to Pyotr Kapitsa.
   
+Here are some *Physics Today* articles about hydrology:
+
+- Mary P. Anderson:  Introducing groundwater physics.  May 2007, pp. 42-47.
+- Sean W. Fleming and Hoshin V. Gupta:  The physics of river prediction.  July 2020, pp. 46-52.
+
 Speaking of *Physics Today*, check out this lamentation, an excerpt from a sidebar in a *Physics Today* article by Richard G. Fowler (June, 1966; pp. 37-42):
 
 <center>
