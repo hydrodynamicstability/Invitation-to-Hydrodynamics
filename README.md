@@ -172,6 +172,8 @@ Rheologists would point out that some solids will flow if the shear stress reach
   - Amusing story of the founding of rheology and using the Deborah number to distinguish between solid and fluid.
 - Hershel Markovitz:  The emergence of rheology.   April, 1968:  pp. 23-30.
   - History of constitutive laws in continuum mechanics and rheology.
+- Russell J. Donnelly:  Taylor-Couette flow:  the early days.  November, 1991:  pp. 32-39.
+  - Early history of studies of Taylor-Couette flow, including Newton, Stokes, Margules, Mallock, and Chandrasekhar, in addition to the namesakes.
 - Russell J. Donnelly:  The discovery of superfluidity.  July, 1995:  pp. 30-36.
   - History of early experiments on liquid helium superfluids, from Heike Kamerlingh Onnes to the Toronto group to Pyotr Kapitsa.
   
