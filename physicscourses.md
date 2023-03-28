@@ -82,7 +82,7 @@ Further comments on Landau/Lifshitz' *Fluid Mechanics* are forthcoming.
 
 
 Arnold Sommerfeld's 6-volume *Lectures on Theoretical Physics* (English translations published 1949-1956) are long out of print, though now available 
-electronically from Elsevier, and perhaps of mainly historical interest at this juncture.  These lectures, Sommerfeld said, "were confined essentially to classical physics, which, as a basis for all modern developments, must never be curtailed" (*Am. J. Phys.*, 17:  315-316).  He added, "I used to organize my own lectures in such a way that they were too easy for advanced students and too difficult for beginners."
+electronically from Elsevier, and perhaps of mainly historical interest at this juncture.  These lectures, Sommerfeld said in 1949, "were confined essentially to classical physics, which, as a basis for all modern developments, must never be curtailed" (*Am. J. Phys.*, 17:  315-316).  He added, "I used to organize my own lectures in such a way that they were too easy for advanced students and too difficult for beginners."
 
 Volume 2 is on the *Mechanics of Deformable Bodies*, covering both solid and fluid mechanics.  Sommerfeld passed away during the preparation of volume 5, *Thermodynamics and Statistical Mechanics*; thus the final chapter (ch. 5), which includes a development of the hydrodynamic balance equations from kinetic theory (Sec. 43), was prepared by the editors, F. Bopp and J. Meixner.
 
@@ -95,15 +95,15 @@ First there is a discussion of the hydrostatic equilibrium condition for a chemi
 
 ### Modern Classical Physics, by Thorne and Blandford
 
-"Long, long ago, when we (the authors) were students, some basic understanding of continuous media--fluids and elastic solids--was expected of us, and there were physics courses in which we could learn it.  That is no longer ture, but we believe it should be, and this book is designed to facilitate such courses."
+"Long, long ago, when we (the authors) were students, some basic understanding of continuous media--fluids and elastic solids--was expected of us, and there were physics courses in which we could learn it.  That is no longer true, but we believe it should be, and this book is designed to facilitate such courses."
 
 &emsp; -- Kip S. Thorne and Roger D. Blandford, *Elasticity & Fluid Dynamics*, preface.
 
 A new contender on the scene is *Modern Classical Physics:  Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics*, by Kip S. Thorne and 
 Roger D. Blandford.  This course is intended for first-year graduate students, requiring as pre-requisites independent coverage of classical mechanics, 
-thermodynamics, and electromagnetism.  Originally published in 2017 as a single massive volume, in 2021 a version was issued where topics are split 
-up into 5 volumes.  Volume 3 covers *Elasticity & Fluid Dynamics*.  (However, the chapter on magnetohydrodynamics was not included; instead it appears in Volume 4 on *Plasma Physics*.)  However, the chapters make reference to earlier ones (relativity and statistical 
-physics) and future ones (plasma physics) so I advise consuming the content from the original single-volume version.
+thermodynamics, and electromagnetism.  Originally published in 2017 as a single massive volume, in 2021 a (very slighlty revised) version was issued where topics are split 
+up into 5 volumes.  Volume 3 covers *Elasticity & Fluid Dynamics*.  (However, the chapter on magnetohydrodynamics was not included; instead it appears in Volume 4 on *Plasma Physics*.)  The chapters included in this volume make reference to earlier ones (relativity and statistical 
+physics) and future ones (plasma physics).
 
 Though I enjoyed reading the fluid dynamics chapters in general, a few points of contention could be made.  Their treatment of Stokes' creeping flow problem (Sec. 14.3.2) seems particularly baroque.  Their unusual approach is meant, as they write, to make contact with "some general ideas that ought to be familiar from other areas of physics."  They later concede (Exercise 14.20) that a more conventional approach using a streamfunction "is more straightforward but less intuitive" than their exposition.  
 
