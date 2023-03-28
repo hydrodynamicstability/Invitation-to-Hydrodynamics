@@ -71,7 +71,6 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
     - While the first author seems to be an applied mathematician, the second author appears to be a theoretical plasma physicist; both hail from Australia.  This graduate level book has a strong emphasis on MHD, as its title suggests, at the expense of other subjects.  Solutions to exercises are available at no cost at the publisher's website.
     
 - Sudhir Ranjan Jain, Bhooshan S. Paradkar, and Shashikumar M. Chitre, 2022:  *A Primer on Fluid Mechanics with Applications*.  Springer.
-
     - This is an expanded version of lecture notes for fourth-year physics majors by the late S. M. Chitre at the Center for Excellence in Basic Sciences, Mumbai, India.  The first two authors (a nonlinear dynamicist and a plasma physicist, respectively) were once Chitre's assistants.  The book has an unusual breadth of coverage of applications, compared to other books on this list.  Solutions to all problems are included.
    
 - Tsutomu Kambe, 2007:  *Elementary Fluid Mechanics*. World Scientific.
