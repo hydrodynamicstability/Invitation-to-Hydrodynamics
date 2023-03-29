@@ -63,9 +63,7 @@ In the years since then, more undergraduate mechanics texts are including chapte
 
 The now-discarded one-fluid and two-fluid theories of electricity (of Ben Franklin and Charles du Fay, respectively) were of great historical importance, but have now been largely forgotten, except insofar as "electron hydrodynamics" can be exhibited in a few specific situations in solid state physics.  Today's curriculum in E&M touches on only one fluid physics subject:  magnetohydrodynamics (MHD).  This topic is understandably ignored in the canon of undergraduate E&M textbooks, with the remarkable but little-known exception of one by astrophysicist Attay Kovetz (2000), who devotes three entire chapters to it (Ch. 14-16).  Another exception is the recent text by Chaichian et al. (2016), which includes a single chapter (ch. 5) on MHD.  
 
-In contrast, many graduate level texts do include a few token pages on the subject.  The ubiquitous Jackson (1999) has a single section (7.7) of about 3 pages on MHD, less than the 7-page chapter on the topic in Panofsky and Phillips (2005, Ch. 12).  Remarkably, the brief grad-level text by Melia (2001, Secs. 8.4-8.5) beats them both with just over 8 pages; the author's background as an astrophysicist may explain this.  The longest chapter in a graduate E&M text that I know of is Ch. 20 of Raychaudhuri (2022).  In contrast, Zangwill (2013) mentions Alfven waves only briefly, in Application 17.1.  Sadly, for many physicists the few pages on MHD in their graduate E&M text are the only ones on any fluid mechanics topic (beyond introductory physics) on their bookshelves.
-
-
+In contrast, many graduate level texts do include a few token pages on the subject.  The ubiquitous Jackson (1999) has a single section (7.7) of about 3 pages on MHD, less than the 7-page chapter on the topic in Panofsky and Phillips (2005, Ch. 12) and the 6-page section in Wald (2022, Sec. 6.4).  Remarkably, the brief grad-level text by Melia (2001, Secs. 8.4-8.5) beats them both with just over 8 pages; the author's background as an astrophysicist may explain this.  The longest chapter in a graduate E&M text that I know of is Ch. 20 of Raychaudhuri (2022).  In contrast, Zangwill (2013) mentions Alfven waves only briefly, in Application 17.1.  Sadly, for many physicists the few pages on MHD in their graduate E&M text are the only ones on any fluid mechanics topic (beyond introductory physics) on their bookshelves.
 
 ### Statistical physics
 
@@ -73,7 +71,7 @@ A minority of texts in statistical physics cover fluid flow and transport phenom
 
 What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases, and Huang (2010, ch. 20) devotes a whole chapter to it.  Again, most examples I know of are at the graduate level, such as Feynman (1998, Ch. 11), Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Halley (2007, ch. 10).  Van Vliet (2008) has a chapter (12) on quantum fluids in general.
 
-It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  The (unfortunately little-known) thermodynamics text by Bailyn (1994) includes a discussion of fluid mechanics in part A of Chapter 5.  
+It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  The (unfortunately little-known, and out of print) thermodynamics text by Bailyn (1994) includes a discussion of fluid mechanics in part A of Chapter 5.  The only contemporary "pure" thermodynamics text that I know of with coverage of fluid mechanics is Ansermet & Brechet (2019), since part 3 of their book coves continuous media.
 
 ### Nonlinear dynamics
 
@@ -126,6 +124,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - V. I. Arnol'd, 1989:  *Mathematical Methods of Classical Mechanics*, 2d edition.  Graduate Texts in Mathematics, vol. 60.  Springer.
 
 - D. E. Alexander, 2009:  *Why Don't Jumbo Jets Flap Their Wings?  Flying Animals,  Flying Machines, and How They Are Different.*  Rutgers University Press.
+
+- J.-P. Ansermet and S. D. Brechet, 2019:  *Principles of Thermodynamics*.  Cambridge University Press.
 
 - A. P. Arya, 1998:  *Introduction to Classical Mechanics*, 2d edition.  Pearson.  Original edition, 1990.
 
@@ -288,6 +288,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - C. Van Vliet, 2008:  *Equilibrium and Non-equilibrium Statistical Mechanics*.  World Scientific.
 
 - M. T. Vaughn, 2007:  *Introduction to Mathematical Physics*.  Wiley-VCH.
+
+- R. M. Wald, 2022:  *Advanced Classical Electromagnetism*.  Princeton University Press.
 
 - H. W. Wyld, 1976:  *Mathematical Methods for Physics*.  Lecture Notes and Supplements in Physics, vol. 15.  W. A. Benjamin.  (An updated 45th anniversary edition, edited by G. Powell, was published in 2021 by CRC Press.)
 
