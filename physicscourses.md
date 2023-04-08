@@ -23,6 +23,10 @@ written version was prepared.  The recordings are particularly entertaining; for
 
 ### Feynman on fluids
 
+"Feynman is famously reported to have worked hard on turbulence in the 1950s but to have gotten nowhere and finally given up."
+
+&emsp; -- Gregory L. Eyink and Katepalli R. Sreenivasan (2006), *Reviews of Modern Physics*, vol. 78, pp. 87--135.
+
 The two chapters on fluids are favorites for many physicists who work in hydrodynamics.  True to his intent for the whole course, he covers topics 
 well beyond what most introductory physics courses do, and gives you a flavor of the types of problems studied in more advanced hydrodynamics courses.
 
