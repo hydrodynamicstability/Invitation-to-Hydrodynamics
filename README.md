@@ -176,6 +176,8 @@ Rheologists would point out that some solids will flow if the shear stress reach
   - Early history of studies of Taylor-Couette flow, including Newton, Stokes, Margules, Mallock, and Chandrasekhar, in addition to the namesakes.
 - Russell J. Donnelly:  The discovery of superfluidity.  July, 1995:  pp. 30-36.
   - History of early experiments on liquid helium superfluids, from Heike Kamerlingh Onnes to the Toronto group to Pyotr Kapitsa.
+- Brian Dincau, Emilie Dressaire, and Alban Sauret:  Clogging:  the self-sabotage of suspensions.  February, 2023:  pp. 24-30.
+  - Discusses three mechanisms of clogging:  sieving, bridging, and aggregation; as well as potential remedies.
   
 Here are some *Physics Today* articles about hydrology:
 
