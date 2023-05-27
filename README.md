@@ -30,6 +30,7 @@ The site is currently under construction; thank you for your patience.  To furth
 - Convinced, and ready to take the plunge?
 - Some background thoughts
 - What is a fluid?
+- Solid vs. fluid
 - Some favorite fluid mechanics pieces in *Physics Today*
 - Companion pages
 - Relevant book reviews by yours truly
@@ -155,6 +156,19 @@ Fluid dynamics is of increasing interest in condensed and soft matter physics, b
 Within the context of continuum mechanics, a fluid is distinguished from other continuous materials as follows.  "The characteristic property of a fluid is that it cannot support a shearing stress indefinitely, so that if a shearing stress is applied to a body of fluid and maintained, the fluid will flow and continue to do so as long as the stress remains.  A solid, on the other hand, can be in equilibrium under a shear stress....Fluids have no natural configutation and, given sufficient time, will adapt to the shape of any container in which they are placed."  Quoted from A. J. M. Spencer, *Continuum Mechanics* (Longman, 1980).  "The fundamental property which distinguishes a fluid from other continuous media is that it cannot be in equilibrium in a state of stress such that the mutual action between two adjacent parts is oblique to the common surface."  Quoted from James Serrin (1959), "Mathematical Principles of Classical Fluid Mechanics" (*Handbuch der Physik*, Band VIII/1, Springer, pp. 125-263).
 
 Rheologists would point out that some solids will flow if the shear stress reaches some threshold (classical plasticity) or when observed for a sufficiently long time (such as glacial ice flows).
+
+### Solid vs. fluid
+
+Above I mentioned Prof. Steve Simon's excellent recorded lecture, [Why Hydrodynamics?](https://podcasts.ox.ac.uk/why-hydrodynamics)  His flippant answer was "why not?" but actually his lecture is a nice advertisement of fluid mechanics for physicists.  Prof. Simon is also, of course, author of *The Oxford Solid State Basics* (Oxford University Press, 2013; corrected reprint, 2019).  In this book he includes a section titled "Why Solid State Physics?"  His answers include:
+- Solid state physics is "the single biggest subfield of condensed matter physics", to which he adds "Perhaps this is not surprising considering how many solid objects there are in the world."
+- The field "is the most successful and most technologically useful subfield of condensed matter physics."
+- The field "provides a paradigm for learning other topics in physics."
+
+To these points I cite, in counterpoint, the following passage from Emrich and Frenkiel (*Physics Today*, May 1968, pp. 44-46):
+> Since fluids, including plasmas, essentially constitute the entire content of the universe, with solids but a trace impurity, it might appear that for all but a few exceptions natural phenomena would be within the domain of the physics of fluids.  Of course only a fraction of the activity in physics is organized under this topical heading, and this probably represents our inability to handle the complexities of large and complicated motions.  Laws governing subnuclear, nuclear and atomic "particles" are believed to provide for the behavior of collections of "particles".  However, the ensemble of particles that constitutes a fluid produces many phenomena that are not always expected from these laws.
+
+The end of this passage almost foreshadows P. W. Anderson's 1972 classic essay, "More is Different" (*Science*, 177:  393-396).  Indeed, hydrodynamics is often cited as a canonical example of an [emergent phenomenon](https://www.pnas.org/doi/10.1073/pnas.97.1.28).
+
 
 ### Some favorite fluid mechanics pieces in *Physics Today*
 
