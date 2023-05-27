@@ -165,6 +165,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 |1962 | Lev D. Landau | Theory of superfluids; theory of turbulence; relativistic hydrodynamics (see Fermi above); classic text with Lifshitz, *Fluid Mechanics*. |
 |1965 | Richard P. Feynman | Circulation quantization in superfluids.  Fluid mechanics chapters in classic *Feynman Lectures on Physics*. |
 | 1967 | Hans A. Bethe | Worked on liquid drop model of nucleus. |
+| 1967 (Chemistry) | Manfred Eigen | Ultrasonic methods of producing chemical reactions/processes. |
 | 1968 (Chemistry) | Lars Onsager | Turbulence scaling law (similar to Kolmogorov-Obukhov's), 1945; 1949 papers on statistical hydrodynamics; Bose-Einstein condensation in liquid helium (Penrose & Onsager, 1956). |
 | 1970 | Hannes O. G. Alfven | Magnetohydrodynamic waves. |
 | 1977 | Philip W. Anderson | Anderson's equations for superfluid flow. |
