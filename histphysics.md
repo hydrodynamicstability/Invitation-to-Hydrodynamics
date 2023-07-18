@@ -123,10 +123,11 @@ Einstein's doctoral dissertation included a theoretical prediction for the visco
 
 ### The founders of quantum theory
 
-Einstein of course had a hand in the creation of quantum theory, but what about the others?  Max Planck (1858-1947) included a volume on *The Mechanics of Deformable Bodies* in his 5-volume published lectures on theoretical physics, and similarly Arnold Sommerfeld (1868-1951) included one with the same title in his own 6-volume published lectures.  Both books cover solid and fluid mechanics.  Sommerfeld advised his doctoral student Werner Heisenberg (1901-1976) to write a thesis on hydrodynamics, which he did, and Heisenberg later worked in turbulence theory.  Among the principle founders of quantum theory, Heisenberg seems to be the most committed hydrodynamicist; he continued to ponder fluid dynamics late in his career, as illustrated by his *Physics Today* piece of 1967.  Niels Bohr (1885-1962) worked on a problem of hydrodynamic instability (1909), extending a theory of Rayleigh's.  Finally I mention Cark Eckart (1902-1973), of the Wigner-Eckart theorem, on the [main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/) of this site.  He proved the equivalence of the wave and matrix mechanics formulations of Schrodinger and Heisenberg, respectively, but was scooped by Schrodinger, who beat Eckart to publication.  As I mention on the main page, Eckart later had a consequential career in geophysical hydrodynamics.
+Einstein of course had a hand in the creation of quantum theory, but what about the others?  Max Planck (1858-1947) included a volume on *The Mechanics of Deformable Bodies* in his 5-volume published lectures on theoretical physics, and similarly Arnold Sommerfeld (1868-1951) included one with the same title in his own 6-volume published lectures.  Both books cover solid and fluid mechanics.  Sommerfeld's most famous result in fluid mechanics is the Orr-Sommerfeld equation for stability; he also made major contribution to lubrication theory.  Sommerfeld advised his doctoral student Werner Heisenberg (1901-1976) to write a thesis on hydrodynamics, which he did, and Heisenberg later worked in turbulence theory.  Among the principle founders of quantum theory, Heisenberg seems to be the most committed hydrodynamicist; he continued to ponder fluid dynamics late in his career, as illustrated by his *Physics Today* piece of 1967.  Niels Bohr (1885-1962) worked on a problem of hydrodynamic instability (1909), extending a theory of Rayleigh's.  Finally I mention Cark Eckart (1902-1973), of the Wigner-Eckart theorem, on the [main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/) of this site.  He proved the equivalence of the wave and matrix mechanics formulations of Schrodinger and Heisenberg, respectively, but was scooped by Schrodinger, who beat Eckart to publication.  As I mention on the main page, Eckart later had a consequential career in geophysical hydrodynamics.
 
 - W. Heisenberg, 1967:  Nonlinear problems in physics.  *Physics Today*, 20 (5):  27-33.
 
+According to George Uhlenbeck, who was a student of Paul Ehrenfest, the latter "never mentioned the hydrodynamical equations" because the frontier of physics was quantum theory and nuclear structure, with the rest dismissed as "desperation physics" by Wolfgang Pauli!  However, Uhlenbeck succeeded Hendrik Kramers as professor of physics and mechanics at Utrecht, and discovered that Kramers had always included a semester on classical hydrodynamics in his three year cycle of courses.  Uhlenbeck decided to offer a course on the subject, having taught it to himself:  "It made a great impression on me, and I think that every physicist should have some familiarity with the field. It will do even the high energy physicists some good."
 
 ### Notes on the history of fluid mechanics
 
@@ -199,13 +200,21 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 
 - J. S. Calero, 2008:  *The Genesis of Fluid Mechanics 1640-1780*.  Studies in History and Philosophy of Science, vol. 22.  Springer.
 
+- A. F. Chalmers, 2017:  *One Hundred Years of Pressure: Hydrostatics From Stevin to Newton*.  Archimedes:  New Studies in the History and Philosophy of Science and Technology, vol. 51.  Springer.
+
+- O. Darrigol, 1998:  From Organ Pipes to Atmospheric Motions:  Helmholtz on Fluid Mechanics.  *Historical Studies in the Physical and Biological Sciences*, 29:  1-51.
+  
 - O. Darrigol, 2002:  Between hydrodynamics and elasticity theory:  the first five births of the Navier-Stokes equations.  *Archive for History of Exact Sciences*, 56:  95-250.
 
-- O. Darrigol., 2005:  *Worlds of Flow:  A History of Hydrodynamics from the Bernoullis to Prandtl*.  Oxford University Press.
+- O. Darrigol, 2005:  *Worlds of Flow:  A History of Hydrodynamics from the Bernoullis to Prandtl*.  Oxford University Press.
 
 - P. A. Davidson, 2001:  *An Introduction to Magnetohydrodynamics*.  Cambridge Texts in Applied Mathematics.  Cambridge University Press.
 
 - M. Eckert, 2006:  *The Dawn of Fluid Dynamics:  A Discipline between Science and Technology*.  Wiley-VCH.
+
+- M. Eckert, 2015:  Fluid mechanics in Sommerfeld's school.  *Annual Review of Fluid Mechanics*, 47:  1-20.
+  
+- G. L. Eyink and K. R. Sreenivasan, 2006:  Onsager and the theory of hydrodynamic turbulence.  *Reviews of Modern Physics*, 78:  87-135.
 
 - E. Garber, 2014:  Maxwell's kinetic theory, 1859-70.  In *James Clerk Maxwell:  Perspectives on His Life and Work*, ed. by R. Flood, M. McCartney, and A. Whitaker.  Oxford University Press, pp. 139-153.
 
@@ -218,6 +227,8 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 - U. J. Lorenz and A. H. Zewail, 2014:  Observing liquid flow in nanotubes by 4D electron microscopy.  *Science*, 344:  1496-1500.
 
 - H. Markovitz, 1977:  Boltzmann and the beginnings of linear viscoelasticity.  *Transactions of the Society of Rheology*, 21:  381-398.
+
+- I. Marusic and S. Broomhall, 2021:  Leonardo DaVinci and fluid mechanics.  *Annual Review of Fluid Mechanics*, 53:  1-25.
 
 - K. Moffatt, 2014:  The fluid dynamics of James Clerk Maxwell.  In *James Clerk Maxwell:  Perspectives on His Life and Work*, ed. by R. Flood, M. McCartney, and A. Whitaker.  Oxford University Press, pp. 223-230.
 
@@ -233,7 +244,11 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 
 - J. Serrin, 1959:  Mathematical principles of classical fluid mechanics.  *Handbuch der Physik*, VIII/1:  125-263, Sec. 7.
 
+- K. R. Sreenivasan, 2019:  Chandrasekhar's fluid mechanics.  *Annual Review of Fluid Mechanics*, 51:  1-24.
+
 - C. Truesdell, 1960:  A program toward rediscovering the rational mechanics of the age of reason.  *Archive for the History of Exact Sciences*, 1:  3-36.
+
+- G. E. Uhlenbeck, 1980:  Some notes on the relation between fluid mechanics and statistical physics.  *Annual Review of Fluid Mechanics*, 12:  1-9.
 
 - S. Weinberg, 1971:  Entropy generation and the survival of proto-galaxies in an expanding unvierse.  *Astrophysical Journal*, 168:  175-194.
 
