@@ -149,7 +149,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | Year | Laureate| Involvement with the physics of fluids or related activity |
 | ------ | -----------| ----------------------------------------------------------------------|
 | 1901 | Wiliam C. Rontgen | Research on problems such as the effect of pressure on refractive index in various fluids, variations in the relationship between temperature and compressibility in water and other fluids; the spreading of oil drops on water. |
-| 1902 | Hendrik A. Lorentz | Research in hydrodynamics included at least one paper on the transition to turbulence. |
+| 1902 | Hendrik A. Lorentz | Research in hydrodynamics included a well-known paper on slow, viscous flow, introducing the Lorentz reciprocal theorem, Stokeslets, the boundary integral method, and Lorentz's reflection formula. |
 | 1904 | John William Strutt, Lord Rayleigh | Hydrodynamic instabilities (e.g., Rayleigh-Benard, Rayleigh-Taylor, Plateau-Rayleigh); acoustics; many other contributions (see above). |
 | 1906 | J. J. Thomson | Contributed to viscoelastic theory. |
 | 1913 | Heike Kamerlingh Onnes | Experiments on liquid helium |
@@ -210,6 +210,8 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 - E. Garber, 2014:  Maxwell's kinetic theory, 1859-70.  In *James Clerk Maxwell:  Perspectives on His Life and Work*, ed. by R. Flood, M. McCartney, and A. Whitaker.  Oxford University Press, pp. 139-153.
 
 - G. Garbrecht, 1987:  Hydrologic and hydraulic concepts in antiquity.  In *Hydraulics and Hydraulic Research:  A Historical Review*, ed. by G. Garbrecht (Rotterdam:  A. A. Balkema), pp. 1-22.
+
+- H. K. Kuiken, 1996:  *The Centenary of a Paper on Slow Viscous Flow by the Physicist H. A. Lorentz*.  Kluwer.
 
 - T. D. Lee, 1952:  On some statistical properties of hydrodynamical and magnetohydrodynamical fields. *Quart. J. Appl. Math.*, 10, 69-74.
 
