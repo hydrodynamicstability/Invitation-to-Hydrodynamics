@@ -119,7 +119,7 @@ In Einstein's defense, his discussion of the "teacup effect" (where loose tea le
 
 - A. Einstein, 1926:  Die ursache der maanderbildung der flusslaufe und des sogenannten Baerschen Gesetzes. *Naturwissenschaften*, 14, 223–224. 
 
-Einstein's doctoral dissertation included a theoretical prediction for the viscosity of a dilute suspension of spheres, a result still taught (e.g., Gary Leal's *Advanced Transport Phenomena*, 2007).  His very first scientific paper in 1901 was on a molecular model for capillarity.  Einstein's greatest contribution to hydrodynamics may be that he encouraged his post-doc, Robert H. Kraichnan (1928-2008) to work in fluid mechanics; Kraichnan later made influential contributions to the theory of turbulence.  Einstein's son Hans Albert was a distinguished hydraulic engineer who worked at the U.S. Dept. of Agriculture, CalTech, and UC Berkeley.
+Einstein's doctoral dissertation included a theoretical prediction for the viscosity of a dilute suspension of spheres, a result still taught (e.g., Gary Leal's *Advanced Transport Phenomena*, 2007).  His very first scientific paper in 1901 was on a molecular model for capillarity.  Einstein's greatest contribution to hydrodynamics may be that he encouraged his post-doc, Robert H. Kraichnan (1928-2008) to work in fluid mechanics; Kraichnan later made influential contributions to the theory of turbulence.  Einstein's son Hans Albert (1904-1973) was a distinguished hydraulic engineer who worked at the U.S. Dept. of Agriculture, CalTech, and UC Berkeley.
 
 ### The founders of quantum theory
 
@@ -127,7 +127,7 @@ Einstein of course had a hand in the creation of quantum theory, but what about 
 
 - W. Heisenberg, 1967:  Nonlinear problems in physics.  *Physics Today*, 20 (5):  27-33.
 
-According to George Uhlenbeck, who was a student of Paul Ehrenfest, the latter "never mentioned the hydrodynamical equations" because the frontier of physics was quantum theory and nuclear structure, with the rest dismissed as "desperation physics" by Wolfgang Pauli!  However, Uhlenbeck succeeded Hendrik Kramers as professor of physics and mechanics at Utrecht, and discovered that Kramers had always included a semester on classical hydrodynamics in his three year cycle of courses.  Uhlenbeck decided to offer a course on the subject, having taught it to himself:  "It made a great impression on me, and I think that every physicist should have some familiarity with the field. It will do even the high energy physicists some good."
+According to George Uhlenbeck (1900-1988), who was a student of Paul Ehrenfest (1880-1933), the latter "never mentioned the hydrodynamical equations" because the frontier of physics was quantum theory and nuclear structure, with the rest dismissed as "desperation physics" by Wolfgang Pauli (1900-1958)!  However, Uhlenbeck succeeded Hendrik Kramers (1894-1952) as professor of physics and mechanics at Utrecht, and discovered that Kramers had always included a semester on classical hydrodynamics in his three year cycle of courses.  Uhlenbeck decided to offer a course on the subject, having taught it to himself:  "It made a great impression on me, and I think that every physicist should have some familiarity with the field. It will do even the high energy physicists some good."
 
 ### Notes on the history of fluid mechanics
 
