@@ -309,4 +309,4 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 The content on this site was developed solely on my personal time. The views expressed are solely my own, and do not necessarily represent the views, policies, or opinions of my employer or any organization with which I am affiliated.
 
-(c) 2022 by Christopher Tong.  
+(c) 2022-2023 by Christopher Tong.  
