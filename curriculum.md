@@ -113,6 +113,8 @@ Physics students are likely to encounter fluid dynamics when they take courses o
 
 Sometimes a separate course on waves is offered, and many books used for such courses cover bits of acoustics and/or surface waves on water.  Of these, Elmore and Heald (1985, ch. 3-7) has perhaps the most extensive coverage of continuum mechanics, including elastic waves in solids.   I comment further on the out-of-print classic by Crawford (1968) [here](physicscourses.md).
 
+A new book by King (2023), *Physics of Matter*, begins with atomic and molecular physics, but then expands to discuss gases, solids, liquids, and liquid crystals, obviously stepping into condensed matter physics, with heavy doses of thermodynamics and statistical physics.  There are sections on solid and fluid mechanics, as well as transport properties like viscosity and diffusion.  The concept of the book is striking; I have not yet been able to inspect it in person.
+
 Finally, the third edition of Malcolm Longair's *Theoretical Concepts in Physics* (originally published in 1984) now includes a "gentle introduction" to fluid dynamics (Ch. 9 and parts of Ch. 10).  
 
 ### A final thought
@@ -204,6 +206,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - Harold and Bertha Swirles Jeffries, 1972:  *Methods of Mathematical Physics*, third edition.  Cambridge University Press.  Originally edition, 1946; reprinted, 2001.
 
 - J. V. Jose and E. J. Saletan, 1998:  *Classical Dynamics: A Contemporary Approach*. Cambridge University Press.
+
+- G. C. King, 2023:  *Physics of Matter*.  Wiley.
 
 - R. Kimmich, 2012:  *Principles of Soft-Matter Dynamics:  Basic Theories, Non-invasive Methods, Mesoscopic Aspects*.  Springer.
 
