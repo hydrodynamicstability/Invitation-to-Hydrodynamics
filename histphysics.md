@@ -111,7 +111,7 @@ John William Strutt, Lord Rayleigh (1842-1919, Nobel in Physics 1904), made majo
 
 ### Einstein's folly
 
-Using a fallacious argument based on the Venturi effect, Albert Einstein (1879-1955) proposed a "cat's back" airfoil design in 1916 that failed miserably when tested by a Berlin aircraft company.  The test pilot, Paul Ehrhardt, survived, but years later, a few months before Einstein died, he told Ehrhardt "I have often been ashamed of my folly of those days."  (A second test pilot, Otto Reichert, crashed but also survived.)  "Einstein's folly" is discussed by Bloor (2011, pp. 296-302) and Calaprice et al. (2015, p. 297).  Bloor writes that "Einstein had little knowledge of current developments in the field of aerodynamics.  This episode is a salutory reminder of the difference between fundamental physics and technical mechanics.  Eminence in the former does not guarantee competence in the latter."
+Using a fallacious argument based on the Venturi effect, Albert Einstein (1879-1955) proposed a "cat's back" airfoil design in 1916 that failed miserably when tested by a Berlin aircraft company.  The test pilot, Paul Ehrhardt, survived, but years later, a few months before Einstein died, he told Ehrhardt "I have often been ashamed of my folly of those days."  (A second test pilot, Otto Reichert, crashed but also survived.)  "Einstein's folly" is discussed by Bloor (2011, pp. 296-302), Illy (2012), and Calaprice et al. (2015, p. 297).  Bloor writes that "Einstein had little knowledge of current developments in the field of aerodynamics.  This episode is a salutory reminder of the difference between fundamental physics and technical mechanics.  Eminence in the former does not guarantee competence in the latter."
 
 - A. Einstein, 1916:  Elementare theorie der wasserwellen und des fluges.  *Die Naturwissenschaften*, 4:  509-510.
 
@@ -119,7 +119,7 @@ In Einstein's defense, his discussion of the "teacup effect" (where loose tea le
 
 - A. Einstein, 1926:  Die ursache der maanderbildung der flusslaufe und des sogenannten Baerschen Gesetzes. *Naturwissenschaften*, 14, 223–224. 
 
-Einstein's doctoral dissertation included a theoretical prediction for the viscosity of a dilute suspension of spheres, a result still taught (e.g., Gary Leal's *Advanced Transport Phenomena*, 2007).  His very first scientific paper in 1901 was on a molecular model for capillarity.  Einstein's greatest contribution to hydrodynamics may be that he encouraged his post-doc, Robert H. Kraichnan (1928-2008) to work in fluid mechanics; Kraichnan later made influential contributions to the theory of turbulence.  Einstein's son Hans Albert (1904-1973) was a distinguished hydraulic engineer who worked at the U.S. Dept. of Agriculture, CalTech, and UC Berkeley.
+Einstein's doctoral dissertation included a theoretical prediction for the viscosity of a dilute suspension of spheres, a result still taught (e.g., Gary Leal's *Advanced Transport Phenomena*, 2007).  His very first scientific paper in 1901 was on a molecular model for capillarity.  In 1920, Einstein wrote a paper on the molecular relaxation technique, related to the dispersion of sound velocity in a chemically reacting gas mixture.  Einstein's greatest contribution to hydrodynamics may be that he encouraged his post-doc, Robert H. Kraichnan (1928-2008) to work in fluid mechanics; Kraichnan later made influential contributions to the theory of turbulence.  Einstein's son Hans Albert (1904-1973) was a distinguished hydraulic engineer who worked at the U.S. Dept. of Agriculture, CalTech, and UC Berkeley.
 
 ### The founders of quantum theory
 
@@ -153,18 +153,24 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | 1902 | Hendrik A. Lorentz | Research in hydrodynamics included a well-known paper on slow, viscous flow, introducing the Lorentz reciprocal theorem, Stokeslets, the boundary integral method, and Lorentz's reflection formula. |
 | 1904 | John William Strutt, Lord Rayleigh | Hydrodynamic instabilities (e.g., Rayleigh-Benard, Rayleigh-Taylor, Plateau-Rayleigh); acoustics; many other contributions (see above). |
 | 1906 | J. J. Thomson | Contributed to viscoelastic theory. |
+| 1911 | Wilhelm Wien | Wrote authoritative text, *Lehrbuch der Hydrodynamik* (S. Hirzel, Leipzig, 1900) |
 | 1913 | Heike Kamerlingh Onnes | Experiments on liquid helium |
 | 1918 | Max Planck | Wrote *Mechanics of Deformable Bodies* (second volume of his *Introduction to Theoretical Physics*). |
 | 1921 | Albert Einstein | Doctoral dissertation in part on viscosity of solutions with added sugar; teacup effect; "Cat's back" aerofoil (Einstein's folly - see above). |
 | 1922 | Niels Bohr | Chain oscillations in liquid jets (Bohr, 1909); developed Gamow's liquid drop model of the nucleus. |
-|1923 | Robert A. Millikan | Oil drop experiment requires use of Stokes formula for drag force on a slowly falling sphere |
+| 1923 | Robert A. Millikan | Oil drop experiment requires use of Stokes formula for drag force on a slowly falling sphere |
+| 1930 | C. V. Raman | Theory of Debye-Sears diffraction (see below) |
 | 1932 | Werner Heisenberg | Doctoral dissertation under Sommerfeld on transition to turbulence in Poiseuille flow.  Worked with with C. F. von Weizsacker on liquid drop model of the nucelus, and turbulence scaling law (similar to Kolmogorov-Obukhov's). |
 | 1932 (Chemistry) | Irving Langmuir | Discovered Langmuir circulation in the Sargasso Sea. |
+| 1933 | Erwin Schrodinger | Research in atmospheric acoustics |
+| 1936 (Chemistry) | Peter Debye | Debye-Sears diffraction |
 |1938 | Enrico Fermi | Relativistic hydrodynamics of collision products of high energy cosmic rays. |
 | 1952 | Edward M. Purcell | Life at low Reynolds number (Purcell, 1977). |
+| 1956/1972 | John Bardeen | Two-fluid model of superconductivity (Bardeen, 1958). |
 | 1957 | T. D. Lee | Statistical properties of hydrodynamic and magnetohydroynamic fields (Lee, 1952). | 
 |1962 | Lev D. Landau | Theory of superfluids; theory of turbulence; relativistic hydrodynamics (see Fermi above); classic text with Lifshitz, *Fluid Mechanics*. |
 |1965 | Richard P. Feynman | Circulation quantization in superfluids.  Fluid mechanics chapters in classic *Feynman Lectures on Physics*. |
+| 1965 | Julian Schwinger | Research on somnoluminescence. |
 | 1967 | Hans A. Bethe | Worked on liquid drop model of nucleus. |
 | 1967 (Chemistry) | Manfred Eigen | Ultrasonic methods of producing chemical reactions/processes. |
 | 1968 (Chemistry) | Lars Onsager | Turbulence scaling law (similar to Kolmogorov-Obukhov's), 1945; 1949 papers on statistical hydrodynamics; Bose-Einstein condensation in liquid helium (Penrose & Onsager, 1956). |
@@ -191,6 +197,10 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 ### References
 
 - J. D. Anderson, Jr., 1997:  *A History of Aerodynamics*.  Cambridge University Press.
+
+- J. Bardeen, 1958:  Two-fluid model of superconductivity.  *Physical Review Letters*, 1:  399-400.
+
+- R. T. Beyer, 1999:  *Sounds of Our Times:  Two Hundred Years of Acoustics*.  Springer.
 
 - A. M. Binnie, 1978:  Some notes on the study of fluid mechanics in Cambridge, England.  *Annual Review of Fluid Mechanics*, 10:  1-10.
 
@@ -221,6 +231,8 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 - E. Garber, 2014:  Maxwell's kinetic theory, 1859-70.  In *James Clerk Maxwell:  Perspectives on His Life and Work*, ed. by R. Flood, M. McCartney, and A. Whitaker.  Oxford University Press, pp. 139-153.
 
 - G. Garbrecht, 1987:  Hydrologic and hydraulic concepts in antiquity.  In *Hydraulics and Hydraulic Research:  A Historical Review*, ed. by G. Garbrecht (Rotterdam:  A. A. Balkema), pp. 1-22.
+
+- J. Illy, 2012:  *The Practical Einstein:  Experiments, Inventions, Patents*.  Johns Hopkins University Press.
 
 - H. K. Kuiken, 1996:  *The Centenary of a Paper on Slow Viscous Flow by the Physicist H. A. Lorentz*.  Kluwer.
 
