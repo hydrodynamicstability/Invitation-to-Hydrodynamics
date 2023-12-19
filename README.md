@@ -192,6 +192,8 @@ The end of this passage almost foreshadows P. W. Anderson's 1972 classic essay, 
   - History of early experiments on liquid helium superfluids, from Heike Kamerlingh Onnes to the Toronto group to Pyotr Kapitsa.
 - Brian Dincau, Emilie Dressaire, and Alban Sauret:  Clogging:  the self-sabotage of suspensions.  February, 2023:  pp. 24-30.
   - Discusses three mechanisms of clogging:  sieving, bridging, and aggregation; as well as potential remedies.
+- Detlef Lohse and Olga Shishkina:  Ultimate turbulent thermal convection.  December, 2023:  pp. 26-32.
+  - Featured on the cover, a nice review of work on the alleged ultimate regime of Rayleigh-Benard convection.  However the authors' focus on aspect ratios of order unity casts doubt on the sincerity of their claims that this research is relevant to geophysical and astrophysical flows, which typically are large aspect ratio systems.
   
 Here are some *Physics Today* articles about hydrology:
 
