@@ -125,6 +125,8 @@ Einstein's doctoral dissertation included a theoretical prediction for the visco
 
 Einstein of course had a hand in the creation of quantum theory, but what about the others?  Max Planck (1858-1947) included a volume on *The Mechanics of Deformable Bodies* in his 5-volume published lectures on theoretical physics, and similarly Arnold Sommerfeld (1868-1951) included one with the same title in his own 6-volume published lectures.  Both books cover solid and fluid mechanics.  Sommerfeld's most famous result in fluid mechanics is the Orr-Sommerfeld equation for stability; he also made major contribution to lubrication theory.  Sommerfeld advised his doctoral student Werner Heisenberg (1901-1976) to write a thesis on hydrodynamics, which he did, and Heisenberg later worked in turbulence theory.  Among the principle founders of quantum theory, Heisenberg seems to be the most committed hydrodynamicist; he continued to ponder fluid dynamics late in his career, as illustrated by his *Physics Today* piece of 1967.  Niels Bohr (1885-1962) worked on a problem of hydrodynamic instability (1909), extending a theory of Rayleigh's.  It was Bohr's first scientific publication.  Finally I mention Cark Eckart (1902-1973), of the Wigner-Eckart theorem, on the [main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/) of this site.  He proved the equivalence of the wave and matrix mechanics formulations of Schrodinger and Heisenberg, respectively, but was scooped by Schrodinger, who beat Eckart to publication.  As I mention on the main page, Eckart later had a consequential career in geophysical hydrodynamics.
 
+- N. Bohr, 1909:  Determination of the surface tension of water by the method of jet vibration.  *Philosophical Transactions of the Royal Society*, A209:  441-458.
+
 - W. Heisenberg, 1967:  Nonlinear problems in physics.  *Physics Today*, 20 (5):  27-33.
 
 According to George Uhlenbeck (1900-1988), who was a student of Paul Ehrenfest (1880-1933), the latter "never mentioned the hydrodynamical equations" because the frontier of physics was quantum theory and nuclear structure, with the rest dismissed as "desperation physics" by Wolfgang Pauli (1900-1958)!  However, Uhlenbeck succeeded Hendrik Kramers (1894-1952) as professor of physics and mechanics at Utrecht, and discovered that Kramers had always included a semester on classical hydrodynamics in his three year cycle of courses.  Uhlenbeck decided to offer a course on the subject, having taught it to himself:  "It made a great impression on me, and I think that every physicist should have some familiarity with the field. It will do even the high energy physicists some good."
@@ -205,8 +207,6 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 - A. M. Binnie, 1978:  Some notes on the study of fluid mechanics in Cambridge, England.  *Annual Review of Fluid Mechanics*, 10:  1-10.
 
 - D. Bloor, 2011:  *The Enigma of the Aerofoil:  Rival Theories in Aerodynamics, 1909-1930*.  University of Chicago Press.
-
-- N. Bohr, 1909:  Determination of the surface tension of water by the method of jet vibration.  *Philosophical Transactions of the Royal Society*, A209:  441-458.
 
 - A. Calaprice, D. Kennefick, and R. Schulmann, 2015:  *An Einstein Encyclopedia*.  Princeton University Press.
 
