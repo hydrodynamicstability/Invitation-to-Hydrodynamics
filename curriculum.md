@@ -38,6 +38,8 @@ The streamlines under the airfoil appear to be almost completely horizontal; wit
 
 > Airplane designers are intensely interested in how much lift a wing produces under different conditions, one of which is called the angle of attack--the angle between the wing and the direction it moves through the air....Camber can increase the amount of lift that a wing produces at any given angle of attack without much increase in drag....In fact, more than a few airplanes fly with zero-camber airfoils, usually called symmetrical airfoils.  Many supersonic airplanes have symmetrical airfoils, as did at least one Second World War fighter (the Bell P-39 Airacobra) and one small jet airliner (the Fokker F-28 Fellowship).  A wing with a symmetrical airfoil can still produce lift; it just does so entirely with angle of attack....Aerobatic airplanes that need to be able to fly equally well when they are upside down and right side up (such as the Pitts Special) also use zero-camber wings.  These airplanes often compensate for slightly less efficient wings with significantly more powerful engines.
 
+For further discussion of various conflicting intuitive explanations of aerodynamic lift, see [this](https://www.scientificamerican.com/article/no-one-can-explain-why-planes-stay-in-the-air/) excellent 2020 *Scientific American* article by Ed Regis.
+
 When I was a graduate teaching assistant in the late 1990s, I encountered a more elementary error.  Halliday, Resnick, & Walker (1997, vol. 2, chapter 15) include the following homework problems.
 
 <center>
