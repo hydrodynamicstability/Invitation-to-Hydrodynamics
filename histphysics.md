@@ -166,7 +166,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | 1932 (Chemistry) | Irving Langmuir | Discovered Langmuir circulation in the Sargasso Sea. |
 | 1933 | Erwin Schrodinger | Research in atmospheric acoustics |
 | 1936 (Chemistry) | Peter Debye | Debye-Sears diffraction |
-|1938 | Enrico Fermi | Relativistic hydrodynamics of collision products of high energy cosmic rays. |
+|1938 | Enrico Fermi | Relativistic hydrodynamics of collision products of high energy cosmic rays. [Worked](https://rlg.fas.org/010929-fermi.htm) with John von Neumann on Rayleigh-Taylor instability. |
 | 1952 | Edward M. Purcell | Life at low Reynolds number (Purcell, 1977). |
 | 1956/1972 | John Bardeen | Two-fluid model of superconductivity (Bardeen, 1958). |
 | 1957 | T. D. Lee | Statistical properties of hydrodynamic and magnetohydroynamic fields (Lee, 1952). | 
