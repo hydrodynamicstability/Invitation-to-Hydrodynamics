@@ -75,7 +75,7 @@ A minority of texts in statistical physics cover fluid flow and transport phenom
 
 What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devote a few pages to it at the end of their chapter on Fermi and Bose gases, and Huang (2010, ch. 20) devotes a whole chapter to it.  Again, most examples I know of are at the graduate level, such as Feynman (1998, Ch. 11), Huang (1987, Ch. 13), Reichl (2016, Sec. 8.9), Ma (1985, Ch. 30), and Halley (2007, ch. 10).  Van Vliet (2008) has a chapter (12) on quantum fluids in general.
 
-It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  The (unfortunately little-known, and out of print) thermodynamics text by Bailyn (1994) includes a discussion of fluid mechanics in part A of Chapter 5.  The only contemporary "pure" thermodynamics texts by and for physicists that I know of with coverage of fluid mechanics are Ansermet & Brechet (2019), since part 3 of their book coves continuous media; and Steane (2017), which discusses the Navier-Stokes equation in the section on sound waves (10.3), and Bernoulli's equation in Sec. 16.3.1, in the chapter on "Expansion and Flow Processes".  Strangely for a thermo text, Steane does not use the enthalpy formulation of Bernoulli's theorem!
+It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  The (unfortunately little-known, and out of print) thermodynamics text by Bailyn (1994) includes a discussion of fluid mechanics in part A of Chapter 5.  The only contemporary "pure" thermodynamics texts by and for physicists that I know of with nontrivial coverage of fluid mechanics are Ansermet & Brechet (2019), since part 3 of their book coves continuous media; and Steane (2017), which discusses the Navier-Stokes equation in the section on sound waves (10.3), and Bernoulli's equation in Sec. 16.3.1, in the chapter on "Expansion and Flow Processes".  Strangely for a thermo text, Steane does not use the enthalpy formulation of Bernoulli's theorem!  In contrast, the classic thermo text by Adkins (1983) briefly discusses flow processes in Sec. 3.8, where among other things he does derive the enthalpy form of Bernoulli's theorem.
 
 ### Nonlinear dynamics
 
@@ -126,6 +126,8 @@ Finally, the third edition of Malcolm Longair's *Theoretical Concepts in Physics
 Physics students serious about fluids should explore the relevant courses in engineering, applied mathematics, and the geosciences, to acquire breadth in both subject matter and perspective.  The latter is arguably most important of all, in an interdisciplinary field like this.
 
 ### References
+
+- C. J. Adkins, 1983:  *Equilibrium Thermodynamics*, 3d edition.  Cambridge University Press.
 
 - V. I. Arnol'd, 1989:  *Mathematical Methods of Classical Mechanics*, 2d edition.  Graduate Texts in Mathematics, vol. 60.  Springer.
 
