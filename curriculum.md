@@ -77,6 +77,8 @@ What about superfluidity?  At the undergrad level, Kittel & Kroemer (1980) devot
 
 It could be argued that the study of fluid mechanics naturally belongs with the study of thermodynamics and statistical physics:  Alessandro Bettini (2016) has done exactly that in the second of his four-volume *A Course in Classical Physics*.  The (unfortunately little-known, and out of print) thermodynamics text by Bailyn (1994) includes a discussion of fluid mechanics in part A of Chapter 5.  The only contemporary "pure" thermodynamics texts by and for physicists that I know of with nontrivial coverage of fluid mechanics are Ansermet & Brechet (2019), since part 3 of their book coves continuous media; and Steane (2017), which discusses the Navier-Stokes equation in the section on sound waves (10.3), and Bernoulli's equation in Sec. 16.3.1, in the chapter on "Expansion and Flow Processes".  Strangely for a thermo text, Steane does not use the enthalpy formulation of Bernoulli's theorem!  In contrast, the classic thermo text by Adkins (1983) briefly discusses flow processes in Sec. 3.8, where among other things he does derive the enthalpy form of Bernoulli's theorem.
 
+An over 50-year old graduate level text by Finkelstein (1969), tackles the "completion of hydrodynamical equations by thermodynamics", and even discusses shock waves, in its very first chapter!  In chapter 4, he covers liquid helium II, and his chapter on phase transitions includes a section on phase transitions in a quantum fluid.  [Finkelstein](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/44724) was a particle theorist.  However, during WWII, as a civilian researcher for the US Navy, fresh from completing his Ph.D., he got himself transferred to a group working on detonations and shock waves, even publishing a paper in this field.  He also served as the group's liaison to Albert Einstein, who was consulting for the team.  The young Finkelstein was introduced to Einstein by John von Neumann, also a consultant for the Navy group.  Finkelstein expresses his pride in providing an analytical solution to a shock wave problem that Chandrasekhar has previously solved numerically!
+
 ### Nonlinear dynamics
 
 Historically there have many connections between fluid dynamics and nonlinear dynamics, and Gollub (2003) encouraged using this link to teach both.  Unfortunately it is possible to convey many of the key ideas of nonlinear dynamics and chaos theory without explicit reference to the equations of hydrodynamics.  However, the derivation of the famous Lorenz model requires hydrodynamics, as illustrated in Appendix C of Hilborn (2000), Appendix A of Schuster & Just (2005), and in Part II of Fetter & Walecka (2006).  Hilborn's Sec. 11.2 also includes a qualitative discussion of mixing in a two-dimensional flow.
@@ -178,6 +180,8 @@ Physics students serious about fluids should explore the relevant courses in eng
 - A. L. Fetter and J. D. Walecka, 2006:  *Nonlinear Mechanics:  A Supplement to Theoretical Mechanics of Particles and Continua*.  Dover.
 
 - R. P. Feynman, 1998:  *Statistical Mechanics:  A Set of Lectures*.  Advanced Book Classics.  CRC Press.  Originally published 1972.
+
+- R. J. Finkelstein, 1969:  *Thermodynamics and Statistical Physics:  A Short Introduction*.  W. H. Freeman.
 
 - G. R. Fowles and G. L. Cassiday, 2005:  *Analytical Mechanics*, 7th edition.  Thomson Brooks/Cole.
 
