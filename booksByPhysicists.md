@@ -158,6 +158,9 @@ As a point of personal privilege, I want to include a few other titles on a more
 - Uriel Frisch, 1995:  *Turbulence:  The Legacy of A. N. Kolmogorov*. Cambridge University Press.
     - Several physicists have written books on turbulence, and if your interests turn in this direction, you will get to know them.  However if not, you should still consider acquiring some literacy in the field by reading this exposition, which gives particular attention to Kolmogorov's 1941 scaling theory, "one of the very few exact and nontrivial results in the field".  
 
+- Christian Fronsdal, 2020:  *Adiabatic Thermodynamics of Fluids:  From Hydrodynamics to General Relativity*.  World Scientific.
+    - This idiosyncratic book by an American elementary particle theorist declares at the beginning of the first chapter, "Thermodynamics is an extension of hydrodynamics by temperature."  In the foreword, the author writes, "This book is my attempt to understand thermodynamics, in the formulation as a Eulerian field theory of temperature, pressure, densities and entropies, and completely integrated with hydrodynamics."  Action principles are central to the author's thinking.  He covers superfluid helium and general relativity, as well as fluid mixtures, planetary atmospheres, and a theory of his own, "conservative hydrodynamics", at least according to the draft chapters on his website.
+
 - Peter Hertel, 2012:  *Continuum Physics*.  Graduate Texts in Physics.  Springer.
     - This compact book includes continuum mechanics and thermodynamics, but ranges well beyond these to discuss other topics in continuum physics, including electromagnetic, thermoelectric and optical phenomena, including photonics.  Coverage has breadth but lacks depth; perhaps its main value is in providing cultural literacy.  The book lacks both problems and an index.  Hertel (1938-2017) was a German theoretical physicist.
 
