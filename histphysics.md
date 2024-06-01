@@ -173,7 +173,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 |1962 | Lev D. Landau | Theory of superfluids; theory of turbulence; relativistic hydrodynamics (see Fermi above); classic text with Lifshitz, *Fluid Mechanics*. |
 |1965 | Richard P. Feynman | Circulation quantization in superfluids.  Fluid mechanics chapters in classic *Feynman Lectures on Physics*. |
 | 1965 | Julian Schwinger | Research on somnoluminescence. |
-| 1967 | Hans A. Bethe | Worked on liquid drop model of nucleus.  During WWII, on von Karman's recommendation, Bethe and Teller worked on the theory of shock waves, before they were recruited to Los Alamos.  |
+| 1967 | Hans A. Bethe | Worked on liquid drop model of nucleus.  During WWII, on von Karman's recommendation, Bethe and Teller worked on the theory of shock waves, before they were recruited to Los Alamos.  Bethe also worked with J.G. Kirkwood on the pressure wave from an underwater explosion. |
 | 1967 (Chemistry) | Manfred Eigen | Ultrasonic methods of producing chemical reactions/processes. |
 | 1968 (Chemistry) | Lars Onsager | Turbulence scaling law (similar to Kolmogorov-Obukhov's), 1945; 1949 papers on statistical hydrodynamics; Bose-Einstein condensation in liquid helium (Penrose & Onsager, 1956). |
 | 1970 | Hannes O. G. Alfven | Magnetohydrodynamic waves. |
@@ -233,6 +233,8 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 - G. Garbrecht, 1987:  Hydrologic and hydraulic concepts in antiquity.  In *Hydraulics and Hydraulic Research:  A Historical Review*, ed. by G. Garbrecht (Rotterdam:  A. A. Balkema), pp. 1-22.
 
 - J. Illy, 2012:  *The Practical Einstein:  Experiments, Inventions, Patents*.  Johns Hopkins University Press.
+
+- J. G. Kirkwood and H. A. Bethe, 1942:  *The Pressure Wave Produced by an Underwater Explosion I*.  Office of Scientific Research and Development, Technical Report No. 588.
 
 - H. K. Kuiken, 1996:  *The Centenary of a Paper on Slow Viscous Flow by the Physicist H. A. Lorentz*.  Kluwer.
 
