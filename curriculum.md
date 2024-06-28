@@ -95,7 +95,7 @@ Two texts from the 1960s bear mentioning.  Sokolnikoff and Redheffer (1966) disc
 
 ### Computational physics
 
-Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Notable exceptions that I know of include Pang (2006, ch. 9) and various works by Rubin Landau and collaborators (Landau et al., 2008, ch. 19; Landau et al., 2015, ch. 24-25; Landau and Paez, 2018, ch. 4).  A hydrodynamics problem (steady state flow in 2D) is given as a project for the chapter on elliptic PDEs in Koonin (1986, ch. 6), updated as Koonin & Meredith (1990).  A discussion of lattice gas models of fluid flow is included in Gould et al. (2016, sec. 14.6), while Thijssen (2007) has an entire chapter (14) on the lattice Boltzmann method for fluid dynamics.  Fluid dynamics are only briefly mentioned in Franklin (2013, Sec. 5.1.5).
+Though computational fluid dynamics (CFD) is one of the oldest examples of computational science, it rarely makes an appearance in computational physics courses, perhaps because students do not have the necessary theoretical background.  Notable exceptions that I know of include Pang (2006, ch. 9) and various works by Rubin Landau and collaborators (Landau et al., 2008, ch. 19; Landau et al., 2024, ch. 25-26; Landau and Paez, 2018, ch. 4).  A hydrodynamics problem (steady state flow in 2D) is given as a project for the chapter on elliptic PDEs in Koonin (1986, ch. 6), updated as Koonin & Meredith (1990).  A discussion of lattice gas models of fluid flow is included in Gould et al. (2016, sec. 14.6), while Thijssen (2007) has an entire chapter (14) on the lattice Boltzmann method for fluid dynamics.  Fluid dynamics are only briefly mentioned in Franklin (2013, Sec. 5.1.5).
 
 Readers of this site will appreciate the following quotation from Landau et al. (2008):
 
@@ -239,7 +239,7 @@ Physics students serious about fluids should explore the relevant courses in eng
 
 - R. H. Landau and M. J. Paez, 2018:  *Computational Problems for Physics:  With Guided Solutions Using Python*.  CRC Press.
 
-- R. H. Landau, M. J. Paez, and C. C. Boreianu, 2015:  *Computational Physics:  Problem Solving with Python*, 3d edition.  Wiley-VCH.
+- R. H. Landau, C. C. Boreianu, and M. J. Paez, 2024:  *Computational Physics:  Problem Solving with Python*, 4th edition.  Wiley-VCH.
 
 - K. K. Likharev, 2017:  *Classical Mechanics:  Lecture Notes*.  Essential Advanced Physics.  IOP.
 
