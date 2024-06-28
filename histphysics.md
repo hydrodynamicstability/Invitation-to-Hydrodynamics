@@ -65,13 +65,15 @@ At the end of the century (1800), Charles-Augustin de Coloumb (1736-1806), bette
 
 ### Thomas Young
 
-Thomas Young, M.D. (1773-1829), best known for his demonstration of the interference of light, as well as for Young's modulus in elasticity theory, also contributed to the theory of capillary flow and wetting.
+Thomas Young, M.D. (1773-1829), best known for his demonstration of the interference of light, as well as for Young's modulus in elasticity theory, also contributed to the theory of capillary flow and wetting (1805).  Befitting his medical background, Young also wrote a theoretical study of cardiovascular fluid mechanics (1808).
 
 - T. Young, 1805:  An essay on the cohesion of fluids.  *Philosophical Transactions of the Royal Society of London*, 95:  67-87.
 
+- T. Young, 1808: Hydraulic investigations, subservient to an intended Croonian lecture on the motion of the blood.  *Philosophical Transactions of the Royal Society of London*, 98:  164-186.
+
 ### Faraday
 
-According to Peter A. Davidson, Michael Faraday (1791-1867) "tried to measure the voltage induced by the Thames flowing through the Earth's magnetic field", allegedly the "first experiment" in magnetohydrodynamics.  After 3 days of effort at the Waterloo bridge, Faraday wrote "I could not...obtain any satisfactory results."  (An illustration of this experiment may be found [here](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/327/).)  Of course, *Faraday waves* are a phenomenon (observed in both granular media or liquids on a vibrating platform) named in his honor, though Faraday's own paper acknowledges prior work by Oersted, Wheatstone, Weber, "and probably others".
+According to Peter A. Davidson, Michael Faraday (1791-1867) "tried to measure the voltage induced by the Thames flowing through the Earth's magnetic field", allegedly the "first experiment" in magnetohydrodynamics.  After 3 days of effort at the Waterloo bridge, Faraday wrote "I could not...obtain any satisfactory results."  (An illustration of this experiment may be found [here](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/327/).)  Of course, *Faraday waves* are a phenomenon (observed in both granular media or liquids on a vibrating platform) named in his honor, though Faraday's own paper acknowledges prior work by Oersted, Wheatstone, Weber, "and probably others".  On the practical side, in 1841 Faraday developed and patented a chimney to vent oil lamp combustion products out of the lanthorn of St. Catherine's lighthouse.
 
 - Michael Faraday, 1831:  On a peculiar class of acoustical figures; and on certain forms assumed by groups of particles upon vibrating elastic surfaces.  *Philosophical Transactions of the Royal Society of London*, 121:  299-340.
 
