@@ -215,7 +215,6 @@ Alas, a similar panel could easily be held today, except (1) there would be wome
 - [Fluid mechanics in the physics curriculum](curriculum.md).
 - [Continuum mechanics in the great physics courses](physicscourses.md).
 - [Fluid mechanics and the history of physics](histphysics.md).
-- [An encomium for *D/Dt* notation](DbyDt.md) (tongue-in-cheek).
 
 ### Relevant book reviews by yours truly
 
@@ -226,7 +225,7 @@ Alas, a similar panel could easily be held today, except (1) there would be wome
 
 I am solely responsible for the content throughout this site, including errors of fact and judgment.  However I am grateful to Dr. Linda St-Cyr for providing constructive feedback.
 
-During the construction of this site, I consulted the libraries of Iowa State University, the University of Nevada - Reno, the University of California - Davis, and the University of Utah.
+During the construction of this site, I consulted the libraries of Iowa State University, the University of Nevada - Reno, the University of California - Davis, the University of California - Riverside, and the University of Utah.
 
 "One thing remains about which I wish the Reader to be especially warned in advance:  that I was not able to apply to this work that diligence or attention which I should have, and which I myself desired.  And therefore I have no doubt but that some errors will have crept in while I was doing the calculations, which I hope no one will employ wrongly; others which met my eye while I lightly read over the treatise I myself corrected; nevertheless I am convinced that still others remain even yet."
 
