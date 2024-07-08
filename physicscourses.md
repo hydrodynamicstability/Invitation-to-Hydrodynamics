@@ -137,4 +137,4 @@ Frank S. Crawford's *Waves* (1968) depicts ocean waves on its cover.  Crawford w
 
 The content on this site was developed solely on my personal time. The views expressed are solely my own, and do not necessarily represent the views, policies, or opinions of my employer or any organization with which I am affiliated.
 
-(c) 2022-2023 by Christopher Tong.  
+(c) 2022-2024 by Christopher Tong.  
