@@ -143,4 +143,4 @@ F. M. White, 2005:  *Viscous Fluid Flow*, 3d edition. McGraw-Hill.
 
 The content on this site was developed solely on my personal time. The views expressed are solely my own, and do not necessarily represent the views, policies, or opinions of my employer or any organization with which I am affiliated.
 
-(c) 2022 by Christopher Tong.  
+(c) 2022-2024 by Christopher Tong.  
