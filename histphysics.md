@@ -190,7 +190,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | 1999 (Chemistry) | Ahmed H. Zewail | Nanofluidics of molten lead in a single zinc oxide nanotube (Lorenz & Zewail, 2014). |
 | 2001 | Eric A. Cornell, Wolfgang Ketterle, and Carl Wiemann | Bose-Einstein condensation in dilute alkali atom gases, which is a superfluid. |
 | 2003 | Anthony J. Leggett | Contributions to theory of superfluids. |
-| 2004 | Frank Wilczek | Physics of swimming (Schapire and Wilczek, 1989a,b). |
+| 2004 | Frank Wilczek | Physics of swimming (Schapere and Wilczek, 1987, 1989a,b). |
 | 2016 | David J. Thouless and J. Michael Kosterlitz | Proposed new type of phase transition observable in superfluids. |
 | 2017 | Kip S. Thorne | Astrophysical hydrodynamics; fluid mechanics chapters in *Modern Classical Physics* (with R. Blandford). |
 | 2019 | P. J. E. Peebles | Hydrodynamic models in cosmology |
@@ -259,6 +259,8 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 - E. M. Purcell, 1977:  Life at low Reynold number.  *American Journal of Physics*, 45:  3-11.
 
 - H. Rouse and S. Ince, 1957:  *History of Hydraulics*.  State University of Iowa.
+
+- A. Shapere and F. Wilczek,1987:  Self-propulsion at low Reynolds number.  *Physical Review Letters*, 58:  2051-2054.
 
 - A. Shapere and F. Wilczek, 1989a:  Geometry of self-propulsion at low Reynolds number.  *Journal of Fluid Mechanics*, 198:  557-585.
 
