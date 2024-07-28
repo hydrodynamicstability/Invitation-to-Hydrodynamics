@@ -198,7 +198,10 @@ Having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can't fail t
 - Pierre-Gilles de Gennes, Francoise Brochard-Wyart, and David Quere, 2004:  *Capillarity and Wetting:  Drops, Bubbles, Pearls, Waves*.  Translated by Axel Reisinger.  Springer.
     - P.-G. de Gennes (1932-2007) won the 1991 Nobel Prize in physics, the first for soft matter physics.  Brochard-Wyart was one of his students, and Quere was one of hers.  The book, written specifically for students, is intended to provide a more qualitative, "impressionistic" account of the phenomena covered, at the expense of "rigor" and fancy mathematics.
 
-Finally, though it breaks my rule about only post-WWII books, for completeness I will mention one more Nobel laureate:
+Finally, though it breaks my rule about only post-WWII books, for completeness I will mention two more Nobel laureates:
+
+- W. Wien, 1900:  *Lehrbuch der Hydrodynamik*.  S. Hirzel.
+    - As far as I know, this German text has never been translated into English.
 
 - Max Planck, 1932:  *The Mechanics of Deformable Bodies*.  Translated by Henry L. Brose.  Introduction to Theoretical Physics, vol. 2.  Macmillan.
     - This is translated from the third German edition; the original German text is dated 1919.  The book covers both solid and fluid mechanics.  Max Planck (1858-1947) is, of course, the founder of quantum mechanics.
