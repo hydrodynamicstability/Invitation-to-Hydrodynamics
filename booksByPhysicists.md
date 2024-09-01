@@ -55,7 +55,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
 - Jonathan Braithwaite, 2017:  *Essential Fluid Dynamics for Scientists*.  IOP Concise Physics.  Morgan & Claypool/IOP.
     - A graduate level text by an astrophysicist, emphasizing astrophysical and geophysical applications, at the expense of others.  Solutions to problems are not provided.  The author wisely recommends that "since atmospheric fluid dynamics has a longer history than astrophysical fluids, astrophysicists are well advised to learn from this neighbouring field to avoid reinventing the wheel."
 
-- Roberto A. Capuzzo Dolcetta, 2023:  *Physics of Fluids*.  Springer.
+- Roberto A. Capuzzo Dolcetta, 2023:  *Physics of Fluids*.  Springer.  Corrected printing, 2024.
     - A treatment of fluids by an Italian astrophysicist; each chapter ends with a set of solved problems.
 
 - Thomas E. Faber, 1995:  *Fluid Dynamics for Physicists*. Cambridge University Press.
