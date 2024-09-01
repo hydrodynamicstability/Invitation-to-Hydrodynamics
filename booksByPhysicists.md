@@ -114,7 +114,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
     - D. J. Tritton (1935-1998) was trained as an experimental hydrodynamicist, and had broad interests, with particular involvement in geophysics and planetary physics.  This book emphasizes experimental and observational results, along with geophysical applications (not surprisingly), and has a set of problems, hints, and answers in the back.
 
 - Hendrik Jan van Eerten, 2024:  *Introduction to Fluid Dynamics in Physics and Astrophysics*.  CRC Press.
-    - Befitting its astrophysicist author, this book has a strong astrophysical bent, along with a final chapter on computational fluid dynamics using the finite volume method.  It includes chapters on Lagrangian fluid dynamics, special relativity, plasma physics, atmospheres and stellar structures, and accretion flow, among others.  Abbreviated answers to selected problems appear in the back.
+    - Befitting its astrophysicist author, this book has a strong astrophysical bent, along with a final chapter on computational fluid dynamics using the finite volume method.  It includes chapters on Lagrangian fluid dynamics, special relativity, plasma physics, atmospheres and stellar structures, and accretion flow, among others.  Most examples are drawn from astrophysics.  Abbreviated answers to selected problems appear in the back.  The computational material in the book is supported by a [Github site](https://github.com/hveerten/code_fluid_dynamics_book), which also has a running list of errata.
 
 ### Books covering solid mechanics
 
