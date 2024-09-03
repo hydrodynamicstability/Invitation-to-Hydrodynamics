@@ -200,8 +200,8 @@ Having mentioned Lord Rayleigh, Lev Landau, and Kip Thorne above, I can't fail t
 
 Finally, though it breaks my rule about only post-WWII books, for completeness I will mention two more Nobel laureates:
 
-- W. Wien, 1900:  *Lehrbuch der Hydrodynamik*.  S. Hirzel.
-    - As far as I know, this German text has never been translated into English.
+- Wilhelm Wien, 1900:  *Lehrbuch der Hydrodynamik*.  S. Hirzel.
+    - As far as I know, this German text has never been translated into English.  Wien also served on Werner Heisenberg's dissertation committee, [according](https://www.aps.org/archives/publications/apsnews/199801/heisenberg.cfm) to David Cassidy.  Wien accepted Heisenberg's dissertation paper, on the transition to turbulence in a channel flow, for publication in the *Annalen der Physik*, but almost flunked Heisenberg for his incompetence in matters of experimental physics.
 
 - Max Planck, 1932:  *The Mechanics of Deformable Bodies*.  Translated by Henry L. Brose.  Introduction to Theoretical Physics, vol. 2.  Macmillan.
     - This is translated from the third German edition; the original German text is dated 1919.  The book covers both solid and fluid mechanics.  Max Planck (1858-1947) is, of course, the founder of quantum mechanics.
