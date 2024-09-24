@@ -179,7 +179,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 |1938 | Enrico Fermi | Relativistic hydrodynamics of collision products of high energy cosmic rays. [Worked](https://rlg.fas.org/010929-fermi.htm) with John von Neumann on Rayleigh-Taylor instability. |
 | 1952 | Edward M. Purcell | Life at low Reynolds number (Purcell, 1977). |
 | 1956/1972 | John Bardeen | Two-fluid model of superconductivity (Bardeen, 1958). |
-| 1957 | T. D. Lee | Statistical properties of hydrodynamic and magnetohydroynamic fields (Lee, 1952). | 
+| 1957 | T. D. Lee | Two brief notes on turbulence (1950, 1951); statistical properties of hydrodynamic and magnetohydroynamic fields (1952). | 
 |1962 | Lev D. Landau | Theory of superfluids; theory of turbulence; relativistic hydrodynamics (see Fermi above); classic text with Lifshitz, *Fluid Mechanics*. |
 |1965 | Richard P. Feynman | Circulation quantization in superfluids.  Fluid mechanics chapters in classic *Feynman Lectures on Physics*. |
 | 1965 | Julian Schwinger | Research on somnoluminescence. |
@@ -247,6 +247,10 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 - J. G. Kirkwood and H. A. Bethe, 1942:  *The Pressure Wave Produced by an Underwater Explosion I*.  Office of Scientific Research and Development, Technical Report No. 588.
 
 - H. K. Kuiken, 1996:  *The Centenary of a Paper on Slow Viscous Flow by the Physicist H. A. Lorentz*.  Kluwer.
+
+- T. D. Lee, 1950:  Note on the coefficient of eddy viscosity in isotropic turbulence.  *Physical Review*, 77:  842-843.
+
+- T. D. Lee, 1951:  Difference in turbulence in a two-dimensional fluid and in a three-dimensional fluid.  *Journal of Applied Physics*, 22:  524.
 
 - T. D. Lee, 1952:  On some statistical properties of hydrodynamical and magnetohydrodynamical fields. *Quart. J. Appl. Math.*, 10, 69-74.
 
