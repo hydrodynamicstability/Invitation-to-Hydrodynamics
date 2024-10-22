@@ -157,7 +157,7 @@ For more on the history of fluid mechanics, Rouse and Ince (1957), Anderson (199
 
 ### APPENDIX:  Nobel Laureates and the Physics of Fluids
 
-Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Physics (and Chemistry, noted as such), the year of their award, and a mention of a few of their involvements in fluid mechanics or the physics of fluids.  In most cases such involvement was *not* the reason for their Nobel Prize.
+Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Physics (or Chemistry or Biology, noted as such), the year of their award, and a mention of a few of their involvements in fluid mechanics or the physics of fluids.  In most cases such involvement was *not* the reason for their Nobel Prize.
 
 | Year | Laureate| Involvement with the physics of fluids or related activity |
 | ------ | -----------| ----------------------------------------------------------------------|
@@ -186,6 +186,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | 1967 | Hans A. Bethe | Worked on liquid drop model of nucleus.  During WWII, on von Karman's recommendation, Bethe and Teller worked on the theory of shock waves, before they were recruited to Los Alamos.  Bethe also worked with J.G. Kirkwood on the pressure wave from an underwater explosion. |
 | 1967 (Chemistry) | Manfred Eigen | Ultrasonic methods of producing chemical reactions/processes. |
 | 1968 (Chemistry) | Lars Onsager | Turbulence scaling law (similar to Kolmogorov-Obukhov's), 1945; 1949 papers on statistical hydrodynamics; Bose-Einstein condensation in liquid helium (Penrose & Onsager, 1956). |
+| 1969 (Biology) | Max Delbruck | Saffman-Delbruck (1975) model for diffusion in lipid bilayers |
 | 1970 | Hannes O. G. Alfven | Magnetohydrodynamic waves. |
 | 1977 | Philip W. Anderson | Anderson's equations for superfluid flow. |
 | 1977 (Chemistry) | Ilya Prigogine | Theory of dissipative structures such as Benard cells in thermal convection. |
@@ -271,6 +272,8 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 - E. M. Purcell, 1977:  Life at low Reynold number.  *American Journal of Physics*, 45:  3-11.
 
 - H. Rouse and S. Ince, 1957:  *History of Hydraulics*.  State University of Iowa.
+
+- P. G. Saffman and M. Delbruck, 1975:  Brownian motion in biological membranes.  *Proceedings of the National Academy of Sciences USA*, 72:  3111-3113.
 
 - A. Shapere and F. Wilczek,1987:  Self-propulsion at low Reynolds number.  *Physical Review Letters*, 58:  2051-2054.
 
