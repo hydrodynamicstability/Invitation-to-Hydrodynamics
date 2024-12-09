@@ -52,6 +52,15 @@ some big-picture discussion of how simple equations can generate complex behavio
 
 In his comments at the 2022 [*Boulder School for Condensed Matter and Materials Physics*](https://boulderschool.yale.edu/2022/boulder-school-2022), Royce Zia reminds us that [Feynman's blackboard](https://doi.org/10.1063/1.2810904), at the time of his death, had a list of topics "to learn", including "Non linear classical hydro\[dynamics\]".
 
+Outside of the *Feynman Lectures*, Feynman was known to have wondered about various fluid mechanical phenomena.  In 2024, two papers were published that explored examples of such phenomena.  First, there is the "Feynman sprinkler", which is an ordinary rotating garden sprinkler, immersed in a tank of water, and operating in reverse (that is, sucking water in, instead of spewing water out).  How would it move, if it moves at all?  After debating what he thought would happen with his then-graduate advisor, John Wheeler, Feynman famously attempted to perform this experiment, resulting in the explosion of a glass carboy at the Princeton cyclotron lab.  A series of papers over the years has investigated this phenomenon, including the most recent one:
+
+- K. Wang, B. Sprinkle, M. Zuo, and L. Ristroph, 2024:  Centrifugal flows drive reverse rotation of Feynman's sprinkler.  *Physical Review Letters*, 132:  044003.
+
+Much later, Feynman imagined an insect in a swimming pool, observing the local wave motions, and wondered if it would be possible from this data to determine what was happening in the rest of the pool (where and when others were moving in the pool).  An attempt to model this scenario appeared this year:
+
+- A. Kirkeby, 2024:  Feynman's inverse problem.  *SIAM Review*, 66:  694-718.
+
+
 ### Landau and Lifshitz
 
 Lev D. Landau and Evgenii M. Lifshitz's 10-volume *Course of Theoretical Physics* is on the opposite end of the *Feynman Lectures*, best used by graduate 
