@@ -34,6 +34,9 @@ Commentary on these books is being added gradually over time, so please consider
     
 - Benny Lautrup, 2011:  *Physics of Continuous Matter: Exotic and Everyday Phenomena in the Macroscopic World*, 2d edition. CRC Press.  Original edition, 2005.
     - This massive text by a Danish theoretical physicist is the most comprehensive contemporary introductory book on continuum mechanics by a physicist.  It is aimed at third-year undergraduates or higher.  "Answers" to odd-numbered problems are found in the back, but some are actually just hints while others outline the solution.  A [supporting webpage](https://www.lautrup.nbi.dk/continuousmatter2/index.html) provides addenda, errata, and other apparatus.
+ 
+- Steven R. Pride, 2025:  *An Introduction to Continuum Physics*.  Cambridge University Press.
+    - A new book by a geophysicist, which covers continuum mechanics, electromagnetism, and Newtonian gravity.  Appears to take a coarse-graining approach to develop continuum physics from its underlying discrete nature.  I look forward to examining a copy when it becomes available.
    
 - Arnold Sommerfeld, 1950:  *Mechanics of Deformable Bodies*, 2d edition.  Translated by G. Kuerti.  Lectures on Theoretical Physics, vol. 2.  Academic Press.  Original German edition, 1943.
     - Sommerfeld (1868-1951) was a distinguished German physicist who made pivotal contributions to both classical and modern physics; four of his doctoral students (Heisenberg, Pauli, Debye, and Bethe) and three of his post-docs (Pauling, Rabi, and von Laue) later won Nobel Prizes.  The coverage of topics in this book is severely limited from a 21st century perspective; for instance, boundary layers are discussed only qualitatively in a few pages.  Answers and comments to problems are provided.  See my further comments on this book at a [companion page](physicscourses.md).
