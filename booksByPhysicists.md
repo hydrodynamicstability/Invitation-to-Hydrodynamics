@@ -113,6 +113,10 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
 - Emmanuil G. Sinaiski, 2011:  *Hydromechanics:  Theory and Fundamentals*.  Translated by Moritz Braun.  Wiley-VCH.
     - The author has a Ph.D. in mathematics and physics, and a Dr. Eng. Sci. in petroleum engineering, from Russian universities.  The book is based on lectures he gave at the Gubkin State University of Oil and Gas, Moscow.  This book emphasizes the continuum mechanics foundations of fluid mechanics, and includes extensive mathematical appendices on vector and tensor analysis, differential geometry, probability theory, and complex analysis.  No exercises are included.
 
+- David Tong, 2025:  *Fluid Mechanics*.  Cambridge University Press.
+
+    - Tong is a theoretical physicist (no relation) in the U.K.  His *Lectures on Theoretical Physics* are available online and are very popular.  Cambridge University Press appears to be releasing paperback versions of the first four volumes in the summer of 2025.  Volume 4 is on *Fluid Mechanics*.
+
 - David J. Tritton, 1988: *Physical Fluid Dynamics*, 2d edition. Oxford University Press.  (Original edition, 1977.)
     - D. J. Tritton (1935-1998) was trained as an experimental hydrodynamicist, and had broad interests, with particular involvement in geophysics and planetary physics.  This book emphasizes experimental and observational results, along with geophysical applications (not surprisingly), and has a set of problems, hints, and answers in the back.
 
