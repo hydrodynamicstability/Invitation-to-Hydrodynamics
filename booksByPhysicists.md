@@ -215,6 +215,8 @@ Finally, though it breaks my rule about only post-WWII books, for completeness I
 
 As an aside, it is this section of this page where female physicists are first mentioned, both French:  Phuong Mai Dinh and Francoise Brochard-Wyart.  The British astronomer Cathie Clark will be noted in Appendix A below.  I know of a few other female physicist authors of fluids books:  Elisabeth Guazzelli (also French, co-author of *A Physical Introduction to Suspension Dynamics*), Barbara Weibel-Mihalas (American, co-author of *Foundations of Radiation Hydrodynamics*), Rita Meyer-Spasche (German, author of *Pattern Formation in Viscous Flows*), and Emily Ching (Hong Kong, author of *Statistics and Scaling in Turbulent Rayleigh-Benard Convection*). I'm sure that I'm missing others.  Of course there are books by female mathematicians, engineers, and geoscientists on fluid mechanics too.
 
+A book *not* written by a physicist, that attempts a physics perspective, is Young J. Moon's *Introduction to Fluid Dynamics:  Understanding Fundamental Physics* (Wiley, 2022).  The author is a Korean aeronautical engineer.
+
 ### Some reflections on the books discussed
 
 In this section I focus on the books listed in the first two sections, on continuum and fluid mechanics.  
