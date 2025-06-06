@@ -115,7 +115,7 @@ The "standards" on this list are Landau & Lifshitz (1997) and Tritton (1988), bo
 
 - David Tong, 2025:  *Fluid Mechanics*.  Cambridge University Press.
 
-    - Tong is a theoretical physicist (no relation) in the U.K.  His *Lectures on Theoretical Physics* are available online and are very popular.  Cambridge University Press appears to be releasing paperback versions of the first four volumes in the summer of 2025.  Volume 4 is on *Fluid Mechanics*.
+    - Tong is a theoretical physicist (no relation) in the U.K.  His *Lectures on Theoretical Physics* are available online and are very popular.  Cambridge University Press appears to be releasing somewhat enhanced versions of the first four volumes in the summer of 2025.  Volume 4 is on *Fluid Mechanics*.
 
 - David J. Tritton, 1988: *Physical Fluid Dynamics*, 2d edition. Oxford University Press.  (Original edition, 1977.)
     - D. J. Tritton (1935-1998) was trained as an experimental hydrodynamicist, and had broad interests, with particular involvement in geophysics and planetary physics.  This book emphasizes experimental and observational results, along with geophysical applications (not surprisingly), and has a set of problems, hints, and answers in the back.
