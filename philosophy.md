@@ -2,7 +2,7 @@
 
 - "Hydrodynamics and magnetohydrodynamics are fundamental, regardless of popular opinion."
 
-  – Eugene N. Parker (1927-2022)
+  - Eugene N. Parker (1927-2022)
 
   - Quoted in the retrospective by Stuart D. Bale, *Science*, 376: 461 (29 Apr 2022).
 
@@ -14,7 +14,7 @@
 
 - "To begin with, we should bear in mind the inherent limitations of all mathematical analyses of physical events.  First, although our aim is to formulate general rules of conduct for fluid in motion, it is the fluid itself and not our analysis which finally
 decides whether it will conform to those rules; the justification of an analysis, therefore, lies not in its apparent rigour nor in its elegance--though these things count for much--but in its agreement with practical observations.  Next, such analysis can
-account only for those properties of a physical event whose existence our limited knowledge can coneive and which we may hope to observe and measure; its value will depend on the discernment with which we single out certain properties for special attention and
+account only for those properties of a physical event whose existence our limited knowledge can conceive and which we may hope to observe and measure; its value will depend on the discernment with which we single out certain properties for special attention and
 on their natural significance.  Last, the claim has never been made that the equations, which we construct to express the mutual dependence of these proprties, exactly represent physical fact, and that any deviations from observed fact are due to defects in
 the observations; nor, on the other hand, can the infallibility which we thus deny to theory be claimed by experimental observation."
 
@@ -23,9 +23,10 @@ the observations; nor, on the other hand, can the infallibility which we thus de
 - "Fluid dynamics, including mechanics of liquids and gases, is a part of physics.  We can divide the processes of any physical theory into four steps:
     1.  Placing observed data into general physical laws, assuming the uniformity of nature.
     2.  Transferring the physical laws into mathematical form, thus obtaining a logically consistent system of axioms which usually consists of a system of differential equations.
-    3.  Drawing conclusiong from these differential equations.  This is a purely mathematical step.
+    3.  Drawing conclusions from these differential equations.  This is a purely mathematical step.
     4.  Check on the reseults obtained in (3) by experiments.
-  It is often assumed that the first two steps are completed for all branches of mechanics and that, therefore, mechanics at present offers only mathematical difficulties.  This, however, is not so for certain facts in fluid dynamics (and elsewhere).
+  
+  "It is often assumed that the first two steps are completed for all branches of mechanics and that, therefore, mechanics at present offers only mathematical difficulties.  This, however, is not so for certain facts in fluid dynamics (and elsewhere).
 
   "The first two steps above have been carried out, as far as fluid are concerned, in two forms.  First a theory of 'perfect fluids' has been developed, and then it was supplemented by a theory of 'viscous fluids'.  However, these
   theories do not explain all the known facts in fluid dynamics.  They cover the explanation of so-called *laminar* flow.  Here the particles travel along smooth curves, or the jet emanating from the opening of a tank.  On the other
