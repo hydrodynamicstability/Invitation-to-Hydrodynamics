@@ -217,6 +217,7 @@ Alas, a similar panel could easily be held today, except (1) there would be wome
 - [Fluid mechanics in the physics curriculum](curriculum.md).
 - [Continuum mechanics in the great physics courses](physicscourses.md).
 - [Fluid mechanics and the history of physics](histphysics.md).
+- [Some philosophy of fluid mechanics](philosophy.md).
 
 ### Relevant book reviews by yours truly
 
