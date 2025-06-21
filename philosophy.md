@@ -54,7 +54,16 @@ The proportion each contributes to our understanding of flow behaviour varies gr
 
   - David J. Tritton (1935-1998)
  
-  - *Physical Fluid Dynamics*, second edition (New York:  Oxford University Press), Chapter 1.
+  - *Physical Fluid Dynamics*, second edition (New York:  Oxford University Press, 1988), Chapter 1.
+
+These views are not contradicted by a pair of theoretical physicists:
+
+- "Fluid dynamics is an experimental discipline; much of our current understanding has come in response to laboratory investigations....Relatively few problems in fluid dynamics admit complete, closed-form, analytic solutions, so progress in describing fluid flows has usually come from introducing clever physical models and using judicious mathematical approximations.  Semi-empirical scaling laws are also common, especially for engineering applications.  In more recent years, numerical fluid dynamics has come of age, and in many areas of fluid dynamics, computer simulations are complementing and even supplanting laboratory experiments and measurements."
+
+  - Kip S. Thorne (b. 1940) and Roger D. Blandford (b. 1949)
+ 
+  - *Elasticity and Fluid Dynamics* (Princeton University Press, 2021), introduction to Part V.
+
 
 Finally, I soundly reject the account given by one of the founders of theoretical hydrodynamics, as expressed below:
 
@@ -70,6 +79,11 @@ Finally, I soundly reject the account given by one of the founders of theoretica
 For some *philosophy of science* views on fluid mechanics, see the following (and references cited therein):
 
 Olivier Darrigol, 2013:  For a philosophy of hydrodynamics.  *The Oxford Handbook of Philosophy of Physics*, edited by Robert Batterman (New York:  Oxford University Press), pp. 12-42.
+
+All the writings above predate the advent of machine learning and artificial intelligence in fluid mechanics research.  One of many accounts of this trend can be found in the following, which acknowledges the challenges to "human understanding and engineering intuition" as "scientific inquiry shifts from first principles to data-driven approaches".
+
+Steven L. Brunton, Bernd R. Noack, and Petros Koumoutsakos, 2020:  Machine learning for fluid mechanics.  *Annual Review of Fluid Mechanics*, 52:  477-508.
+
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
