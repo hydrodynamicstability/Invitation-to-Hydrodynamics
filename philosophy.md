@@ -19,6 +19,8 @@ on their natural significance.  Last, the claim has never been made that the equ
 the observations; nor, on the other hand, can the infallibility which we thus deny to theory be claimed by experimental observation."
 
   - The authors of *Incompressible Aerodynamics:  An Account of the Theory and Observation of the Steady Flow of Incompressible Fluid past Aerofoils, Wings, and Other Bodies*, edited by Bryan Thwaites (Oxford University Press, 1960; reprinted by Dover, 1987), Chapter 1.
+ 
+  - The contributors are listed as D. G. Ainley, L. F. Crabtree, M. B. Glauert, D. Kuchemann, M. J. Lighthill, W. A. Mair, E. C. Maskell, T. R. F. Nonweiler, R. C. Pankhurst, J. H. Preston, A. G. Smith, D. A. Spence, B. Thwaites, J. Weber, L. G. Whitehead, and L. C. Woods.
 
 - "Fluid dynamics, including mechanics of liquids and gases, is a part of physics.  We can divide the processes of any physical theory into four steps:
     1.  Placing observed data into general physical laws, assuming the uniformity of nature.
