@@ -64,6 +64,13 @@ These views are not contradicted by a pair of theoretical physicists:
  
   - *Elasticity and Fluid Dynamics* (Princeton University Press, 2021), introduction to Part V.
 
+The last word belongs to a mechanical engineer-turned-oceanographer:
+
+- "As in other fields, our mathematical ability is too limited to tackle the complex problems of real fluid flows.  Whether we are primarily interested in understanding the physics or in the applications, we must depend heavily on experimental observations to test our analyses and to develop insights into the nature of the phenomenon.  Fluid dynamicists cannot afford to think like pure mathematicians."
+
+  - Pijush K. Kundu (1941-1994)
+ 
+  - *Fluid Mechanics*, first edition (San Diego:  Academic Press, 1990), Chapter 1.
 
 Finally, I soundly reject the account given by one of the founders of theoretical hydrodynamics, as expressed below:
 
@@ -74,7 +81,11 @@ Finally, I soundly reject the account given by one of the founders of theoretica
   - *Preliminary Discourse to the Encyclopedia of Diderot*, Part 1 (Paris, 1751).  Translated by Richard N. Schwab (University of Chicago Press, 1995).
 
 
-### References
+### Further reading
+
+If any of this intrigues you, consider looking at
+
+Garrett Birkhoff, 1960:  *Hydrodynamics:  A Study in Logic, Fact, and Similitude*, revised edition (Princeton University Press).
 
 For some *philosophy of science* views on fluid mechanics, see the following (and references cited therein):
 
