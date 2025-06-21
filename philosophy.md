@@ -40,7 +40,21 @@ the observations; nor, on the other hand, can the infallibility which we thus de
  
   - *Fluid Dynamics* (New York:  Springer-Verlag, 1971), Introduction.
 
-Finally, we soundly reject the account given by one of the founders of theoretical hydrodynamics, as expressed below:
+In the spirit of "unceasing logical criticism", may I add that the above account by two mathematicians is grossly oversimplified to the point of mockery; a much-needed alternative perspective is given by an experimental physicist below.
+
+- "One believes that the basic physical laws governing the behaviour of fluids in motion are the usual well-known laws of mechanics--essentially conservation of mass and Newton's laws of motion, together with, for some problems, the laws of thermodynamics.
+The complexities arise in the consequences of these laws.  The way in which observed flow patterns do derive from the governing laws is often by no means apparent.  A large theoretical and conceptual structure, built, on the one hand, on the basic laws and, on
+the other hand, on experimental observations, is needed to make the connection....
+
+  "Thus, for the most part, fluid dynamical problems are concerned with the behaviour, subject to known laws, of a fluid of specified properties in a specified configuration....Ideally one would like to be able to solve such problems through an appropriate mathematical formulation of the governing laws; the role of experiment would be to check that solutions so obtained do correspond to reality.  In fact the mathematical difficulties are such that a formal theory often has to be supplemented or replaced by experimental observations
+and measurements.  Even in cases where a fairly full mathematical description of a flow has been obtained, this has often been possible only after experiments have indicated the type of theory needed.  The subject involves an interplay between theory and experiment.
+The proportion each contributes to our understanding of flow behaviour varies greatly from topic to topic."
+
+  - David J. Tritton (1935-1998)
+ 
+  - *Physical Fluid Dynamics*, second edition (New York:  Oxford University Press), Chapter 1.
+
+Finally, I soundly reject the account given by one of the founders of theoretical hydrodynamics, as expressed below:
 
 - "From a single experiment on the pressure of fluids, we derive all the laws of their equilibrium and their movement."
 
