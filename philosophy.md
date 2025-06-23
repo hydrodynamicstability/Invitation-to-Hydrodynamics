@@ -22,6 +22,16 @@ the observations; nor, on the other hand, can the infallibility which we thus de
  
   - The contributors are listed as D. G. Ainley, L. F. Crabtree, M. B. Glauert, D. Kuchemann, M. J. Lighthill, W. A. Mair, E. C. Maskell, T. R. F. Nonweiler, R. C. Pankhurst, J. H. Preston, A. G. Smith, D. A. Spence, B. Thwaites, J. Weber, L. G. Whitehead, and L. C. Woods.
 
+- "In all specializations of mechanics, the foundations, that is, a precise definition of the relevant class of systems and the formulation of the physical principles and equations generally controlling the behavior, were known at an early stage.  However, our ability to develop the consequences of these foundations in a fruitful manner has grown gradually from their inception to the present. This discrepancy between foundations and applicability is extreme in the case of fluid mechanics.  In this field, the fundamental equations and principles were already known in the 1750s for inviscid fluids, and in the 1820s for viscous fluids.  In the eighteenth and nineteenth century, a few problems of practical interest could be solved....
+
+  "However, two of the practically most important problems, fluid retardation (in pipes) and fluid resistance (to the motion of immersed bodies) remained essentially unsolved in the most common case of slightly viscous fluids (high Reynolds number).  Progress in this domain awaited the boundary-layer theory....After generalization to turbulent boundary layers, it produced the long awaited, universal solutions of the retardation and resistance problems encountered by hydraulicians and aeronautic engineers."
+
+  "The moral is that the Navier-Stokes equations, although they implicitly cover most cases of flow encountered in nature, remain useless for an enormous variety of concrete problems unless proper conceptual furniture is brought to them through specializtion, approximation, regionalization, and asymptotics.  There are evident reasons for this complexity and richness:  the infinite number of degrees of freedom, the drastic non-linearity of the fundamental equations and the ensuing instability of simple solutions.  Physicists have gradually learned how to harness this complexity, although there are still  many open questions, especially about turbulence.  It was much easier to discover the fundamental equations--no offense to D'Alembert and Euler--than to discover their physical content in the application game."
+
+  - Olivier Darrigol (b. 1955)
+ 
+  - "Geometry, mechanics, and experience:  a historico-philosophical musing" (2022).  *European Journal for Philosophy of Science*, 12:60.
+
 - "Fluid dynamics, including mechanics of liquids and gases, is a part of physics.  We can divide the processes of any physical theory into four steps:
     1.  Placing observed data into general physical laws, assuming the uniformity of nature.
     2.  Transferring the physical laws into mathematical form, thus obtaining a logically consistent system of axioms which usually consists of a system of differential equations.
