@@ -107,6 +107,8 @@ If any of this intrigues you, consider looking at
 
 Garrett Birkhoff, 1960:  *Hydrodynamics:  A Study in Logic, Fact, and Similitude*, revised edition (Princeton University Press).
 
+Clifford A. Truesdell and Richard A. Toupin, 1960:  The field viewpoint in classical physics, subsections A1-A9.  Excerpt from *The Classical Field Theories*, in *Handbuch der Physik*, Band III/1, ed. by S. Flugge (Springer), pp. 226-235.  Revised reprint in C. Truesdell, 1986:  *An Idiot's Fugitive Essays in Science:  Methods, Criticism, Training, Circumstances*, revised edition (Springer), pp. 21-40.
+
 For some *philosophy of science* views on fluid mechanics, see the following (and references cited therein):
 
 Olivier Darrigol, 2013:  For a philosophy of hydrodynamics.  *The Oxford Handbook of Philosophy of Physics*, edited by Robert Batterman (New York:  Oxford University Press), pp. 12-42.
