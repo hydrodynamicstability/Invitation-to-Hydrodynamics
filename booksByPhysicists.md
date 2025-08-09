@@ -197,6 +197,9 @@ As a point of personal privilege, I want to include a few other titles on a more
 - Eugene N. Parker, 2007:  *Conversations on Electric and Magnetic Fields in the Cosmos*.  Princeton University Press.
     - Focuses on "the large-scale magnetic fields that are transported bodily in the swirling ionized gases (plasmas) of planetary magnetospheres, stars, and galaxies, and, indeed, throughout intergalactic space".  For this reason, hydrodynamics and magnetohydrodynamics (chapters 8 and 9, respectively) play a major role throughout the book.  The riveting first chapter makes clear that the interaction between flowing matter and magnetic fields is far more important for large scale astrophysical processes than the electrical field and electrical current; and this would not be so if magnetic monopoles were abundant.
 
+- Anthony T. Paxton, 2025:  *Fundamentals of Transport Phenomena*.  Cambridge University Press.
+    - Chemical and mechanical engineers started writing texts on transport phenomena because introductory physics courses did not cover the topics; hence there are very few texts in this field written by physicists.  This forthcoming book is the only one that I know of.  It is said to cover fluid mechanics, solid state diffusion, and heat conduction.  The author is a British physicist with a research track record in metallurgy, materials science, and solid state physics.
+
 - Grigory Vekstein, 2013:  *Physics of Continuous Media:  Problems and Solutions in Electromagnetism, Fluid Mechanics, and MHD*, 2d edition.  CRC Press.
     - Includes electrodynamics in addition to fluid mechanics, magnetohydrodynamics, and elasticity.  Unfortunately the author, a solar and plasma physicist, passed away in 2021, a victim of COVID.
 
