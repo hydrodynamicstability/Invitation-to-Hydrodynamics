@@ -153,6 +153,15 @@ of my present efforts, I will simply list a sampling of fairly general works on 
 - T. D. Rossing, F. R. Moore, and P. A. Wheeler, 2002: *The Science of Sound,* 3d edition. Pearson Addison Wesley.
 - E. Skudrzyk, 1971:  *The Foundations of Acoustics: Basic Mathematics and Basic Acoustics*. Springer.
 
+### Books on transport phenomena
+
+In the late 1950s, chemical and mechanical engineers began addressing the fact that their students learned almost nothing about the diffusion and convection of mass, momentum, and heat in their introductory physics courses.  This culminated in the classic chemical engineering textbook *Transport Phenomena* by Bird, Stewart, and Lightfoot (Wiley, 1960), with others to follow in later decades. This literature exists because of the lack of interest by physicists; consequently I know of only the following texts written by physicists.
+
+- David C. Venerus and Hans Christian Ottinger, 2018:  *A Modern Course in Transport Pheneomena*.  Cambridge University Press.
+    - This text is coauthored by an American chemical engineer who works in soft matter, polymer science, and complex fluids (Venerus) and a theoretical physicist (German-born but working in Switzerland) who works in nonequilibrium thermodynamics and polymer physics, though originally trained in quantum field theory (Ottinger).  Both authors are fellows of the Society of Rheology.  The book is unusual in that it covers a number of nontraditional topics including relativistic hydrodynamics! 
+
+- Anthony T. Paxton, 2025:  *Fundamentals of Transport Phenomena*.  Cambridge University Press.
+    - This forthcoming book is said to cover fluid mechanics, solid state diffusion, and heat conduction.  The author is a British physicist with a research track record in metallurgy, materials science, and solid state physics.
 
 
 ### Other books by physicists that you should be aware of
@@ -196,9 +205,6 @@ As a point of personal privilege, I want to include a few other titles on a more
 
 - Eugene N. Parker, 2007:  *Conversations on Electric and Magnetic Fields in the Cosmos*.  Princeton University Press.
     - Focuses on "the large-scale magnetic fields that are transported bodily in the swirling ionized gases (plasmas) of planetary magnetospheres, stars, and galaxies, and, indeed, throughout intergalactic space".  For this reason, hydrodynamics and magnetohydrodynamics (chapters 8 and 9, respectively) play a major role throughout the book.  The riveting first chapter makes clear that the interaction between flowing matter and magnetic fields is far more important for large scale astrophysical processes than the electrical field and electrical current; and this would not be so if magnetic monopoles were abundant.
-
-- Anthony T. Paxton, 2025:  *Fundamentals of Transport Phenomena*.  Cambridge University Press.
-    - Chemical and mechanical engineers started writing texts on transport phenomena because introductory physics courses did not cover the topics; hence there are very few texts in this field written by physicists.  This forthcoming book is the only one that I know of.  It is said to cover fluid mechanics, solid state diffusion, and heat conduction.  The author is a British physicist with a research track record in metallurgy, materials science, and solid state physics.
 
 - Grigory Vekstein, 2013:  *Physics of Continuous Media:  Problems and Solutions in Electromagnetism, Fluid Mechanics, and MHD*, 2d edition.  CRC Press.
     - Includes electrodynamics in addition to fluid mechanics, magnetohydrodynamics, and elasticity.  Unfortunately the author, a solar and plasma physicist, passed away in 2021, a victim of COVID.
