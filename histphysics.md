@@ -180,7 +180,7 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | 1952 | Edward M. Purcell | Life at low Reynolds number (Purcell, 1977). |
 | 1956/1972 | John Bardeen | Two-fluid model of superconductivity (Bardeen, 1958). |
 | 1957 | T. D. Lee | Two brief notes on turbulence (1950, 1951); statistical properties of hydrodynamic and magnetohydroynamic fields (1952). | 
-|1962 | Lev D. Landau | Theory of superfluids; theory of turbulence; relativistic hydrodynamics (see Fermi above); classic text with Lifshitz, *Fluid Mechanics*. |
+|1962 | Lev D. Landau | Theory of superfluids; theory of turbulence; relativistic hydrodynamics (see Fermi above); classic text with Lifshitz, *Fluid Mechanics*.  The introduction to his *Collected Papers* mentions at least 9 papers on classical hydrodynamics. |
 |1965 | Richard P. Feynman | Circulation quantization in superfluids.  Fluid mechanics chapters in classic *Feynman Lectures on Physics*. |
 | 1965 | Julian Schwinger | Research on somnoluminescence. |
 | 1967 | Hans A. Bethe | Worked on liquid drop model of nucleus.  During WWII, on von Karman's recommendation, Bethe and Teller worked on the theory of shock waves, before they were recruited to Los Alamos.  Bethe also worked with J.G. Kirkwood on the pressure wave from an underwater explosion. |
@@ -284,6 +284,8 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 - J. Serrin, 1959:  Mathematical principles of classical fluid mechanics.  *Handbuch der Physik*, VIII/1:  125-263, Sec. 7.
 
 - K. R. Sreenivasan, 2019:  Chandrasekhar's fluid mechanics.  *Annual Review of Fluid Mechanics*, 51:  1-24.
+
+- D. ter Haar (ed.), 1965:  *Collected Papers of L. D. Landau*.  Pergamon.
 
 - J. J. Thomson, 1883:  *A Treatise on the Motion of Vortex Rings*.  Macmillan.
 - 
