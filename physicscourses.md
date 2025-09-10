@@ -130,7 +130,7 @@ Of the architects of contemporary physics since Landau, perhaps Steven Weinberg 
 
 ### David Tong
 
-David Tong's renowned *Lectures on Theoretical Physics* have been available online at his website for years.  Cambridge University Press is issuing the first four volumes in paperback in 2025.  Volume 4 is on *Fluid Mechanics*.
+David Tong's renowned *Lectures on Theoretical Physics* have been available online at his website for years.  Cambridge University Press has issued the first four volumes in paperback in 2025.  Volume 4 is on *Fluid Mechanics*.  Some readers might also benefit from reading Chapter 3 on dimensional analysis in Vol. 1 (*Classical Mechanics*), in which he reviews G. I. Taylor's analysis of photographs of the Trinity atomic bomb test; and the appendices of Vol. 2 (*Electromagnetism*), which is a mini-course on vector calculus.  My initial impression is that these books are more accessible than Landau's, and warmly convey (often with irreverance) the joy of studying physics.
 
 ### What about the Berkeley Physics Course?
 
