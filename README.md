@@ -110,7 +110,7 @@ I will also mention a few more advanced books that any serious student of the su
   - George K. Batchelor, 1967:  *An Introduction to Fluid Dynamics* (Cambridge University Press).  If hydrodynamics has a bible, this is it!
   - L. Gary Leal, 2007:  *Advanced Transport Phenomena:  Fluid Mechanics and Convective Transport Processes*.  Cambridge University Press.
   - M. James Lighthill, 1986:  *An Informal Introduction to Theoretical Fluid Mechanics* (Oxford University Press).  This author once held Sir Isaac Newton's post at Cambridge University (the Lucasian Professorship of Mathematics).
-  - Ronald L. Panton, 2013:  *Incompressible Flow*, 4th edition (Wiley).
+  - Ronald L. Panton, 2024:  *Incompressible Flow*, 5th edition (Wiley).
 
 Some perceptive thoughts on books for physicists to use when teaching fluid mechanics are offered by Raymond A. Shaw's [review](https://doi.org/10.1119/1.4929153) of the second edition of *Physical Hydrodynamics* by Guyon et al. in the *American Journal of Physics* (2015).  Shaw's short review should be required reading for everyone visiting this page 🙂.
 
