@@ -123,7 +123,7 @@ physics) and future ones (plasma physics).
 
 Though I enjoyed reading the fluid dynamics chapters in general, a few points of contention could be made.  Their treatment of Stokes' creeping flow problem (Sec. 14.3.2) seems particularly baroque.  Their unusual approach is meant, as they write, to make contact with "some general ideas that ought to be familiar from other areas of physics."  They later concede (Exercise 14.20) that a more conventional approach using a streamfunction "is more straightforward but less intuitive" than their exposition.  
 
-Another (more tongue-in-cheek) disagreement is detailed on a [companion page](DbyDt.md).  Meanwhile in the elasticity chapters, Prof. James Hanna has [observed](https://arxiv.org/abs/2303.12729) that Fig. 11.10 (on elastica) is incorrect, or at least highly distorted, though this is not noted in the book's errata list.
+Meanwhile in the elasticity chapters, Prof. James Hanna has [observed](https://arxiv.org/abs/2303.12729) that Fig. 11.10 (on elastica) is incorrect, or at least highly distorted, though this is not noted in the book's errata list.
 
 Further comments on *Modern Classical Physics* are forthcoming.
 
@@ -133,7 +133,9 @@ Of the major architects of contemporary physics since Landau, perhaps Steven Wei
 
 ### David Tong
 
-David Tong's renowned *Lectures on Theoretical Physics* have been available online at his website for years.  Cambridge University Press has issued the first four volumes in paperback in 2025.  Volume 4 is on *Fluid Mechanics*.  Some readers might also benefit from reading Chapter 3 on dimensional analysis in Vol. 1 (*Classical Mechanics*), in which he reviews G. I. Taylor's analysis of photographs of the Trinity atomic bomb test; and the appendices of Vol. 2 (*Electromagnetism*), which is a mini-course on vector calculus.  My initial impression is that these books are more accessible than Landau's, and warmly convey (often with irreverance) the joy of studying physics.  This irreverance is particularly pointed in the *Fluid Mechanics* volume, as he is gleefully conscious of his outsider status as a physicist, in a field mostly abandoned by physicists for over a century.
+David Tong's renowned *Lectures on Theoretical Physics* have been available online at his website for years.  Cambridge University Press has issued the first four volumes in paperback in 2025.  Volume 4 is on *Fluid Mechanics*.  Some readers might also benefit from reading Chapter 3 on dimensional analysis in Vol. 1 (*Classical Mechanics*), in which he reviews G. I. Taylor's analysis of photographs of the Trinity atomic bomb test; and the appendices of Vol. 2 (*Electromagnetism*), which is a mini-course on vector calculus.  Further, Sec. 1.3.1 relies on the discussion of the Biot-Savart law in Vol. 2, Sec. 3.2.3, and Sec. 3.3 uses the Coriolis force discussed in Vol. 1, Secs. 6.2 & 6.4.
+
+My initial impression is that these books are more accessible than Landau's, and warmly convey (often with irreverance) the joy of studying physics.  This irreverance is particularly pointed in the *Fluid Mechanics* volume, as he is gleefully conscious of his outsider status as a physicist, in a field mostly abandoned by physicists for over a century.
 
 In contrast to his illustrious predecessors, Landau & Lifshitz, who wrote "we discuss neither approximate methods of calculation in fluid mechanics, nor empirical theories devoid of physical significance" (1/e, p. xi), Tong proclaims, "The study of fluids is all about the art of approximation" (p. 9).
 
