@@ -206,6 +206,10 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 | 2021 | Syukuro Manabe and Klaus Hasselmann | Fundamental contributions to climate modeling |
 | 2021 | Giorgio Parisi | Multifractal description of turbulence (with coauthors). |
 
+"It's goddamned useless to talk about these things!  It's a complete waste of time!  The history of these things is nonsense!  You're trying to make something difficult and complicated out of something that's simple and beautiful!"
+
+&emsp; -- Richard P. Feynman, to Robert P. Crease, who had asked him about progress towards unification in particle physics; 22 Feb 1985.
+
 
 ### References
 
@@ -224,6 +228,8 @@ Here I list some selected [Nobel](https://www.nobelprize.org/) Laureates in Phys
 - J. S. Calero, 2008:  *The Genesis of Fluid Mechanics 1640-1780*.  Studies in History and Philosophy of Science, vol. 22.  Springer.
 
 - A. F. Chalmers, 2017:  *One Hundred Years of Pressure: Hydrostatics From Stevin to Newton*.  Archimedes:  New Studies in the History and Philosophy of Science and Technology, vol. 51.  Springer.
+
+- R. P. Crease, 2001:  Revenge of the science writer.  *Physics World*, March 2001, p. 17.  See also James Gleick's *Genius:  The Life and Science of Richard Feynman* (Pantheon, 1992), pp. 433-434.
 
 - O. Darrigol, 1998:  From Organ Pipes to Atmospheric Motions:  Helmholtz on Fluid Mechanics.  *Historical Studies in the Physical and Biological Sciences*, 29:  1-51.
   
