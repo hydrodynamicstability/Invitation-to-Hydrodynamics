@@ -117,6 +117,11 @@ All the writings above predate the advent of machine learning and artificial int
 
 Steven L. Brunton, Bernd R. Noack, and Petros Koumoutsakos, 2020:  Machine learning for fluid mechanics.  *Annual Review of Fluid Mechanics*, 52:  477-508.
 
+A more recent perspective on this is given by
+
+Kunihiko Taira, Georgios Rigas, and Kai Fukami, 2025:  Machine learning in fluid dynamics:  a critical assessment.  *Physical Review Fluids*, 10:  090701.
+
+
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
