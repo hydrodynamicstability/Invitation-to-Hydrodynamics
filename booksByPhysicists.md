@@ -163,6 +163,25 @@ In the late 1950s, chemical and mechanical engineers began addressing the fact t
 - Anthony T. Paxton, 2025:  *Fundamentals of Transport Phenomena*.  Cambridge University Press.
     - This forthcoming book is said to cover fluid mechanics, solid state diffusion, and heat conduction.  The author is a British physicist with a research track record in metallurgy, materials science, and solid state physics.
 
+### Summer schools
+
+Occasionally physicists organize summer schools on fluid mechanics, which include tutorials on introductory material as well as more advanced topics.  On the [main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/) I mentioned the [*Boulder Summer School for Condensed Matter and Materials Physics*](https://www.colorado.edu/conference/bss/), whose 2011 and 2022 editions focused on hydrodynamics.  However, the only two physics-oriented summer schools that I know of which have published proceedings are the 1973 Les Houches and 1991 Beg Rohu summer schools, both in France.  Their proceedings and their principle lecture notes are listed below:
+
+- Roger Balian and Jean-Laurent Peube (eds.), 1977:  *Fluid Dynamics = Dynamique des Fluides*.  Gordon and Breach.
+
+    - P. Germain:  Methodes asymptotiques en mecanique des fluides.
+    - H. K. Moffatt:  Six lectures on general fluid dynamics and two on hydromagnetic dynamo theory.
+    - S. A. Orszag:  Statistical theory of turbulence.
+    - J.-L. Peube:  Transport property in flows.
+
+- Claude Godreche and Paul Manneville (eds.), 1998:  *Hydrodynamics and Nonlinear Instabilities*.  Cambridge University Press.
+
+    - P. Manneville:  Overview.
+    - B. Castaing:  An introduction to hydrodynamics.
+    - P. Huerre & M. Rossi:  Hydrodynamic instabilities in open flows.
+    - V. Hakim:  Asymptotic techniques in nonlinear problems:  some illustrative examples.
+    - S. Fauve:   Pattern forming instabilities.
+    - G. Joulin and P. Vidal:  An introduction to the instability of flames, shocks, and detonations.
 
 ### Other books by physicists that you should be aware of
 
