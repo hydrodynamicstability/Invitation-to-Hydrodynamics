@@ -179,6 +179,8 @@ The end of this passage almost foreshadows P. W. Anderson's 1972 classic essay, 
   - Adds to Gollub's arguments above.
 - John D. Anderson, Jr.:  Ludwig Prandtl's boundary layer.  Dec. 2005, pp. 42-48.
   - Superb retrospective by an eminent historian of aerodynamics.
+- Diogo Bolster, Robert E. Hershberger, and Russell J.  Donnelly:  Dynamic similarity, the dimensionless science.    Sept. 2011, pp. 42-47.
+  - Dimensional analysis is a workhorse of fluid mechanical reasoning.
 - Jerry Gollub:  Discrete and continuum descriptions of matter.  Jan. 2003, pp. 10-11.
   - Discusses granular flows and particle-laden flows, problems that require a combination of discrete and continuous modeling.
 - M. James Lighthill:  Fluid dynamics as a branch of physics.  Feb. 1962, pp. 17-20.
