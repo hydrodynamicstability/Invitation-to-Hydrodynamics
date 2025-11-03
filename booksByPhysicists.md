@@ -34,7 +34,11 @@ Commentary on these books is being added gradually over time, so please consider
     
 - Benny Lautrup, 2011:  *Physics of Continuous Matter: Exotic and Everyday Phenomena in the Macroscopic World*, 2d edition. CRC Press.  Original edition, 2005.
     - This massive text by a Danish theoretical physicist is the most comprehensive contemporary introductory book on continuum mechanics by a physicist.  It is aimed at third-year undergraduates or higher.  "Answers" to odd-numbered problems are found in the back, but some are actually just hints while others outline the solution.  A [supporting webpage](https://www.lautrup.nbi.dk/continuousmatter2/index.html) provides addenda, errata, and other apparatus.
- 
+
+- Zdeněk Martinec, 2019:  *Principles of Continuum Mechanics:  A Basic Course for Physicists*.  Necas Center Series.  Springer.
+    - This text by a Czech geophysicist is based on the author's lectures for a 2-semester undergraduate course on the subject for physics students.  No exercises are included.  The text received a fairly critical [review](https://doi.org/10.1063/PT.3.4456) from Rebecca Brannon in *Physics Today*.
+      - R. M. Brannon, *Physics Today*, 73 (4):  49-50.
+
 - Steven R. Pride, 2025:  *An Introduction to Continuum Physics*.  Cambridge University Press.
     - A new book by a geophysicist, which covers continuum mechanics, electromagnetism, and Newtonian gravity.  Appears to take a coarse-graining approach to develop continuum physics from its underlying discrete nature.  I look forward to examining a copy when it becomes available.
    
