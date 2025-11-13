@@ -177,7 +177,7 @@ Occasionally physicists organize summer schools on fluid mechanics, which includ
     - H. K. Moffatt:  Six lectures on general fluid dynamics and two on hydromagnetic dynamo theory.
     - S. A. Orszag:  Lectures on the statistical theory of turbulence.
     - J.-L. Peube:  Transport property in flows.
-    - Eleven seminars on special topics, mostly in French.  The English ones include M. Ghil on numerical methods, M. G. Velarde on hydrodynamic instabilities, B. B. Mandelbrot on fractals, and a one-page abstract by M. Nelkin on turbulence.  Mandelbrot and R. Moreau (who lectured on electrohydrodynamics) were invited spekers; the others were participants.
+    - Eleven seminars on special topics, mostly in French.  The English ones include M. Ghil on numerical methods, M. G. Velarde on hydrodynamic instabilities, B. B. Mandelbrot on fractals, and a one-page abstract by M. Nelkin on turbulence.  Mandelbrot and R. Moreau (who lectured on electrohydrodynamics) were invited speakers; the others were participants.
 
 - Claude Godreche and Paul Manneville (eds.), 1998:  *Hydrodynamics and Nonlinear Instabilities*.  Cambridge University Press.
 
