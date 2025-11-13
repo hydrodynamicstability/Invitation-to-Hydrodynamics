@@ -169,14 +169,15 @@ In the late 1950s, chemical and mechanical engineers began addressing the fact t
 
 ### Summer schools for physicists
 
-Occasionally physicists organize summer schools on fluid mechanics, which include tutorials on introductory material as well as more advanced topics.  On the [main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/) I mentioned the [*Boulder Summer School for Condensed Matter and Materials Physics*](https://www.colorado.edu/conference/bss/), whose 2011 and 2022 editions focused on hydrodynamics.  However, the only two physics-oriented summer schools that I know of which have published proceedings including introductory material are the 1973 Les Houches and 1991 Beg Rohu summer schools, both in France.  Their proceedings and their principle lecture notes are listed below:
+Occasionally physicists organize summer schools on fluid mechanics, which include tutorials on introductory material as well as more advanced topics.  On the [main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/) I mentioned the [*Boulder Summer School for Condensed Matter and Materials Physics*](https://www.colorado.edu/conference/bss/), whose 2011 and 2022 editions focused on hydrodynamics.  However, the only two physics-oriented summer schools that I know of which have published proceedings including introductory material are the 1973 Les Houches and 1991 Beg Rohu summer schools, both in France.  Their proceedings are listed below:
 
 - Roger Balian and Jean-Laurent Peube (eds.), 1977:  *Fluid Dynamics = Dynamique des Fluides*.  Gordon and Breach.
 
     - P. Germain:  Methodes asymptotiques en mecanique des fluides.
     - H. K. Moffatt:  Six lectures on general fluid dynamics and two on hydromagnetic dynamo theory.
-    - S. A. Orszag:  Statistical theory of turbulence.
+    - S. A. Orszag:  Lectures on the statistical theory of turbulence.
     - J.-L. Peube:  Transport property in flows.
+    - Eleven seminars on special topics, mostly in French.  The English ones include M. Ghil on numerical methods, M. G. Velarde on hydrodynamic instabilities, B. B. Mandelbrot on fractals, and a one-page abstract by M. Nelkin on turbulence.  Mandelbrot and R. Moreau (who lectured on electrohydrodynamics) were invited spekers; the others were participants.
 
 - Claude Godreche and Paul Manneville (eds.), 1998:  *Hydrodynamics and Nonlinear Instabilities*.  Cambridge University Press.
 
@@ -188,6 +189,8 @@ Occasionally physicists organize summer schools on fluid mechanics, which includ
     - G. Joulin and P. Vidal:  An introduction to the instability of flames, shocks, and detonations.
 
 It may be a sign of progress that, though most of the invited lecturers at Les Houches were mathematicians, most of those at Beg Rohu were physicists.
+
+A word about the introductory lectures of both courses, by Moffatt and Castaing, which provide highly compressed tutorials.  Neither author pretends that their lectures can serve as a thorough introduction to the subject.  Moffatt refers to several "excellent textbooks" for "the detailed treatment that time will not permit me," especially Batchelor's.  Castaing calls his own lecture a "promenade into fluid mechanics" including discussions of "a great variety of examples," some of which "lack the long and rigorous introduction they need".  He further admits that "only the reader with some knowledge of the subject will find some interest in the corresponding remarks."  I would advise using these lectures to get two different bird's eye views of the subject, and perhaps as collateral reading when studying a *real* textbook.
 
 ### Other books by physicists that you should be aware of
 
