@@ -129,4 +129,4 @@ Kunihiko Taira, Georgios Rigas, and Kai Fukami, 2025:  Machine learning in fluid
 
 The content on this site was developed solely on my personal time. The views expressed are solely my own, and do not necessarily represent the views, policies, or opinions of my employer or any organization with which I am affiliated.
 
-(c) 2025 by Christopher Tong
+(c) 2025-2026 by Christopher Tong
