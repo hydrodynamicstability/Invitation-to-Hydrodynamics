@@ -288,6 +288,11 @@ Landau, of course, is a primary contributor to the theory of superfluidity, and 
 
 *Pseudomomentum (Quasimomentum)*.  This is a topic physicists usually meet in solid state physics, though Rudolf Peierls discussed it in optics too.  Falkovich discusses it in the setting of induced mass (sometimes called added mass, or virtual mass) of an object moving through an ideal fluid.  He dares to criticize Landau/Lifshitz's treatment of induced mass as "misleading in not distinguishing between momentum and quasi-momentum".  Further discussion of pseudomomentum in continuum mechanics can be found in Singh and Hanna, 2021, "Pseudomomentum:  origins and consequences", *Zeitschrift fur Angewandte Mathematik und Physik*, 72:  122.  See also Peierls' *Surprises in Theoretical Physics* and especially *More Surprises in Theoretical Physics* (Princeton Unversity Press, 1979 and 1991, respectively) and his Varenna Lectures (published in *Highlights of Condensed-Matter Theory*, North-Holland, 1985).
 
+"A book is a linear structure:  from beginning to end.  Understanding is not like that.  It's achieved by reading interactively:  checking calculations; cross-linking new information with old; asking 'what if'; thinking of implications and possible objections."
+
+&emsp; -- [Geoffrey Brooker](https://www.physics.ox.ac.uk/our-people/brooker), *Modern Classical Optics* (Oxford University Press, 2003), preface.
+
+
 ### Appendix A:  General books on astrophysical hydrodynamics.
 
 - Eduardo Battaner, 1996: *Astrophysical Fluid Dynamics*. Cambridge Univeristy Press.
