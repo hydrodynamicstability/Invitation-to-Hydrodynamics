@@ -132,7 +132,7 @@ You can also start browing the field's journals.  I recommend starting with the 
 
 Among the engineering society journals, I would like to single out ASME's *Journal of Fluids Engineering*.  In the 1990s, *JFE* included a Technical Forum, in which a series of columns titled "Questions in Fluid Mechanics" occasionally appeared.  Lloyd M. Trefethen, who initiated the column in 1992 (*JFE*, 114:  281-282), noted that technical journals "are long on pronouncing answers and short on posing questions."  The column was to focus on unanswered questions, for "Questions are an economical way to identify the boundaries where understanding ends and new learning begins.  They shake up our ways of thinking, occasionally so severely as to force us to change a cherished paradigm, thus propelling us forward in the process of illuminating natural phemomena hitherto opaque."  Unfortunately the series did not seem to continue in the new century.  I actually think a forum of this kind would be useful in any STEM field, and it is too bad that journals have no room for such thought pieces.
 
-
+While the Royal Society of London never had a dedicated fluids journal, its journals have long provided a home to some of the most important English-language research in the field.  Faraday, Maxwell, Reynolds, and Rayleigh all published fluids papers in Royal Society journals, for example, and Stokes served as the Royal Society secretary.  Today the Royal Society maintains a [fluid mechanics portal](https://royalsociety.org/journals/publishing-activities/journal-article-collections/fluid-mechanics/) to access fluids research across its family of journals, and like *JFM* and *PR Fluids*, hosts an associated webinar/journal club series.
 
 ### Some background thoughts
 
