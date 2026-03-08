@@ -113,6 +113,8 @@ For some *philosophy of science* views on fluid mechanics, see the following (an
 
 Olivier Darrigol, 2013:  For a philosophy of hydrodynamics.  *The Oxford Handbook of Philosophy of Physics*, edited by Robert Batterman (New York:  Oxford University Press), pp. 12-42.
 
+Lydia Patton and Erik Curiel (eds.), 2023:  *Working Toward Solutions in Fluid Dynamics and Astrophysics:  What the Equations Don't Say* (Cham, Switzerland:  Springer Nature).
+
 All the writings above predate the advent of machine learning and artificial intelligence in fluid mechanics research.  One of many accounts of this trend can be found in the following, which acknowledges the challenges to "human understanding and engineering intuition" as "scientific inquiry shifts from first principles to data-driven approaches".
 
 Steven L. Brunton, Bernd R. Noack, and Petros Koumoutsakos, 2020:  Machine learning for fluid mechanics.  *Annual Review of Fluid Mechanics*, 52:  477-508.
