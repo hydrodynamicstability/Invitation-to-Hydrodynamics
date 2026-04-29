@@ -18,6 +18,12 @@
 
 &emsp; &emsp; &emsp; \*\*\* *Physics Today*, July 2022, p. 53.
 
+"More than half of the students awarded the Ph.D. in physics have not heard of the Navier-Stokes equation, and could not give a formulation of the continuity equation."
+
+&emsp; -- [Raymond J. Emrich](https://physicstoday.aip.org/obituaries/obituary-of-raymond-jay-emrich), Howard A. Snyder, and [George E. Uhlenbeck](https://en.wikipedia.org/wiki/George_Uhlenbeck)\*\*\*\*
+
+&emsp; &emsp; &emsp; \*\*\*\* *American Journal of Physics*, 36:  886-895 (October 1968).
+
 
 **Welcome.**  This site aims to outline why a physicist should learn a little bit of fluid mechanics, and how to get started doing so.   It exists because the subject is usually completely neglected in the standard physics curriculum.  I hope that this site will be useful to undergraduate physics majors as well as physicists at any later stage of their career.
 
