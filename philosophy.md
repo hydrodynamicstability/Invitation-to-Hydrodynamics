@@ -109,6 +109,10 @@ Garrett Birkhoff, 1960:  *Hydrodynamics:  A Study in Logic, Fact, and Similitude
 
 Clifford A. Truesdell and Richard A. Toupin, 1960:  The field viewpoint in classical physics, subsections A1-A9.  Excerpt from *The Classical Field Theories*, in *Handbuch der Physik*, Band III/1, ed. by S. Flugge (Springer), pp. 226-235.  Revised reprint in C. Truesdell, 1986:  *An Idiot's Fugitive Essays in Science:  Methods, Criticism, Training, Circumstances*, revised edition (Springer), pp. 21-40.
 
+Some semi-philosophical reflections on the role of computational fluid dynamics in our science can be found in
+
+Hassan Aref, 1986:  The numerical experiment in fluid mechanics.  *Journal of Fluid Mechanics*, 173:  15-44.
+
 For some *philosophy of science* views on fluid mechanics, see the following (and references cited therein):
 
 Olivier Darrigol, 2013:  For a philosophy of hydrodynamics.  *The Oxford Handbook of Philosophy of Physics*, edited by Robert Batterman (New York:  Oxford University Press), pp. 12-42.
@@ -125,6 +129,7 @@ Kunihiko Taira, Georgios Rigas, and Kai Fukami, 2025:  Machine learning in fluid
 
 Michael Bauerheim, 2026:  Routes towards an effective AI in CFD:  an epistemological and technical perspective. *Journal of Fluid Mechanics*, 1031:  P1.
 
+The paper by Bauerheim is lengthy and poorly edited; attempts by others to grapple with the epistemological implications of AI on fluid mechanics research would be welcome.
 
 [Return to main page](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/)
 
