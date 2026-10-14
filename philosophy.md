@@ -100,6 +100,29 @@ Finally, I soundly reject the account given by one of the founders of theoretica
  
   - *Preliminary Discourse to the Encyclopedia of Diderot*, Part 1 (Paris, 1751).  Translated by Richard N. Schwab (University of Chicago Press, 1995).
 
+## Why do we believe the Navier-Stokes equations are relevant?
+
+In light of OpenAI's Sept. 8, 2026, discovery of a counterexample to the conjectured existence and smoothness of solutions to the 3-dimensional, incompressible Navier-Stokes equations, the very relevance of these equations to actual fluid dynamics, observationally and experimentally, could be questioned.  Some age-old insights include the following.
+
+"The theory of viscous flow is based upon a set of general equations of motion for an incompressible viscous fluid first given by Claud Louis Marie Henri Navier in a paper read before the French Academy of Sciences on March 18, 1822.  These equations were derived later by S. D. Poisson, B. de Saint Venant and G. G. Stokes from different assumptions and were extended so as to be applicable to a compressible fluid.  They were used by these writers to solve a number of problems.  The general acceptance of these equations is due largely to the agreement with experiment of the theoretical laws of flow in capillary tubes and the motion of a fluid in the space between two circular cylinders, one of which rotates with uniform velocity.  These two types of motion give two independent methods of determining a measure of the viscosity of a fluid and the fact that values determined by the two methods agree very closely may be regarded as a first quantitative check on the validity of the general equations."
+
+  - Harry Bateman (1882-1946)
+
+  - "General physical properties of a viscous fluid", (1932), *Report of the Committee on Hydrodynamics*, National Research Council of the National Academy of Sciences, Division of Physical Sciences, Bulletin 84 (Washington, D.C.), Part I, Chapter 3.  Reprinted by Dover as *Hydrodynamics* by Hugh L. Dryden, Francis P. Murnaghan, and Harry Bateman.
+
+Writing more generally about the theory of continuum mechanics (CM), of which the Navier-Stokes equations is a special case:
+
+"As if to refute positivism, classical CM, such as it grew during the 18th and 19th centuries, was believed on reason rather than on experiment.  In fact only a few exact solutions of the basic equations were known, chiefly because of the nonlinearities -- a good example of poor testability and even poorer actual tests due to the underdeveloped state of the theory (due partly to the nonexistence of a general theory of nonlinear equations) rather than to the lack of experimental facilities....Then, even when exact solutions were available, the corresponding experimental data were often irrelevant to them:  they concerned, say, the turbulent flow of a viscous liquid (usually water) endowed with some memory, whereas the formulas concerned the lamellar flow of a nonviscous and forgetful fluid....No wonder that CM was insufficiently confirmed by experiment.  Finally the available measuring instruments were and still are too few and too coarse: the field did not attract experimental physicists.  Yet people believed CM.  Why?
+
+"CM was believed to be true not only because some of its theorems had been confirmed but mainly because it was assumed (a) that CM was just an application of \[particle mechanics\] -- a theory in turned believed to be completely true at least in the classical approximation, because it was endorsed by astronomy, and/or (b) that, being thoroughly mathematical in form, CM was analytic -- rational -- and consequently in no need of experimental test.  We now know that the first belief is false; and a semantical analysis of CM shows that CM has an intended physical referent -- an arbitrary body -- whence it must have some factual truth value, even if not adequately known, in addition to being mathematically correct.
+
+"The testability of CM has improved since the mid-1940's with its own rapid maturation -- growth of the body of theorems and deepening of the foundations -- as well as with its connection with other fields of physics (e.g., thermodynamics) and with progress in experimental techniques.  Yet the situation is still unsatisfactory not only because of the mathematical complexities of CM and the complexities of real situations -- most of which must be ironed out in a theoretical treatment -- but also because of some persistent misunderstandings concerning the functions of CM *vis a vis* experiments.  The experimentalist -- who in this field is often a research engineer -- often thinks that CM is too far from reality for it does not cover all the details of the behavior of his pet material:  he sometimes complains that CM is not specific enough and at other times that CM employes too many experimentally inaccessible ('operationally meaningless') functions....
+
+"In recent years CM has grown both theoretically and experimentally to a point where its testability has become adequate....Yet it will probably turn out that its extension or domain of truth will be less than the one it claims.  In fact CM does not seem to apply to an arbitrary body in an arbitrary state:  for example it does not hold for superfluids such as liquid helium, which exhibits nonclassical properties -- e.g. a quantized vorticity....Quantum fluids seem to require a quantum continuum mechanics and both this theory and CM can in principle, though not yet *de facto*, be based on atomic-statistical theories.  Yet such a further foundation wil not decrease the value of CM as a theory of bulk matter:  CM will stay because it is largely insensitive to the particular atomic structure hypothesized to underlie it.  Its weakness is its strength."
+
+  - Mario Bunge (1919-2020)
+
+  - *Foundations of Physics* (New York:  Springer, 1967), Chapter 3, Sec. 2.4.
 
 ### Further reading
 
