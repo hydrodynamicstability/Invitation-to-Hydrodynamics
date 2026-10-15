@@ -209,6 +209,7 @@ The end of this passage almost foreshadows P. W. Anderson's 1972 classic essay, 
 Here are some *Physics Today* articles about hydrology:
 
 - Mary P. Anderson:  Introducing groundwater physics.  May 2007, pp. 42-47.
+- Toby Ault and Scott St. George:  Unraveling the mysteries of megadrought.  August 2018, pp. 44-50.
 - Sean W. Fleming and Hoshin V. Gupta:  The physics of river prediction.  July 2020, pp. 46-52.
 
 Speaking of *Physics Today*, check out this lamentation, an excerpt from a sidebar in a *Physics Today* article by Richard G. Fowler (June, 1966; pp. 37-42):
