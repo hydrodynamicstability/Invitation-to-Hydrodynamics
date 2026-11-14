@@ -18,7 +18,7 @@ more specialized works on by physicists on geophysical fluid dynamics, magnetohy
 
 I have made one concession, however, by including an *Appendix* on general books about astrophysical hydrodynamics.  If there is popular demand, I may consider adding additional appendices on other more advanced topics.
 
-This list is surely not complete, but I would like to make it so.  If you believe you know of an omission, please contact me at (remove spaces) c t o n g "at" m a i l a p s . o r g.
+This list is surely not complete, but I would like to make it so.  If you believe you know of an omission, please contact me at: christopher underscore tong at live dot com.
 
 Commentary on these books is being added gradually over time, so please consider this a work in progress.  I provide additional commentary on Sommerfeld, Landau/Lifshitz, and Thorne/Blandford at a companion page on [Continuum mechanics in the great physics courses](physicscourses.md).
 
