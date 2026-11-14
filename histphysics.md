@@ -24,7 +24,7 @@
 
 &emsp; -- John F. Clauser, 2022 Nobel Laureate in Physics, [oral history interview](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/25096) with Joan Bromberg, May 2002.
 
-**Welcome.**  In the following, I present some thoughts about fluid mechanics and the history of physics, pointing in particular to some names that physicists may recognize, and others that they should.  This is a work in progress.  If you know of any errors or omissions, please contact me at (remove spaces) c t o n g "at" m a i l a p s . o r g.
+**Welcome.**  In the following, I present some thoughts about fluid mechanics and the history of physics, pointing in particular to some names that physicists may recognize, and others that they should.  This is a work in progress.  If you know of any errors or omissions, please contact me at:  christopher underscore tong at live dot com.
 
 &emsp; -- Christopher Tong, Ph.D. (physics).
 
